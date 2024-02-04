@@ -1,23 +1,51 @@
 {
     "m_Version": 7,
-    "SpawnLocations": [],
+    "SpawnLocations": [
+        {
+            "Name": "Alteria",
+            "Positions": [
+                [
+                    2529,         
+                    3.36,           
+                    7671           
+                ],
+                [
+                    1956,         
+                    2.29,
+                    7917
+                ],
+                [
+                    1135,         
+                    4.59,
+                    7599
+                ],
+                [
+                    611,         
+                    1.82,
+                    6872
+                ],
+                [
+                    294,         
+                    5.30,
+                    6302
+                ],
+                [
+                    287,         
+                    4.12,
+                    5783
+                ]
+            ],
+            "UseCooldown": 1     
+        }
+    ],
     "StartingClothing": {
         "EnableCustomClothing": 1,
-        "SetRandomHealth": 1,
+        "SetRandomHealth": 0,
         "Headgear": [],
         "Glasses": [],
         "Masks": [],
         "Tops": [
-            "TShirt_Green",
-            "TShirt_Blue",
-            "TShirt_Black",
-            "TShirt_Beige",
-            "TShirt_Red",
-            "TShirt_OrangeWhiteStripes",
-            "TShirt_White",
-            "TShirt_Red",
-            "TShirt_Grey",
-            "TShirt_RedBlackStripes"
+            "DOC_TSHIRT_42"
         ],
         "Vests": [],
         "Gloves": [],
@@ -43,18 +71,14 @@
         ],
         "Armbands": [],
         "Backpacks": [
-            "TaloonBag_Blue",
-            "TaloonBag_Green",
-            "TaloonBag_Orange",
-            "TaloonBag_Violet"
         ]
     },
     "EnableSpawnSelection": 0,
     "SpawnOnTerritory": 0,
     "StartingGear": {
-        "EnableStartingGear": 1,
-        "ApplyEnergySources": 1,
-        "SetRandomHealth": 1,
+        "EnableStartingGear": 0,
+        "ApplyEnergySources": 0,
+        "SetRandomHealth": 0,
         "UpperGear": [
             {
                 "ClassName": "Rag",

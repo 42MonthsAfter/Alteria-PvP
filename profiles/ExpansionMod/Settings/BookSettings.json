@@ -14,24 +14,60 @@
             "CategoryName": "General",
             "Rules": [
                 {
-                    "RuleParagraph": "1.1.",
-                    "RuleText": "Insults, discrimination, extremist and racist statements or texts are taboo."
+                    "RuleParagraph": "No Greifing",
+                    "RuleText": "Getting your kicks at the expense of others is considered griefing. Lowering flags is considered griefing and will result in a ban."
                 },
                 {
-                    "RuleParagraph": "1.2.",
-                    "RuleText": "We reserve the right to exclude people from the server who share extremist or racist ideas or who clearly disturb the server harmony."
+                    "RuleParagraph": "No Hate Speech",
+                    "RuleText": "All are welcome here. Any hate speech will result in an immediate ban."
                 },
                 {
-                    "RuleParagraph": "1.3.",
-                    "RuleText": "Decisions of the team members, both the supporter and the admin are to be accepted without discussion."
+                    "RuleParagraph": "Join the Discord",
+                    "RuleText": "A full list of rules is posted in the Discord at http://discord.42MonthsAfter.com"
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Building Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "One Base Per Player / Group",
+                    "RuleText": "Groups & individual players are allowed one (1) base at a time."
+                }
+            ]
+        },
+        {
+            "CategoryName": "Base Raiding Rules",
+            "Rules": [
+            {
+                "RuleParagraph": "Base Raiding Rules",
+                "RuleText": "Base raiding is allowed 24/7 by any means possible. Secure your shit."
+            }
+            ]
+        },
+        {
+            "CategoryName": "Vehicles",
+            "Rules": [
+                {
+                    "RuleParagraph": "Us at Your Own Risk",
+                    "RuleText": "DayZ vehicles are a mess, always have been, there for all are use at your own risk."
                 },
                 {
-                    "RuleParagraph": "1.4.",
-                    "RuleText": "Provocations and toxic behavior will not be tolerated and punished! Be friendly to fellow players and your team, both in chat and in voice!"
+                    "RuleParagraph": "Admin Help",
+                    "RuleText": "Admins will NOT replace lost vehicles due to lag, crashes, getting stuck, etc. See rule above."
                 },
                 {
-                    "RuleParagraph": "1.5.",
-                    "RuleText": "The use of external programs, scripts and cheats is not tolerated and is punished with a permanent exclusion."
+                    "RuleParagraph": "Zombie Damage",
+                    "RuleText": "Zombies can damage vehicles, based on chance, so don't just drive over them without being prepared to lose your car to damage."
+                }
+            ]
+        },
+        {
+            "CategoryName": "PvP Rules",
+            "Rules": [
+                {
+                    "RuleParagraph": "The whole map is PvP",
+                    "RuleText": "Anything goes in PvP including kill on sight. Be warned."
                 }
             ]
         }
@@ -137,85 +173,53 @@
     "Links": [
         {
             "Name": "Homepage",
-            "URL": "https://www.google.com/",
+            "URL": "http://www.42MonthsAfter.com/",
             "IconName": "Homepage",
             "IconColor": -14473430
         },
         {
             "Name": "Feedback",
-            "URL": "https://www.google.com/",
+            "URL": "http://discord.42MonthsAfter.com",
             "IconName": "Forums",
             "IconColor": -14473430
         },
         {
             "Name": "Discord",
-            "URL": "https://www.google.com/",
+            "URL": "http://discord.42MonthsAfter.com/",
             "IconName": "Discord",
             "IconColor": -9270822
         },
         {
-            "Name": "Patreon",
-            "URL": "https://www.patreon.com/dayzexpansion",
-            "IconName": "Patreon",
-            "IconColor": -432044
-        },
-        {
-            "Name": "Steam",
-            "URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222",
-            "IconName": "Steam",
-            "IconColor": -14006434
-        },
-        {
             "Name": "Reddit",
-            "URL": "https://www.reddit.com/r/ExpansionProject/",
+            "URL": "http://www.reddit.com/user/42_Months_After",
             "IconName": "Reddit",
             "IconColor": -12386303
         },
         {
             "Name": "GitHub",
-            "URL": "https://github.com/salutesh/DayZ-Expansion-Scripts/wiki",
+            "URL": "http://github.com/42MonthsAfter",
             "IconName": "GitHub",
             "IconColor": -16777216
         },
         {
             "Name": "YouTube",
-            "URL": "https://www.youtube.com/channel/UCZNgSvIEWfru963tQZOAVJg",
+            "URL": "http://www.youtube.com/channel/UCf7lAUKS73-NQ2oxJB1bmIQ",
             "IconName": "YouTube",
             "IconColor": -65536
-        },
-        {
-            "Name": "Twitter",
-            "URL": "https://twitter.com/DayZExpansion",
-            "IconName": "Twitter",
-            "IconColor": -14835214
         }
     ],
     "Descriptions": [
         {
-            "CategoryName": "General Info",
+            "CategoryName": "About 42 Months After",
             "Descriptions": [
                 {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                    "DescriptionText": "We are a true community server where our players voices matter. We define our gameplay, mods, rules, etc as a group. Join the Discord at discord.42MonthsAfter.com to help shape our world."
                 },
                 {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                    "DescriptionText": "We are self hosted meaning our servers run on individual rigs that we own, maintain and (every so often) upgrade. This is how we get maximum performance."
                 },
                 {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                }
-            ]
-        },
-        {
-            "CategoryName": "Mod Info",
-            "Descriptions": [
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                    "DescriptionText": "We host 8 PC servers, 1 Xbox and 1 PlayStation server. Be sure to check out our other 100% custom flavors of DayZ! www.42MonthsAfter.com"
                 }
             ]
         }

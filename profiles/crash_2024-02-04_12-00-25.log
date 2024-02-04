@@ -1,0 +1,1687 @@
+---------------------------------------------
+Log C:\Users\rylic\OneDrive\Documents\Alteria\servers\0\profiles\crash_2024-02-04_12-00-25.log started at 04.02. 12:13:17
+
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:17
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:17
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:18
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:32
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:13:32
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:14:13
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:14:13
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:14:14
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:14:14
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:17:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:18:32
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:18:32
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:19:41
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:43
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:43
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:43
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:43
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:43
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:43
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:46
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:46
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:46
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:46
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:47
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:47
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:47
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:47
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:48
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:48
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:48
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:48
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:49
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:49
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:49
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:49
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:50
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:20:50
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:25:30
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:25:30
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:25:30
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:25:30
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:25:30
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:25:31
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:25:31
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:25:31
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:25:31
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:25:31
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:28:04
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:28:04
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:28:04
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:28:04
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:28:04
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:28:04
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:28:04
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:29:06
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:29:06
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:29:06
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:29:06
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:29:06
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:29:06
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:29:06
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:34:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:34:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:34:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:34:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:34:40
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:34:47
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:34:47
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:34:47
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:34:47
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\itembase.c:44
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:638
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:26
+DayZExpansion/BaseBuilding/Scripts/4_World/dayzexpansion_basebuilding\entities\itembase.c:1082
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:34:47
+NULL pointer to instance
+Class:      'PVEZ_PlayerStatus'
+Function: 'PVEZ_IsPvpAttackAllowed'
+Stack trace:
+PVEZ/4_World/pvez_playerstatus.c:162
+PVEZ/4_World/pvez_damageredistributor.c:93
+PVEZ/4_World/entities\manbase\playerbase.c:62
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Alteria Official (Experimental - Dev Build);@CF;@Dabs Framework;@DayZ Editor Loader;@GameLabs;@42 Months After Alteria Mod Pack;@FlipTransport; 

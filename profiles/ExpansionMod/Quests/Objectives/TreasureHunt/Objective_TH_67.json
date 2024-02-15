@@ -1,0 +1,88 @@
+{
+    "ConfigVersion": 27,
+    "ID": 67,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the Stash at the Resevoir",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 0,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            2292.21,  
+            24.5744,
+            1135.12
+        ],
+        [
+            1800.81, 
+            24.6056, 
+            1254.59
+        ],
+        [
+            1976.38,  
+            24.6278,
+            1082.36
+        ]
+    ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "Name": "TWP_XM8",
+            "Chance": 0.30000001192092898,
+            "Attachments": [
+                {
+                    "Name": "TWP_XM8_mag_30Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Rangefinder",
+            "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "Battery9V",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "TWP_G56",
+            "Chance": 0.05000000074505806,
+            "Attachments": [
+                {
+                    "Name": "TWP_G56_mag_32Rnd",
+                    "Chance": 1.0,
+                    "Attachments": []
+                }
+            ],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "WeaponCleaningKit",
+            "Chance": 0.05000000074505806,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

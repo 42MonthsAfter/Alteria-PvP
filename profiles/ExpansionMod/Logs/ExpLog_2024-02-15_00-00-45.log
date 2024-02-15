@@ -1,0 +1,65 @@
+00:01:25.075 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: gN4e40lsjcWMgHoZy-_QUh2rgApNbJSCNu62mt9RL7Y=
+00:01:25.076 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:01:39.366 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:01:39.374 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:39.374 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 3
+00:01:39.378 [AI Patrol] Spawning 3 Shamans bots at <2169.117432, 54.799999, 3206.985596>
+00:01:40.334 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+00:01:45.068 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:01:45.077 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:01:45.077 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+00:01:46.034 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+00:01:59.101 [AI Patrol] Spawning 3 Shamans bots at <2180.257813, 54.799999, 3047.007080>
+00:01:59.232 [AI Patrol] Spawning 3 Shamans bots at <2099.426514, 54.799999, 3041.091797>
+00:02:05.545 [AI Patrol] Spawning 3 Shamans bots at <2074.070313, 54.799999, 3004.782227>
+00:02:07.874 [AI Patrol] Spawning 3 Shamans bots at <1953.059082, 54.799999, 2924.337891>
+00:02:08.200 [AI Patrol] Spawning 3 Shamans bots at <1963.850464, 54.799999, 2931.554932>
+00:02:08.410 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+00:02:08.417 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+00:02:08.417 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 6
+00:02:08.421 [AI Patrol] Spawning 3 Shamans bots at <3738.028809, 4.640000, 5972.428223>
+00:02:08.440 [AI Patrol] Spawning 3 Shamans bots at <3739.887207, 4.640000, 5976.423828>
+00:02:08.673 [AI Patrol] Spawning 3 Shamans bots at <1959.607056, 54.799999, 2954.615234>
+00:02:09.113 [AI Patrol] Spawning 3 Shamans bots at <3680.185547, 4.658708, 6002.370605>
+00:02:09.218 [AI Patrol] Spawning 3 Shamans bots at <3791.504639, 4.640000, 5976.322754>
+00:02:09.285 [AI Patrol] Spawning 3 Shamans bots at <3709.441406, 4.640000, 6047.308105>
+00:02:09.402 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+00:02:13.158 [AI Patrol] Spawning 3 Shamans bots at <2336.750977, 54.799999, 3066.459473>
+00:02:15.910 [AI Patrol] Spawning 3 Shamans bots at <987.926025, 5.918549, 3117.201904>
+00:02:20.070 [AI Patrol] Spawning 3 Shamans bots at <840.886780, 5.260000, 3330.845215>
+00:02:20.256 [AI Patrol] Spawning 3 Shamans bots at <843.629944, 5.260000, 3292.608398>
+00:02:24.257 [AI Patrol] Spawning 3 Shamans bots at <2015.944214, 78.887329, 2317.161621>
+00:02:36.888 [AI Patrol] Spawning 3 Shamans bots at <2714.606689, 44.410000, 6046.016113>
+00:03:17.832 [AI Patrol] Spawning 3 Shamans bots at <2487.004395, 44.255028, 5949.008301>
+00:03:34.535 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 7GiGcjXfdiZaTzbJRYMyCLChQAe8_Kwhj-GvNddjfEQ=
+00:03:34.536 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+00:03:34.568 [AI Patrol] Spawning 3 Shamans bots at <2736.562012, 43.939999, 5960.106934>
+00:03:35.468 [AI Patrol] Spawning 3 Shamans bots at <3433.344482, 17.610043, 6314.725586>
+00:03:47.374 [AI Patrol] Spawning 3 Shamans bots at <3763.050049, 15.630000, 6554.058594>
+00:03:47.700 [AI Patrol] Spawning 3 Shamans bots at <4011.600586, 15.630000, 6623.538574>
+00:03:48.343 [AI Patrol] Spawning 3 Shamans bots at <3744.423584, 15.630000, 6571.036621>
+00:03:48.831 [AI Patrol] Spawning 3 Shamans bots at <4008.968994, 15.630000, 6649.261230>
+00:04:38.763 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+00:04:38.771 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+00:04:38.771 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+00:04:39.592 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+00:05:09.301 [AI Patrol] Spawning 3 Shamans bots at <2505.242920, 43.939999, 5714.466309>
+00:05:09.852 [AI Patrol] Spawning 3 Shamans bots at <2496.457031, 43.939999, 5742.153809>
+00:06:40.450 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer
+00:07:55.060 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+00:07:55.068 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+00:07:55.068 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 4
+00:07:55.957 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+00:08:03.944 [Killfeed] CrazyBob1027 got killed by Survivor (Shamans) with SK 59/66 from a distance of 44 m.
+00:08:06.406 [Killfeed] ChaoticBeauty07 got killed by Survivor (Shamans) with SK 59/66 from a distance of 28 m.
+00:08:11.143 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:08:31.348 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+00:08:32.171 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+00:08:33.288 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:08:35.159 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+00:08:35.978 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+00:09:01.895 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 7GiGcjXfdiZaTzbJRYMyCLChQAe8_Kwhj-GvNddjfEQ=
+00:09:01.895 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+00:09:32.508 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+00:09:32.512 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+00:09:32.517 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)

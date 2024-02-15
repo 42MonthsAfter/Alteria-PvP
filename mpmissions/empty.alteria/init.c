@@ -37,10 +37,10 @@ void main()
 		}
 	}
 	
-    CEApi TestHive = GetCEApi();
-    TestHive.ExportProxyProto();
-    TestHive.ExportProxyData( "4096 0 4096", 8192 );
-    TestHive.ExportClusterData() ;	  	
+    //CEApi TestHive = GetCEApi();
+    //TestHive.ExportProxyProto();
+    //TestHive.ExportProxyData( "4096 0 4096", 8192 );
+    //TestHive.ExportClusterData() ;	  	
 }
 
 class CustomMission: MissionServer
@@ -99,9 +99,6 @@ class CustomMission: MissionServer
 				itemEnt = player.GetInventory().CreateInInventory("Plum");
 
 			SetRandomHealth(itemEnt);
-			
-			itemEnt = player.GetInventory().CreateInInventory("Rag");
-			itemEnt = player.GetInventory().CreateInInventory("TunaCan");
 		}
 	}
 };

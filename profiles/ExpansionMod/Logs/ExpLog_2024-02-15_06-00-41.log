@@ -1,0 +1,93 @@
+06:01:27.826 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+06:01:27.833 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:01:27.835 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+06:01:28.806 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+06:01:51.804 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+06:01:51.810 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:01:51.810 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+06:01:52.753 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+06:03:23.867 [AI Patrol] Spawning 3 Shamans bots at <2484.544922, 44.287857, 5950.925781>
+06:06:35.193 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+06:10:59.193 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+06:11:00.187 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+06:36:20.414 [AI Patrol] Spawning 3 Shamans bots at <2615.603760, 43.939999, 5806.166016>
+06:36:21.064 [AI Patrol] Spawning 3 Shamans bots at <2496.147949, 43.939999, 5738.392090>
+06:36:34.871 [AI Patrol] Spawning 3 Shamans bots at <2508.519287, 43.939999, 5702.387207>
+06:38:29.660 [AI Patrol] Spawning 3 Shamans bots at <3427.250488, 17.560188, 6320.176270>
+06:52:56.367 [Killfeed] wiggy got killed by Survivor (Shamans) with SK 59/66 from a distance of 45 m.
+06:53:25.816 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+06:53:26.806 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+07:03:52.210 [AI Patrol] Spawning 3 Shamans bots at <2144.769043, 21.938747, 5477.960449>
+07:05:00.466 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+07:05:00.476 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+07:05:00.476 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+07:05:01.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+07:06:58.132 [Killfeed] wiggy got killed by Survivor (Shamans) with SK 59/66 from a distance of 30 m.
+07:07:33.621 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+07:07:34.609 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+07:30:19.181 [AI Patrol] Spawning 3 Shamans bots at <3670.356445, 4.640000, 6005.992188>
+07:30:40.195 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Basebuilding
+07:44:11.535 [AI Patrol] Spawning 3 Shamans bots at <2165.110352, 54.799999, 3254.878906>
+07:44:47.476 [AI Patrol] Spawning 3 Shamans bots at <2331.210938, 54.799999, 3052.307617>
+07:44:53.773 [AI Patrol] Spawning 3 Shamans bots at <2184.103271, 54.799999, 3054.581787>
+07:45:00.777 [AI Patrol] Spawning 3 Shamans bots at <2089.975830, 54.799999, 3052.754883>
+07:45:34.140 [AI Patrol] Spawning 3 Shamans bots at <1960.696167, 54.799999, 2940.619141>
+07:45:35.048 [AI Patrol] Spawning 3 Shamans bots at <1953.430542, 54.799999, 2938.528809>
+07:45:36.236 [AI Patrol] Spawning 3 Shamans bots at <1953.023804, 54.799999, 2929.526855>
+07:48:05.337 [AI Patrol] Spawning 3 Shamans bots at <2547.757813, 114.599998, 2564.251221>
+07:48:08.628 [AI Patrol] Spawning 3 Shamans bots at <1892.870117, 62.033409, 2654.121338>
+07:51:45.363 [Killfeed] wiggy got killed by Survivor (Shamans) with KAS-74U from a distance of 3 m.
+07:56:08.447 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+07:56:08.449 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+07:56:08.449 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+07:56:09.439 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:00:11.591 [AI Patrol] Spawning 3 Shamans bots at <1249.753906, 42.496796, 3978.302246>
+08:04:09.583 [Killfeed] Hawk got killed by Survivor (Shamans) with SK 59/66 from a distance of 62 m.
+08:04:38.839 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+08:04:39.833 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:05:44.945 [AI Patrol] Spawning 3 Shamans bots at <2049.828125, 54.799999, 3034.099609>
+08:05:45.527 [AI Patrol] Spawning 3 Shamans bots at <2798.347168, 21.546143, 4368.077148>
+08:09:50.359 [AI Patrol] Spawning 3 Shamans bots at <826.285950, 5.260000, 3321.500000>
+08:09:56.501 [AI Patrol] Spawning 3 Shamans bots at <843.256409, 5.260000, 3289.974121>
+08:10:10.712 [AI Patrol] Spawning 3 Shamans bots at <974.310425, 6.073112, 3109.449951>
+08:11:33.777 [Killfeed] wiggy got killed by Survivor (Shamans) with SK 59/66 from a distance of 21 m.
+08:12:07.523 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+08:12:08.519 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:15:24.357 [Killfeed] Hawk got killed by Survivor (Shamans) with SK 59/66 from a distance of 2 m.
+08:16:02.843 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+08:16:03.837 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:28:45.400 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+08:28:45.402 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+08:28:45.402 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:28:45.404 [AI Patrol] Spawning 3 Shamans bots at <4006.140869, 15.630000, 6662.586426>
+08:28:45.417 [AI Patrol] Spawning 3 Shamans bots at <3765.355225, 15.630000, 6570.906250>
+08:28:45.429 [AI Patrol] Spawning 3 Shamans bots at <4012.421143, 15.630000, 6624.295898>
+08:28:45.443 [AI Patrol] Spawning 3 Shamans bots at <3760.943848, 15.630000, 6575.333008>
+08:28:45.455 [AI Patrol] Spawning 3 Shamans bots at <3621.100342, 15.630000, 6438.068848>
+08:28:46.392 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:35:30.750 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+08:36:06.406 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+08:36:06.414 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+08:36:06.414 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:36:07.398 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:39:01.568 [AI Patrol] Spawning 3 Shamans bots at <3796.946045, 4.640000, 5971.514160>
+08:39:12.533 [AI Patrol] Spawning 3 Shamans bots at <3743.478760, 4.648344, 5981.668945>
+08:39:13.089 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+08:39:13.093 [AI Patrol] Spawning 3 Shamans bots at <4359.000488, 15.700000, 7670.724121>
+08:39:13.107 [AI Patrol] Spawning 3 Shamans bots at <4343.284180, 15.910000, 7642.889648>
+08:39:13.119 [AI Patrol] Spawning 3 Shamans bots at <4418.161133, 16.846075, 7276.115723>
+08:39:13.132 [AI Patrol] Spawning 3 Shamans bots at <4408.842285, 15.700000, 7766.560547>
+08:39:13.414 [AI Patrol] Spawning 3 Shamans bots at <3736.015381, 4.640000, 5972.789063>
+08:39:14.082 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+08:39:18.162 [AI Patrol] Spawning 3 Shamans bots at <3705.902100, 4.640000, 6048.143066>
+08:55:39.839 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+08:55:39.839 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+08:57:07.886 [AI Patrol] Spawning 3 Shamans bots at <6267.678223, 38.679546, 5569.573730>
+08:58:15.406 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Military
+08:58:26.394 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+09:00:20.355 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+09:00:21.351 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+09:10:20.074 [AI Patrol] Spawning 3 Shamans bots at <2059.136719, 54.799999, 2967.510498>
+10:21:52.429 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Basebuilding
+10:25:43.335 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+10:25:51.394 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)

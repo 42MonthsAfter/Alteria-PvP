@@ -1,45 +1,4 @@
 
 
 ******************************************************************************
-AdminLog started on 2024-02-04 at 12:00:19
-12:03:23 | Player "SiR NeRg" is connected (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=)
-12:06:11 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2096.4, 5476.8, 22.3>)[HP: 94.15] hit by Infected into Torso(1) for 5.85 damage (MeleeInfected)
-12:11:59 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2416.8, 5772.3, 42.9>)[HP: 95.9625] hit by Infected into RightLeg(3) for 8.075 damage (MeleeInfectedLong)
-12:12:09 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2441.3, 5790.9, 43.4>)[HP: 95.0537] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
-12:12:12 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2449.9, 5784.4, 43.5>)[HP: 93.9679] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
-12:15:37 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2634.5, 5796.1, 48.0>)[HP: 96.326] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
-12:15:41 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2635.1, 5796.3, 48.0>)[HP: 94.2415] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
-12:15:43 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2635.0, 5796.3, 48.0>)[HP: 92.1571] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
-12:15:44 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2635.1, 5796.4, 48.0>)[HP: 89.3521] hit by Infected into Torso(1) for 2.805 damage (MeleeSoldierInfectedLong)
-12:15:45 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2635.0, 5796.3, 48.0>)[HP: 88.7126] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
-12:20:45 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2657.0, 5778.1, 51.1>)[HP: 94.2642] hit by Infected into Torso(1) for 2.805 damage (MeleeSoldierInfectedLong)
-12:20:47 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2656.7, 5779.6, 51.1>)[HP: 92.1825] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
-12:20:48 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2655.1, 5780.5, 51.1>)[HP: 89.4633] hit by Infected into Torso(1) for 2.805 damage (MeleeSoldierInfectedLong)
-12:20:51 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2657.4, 5781.5, 51.1>)[HP: 87.5303] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeSoldierInfected)
-12:22:58 | AI "Helga" (group="" faction="Shamans" pos=<2670.4, 5874.4, 44.1>) bled out
-12:26:02 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2635.5, 5792.2, 51.6>)[HP: 94.346] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
-12:26:08 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2634.0, 5799.0, 49.1>)[HP: 93.9707] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
-12:26:11 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2634.2, 5800.2, 48.0>)[HP: 93.5069] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
-12:26:12 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2635.1, 5800.6, 48.0>)[HP: 91.7007] hit by Infected into RightLeg(3) for 7.225 damage (MeleeInfectedLong)
-12:26:19 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2639.8, 5796.2, 51.1>)[HP: 89.1619] hit by Infected into Torso(1) for 2.805 damage (MeleeSoldierInfectedLong)
-12:26:20 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2639.9, 5796.2, 51.1>)[HP: 88.0619] hit by Infected into LeftArm(18) for 11 damage (MeleeSoldierInfectedLong)
-12:26:22 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2639.9, 5796.0, 51.1>)[HP: 87.3007] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
-12:26:23 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2639.9, 5796.1, 51.1>)[HP: 84.0007] hit by Infected into Torso(1) for 3.3 damage (MeleeSoldierInfectedLong)
-12:26:25 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2639.9, 5796.2, 51.1>)[HP: 82.9895] hit by Infected into LeftArm(18) for 11 damage (MeleeSoldierInfectedLong)
-12:26:26 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2640.0, 5796.2, 51.1>)[HP: 82.1395] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
-12:26:28 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2639.9, 5796.1, 51.1>)[HP: 81.1283] hit by Infected into RightArm(17) for 11 damage (MeleeSoldierInfectedLong)
-12:26:29 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2639.9, 5796.3, 51.1>)[HP: 78.7908] hit by Infected into RightLeg(3) for 9.35 damage (MeleeSoldierInfectedLong)
-12:26:30 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2640.0, 5796.4, 51.1>) is unconscious
-12:26:31 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2640.1, 5797.2, 51.1>)[HP: 76.3297] hit by Infected into Torso(1) for 2.55 damage (MeleeSoldierInfected)
-12:27:01 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2640.1, 5797, 51.1>) regained consciousness
-12:27:51 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2635.8, 5792.6, 51.7>)[HP: 76.8433] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
-12:27:53 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2635.0, 5791.9, 51.8>)[HP: 74.5954] hit by Infected into RightLeg(3) for 9.35 damage (MeleeSoldierInfectedLong)
-12:32:50 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2659.1, 5780.6, 45.7>)[HP: 79.5051] hit by Infected into Torso(1) for 1.5 damage (MeleeZombie)
-12:33:57 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2665.6, 5775.5, 43.9>)[HP: 79.0857] hit by Infected into Torso(1) for 2.4 damage (MeleePoliceInfected)
-12:34:07 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2664.5, 5745.1, 44.1>)[HP: 76.9557] hit by Infected into Torso(1) for 2.4 damage (MeleePoliceInfected)
-12:41:51 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2559.3, 5822.4, 44.2>)[HP: 89.5288] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
-12:41:57 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2558.8, 5821.3, 44.2>)[HP: 89.1238] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
-12:42:19 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2555.2, 5827.0, 44.0>)[HP: 89.169] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
-12:42:21 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2555.9, 5827.5, 44.0>)[HP: 88.404] hit by Infected into RightArm(17) for 7.65 damage (MeleeInfectedLong)
-12:42:22 | Player "SiR NeRg" (id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA= pos=<2558.0, 5829.2, 44.0>)[HP: 87.1128] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
-12:47:38 | Player "SiR NeRg"(id=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=) has been disconnected
+AdminLog started on 2024-02-15 at 12:00:20

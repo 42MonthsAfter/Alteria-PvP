@@ -2,49 +2,51 @@
     "ConfigVersion": 21,
     "ID": 15,
     "Type": 1,
-    "Title": "Plant a Pumpkin",
+    "Title": "Visit the Toxic Zone",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "If you haven't checked it out yet, the Toxic Zone is a pretty awesome.",
+        "Whats the problem? Can't swim?",
+        "You made it? Holy shit, I didn't think I would see you again. Well done."
     ],
-    "ObjectiveText": "Plant a pumpkin seed.",
+    "ObjectiveText": "Visit the Toxic Zone",
     "FollowUpQuest": -1,
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
+    "CancelQuestOnPlayerDeath": 1,
     "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 500,
-            "Attachments": [],
+            "ClassName": "TWP_Kriss",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_Kriss_mag_33Rnd"
+            ],
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
         }
     ],
-    "NeedToSelectReward": 0,
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
+    "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        1
+        2
     ],
     "QuestTurnInIDs": [
-        1
+        2
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
-            "ID": 2,
-            "ObjectiveType": 10
+            "ConfigVersion": 27,
+            "ID": 15,
+            "ObjectiveType": 3
         }
     ],
     "QuestColor": 0,
@@ -53,11 +55,11 @@
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }

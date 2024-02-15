@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 11,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Cassandra",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4380.88, 
+        15.7451, 
+        7641.01
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Cassandra",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

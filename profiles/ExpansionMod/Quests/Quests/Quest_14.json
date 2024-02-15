@@ -2,36 +2,50 @@
     "ConfigVersion": 21,
     "ID": 14,
     "Type": 1,
-    "Title": "Welcome to Hell",
+    "Title": "Visit Deadman's Rock",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "One of the most over interesting areas on Alteria, Deadman's Rock is totally worth seeing at least once. Check it out and get back here quick.",
+        "What are you waiting for?",
+        "You made it all the way up there, back and survived?"
     ],
-    "ObjectiveText": "Visit the camp at the marked location.",
+    "ObjectiveText": "Visit Deadman's Rock",
     "FollowUpQuest": -1,
-    "Repeatable": 0,
-    "IsDailyQuest": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
     "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
-    "Rewards": [],
-    "NeedToSelectReward": 0,
+    "Rewards": [
+        {
+            "ClassName": "TWP_Beretta92FSDesert",
+            "Amount": 1,
+            "Attachments": [
+                "TWP_Beretta92FS_mag_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
-    "RewardsForGroupOwnerOnly": 1,
-    "QuestGiverIDs": [],
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        2
+    ],
     "QuestTurnInIDs": [
-        1
+        2
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
-            "ID": 3,
+            "ConfigVersion": 27,
+            "ID": 14,
             "ObjectiveType": 3
         }
     ],
@@ -41,11 +55,11 @@
     "PreQuestIDs": [],
     "RequiredFaction": "",
     "FactionReward": "",
-    "PlayerNeedQuestItems": 1,
+    "PlayerNeedQuestItems": 0,
     "DeleteQuestItems": 1,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
     "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
+    "SuppressQuestLogOnCompetion": 1,
     "Active": 1
 }

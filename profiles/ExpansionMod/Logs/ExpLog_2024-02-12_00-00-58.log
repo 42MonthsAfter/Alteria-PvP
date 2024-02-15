@@ -1,0 +1,59 @@
+00:03:15.098 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:03:15.133 [AI Patrol] Spawning 3 Shamans bots at <5531.793457, 209.889999, 4138.521973>
+00:03:26.656 [AI Patrol] Spawning 3 Shamans bots at <6112.681152, 41.460575, 3517.636719>
+00:03:27.139 [AI Patrol] Spawning 3 Shamans bots at <6299.345703, 55.759998, 4038.129639>
+00:05:48.774 [AI Patrol] Spawning 3 Shamans bots at <6500.513184, 22.610001, 3786.306396>
+00:06:20.205 [AI Patrol] Spawning 3 Shamans bots at <4329.604492, 15.931123, 7644.170898>
+00:06:20.249 [AI Patrol] Spawning 3 Shamans bots at <3760.863037, 15.630000, 6569.330566>
+00:06:20.295 [AI Patrol] Spawning 3 Shamans bots at <4014.234131, 15.630000, 6620.936035>
+00:06:20.336 [AI Patrol] Spawning 3 Shamans bots at <4352.526367, 15.747354, 7663.228516>
+00:06:20.379 [AI Patrol] Spawning 3 Shamans bots at <4011.235107, 15.630000, 6656.954102>
+00:06:20.422 [AI Patrol] Spawning 3 Shamans bots at <3769.685303, 15.630000, 6566.204102>
+00:06:20.466 [AI Patrol] Spawning 3 Shamans bots at <4755.611328, 32.361397, 7338.439941>
+00:07:05.814 [AI Patrol] Spawning 3 Shamans bots at <4141.917480, 17.696266, 7576.378418>
+00:07:07.083 [AI Patrol] Spawning 3 Shamans bots at <6529.194824, 22.610001, 3759.143311>
+00:07:27.548 [AI Patrol] Spawning 3 Shamans bots at <3429.577881, 17.344170, 6301.848633>
+00:08:14.015 [AI Patrol] Spawning 3 Shamans bots at <6708.269043, 19.120001, 3719.406738>
+00:08:44.871 [AI Patrol] Spawning 3 Shamans bots at <7225.851074, 26.129999, 2188.345703>
+00:10:38.432 [AI Patrol] Spawning 3 Shamans bots at <6790.043457, 26.129999, 2137.742188>
+00:10:54.095 [AI Patrol] Spawning 3 Shamans bots at <6745.505371, 26.129999, 2341.812500>
+00:11:48.488 [AI Patrol] Spawning 3 Shamans bots at <6716.325684, 26.129999, 2282.214111>
+00:14:01.316 [VehicleEnter] Player DirtyDan [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle STR_Camaro_Hagr_name (id=4EF2CC56E54C2FCC27CDD58ED276FF36 pos=<3534.227051, 11.609107, 7050.136230>) as passenger
+00:18:44.049 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle STR_Camaro_Hagr_name (id=4EF2CC56E54C2FCC27CDD58ED276FF36 pos=<3478.071289, 10.108666, 7096.643066>) as driver
+00:18:49.988 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle STR_Camaro_Hagr_name (id=4EF2CC56E54C2FCC27CDD58ED276FF36 pos=<3478.071045, 10.108811, 7096.642578>)
+00:19:05.136 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] stopped vehicle STR_Camaro_Hagr_name (id=4EF2CC56E54C2FCC27CDD58ED276FF36 pos=<3478.069824, 10.108796, 7096.641113>)
+00:19:11.201 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle STR_Camaro_Hagr_name (id=4EF2CC56E54C2FCC27CDD58ED276FF36 pos=<3478.070313, 10.108798, 7096.639648>)
+00:19:18.590 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle STR_Camaro_Hagr_name (id=4EF2CC56E54C2FCC27CDD58ED276FF36 pos=<3478.072266, 10.108822, 7096.638672>) as driver
+00:19:30.784 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle STR_Camaro_Hagr_name (id=4EF2CC56E54C2FCC27CDD58ED276FF36 pos=<3478.070068, 10.108788, 7096.637695>)
+00:21:17.368 [AI Patrol] Spawning 3 Shamans bots at <3710.556885, 4.640000, 6040.760254>
+00:21:25.606 [AI Patrol] Spawning 3 Shamans bots at <3683.063232, 4.640000, 5996.660645>
+00:21:44.564 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:21:45.685 [AI Patrol] Spawning 3 Shamans bots at <3744.096436, 4.643322, 5980.664551>
+00:21:47.424 [AI Patrol] Spawning 3 Shamans bots at <3745.443115, 4.640000, 5974.224121>
+00:21:53.369 [AI Patrol] Spawning 3 Shamans bots at <3806.961182, 4.640000, 5982.762695>
+00:24:09.833 [AI Patrol] Spawning 3 Shamans bots at <2293.346436, 64.131371, 7037.693848>
+00:24:15.384 [AI Patrol] Spawning 3 Shamans bots at <2770.222900, 43.939999, 5858.548828>
+00:25:02.330 [AI Patrol] Spawning 3 Shamans bots at <2480.058594, 44.379242, 5963.871582>
+00:36:02.035 [AI Patrol] Spawning 3 Shamans bots at <2504.071533, 43.939999, 5705.108887>
+00:36:02.049 [AI Patrol] Spawning 3 Shamans bots at <2486.583008, 43.939999, 5733.824219>
+03:39:55.821 [AI Patrol] Spawning 3 Shamans bots at <3420.200439, 17.244350, 6307.160156>
+03:43:08.867 [Chat - Global]("Slightly Crazed"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): so I just healed from two cuts, with no bandages or rags...
+03:46:24.586 [VehicleEnter] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle STR_Camaro_Hagr_name (id=4EF2CC56E54C2FCC27CDD58ED276FF36 pos=<3478.072998, 10.108822, 7096.636719>) as driver
+03:46:28.708 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle STR_Camaro_Hagr_name (id=4EF2CC56E54C2FCC27CDD58ED276FF36 pos=<3478.073242, 10.108825, 7096.635742>)
+03:47:49.253 [VehicleEngine] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] stopped vehicle STR_Camaro_Hagr_name (id=4EF2CC56E54C2FCC27CDD58ED276FF36 pos=<3697.024658, 14.461004, 6650.937988>)
+03:47:54.688 [VehicleLeave] Player Slightly Crazed [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle STR_Camaro_Hagr_name (id=4EF2CC56E54C2FCC27CDD58ED276FF36 pos=<3697.027832, 14.461540, 6650.939453>)
+04:00:14.454 [AI Patrol] Spawning 3 Shamans bots at <4019.847168, 9.716884, 4867.001953>
+04:00:33.643 [AI Patrol] Spawning 3 Shamans bots at <3972.784912, 19.161865, 4641.491699>
+04:00:35.151 [AI Patrol] Spawning 3 Shamans bots at <3979.759521, 19.293209, 4636.072754>
+04:00:36.954 [AI Patrol] Spawning 3 Shamans bots at <3995.981689, 20.119453, 4645.954102>
+04:00:53.175 [AI Patrol] Spawning 3 Shamans bots at <4121.652832, 18.289940, 4747.249512>
+04:00:58.968 [AI Patrol] Spawning 3 Shamans bots at <4156.138184, 18.289940, 4775.357910>
+04:01:00.399 [AI Patrol] Spawning 3 Shamans bots at <4167.343750, 18.289562, 4789.937988>
+04:40:23.857 [AI Patrol] Spawning 3 Shamans bots at <3222.246582, 21.757927, 6310.325684>
+04:44:47.564 [AI Patrol] Spawning 3 Shamans bots at <4905.820313, 15.630191, 7507.784668>
+05:43:30.066 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Gits" (id=4 ownerUID= ownerName=)
+05:43:30.068 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) created a party named Gits ()
+05:43:41.427 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) invited the player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=)to the party named Gits
+05:43:50.462 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+05:59:14.748 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+05:59:14.757 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)

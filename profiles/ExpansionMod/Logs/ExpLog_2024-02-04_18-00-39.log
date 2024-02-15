@@ -1,0 +1,470 @@
+18:33:56.648 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+18:33:56.656 [AI Patrol] Spawning 3 Shamans bots at <2287.110107, 64.469200, 7030.268555>
+18:40:16.140 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+18:40:16.148 [AI Patrol] Spawning 3 Shamans bots at <4019.922363, 15.630000, 6616.970215>
+18:40:16.171 [AI Patrol] Spawning 3 Shamans bots at <3679.591553, 4.640000, 5998.902832>
+18:40:16.187 [AI Patrol] Spawning 3 Shamans bots at <3750.187256, 15.630000, 6579.933594>
+18:40:16.203 [AI Patrol] Spawning 3 Shamans bots at <4004.653809, 15.630000, 6663.451172>
+18:40:16.226 [AI Patrol] Spawning 3 Shamans bots at <3759.566650, 15.630000, 6568.362305>
+18:40:16.242 [AI Patrol] Spawning 3 Shamans bots at <3713.594727, 4.640000, 6052.618164>
+18:40:16.265 [AI Patrol] Spawning 3 Shamans bots at <3424.047119, 17.489601, 6318.046387>
+18:41:04.687 [AI Patrol] Spawning 3 Shamans bots at <2733.922852, 43.939999, 5959.928711>
+18:41:15.117 [AI Patrol] Spawning 3 Shamans bots at <2822.087646, 43.709560, 5863.957520>
+18:41:28.601 [AI Patrol] Spawning 3 Shamans bots at <3736.130615, 4.640000, 5958.918945>
+18:41:29.140 [AI Patrol] Spawning 3 Shamans bots at <3751.961914, 4.640000, 5968.415527>
+18:41:30.984 [AI Patrol] Spawning 3 Shamans bots at <2484.889160, 44.271000, 5949.022461>
+18:46:39.296 [AI Patrol] Spawning 3 Shamans bots at <2505.441162, 43.939999, 5730.474609>
+18:46:40.890 [AI Patrol] Spawning 3 Shamans bots at <2513.182617, 43.939999, 5717.369141>
+19:05:58.507 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1803.813232, 98.804924, 6519.463379>) as driver
+19:06:02.351 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1803.813477, 98.804924, 6519.463379>)
+19:06:51.289 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1764.651123, 98.005569, 6591.793945>)
+19:07:03.789 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1764.651123, 98.005569, 6591.793945>) as driver
+19:07:06.437 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1764.651123, 98.005569, 6591.793945>)
+19:07:06.804 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1764.651123, 98.005569, 6591.793945>) as passenger
+19:09:24.578 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2349.896729, 33.968533, 5622.868652>)
+19:09:27.125 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2349.896729, 33.968536, 5622.868652>)
+19:09:28.906 [VehicleAttachments] Player (ADMIN)BLUE (uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) detached Chevrolet Corvette rust Right Door (type=ChevroletCorvette_Doors_coDriver_rust) from vehicle Chevrolet Corvette rust(id=FC41B9ED6848A78FD081F08AD03F089C pos=<2349.896729, 33.968536, 5622.868652>)
+19:09:38.664 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Chevrolet Corvette rust Left Door (type=ChevroletCorvette_Doors_Driver_rust) from vehicle Chevrolet Corvette rust(id=FC41B9ED6848A78FD081F08AD03F089C pos=<2349.896729, 33.968536, 5622.868652>)
+19:11:09.468 [AI Patrol] Spawning 3 Shamans bots at <3217.879395, 21.789774, 6300.824219>
+19:13:49.054 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2349.896729, 33.968483, 5622.868652>) as driver
+19:13:53.789 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2349.896729, 33.968487, 5622.868164>)
+19:14:26.742 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2406.425537, 39.379509, 5681.337891>)
+19:14:48.031 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2406.265625, 39.366585, 5681.195313>) as driver
+19:14:49.312 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2406.265625, 39.366570, 5681.195313>)
+19:15:27.476 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+19:18:22.390 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<837.545532, 30.964409, 6126.748047>) as passenger
+19:19:52.218 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] stopped vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<301.621674, 5.457675, 5788.913574>)
+19:19:54.554 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<301.621674, 5.457673, 5788.914063>)
+19:19:58.445 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<301.621704, 5.457672, 5788.913574>)
+19:23:28.820 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<301.621765, 5.457673, 5788.914063>) as driver
+19:23:31.578 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<301.621674, 5.457673, 5788.914063>)
+19:23:54.765 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<301.621643, 5.457675, 5788.914063>) as passenger
+19:24:30.164 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<301.621582, 5.457674, 5788.914063>) as driver
+19:24:32.117 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<301.621582, 5.457674, 5788.914063>)
+19:28:59.304 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1646.897217, 16.573103, 5199.793457>)
+19:29:01.382 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1646.897217, 16.573103, 5199.793457>)
+19:30:02.898 [AI Patrol] Spawning 3 Shamans bots at <3809.499023, 4.640000, 5978.209961>
+19:31:28.046 [VehicleEnter] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] entered vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<3197.403320, 21.903481, 6337.343262>) as driver
+19:31:32.914 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] started vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<3197.404297, 21.903543, 6337.343750>)
+19:34:35.507 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] stopped vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<1872.532349, 31.640886, 5518.654297>)
+19:34:39.054 [VehicleLeave] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] left vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<1872.405273, 31.623709, 5518.514160>)
+19:39:54.132 [AI Patrol] Spawning 3 Shamans bots at <3495.055908, 16.222330, 6338.903320>
+19:40:14.500 [VehicleEnter] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] entered vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<1872.335327, 31.614256, 5518.437012>) as driver
+19:40:20.726 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] started vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<1872.135986, 31.591763, 5518.244141>)
+19:44:18.414 [AI Patrol] Spawning 3 Shamans bots at <4418.373047, 32.283455, 7158.062988>
+19:44:28.500 [AI Patrol] Spawning 3 Shamans bots at <4312.215332, 19.050365, 7484.924316>
+19:44:39.679 [AI Patrol] Spawning 3 Shamans bots at <4325.758301, 15.898379, 7644.318848>
+19:44:42.429 [AI Patrol] Spawning 3 Shamans bots at <4343.485840, 15.700000, 7673.427734>
+19:47:07.929 [AI Patrol] Spawning 3 Shamans bots at <6595.410156, 14.376179, 7017.878418>
+19:49:24.789 [VehicleLeave] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] left vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6688.590820, 14.419684, 6792.210449>)
+19:49:33.539 [VehicleEnter] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] entered vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<6674.347656, 14.295903, 6799.992188>) as driver
+19:49:35.671 [VehicleLeave] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] left vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<6674.347656, 14.295901, 6799.992188>)
+19:49:44.171 [VehicleEnter] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] entered vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6688.590332, 14.419701, 6792.211914>) as driver
+19:49:47.343 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] started vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6688.590332, 14.419653, 6792.212402>)
+19:50:02.273 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] stopped vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6686.746094, 16.073088, 6662.172363>)
+19:50:06.296 [VehicleLeave] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] left vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6686.746582, 16.075415, 6662.117676>)
+19:50:48.062 [VehicleEnter] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] entered vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<6674.347656, 14.295909, 6799.992188>) as driver
+19:50:54.218 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] started vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<6674.347656, 14.295902, 6799.992676>)
+19:51:18.921 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1646.897217, 16.573105, 5199.793457>) as driver
+19:51:20.546 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1646.897217, 16.573103, 5199.793457>)
+19:51:22.078 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] stopped vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<6691.525391, 14.802164, 6661.251953>)
+19:51:25.210 [VehicleLeave] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] left vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<6691.526367, 14.802000, 6661.251953>)
+19:52:51.695 [VehicleEnter] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] entered vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<6691.527344, 14.801728, 6661.250977>) as driver
+19:52:55.937 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] started vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<6691.533203, 14.800843, 6661.245605>)
+19:53:30.054 [AI Patrol] Spawning 3 Shamans bots at <6125.014160, 32.143684, 5540.516602>
+19:53:36.765 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) invited the player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=)to the party named Sodomizers
+19:53:43.687 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+19:53:49.414 [AI Patrol] Spawning 3 Shamans bots at <6015.883789, 23.699703, 5487.588379>
+19:55:42.562 [AI Patrol] Spawning 3 Shamans bots at <5536.202148, 209.889999, 4125.430176>
+19:55:58.398 [AI Patrol] Spawning 3 Shamans bots at <4152.570313, 18.289940, 4798.911133>
+19:55:59.273 [AI Patrol] Spawning 3 Shamans bots at <4137.961426, 18.289940, 4775.057617>
+19:56:00.703 [AI Patrol] Spawning 3 Shamans bots at <4109.654297, 18.289940, 4755.061523>
+19:56:02.945 [AI Patrol] Spawning 3 Shamans bots at <4032.286133, 9.789528, 4867.885742>
+19:56:05.921 [AI Patrol] Spawning 3 Shamans bots at <3999.656738, 20.247133, 4644.684570>
+19:56:06.359 [AI Patrol] Spawning 3 Shamans bots at <3985.635498, 19.826704, 4651.685059>
+19:56:07.023 [AI Patrol] Spawning 3 Shamans bots at <3972.328613, 19.121378, 4637.785645>
+19:56:43.390 [AI Patrol] Spawning 3 Shamans bots at <3092.371582, 10.065609, 4468.826660>
+19:58:53.546 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] stopped vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<4045.575684, 25.171179, 4469.184570>)
+19:58:58.507 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] started vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<4046.728516, 25.176567, 4464.524414>)
+20:01:14.835 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] stopped vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<2672.758057, 21.976492, 4234.975586>)
+20:01:18.140 [VehicleLeave] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] left vehicle BMW (rust) (id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<2672.759766, 21.976490, 4234.975586>)
+20:09:26.250 [VehicleAttachments] Player SiR NeRg (uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=) detached Car Battery (type=CarBattery) from vehicle BMW (rust)(id=1F1EE68D3F49ED36B62EFABF4246F3D8 pos=<2672.759521, 21.976521, 4234.975586>)
+20:10:35.757 [BaseRaiding] ExpansionSafeMedium (<2665.456299, 23.016331, 4228.681152>) Code set by player "SiR NeRg" (ID = "v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=" at <2666.519775, 22.056736, 4229.325195>) and the code is 010987
+20:12:43.734 [AI Patrol] Spawning 3 Shamans bots at <1904.540283, 49.694130, 3485.472656>
+20:14:03.914 [AI Patrol] Spawning 3 Shamans bots at <1226.699585, 41.460392, 3977.691650>
+20:17:15.789 [AI Patrol] Spawning 3 Shamans bots at <2032.912964, 54.799999, 3130.192627>
+20:17:22.804 [AI Patrol] Spawning 3 Shamans bots at <855.015991, 5.260000, 3299.801025>
+20:17:24.250 [AI Patrol] Spawning 3 Shamans bots at <826.110657, 5.260000, 3321.640381>
+20:17:41.281 [AI Patrol] Spawning 3 Shamans bots at <986.106445, 6.220329, 3110.795410>
+20:18:38.375 [Killfeed] Captain Chaos got killed by Survivor (Shamans) with KA-M from a distance of 131 m.
+20:19:05.835 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+20:21:32.187 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2111.609375, 22.047037, 5450.016602>) as driver
+20:21:33.585 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2111.609375, 22.047037, 5450.016602>)
+20:22:03.648 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] stopped vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1877.278076, 25.532827, 5319.975098>)
+20:23:42.703 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1877.278198, 25.532827, 5319.975098>)
+20:23:49.664 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Interceptor (id=365D72818D44EF1BEF1E45BA18796601 pos=<3292.833984, 16.356888, 6180.041504>) as driver
+20:23:51.968 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Interceptor (id=365D72818D44EF1BEF1E45BA18796601 pos=<3292.835693, 16.360666, 6180.044434>)
+20:24:19.531 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Interceptor (id=365D72818D44EF1BEF1E45BA18796601 pos=<3441.847656, 17.622534, 6315.096680>)
+20:24:27.031 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] stopped vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1758.990601, 21.710127, 5258.729004>)
+20:24:39.078 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1758.990601, 21.710129, 5258.729004>)
+20:25:55.070 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1811.355103, 33.560055, 4157.475098>)
+20:26:14.812 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1811.355957, 33.560066, 4157.475098>) as driver
+20:26:15.062 [AI Patrol] Spawning 3 Shamans bots at <1941.791992, 54.799999, 2937.307129>
+20:26:15.515 [AI Patrol] Spawning 3 Shamans bots at <1962.083740, 54.799999, 2952.086914>
+20:26:16.367 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1811.355957, 33.560066, 4157.475098>)
+20:26:16.656 [AI Patrol] Spawning 3 Shamans bots at <1953.151489, 54.799999, 2935.180664>
+20:26:19.515 [AI Patrol] Spawning 3 Shamans bots at <2103.235352, 54.799999, 3053.378174>
+20:26:32.312 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) invited the player "GalaxyPanda" (id=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=)to the party named Sodomizers
+20:26:36.921 [Party] Player "GalaxyPanda" (id=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+20:26:47.726 [AI Patrol] Spawning 3 Shamans bots at <2176.456787, 54.799999, 3048.140381>
+20:27:31.078 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] stopped vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1680.356689, 40.562710, 4127.622559>)
+20:27:34.359 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1680.356689, 40.562702, 4127.622559>)
+20:28:23.179 [AI Patrol] Spawning 3 Shamans bots at <2179.913818, 54.799999, 2950.192871>
+20:28:48.898 [AI Patrol] Spawning 3 Shamans bots at <2321.330078, 54.799999, 3055.283203>
+20:29:52.054 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1680.356689, 40.562710, 4127.622559>) as driver
+20:29:53.351 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1680.356689, 40.562702, 4127.622559>)
+20:34:22.210 [AI Patrol] Spawning 3 Shamans bots at <2889.892090, 53.410000, 3209.504883>
+20:34:50.375 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3622.297119, 15.573887, 6439.082520>)
+20:35:30.296 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3622.297363, 15.573887, 6439.082520>) as driver
+20:35:32.812 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3622.297119, 15.573887, 6439.082520>) as passenger
+20:35:41.921 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3622.297119, 15.573885, 6439.082520>)
+20:35:53.164 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3622.297119, 15.573885, 6439.082520>)
+20:37:22.382 [VehicleEnter] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] entered vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<2705.877686, 21.687687, 4344.960938>) as driver
+20:37:25.468 [VehicleLeave] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] left vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<2705.877686, 21.687685, 4344.960938>)
+20:37:51.234 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3622.297363, 15.573887, 6439.082520>) as driver
+20:37:54.054 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3622.297119, 15.573887, 6439.082520>) as passenger
+20:37:55.023 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3622.297119, 15.573885, 6439.082520>)
+20:37:57.203 [AI Patrol] Spawning 3 Shamans bots at <2839.242920, 53.410000, 3192.712402>
+20:38:26.632 [VehicleEnter] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] entered vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<2705.877686, 21.687687, 4344.960938>) as driver
+20:38:32.484 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] started vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<2705.877686, 21.687685, 4344.960938>)
+20:39:50.453 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] stopped vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2631.574707, 43.567677, 5720.903809>)
+20:39:53.585 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2631.574707, 43.567688, 5720.903809>)
+20:39:55.625 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2631.574707, 43.567688, 5720.903809>)
+20:40:28.281 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] stopped vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<3679.888184, 5.676068, 4715.303711>)
+20:40:31.781 [VehicleLeave] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] left vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<3679.888428, 5.676075, 4715.303711>)
+20:40:51.062 [Killfeed] Captain Sodomy got beaten to a pulp by Survivor (Shamans) with bare hands.
+20:42:29.046 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+20:44:28.820 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2631.574707, 43.567688, 5720.903809>) as driver
+20:49:49.687 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2631.574707, 43.567688, 5720.903809>)
+20:50:30.359 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2631.574707, 43.567688, 5720.903809>) as driver
+20:53:14.156 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2631.527100, 43.568665, 5720.947266>)
+20:56:18.250 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2677.806152, 43.883884, 5761.540039>)
+20:58:14.445 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2677.807861, 43.883881, 5761.548828>) as driver
+20:58:15.750 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2677.807861, 43.883884, 5761.548828>)
+20:58:51.101 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2663.613770, 43.904640, 5747.867188>) as passenger
+20:59:18.343 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2797.342773, 17.221388, 5515.895508>)
+20:59:20.867 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2797.342773, 17.221392, 5515.895508>)
+20:59:42.335 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2797.342773, 17.221386, 5515.895508>) as driver
+20:59:44.906 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2797.342773, 17.221378, 5515.895508>)
+21:00:07.750 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] stopped vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2787.819092, 19.334949, 5533.477539>)
+21:00:37.703 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2787.819092, 19.334951, 5533.477539>) as passenger
+21:00:40.132 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2787.819092, 19.334949, 5533.477539>)
+21:01:25.945 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2455.334961, 42.348011, 5708.995605>)
+21:01:46.062 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] stopped vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2488.594727, 43.883884, 5734.786133>)
+21:02:01.609 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2488.594727, 43.883884, 5734.786133>)
+21:02:18.828 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2508.555664, 43.882320, 5750.948730>)
+21:02:23.570 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2508.555664, 43.882328, 5750.948730>) as driver
+21:03:07.234 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<2488.504883, 43.883942, 5733.891113>) as passenger
+21:04:26.382 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1768.267456, 13.343885, 5036.860352>)
+21:04:27.835 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1768.267578, 13.343884, 5036.860352>)
+21:04:46.960 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<2288.442139, 64.138153, 6985.351074>) as driver
+21:04:51.320 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<2288.441406, 64.138222, 6985.351074>)
+21:05:01.296 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<2288.446289, 64.137856, 6985.351074>) as driver
+21:05:02.835 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<2288.446045, 64.137894, 6985.351074>)
+21:05:06.843 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<2288.446289, 64.137878, 6985.351074>)
+21:05:32.859 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1768.267456, 13.343894, 5036.860352>) as driver
+21:05:35.171 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1768.256836, 13.354521, 5036.857910>)
+21:05:48.906 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<2288.438721, 64.138275, 6985.346191>) as driver
+21:06:12.507 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<2282.489014, 64.498230, 7030.972656>)
+21:06:29.710 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1768.936890, 13.343936, 5029.451660>)
+21:06:29.835 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<2282.488281, 64.498199, 7030.975586>) as driver
+21:07:05.789 [VehicleEnter] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] entered vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<3679.888428, 5.676075, 4715.303711>) as driver
+21:07:10.960 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] started vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<3679.888428, 5.676075, 4715.303711>)
+21:07:11.351 [Party] Player "GalaxyPanda" (id=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+21:08:39.312 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<2892.778076, 6.504760, 6859.170898>)
+21:08:42.968 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1768.845337, 13.343884, 5029.458008>) as driver
+21:08:44.406 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1768.845337, 13.343886, 5029.458008>)
+21:08:47.320 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1768.845215, 13.343885, 5029.458008>)
+21:09:39.210 [VehicleLeave] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] left vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<2714.153076, 21.687683, 4248.030762>)
+21:10:02.085 [VehicleEnter] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] entered vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<2714.153076, 21.687687, 4248.030762>) as driver
+21:10:05.109 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] started vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<2714.153076, 21.687683, 4248.030762>)
+21:10:14.218 [VehicleEngine] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] stopped vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<2682.052490, 21.994450, 4235.388672>)
+21:10:18.171 [VehicleLeave] Player SiR NeRg [uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=] left vehicle Cougar Rust kamo (id=34DF5711F14ED6C01381B88B5247076E pos=<2682.052490, 21.994457, 4235.388672>)
+21:11:17.546 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<2892.768555, 6.504763, 6859.189453>) as driver
+21:12:22.781 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3150.759277, 7.595866, 6727.825684>) as passenger
+21:14:43.648 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3304.541504, 16.475714, 6183.351563>)
+21:14:57.062 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3304.706787, 16.474743, 6183.701660>)
+21:15:10.625 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1768.845703, 13.343886, 5029.458008>) as driver
+21:15:12.640 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<1768.845459, 13.343885, 5029.458008>)
+21:15:57.554 [AI Patrol] Spawning 3 Shamans bots at <3792.839355, 15.630000, 6508.018555>
+21:16:15.398 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3304.703613, 16.474760, 6183.703613>) as driver
+21:16:16.695 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3304.703613, 16.474760, 6183.703613>)
+21:16:19.609 [VehicleAttachments] Player SiR NeRg (uid=v49uXaJny-MXhmq_qvUelv_0QcwRY1-cv9_Yq-5tGIA=) detached Car Battery (type=CarBattery) from vehicle Cougar Rust kamo(id=34DF5711F14ED6C01381B88B5247076E pos=<2682.052490, 21.994457, 4235.388672>)
+21:16:32.882 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3351.212646, 16.475586, 6224.122559>) as passenger
+21:16:46.187 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3445.071045, 17.750479, 6313.797852>)
+21:16:54.656 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] switched seats in vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3445.070557, 17.750484, 6313.798828>) to driver
+21:16:59.031 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] switched seats in vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3445.072754, 17.750450, 6313.795410>) to passenger
+21:17:04.125 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] switched seats in vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3445.070313, 17.750479, 6313.798340>) to driver
+21:17:12.093 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3445.070557, 17.750467, 6313.797363>)
+21:17:14.195 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] stopped vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3445.070068, 17.750467, 6313.797852>)
+21:17:17.101 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3445.070068, 17.750467, 6313.797852>)
+21:17:19.867 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] switched seats in vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3445.072266, 17.750446, 6313.794922>) to passenger
+21:17:41.890 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] switched seats in vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3445.069092, 17.750448, 6313.794922>) to driver
+21:17:44.984 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] switched seats in vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3445.070313, 17.750429, 6313.793945>) to passenger
+21:17:46.960 [Territory] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created territory BIG DADDY at <2279.492432, 54.800003, 3369.461670>
+21:18:03.476 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3445.066650, 17.750607, 6313.793945>) as driver
+21:18:22.882 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3678.506592, 15.672617, 6484.415527>)
+21:19:03.343 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] switched seats in vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3678.509766, 15.621693, 6484.397461>) to driver
+21:19:09.992 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3678.505615, 15.621180, 6484.393555>)
+21:19:49.226 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+21:19:57.054 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3886.404541, 15.674558, 6598.126465>)
+21:21:50.875 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3671.838623, 15.634741, 6475.759766>)
+21:21:53.781 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle Interceptor (id=365D72818D44EF1BEF1E45BA18796601 pos=<3441.847656, 17.622536, 6315.096680>) as driver
+21:21:55.406 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle Interceptor (id=365D72818D44EF1BEF1E45BA18796601 pos=<3441.847656, 17.622534, 6315.096680>)
+21:22:05.921 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3886.404541, 15.674564, 6598.125977>) as driver
+21:22:08.679 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3886.404541, 15.674564, 6598.125977>)
+21:24:19.617 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle Interceptor (id=365D72818D44EF1BEF1E45BA18796601 pos=<3685.767090, 15.520669, 6480.885742>)
+21:24:37.742 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3671.189209, 15.573895, 6474.402832>)
+21:33:58.601 [Party] Player "GalaxyPanda" (id=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+21:37:44.929 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3671.242188, 15.634748, 6479.025879>) as driver
+21:37:46.390 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3671.242432, 15.634743, 6479.024902>)
+21:38:04.140 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3778.877441, 15.634743, 6545.985840>)
+21:38:36.148 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3778.874756, 15.634762, 6545.988770>) as driver
+21:38:38.273 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3778.876953, 15.634744, 6545.986328>)
+21:39:16.960 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3781.862549, 15.634759, 6565.902344>)
+21:40:10.195 [AI Patrol] Spawning 3 Shamans bots at <5132.542969, 15.958245, 7300.998535>
+21:41:26.078 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Interceptor (id=365D72818D44EF1BEF1E45BA18796601 pos=<3685.767090, 15.520665, 6480.885742>) as driver
+21:41:28.070 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Interceptor (id=365D72818D44EF1BEF1E45BA18796601 pos=<3685.767090, 15.520664, 6480.885254>)
+21:41:40.945 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3671.669189, 15.573887, 6474.701660>) as driver
+21:41:42.218 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3671.669189, 15.573887, 6474.701660>)
+21:42:04.796 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3790.380127, 15.573885, 6562.751465>)
+21:42:30.234 [VehicleEnter] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] entered vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3790.380127, 15.573887, 6562.751465>) as driver
+21:42:31.804 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] started vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3790.380127, 15.573885, 6562.751465>)
+21:42:40.039 [VehicleEngine] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] stopped vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3783.009277, 15.573954, 6571.800293>)
+21:42:42.812 [VehicleLeave] Player GalaxyPanda [uid=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=] left vehicle Chevrolet Corvette rust (id=FC41B9ED6848A78FD081F08AD03F089C pos=<3783.009277, 15.573887, 6571.800293>)
+21:46:06.171 [Party] Player "GalaxyPanda" (id=Pk9FmI0iGIJV90L0o-uI7ivHc45DZnNcAVX3v1GVD5Y=) left the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+22:05:38.265 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3781.861084, 15.634762, 6565.901855>) as driver
+22:05:40.250 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<3781.863525, 15.634741, 6565.903320>)
+22:07:56.609 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) left the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+22:08:30.546 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4153.489258, 15.634762, 7275.815918>)
+22:22:39.421 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4153.491211, 15.634744, 7275.809082>) as driver
+22:22:42.976 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4153.490723, 15.634756, 7275.811035>)
+22:22:54.695 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4153.489258, 15.634764, 7275.816406>) as driver
+22:22:57.593 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4153.489746, 15.634761, 7275.816406>)
+22:25:07.695 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4502.906250, 15.910229, 7364.901855>)
+22:25:21.687 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached ToyotaHilux rust Left Door (type=ToyotaHilux_Doors_Driver_rust) from vehicle ToyotaHilux rust(id=9FF5118C7F4C206758FD899B98F23523 pos=<4502.908691, 15.910200, 7364.898926>)
+22:25:30.421 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached ToyotaHilux rust Right Door (type=ToyotaHilux_Doors_coDriver_rust) from vehicle ToyotaHilux rust(id=9FF5118C7F4C206758FD899B98F23523 pos=<4502.908691, 15.910200, 7364.898926>)
+22:30:23.312 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4502.907715, 15.910221, 7364.898438>) as driver
+22:30:25.015 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4502.907715, 15.910225, 7364.897949>)
+22:30:39.390 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4506.391602, 15.892776, 7366.772461>)
+22:30:42.000 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4506.392090, 15.892770, 7366.772461>) as passenger
+22:30:43.789 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4506.392090, 15.892770, 7366.772461>)
+22:30:55.023 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4506.392090, 15.892770, 7366.772461>) as passenger
+22:31:01.648 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4506.390137, 15.892799, 7366.771973>) as driver
+22:31:04.500 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<4506.390137, 15.892800, 7366.771973>)
+22:33:04.781 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6289.465820, 7.546607, 7057.250000>)
+22:35:51.671 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+22:36:02.359 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+22:36:36.445 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+22:36:54.250 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6279.105957, 8.711366, 7098.477539>) as driver
+22:37:34.078 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+22:38:07.953 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+22:39:56.242 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6284.094238, 8.131687, 7087.178711>) as driver
+22:39:58.187 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6284.094727, 8.131691, 7087.177734>)
+22:40:03.578 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6286.646973, 8.132368, 7088.636719>) as passenger
+22:42:40.351 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6687.019531, 16.021488, 6661.662598>) as driver
+22:42:42.210 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6687.056152, 16.014673, 6661.589844>)
+22:43:46.000 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6692.146973, 14.380920, 6811.608398>)
+22:43:48.867 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6692.146973, 14.380919, 6811.608398>)
+22:44:29.484 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6684.271973, 14.419696, 6806.266113>)
+22:46:15.203 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6692.122070, 14.380919, 6811.642090>) as driver
+22:46:17.250 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6692.105469, 14.380919, 6811.642090>)
+22:46:25.812 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6692.217773, 14.381829, 6807.308594>) as passenger
+22:46:46.117 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6684.271973, 14.419682, 6806.266602>) as driver
+22:46:48.820 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6684.271973, 14.419662, 6806.266602>)
+22:47:46.234 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6826.754395, 14.380939, 6787.249023>)
+22:47:49.953 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6826.754395, 14.380919, 6787.252441>)
+22:48:03.976 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6874.431152, 14.419656, 6706.203613>)
+22:49:14.148 [VehicleEnter] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] entered vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6874.431152, 14.419653, 6706.203613>) as driver
+22:49:16.570 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] started vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6874.431641, 14.419658, 6706.203613>)
+22:49:18.210 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6826.754395, 14.380924, 6787.253418>) as driver
+22:49:29.687 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] started vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6826.754395, 14.380938, 6787.250977>)
+22:49:43.421 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6822.400391, 14.381721, 6799.628418>) as passenger
+22:50:24.234 [VehicleEngine] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] stopped vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6592.477051, 14.725852, 7013.910645>)
+22:50:26.859 [VehicleLeave] Player Captain Sodomy [uid=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=] left vehicle Gunter 2 (id=0C71076002449669FDBB1C82ABA80037 pos=<6592.476074, 14.726048, 7013.911621>)
+22:51:02.218 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6555.970703, 14.380920, 7028.222168>)
+22:51:04.859 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6555.971191, 14.381132, 7028.221191>)
+22:52:02.953 [Party] Player "Captain Sodomy" (id=VsEWQWxzvcTpDLQgc9tVyxq5TiqDS9O3QehdBa_YkH8=) left the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+22:55:31.195 [Territory] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created territory OF DIRTYDAN at <6448.815918, 30.564592, 6977.475098>
+22:56:42.867 [Territory] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.375488, 15.741243, 6981.852539>) was invited to join the territory OF DIRTYDAN at <6448.815918, 30.564592, 6977.475098> by the player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)
+23:03:42.859 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6447.347168, 16.743752, 6966.306641>) used the Admin Hammer to build wood_base
+23:03:47.695 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6447.347168, 16.743752, 6966.306641>) used the Admin Hammer to build wood_wallframe
+23:04:00.234 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6447.347168, 16.743752, 6966.306641>) used the Admin Hammer to build wood_wallfinished
+23:04:50.015 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6459.111816, 15.741241, 6977.566895>) used the Admin Hammer to build wood_base
+23:05:00.570 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6459.111816, 15.741241, 6977.566895>) used the Admin Hammer to build wood_doorframe
+23:05:04.500 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6459.111816, 15.741241, 6977.566895>) used the Admin Hammer to build wood_doorfinished
+23:07:10.000 [BaseRaiding] ExpansionWall6x3 (<6460.918457, 15.702235, 6977.621094>) Code set by player "(ADMIN)BLUE" (ID = "OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=" at <6459.866211, 15.741240, 6977.354004>) and the code is 1776
+23:07:43.875 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6556.089355, 14.380926, 7028.218750>) as driver
+23:08:09.218 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6448.908203, 15.741240, 6982.689453>) used the Admin Hammer to build wood_base
+23:08:13.429 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6448.908203, 15.741240, 6982.689453>) used the Admin Hammer to build wood_floorframe
+23:08:17.265 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6448.908203, 15.741240, 6982.689453>) used the Admin Hammer to build wood_floorfinished
+23:08:32.460 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] stopped vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6465.173828, 15.672376, 6975.433105>)
+23:08:35.085 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle ToyotaHilux rust (id=9FF5118C7F4C206758FD899B98F23523 pos=<6465.173828, 15.672329, 6975.436035>)
+23:08:51.023 [VehicleEnter] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] entered vehicle UAZ 469 Roofless (id=064902F1B04EEE749E55AD883BD80B77 pos=<6545.906738, 14.381370, 7027.434082>) as driver
+23:08:53.000 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] started vehicle UAZ 469 Roofless (id=064902F1B04EEE749E55AD883BD80B77 pos=<6545.907227, 14.381356, 7027.434082>)
+23:09:12.968 [VehicleEngine] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] stopped vehicle UAZ 469 Roofless (id=064902F1B04EEE749E55AD883BD80B77 pos=<6462.809082, 15.536803, 6982.746094>)
+23:09:15.421 [VehicleLeave] Player (ADMIN)BLUE [uid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] left vehicle UAZ 469 Roofless (id=064902F1B04EEE749E55AD883BD80B77 pos=<6462.809082, 15.536802, 6982.746094>)
+23:11:36.984 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6471.673828, 15.041749, 7009.715332>) used the Admin Hammer to build wood_base
+23:11:42.851 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6471.673828, 15.041749, 7009.715332>) used the Admin Hammer to build wood_gateframe
+23:11:47.414 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6471.673828, 15.041749, 7009.715332>) used the Admin Hammer to build wood_gatefinished
+23:11:56.898 [BaseRaiding] ExpansionWall6x3 (<6472.075195, 14.987412, 7011.009766>) Code set by player "(ADMIN)BLUE" (ID = "OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=" at <6471.673828, 15.041749, 7009.715332>) and the code is 1776
+23:12:48.507 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6465.007324, 15.714966, 6971.804688>) used the Admin Hammer to build wood_base
+23:12:51.648 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6465.007324, 15.714966, 6971.804688>) used the Admin Hammer to build wood_wallframe
+23:12:54.656 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6465.007324, 15.714966, 6971.804688>) used the Admin Hammer to build wood_wallfinished
+23:13:11.945 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6469.943848, 15.820459, 6973.482422>) used the Admin Hammer to build wood_base
+23:13:17.687 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6469.943848, 15.820459, 6973.482422>) used the Admin Hammer to build wood_gateframe
+23:13:20.742 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6469.943848, 15.820459, 6973.482422>) used the Admin Hammer to build wood_gatefinished
+23:13:22.875 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.025879, 15.741255, 6975.595215>) used the Admin Hammer to build wood_base
+23:13:34.250 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.025879, 15.741255, 6975.595215>) used the Admin Hammer to build wood_floorframe
+23:13:38.562 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.025879, 15.741255, 6975.595215>) used the Admin Hammer to build wood_floorfinished
+23:13:40.414 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6474.964355, 15.908079, 6975.324707>) used the Admin Hammer to build wood_base
+23:13:44.687 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6474.964355, 15.908079, 6975.324707>) used the Admin Hammer to build wood_wallframe
+23:13:48.546 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6474.964355, 15.908079, 6975.324707>) used the Admin Hammer to build wood_wallfinished
+23:14:23.218 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6443.503418, 15.741224, 6981.113281>) used the Admin Hammer to build wood_base
+23:14:27.078 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6443.503418, 15.741224, 6981.113281>) used the Admin Hammer to build wood_floorframe
+23:14:30.695 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6443.503418, 15.741224, 6981.113281>) used the Admin Hammer to build wood_floorfinished
+23:14:47.148 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6477.081055, 15.922377, 6976.960449>) used the Admin Hammer to build wood_base
+23:14:51.593 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6477.081055, 15.922377, 6976.960449>) used the Admin Hammer to build wood_wallframe
+23:14:55.789 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6476.708984, 15.896498, 6977.816895>) used the Admin Hammer to build wood_wallfinished
+23:15:18.453 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6475.406250, 15.757906, 6983.355957>) used the Admin Hammer to build wood_base
+23:15:21.757 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6475.406250, 15.757906, 6983.355957>) used the Admin Hammer to build wood_wallframe
+23:15:23.937 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6444.902832, 15.741240, 6977.046875>) used the Admin Hammer to build wood_base
+23:15:26.210 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6475.406250, 15.757906, 6983.355957>) used the Admin Hammer to build wood_wallfinished
+23:15:27.867 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6444.902832, 15.741240, 6977.046875>) used the Admin Hammer to build wood_floorframe
+23:15:31.812 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6444.902832, 15.741240, 6977.046875>) used the Admin Hammer to build wood_floorfinished
+23:16:03.156 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6471.693359, 15.622297, 6987.793945>) used the Admin Hammer to build wood_base
+23:16:11.187 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6471.693359, 15.622297, 6987.793945>) used the Admin Hammer to build wood_gateframe
+23:16:15.656 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6471.693359, 15.622297, 6987.793945>) used the Admin Hammer to build wood_gatefinished
+23:16:53.984 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6467.846680, 15.552185, 6988.639648>) used the Admin Hammer to build wood_base
+23:16:57.812 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6467.846680, 15.552185, 6988.639648>) used the Admin Hammer to build wood_wallframe
+23:17:02.242 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6467.846680, 15.552185, 6988.639648>) used the Admin Hammer to build wood_wallfinished
+23:17:24.351 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6463.546387, 15.504192, 6986.734375>) used the Admin Hammer to build wood_base
+23:17:29.484 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6463.546387, 15.504192, 6986.734375>) used the Admin Hammer to build wood_wallframe
+23:17:33.156 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6463.546387, 15.504192, 6986.734375>) used the Admin Hammer to build wood_wallfinished
+23:18:30.070 [BaseRaiding] ExpansionWall6x3 (<6473.219727, 15.608924, 6988.841309>) Code set by player "(ADMIN)BLUE" (ID = "OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=" at <6472.144531, 15.624945, 6987.986816>) and the code is 1776
+23:20:06.640 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.685059, 15.741255, 6978.692871>) used the Admin Hammer to build wood_base
+23:20:10.375 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.685059, 15.741255, 6978.692871>) used the Admin Hammer to build wood_floorframe
+23:20:13.828 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.685059, 15.741255, 6978.692871>) used the Admin Hammer to build wood_floorfinished
+23:27:15.218 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6450.500977, 15.741259, 6978.458984>) used the Admin Hammer to build wood_base
+23:27:19.000 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6450.500977, 15.741259, 6978.458984>) used the Admin Hammer to build wood_floorframe
+23:27:22.984 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6450.500977, 15.741259, 6978.458984>) used the Admin Hammer to build wood_floorfinished
+23:28:22.945 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.586914, 15.952333, 6981.494629>) used the Admin Hammer to build wood_base
+23:28:31.046 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.586914, 15.952333, 6981.494629>) used the Admin Hammer to build wood_wallframe
+23:29:03.015 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.520508, 15.952324, 6985.227051>) used the Admin Hammer to build wood_base
+23:29:13.906 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.520508, 15.952324, 6985.227051>) used the Admin Hammer to build wood_floorframe
+23:29:18.218 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6449.520508, 15.952324, 6985.227051>) used the Admin Hammer to build wood_floorfinished
+23:30:06.867 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6448.359863, 15.952333, 6983.045898>) used the Admin Hammer to build wood_base
+23:30:10.796 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6448.359863, 15.952333, 6983.045898>) used the Admin Hammer to build wood_wallframe
+23:30:55.328 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6448.359863, 15.952333, 6983.045898>) used the Admin Hammer to build wood_doorframe
+23:30:59.296 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6448.359863, 15.952333, 6983.045898>) used the Admin Hammer to build wood_doorfinished
+23:31:09.117 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6448.749512, 15.952377, 6981.040039>) used the Admin Hammer to build wood_wallfinished
+23:31:55.421 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6457.390137, 15.741264, 6984.229004>) used the Admin Hammer to build wood_base
+23:32:01.914 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6457.390137, 15.741264, 6984.229004>) used the Admin Hammer to build wood_wallframe
+23:32:05.687 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6457.390137, 15.741264, 6984.229004>) used the Admin Hammer to build wood_wallfinished
+23:32:15.484 [AI Patrol] Spawning 3 Shamans bots at <4426.090820, -5.863002, 2988.639404>
+23:34:28.796 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6446.973633, 15.741251, 6973.312988>) used the Admin Hammer to build wood_base
+23:35:08.484 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6444.209961, 15.741234, 6978.375977>) used the Admin Hammer to build wood_base
+23:35:12.335 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6444.209961, 15.741234, 6978.375977>) used the Admin Hammer to build wood_floorframe
+23:35:19.914 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6443.583496, 15.741224, 6980.930664>) used the Admin Hammer to build wood_floorfinished
+23:35:28.289 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6447.055176, 15.829554, 6973.282227>) used the Admin Hammer to build wood_floorframe
+23:36:14.554 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6446.645508, 15.954473, 6977.550293>) used the Admin Hammer to build wood_floorfinished
+23:36:53.179 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6447.223633, 15.991602, 6976.708984>) used the Admin Hammer to build wood_base
+23:36:57.218 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6447.223633, 15.991602, 6976.708984>) used the Admin Hammer to build wood_floorframe
+23:37:09.109 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6445.512207, 15.741243, 6976.308594>) used the Admin Hammer to build wood_floorfinished
+23:37:44.289 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6450.254883, 15.952885, 6975.252930>) used the Admin Hammer to build wood_base
+23:37:52.218 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6450.254883, 15.952885, 6975.252930>) used the Admin Hammer to build wood_doorframe
+23:37:56.156 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6450.254883, 15.952885, 6975.252930>) used the Admin Hammer to build wood_doorfinished
+23:38:23.453 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6443.832520, 15.953281, 6975.044434>) used the Admin Hammer to build wood_base
+23:38:29.328 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6443.832520, 15.953281, 6975.044434>) used the Admin Hammer to build wood_wallframe
+23:38:31.289 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6449.510742, 18.955078, 6980.145508>) used the Admin Hammer to build wood_base
+23:38:33.093 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6443.832520, 15.953281, 6975.044434>) used the Admin Hammer to build wood_wallfinished
+23:38:39.523 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6449.510742, 18.955078, 6980.145508>) used the Admin Hammer to build wood_hatchframe
+23:38:43.046 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6449.510742, 18.955078, 6980.145508>) used the Admin Hammer to build wood_hatchfinished
+23:39:24.414 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6441.870117, 15.953356, 6977.755859>) used the Admin Hammer to build wood_base
+23:39:28.375 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6441.870117, 15.953356, 6977.755859>) used the Admin Hammer to build wood_wallframe
+23:39:38.062 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6441.870117, 15.953356, 6977.755859>) used the Admin Hammer to build wood_wallfinished
+23:39:39.921 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6448.835938, 15.952833, 6975.908203>) used the Admin Hammer to build wood_base
+23:39:46.914 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6448.042480, 15.952885, 6977.020020>) used the Admin Hammer to build wood_support
+23:39:52.125 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6448.660156, 15.952871, 6974.561523>) used the Admin Hammer to build wood_tread
+23:40:01.781 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6441.470215, 15.953333, 6981.719727>) used the Admin Hammer to build wood_base
+23:40:05.671 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6441.470215, 15.953333, 6981.719727>) used the Admin Hammer to build wood_wallframe
+23:40:09.468 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6441.470215, 15.953333, 6981.719727>) used the Admin Hammer to build wood_wallfinished
+23:40:37.718 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6440.397461, 15.003209, 6985.876953>) used the Admin Hammer to build wood_base
+23:40:44.656 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6440.831055, 15.016517, 6985.647949>) used the Admin Hammer to build wood_wallframe
+23:40:48.617 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6440.831055, 15.016517, 6985.647949>) used the Admin Hammer to build wood_wallfinished
+23:41:44.328 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6448.191895, 18.955170, 6984.246094>) used the Admin Hammer to build wood_base
+23:41:48.695 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6448.191895, 18.955170, 6984.246094>) used the Admin Hammer to build wood_wallframe
+23:41:49.242 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6443.062988, 15.953268, 6975.778320>) used the Admin Hammer to build wood_base
+23:41:51.796 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6448.191895, 18.955170, 6984.246094>) used the Admin Hammer to build wood_wallfinished
+23:41:53.187 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6443.062988, 15.953268, 6975.778320>) used the Admin Hammer to build wood_floorframe
+23:41:57.007 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6443.062988, 15.953268, 6975.778320>) used the Admin Hammer to build wood_floorfinished
+23:42:17.578 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6445.892578, 18.928343, 6984.591309>) used the Admin Hammer to build wood_base
+23:42:22.593 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6445.892578, 18.928343, 6984.591309>) used the Admin Hammer to build wood_wallframe
+23:42:27.929 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6445.892578, 18.928343, 6984.591309>) used the Admin Hammer to build wood_base
+23:42:31.226 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6443.724609, 15.993177, 6979.368164>) used the Admin Hammer to build wood_floorframe
+23:42:34.484 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6445.892578, 18.996407, 6984.591309>) used the Admin Hammer to build wood_floorfinished
+23:42:44.390 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6444.316895, 18.956585, 6983.769043>) used the Admin Hammer to build wood_wallfinished
+23:43:01.148 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6452.104980, 15.952885, 6974.832031>) used the Admin Hammer to build wood_base
+23:43:05.414 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6452.104980, 15.952885, 6974.832031>) used the Admin Hammer to build wood_wallframe
+23:43:09.171 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6452.104980, 15.952885, 6974.832031>) used the Admin Hammer to build wood_wallfinished
+23:43:19.718 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6441.002930, 18.956587, 6981.274414>) used the Admin Hammer to build wood_base
+23:43:23.414 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6441.002930, 18.956587, 6981.274414>) used the Admin Hammer to build wood_wallframe
+23:43:26.851 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6441.002930, 18.956587, 6981.274414>) used the Admin Hammer to build wood_wallfinished
+23:43:43.015 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6441.715332, 18.955629, 6977.726074>) used the Admin Hammer to build wood_base
+23:43:46.250 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6441.715332, 18.955629, 6977.726074>) used the Admin Hammer to build wood_wallframe
+23:43:49.351 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6441.715332, 18.955629, 6977.726074>) used the Admin Hammer to build wood_wallfinished
+23:44:22.476 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6457.493164, 15.741224, 6972.048828>) used the Admin Hammer to build wood_base
+23:44:26.531 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6457.493164, 15.741224, 6972.048828>) used the Admin Hammer to build wood_floorframe
+23:44:30.546 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6457.493164, 15.741224, 6972.048828>) used the Admin Hammer to build wood_floorfinished
+23:44:36.273 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6444.958984, 18.956549, 6981.972656>) used the Admin Hammer to build wood_base
+23:44:41.453 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6446.188965, 18.996403, 6981.839355>) used the Admin Hammer to build wood_floorframe
+23:44:45.539 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6446.188965, 18.996403, 6981.839355>) used the Admin Hammer to build wood_floorfinished
+23:45:05.734 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6452.731445, 15.741240, 6972.505859>) used the Admin Hammer to build wood_base
+23:45:07.476 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6446.532227, 18.994972, 6981.204590>) used the Admin Hammer to build wood_base
+23:45:09.679 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6452.731445, 15.741240, 6972.505859>) used the Admin Hammer to build wood_floorframe
+23:45:13.500 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6452.731445, 15.741240, 6972.505859>) used the Admin Hammer to build wood_floorfinished
+23:45:14.500 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6446.532227, 18.994972, 6981.204590>) used the Admin Hammer to build wood_floorframe
+23:45:18.101 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6446.532227, 18.994972, 6981.204590>) used the Admin Hammer to build wood_floorfinished
+23:45:55.601 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6444.839844, 16.184433, 6970.173340>) used the Admin Hammer to build wood_base
+23:45:59.609 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6444.839844, 16.184433, 6970.173340>) used the Admin Hammer to build wood_floorframe
+23:46:03.570 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6444.839844, 16.184433, 6970.173340>) used the Admin Hammer to build wood_floorfinished
+23:46:18.281 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6451.113281, 18.955141, 6983.937988>) used the Admin Hammer to build wood_base
+23:46:22.968 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6451.113281, 18.955141, 6983.937988>) used the Admin Hammer to build wood_wallframe
+23:46:28.007 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6451.113281, 18.955141, 6983.937988>) used the Admin Hammer to build wood_wallfinished
+23:46:55.281 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6451.676270, 18.954988, 6977.556152>) used the Admin Hammer to build wood_base
+23:47:00.343 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6451.676270, 18.954988, 6977.556152>) used the Admin Hammer to build wood_wallframe
+23:47:04.171 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6451.676270, 18.954988, 6977.556152>) used the Admin Hammer to build wood_wallfinished
+23:48:44.515 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6445.908203, 18.955643, 6977.384277>) used the Admin Hammer to build wood_base
+23:48:48.312 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6445.908203, 18.955643, 6977.384277>) used the Admin Hammer to build wood_floorframe
+23:48:52.609 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6445.908203, 18.955643, 6977.384277>) used the Admin Hammer to build wood_floorfinished
+23:49:17.609 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6447.811523, 18.954992, 6978.183594>) used the Admin Hammer to build wood_base
+23:49:21.210 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6447.811523, 18.954992, 6978.183594>) used the Admin Hammer to build wood_floorframe
+23:49:25.312 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6447.811523, 18.954992, 6978.183594>) used the Admin Hammer to build wood_floorfinished
+23:50:20.843 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6454.959473, 15.741230, 6971.654297>) used the Admin Hammer to build wood_base
+23:50:24.773 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6454.959473, 15.741230, 6971.654297>) used the Admin Hammer to build wood_wallframe
+23:50:28.375 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6454.959473, 15.741230, 6971.654297>) used the Admin Hammer to build wood_wallfinished
+23:50:38.742 [AI Patrol] Spawning 3 Shamans bots at <6782.544922, 14.440670, 6413.459961>
+23:50:58.906 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6450.359863, 15.741241, 6970.703125>) used the Admin Hammer to build wood_base
+23:51:04.750 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6450.359863, 15.741241, 6970.703125>) used the Admin Hammer to build wood_wallframe
+23:51:08.460 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6450.359863, 15.741241, 6970.703125>) used the Admin Hammer to build wood_wallfinished
+23:52:40.875 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6445.989746, 16.744806, 6967.804199>) used the Admin Hammer to build wood_base
+23:52:48.328 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6445.989746, 16.744806, 6967.804199>) used the Admin Hammer to build wood_floorframe
+23:53:08.578 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6446.715332, 16.744781, 6967.839355>) used the Admin Hammer to build wood_floorfinished
+23:53:52.859 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6447.125977, 15.794889, 6971.592773>) used the Admin Hammer to build wood_base
+23:53:56.742 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6447.125977, 15.794889, 6971.592773>) used the Admin Hammer to build wood_wallframe
+23:54:00.500 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6447.125977, 15.794889, 6971.592773>) used the Admin Hammer to build wood_wallfinished
+23:56:25.031 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6444.801270, 18.955641, 6975.762207>) used the Admin Hammer to build wood_base
+23:56:32.523 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6444.801270, 18.955641, 6975.762207>) used the Admin Hammer to build wood_windowframe
+23:56:55.171 [AdminTools] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6444.870117, 18.955641, 6974.893555>) used the Admin Hammer to build wood_windowfinished
+23:57:22.125 [Party] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)
+23:58:28.492 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Sodomizers" (id=0 ownerUID=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= ownerName=Captain Chaos)

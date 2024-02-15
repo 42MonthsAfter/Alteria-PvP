@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 12,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Roblido",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        2632.01, 
+        43.94, 
+        35867.82
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Roblido",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

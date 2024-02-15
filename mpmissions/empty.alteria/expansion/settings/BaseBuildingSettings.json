@@ -36,7 +36,7 @@
         "TripwireTrap"
     ],
     "CanCraftVanillaBasebuilding": 0,
-    "CanCraftExpansionBasebuilding": 1,
+    "CanCraftExpansionBasebuilding": 0,
     "DestroyFlagOnDismantle": 1,
     "DismantleOutsideTerritory": 0,
     "DismantleInsideTerritory": 0,

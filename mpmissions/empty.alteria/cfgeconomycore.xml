@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <economycore>
 	<classes>
-<!--
-These are rootclasses to be used by economy.
-Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
-Do not forget to add attribute act="car", if root class represents moveable vehicles
--->
+
 		<rootclass name="DefaultWeapon" /> <!-- weapons -->
 		<rootclass name="DefaultMagazine" /> <!-- magazines -->
 		<rootclass name="Inventory_Base" /> <!-- inventory items -->
@@ -35,7 +31,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_types_startup" value="true"/>
 		<default name="randomloot_deloot_perevent" value="6" /> <!-- <default name="randomloot_deloot_perevent" value="2" /> -->
 	</defaults>
-	<ce folder="ModTypes/Expansion">
+	<ce folder="ModTypes/42MAModPack">
 		<file name="types.xml" type="types" />
 	</ce>
 	<ce folder="ModTypes/42MADocsGuns">
@@ -44,10 +40,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="ModTypes/42MADocsTextures">
 		<file name="types.xml" type="types" />
 	</ce>
-	<ce folder="ModTypes/42MAModPack">
-		<file name="types.xml" type="types" />
-	</ce>
-	<ce folder="ModTypes/42MAVanillaClothing">
+	<ce folder="ModTypes/442MAVanillaClothing">
 		<file name="types.xml" type="types" />
 	</ce>
 	<ce folder="ModTypes/42MAVehicleParts">
@@ -56,7 +49,19 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="ModTypes/42MAVehicles">
 		<file name="types.xml" type="types" />
 	</ce>
+	<ce folder="ModTypes/BBP">
+		<file name="types.xml" type="types" />
+	</ce>
 	<ce folder="ModTypes/FlipTransport">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/MMG">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/Teddys">
+		<file name="types.xml" type="types" />
+	</ce>
+	<ce folder="ModTypes/Expansion">
 		<file name="types.xml" type="types" />
 	</ce>
 </economycore>

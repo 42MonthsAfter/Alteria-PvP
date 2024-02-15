@@ -1,16 +1,14 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 2,
     "ObjectiveType": 10,
-    "ObjectiveText": "Plant pumkin seeds:",
+    "ObjectiveText": "Discover Your Blood Type",
     "TimeLimit": -1,
     "Active": 1,
     "ActionNames": [
-        "ActionPlantSeed"
+        "ActionTestBloodSelf"
     ],
-    "AllowedClassNames": [
-        "PumpkinSeeds"
-    ],
+    "AllowedClassNames": [],
     "ExcludedClassNames": [],
     "ExecutionAmount": 1
 }

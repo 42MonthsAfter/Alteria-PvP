@@ -3344,7 +3344,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
 		<value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="ExpansionEXPS3HoloOptic">
         <nominal>10</nominal>
@@ -3358,7 +3357,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
 		<value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="ExpansionHAMROptic">
         <nominal>10</nominal>
@@ -3372,7 +3370,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
 		<value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="Expansion_PMII25Optic">
         <nominal>10</nominal>
@@ -3386,7 +3383,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
 		<value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="ExpansionReflexMRSOptic">
         <nominal>20</nominal>
@@ -3399,9 +3395,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
 	<!-- MISC ATTACHEMENTS -->
     <type name="Expansion_M1A_RailAtt">
@@ -3416,8 +3410,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="Expansion_ANPEQ15_Red">
         <nominal>15</nominal>
@@ -3430,8 +3422,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="Expansion_Kar98_Bayonet">
         <nominal>15</nominal>
@@ -3447,7 +3437,6 @@
         <usage name="Hunting"/>
         <usage name="Farm"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
 	<!-- EXPLOSIVES -->
 	<type name="ExpansionSatchel">
@@ -3462,8 +3451,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<!-- CROSSBOWS -->
     <type name="Expansion_Crossbow">
@@ -3478,9 +3465,7 @@
         <category name="weapons"/>
         <usage name="Farm"/>
         <usage name="Village"/>
-        <value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
 	<!-- LAUNCHERS -->
 	<type name="ExpansionRPG7">
@@ -3494,8 +3479,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="ExpansionLAW">
         <nominal>5</nominal>
@@ -3508,8 +3491,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="Expansion_M79">
         <nominal>0</nominal>
@@ -3522,8 +3503,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="ExpansionFlaregun">
         <nominal>0</nominal>
@@ -3536,8 +3515,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<!-- PISTOLS -->
 	<type name="Expansion_Taser_Yellow">
@@ -3551,9 +3528,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Police"/>
-        <value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
 	<type name="Expansion_Taser_Black">
         <nominal>0</nominal>
@@ -3577,7 +3552,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
 	<type name="Expansion_Longhorn">
@@ -3592,8 +3566,6 @@
         <category name="weapons"/>
         <usage name="Hunting"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<!-- SUBMACHINE GUNS -->
 	<type name="Expansion_G36">
@@ -3608,7 +3580,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
 	<type name="Expansion_MPX">
         <nominal>20</nominal>
@@ -3622,7 +3593,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
 	<type name="Expansion_MP5">
         <nominal>20</nominal>
@@ -3636,8 +3606,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="Expansion_MP5SD">
         <nominal>20</nominal>
@@ -3650,8 +3618,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="Expansion_MP5_RailAtt">
         <nominal>20</nominal>
@@ -3664,9 +3630,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="Expansion_MP7">
         <nominal>20</nominal>
@@ -3679,8 +3642,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="Expansion_Kedr">
         <nominal>20</nominal>
@@ -3694,7 +3655,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
 	<type name="Expansion_VityazSN">
         <nominal>20</nominal>
@@ -3708,8 +3668,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<!-- ASSAULT RIFLES -->
 	<type name="Expansion_M16">
@@ -3723,8 +3681,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Expansion_M1A">
         <nominal>9</nominal>
@@ -3737,8 +3693,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Expansion_M14">
         <nominal>12</nominal>
@@ -3765,8 +3719,6 @@
         <category name="weapons"/>
         <usage name="Hunting"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<!-- SHOTGUNS -->
 	<type name="Expansion_BenelliM4">
@@ -3780,8 +3732,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
 	</type>
 	<!-- SNIPER RIFLES -->
     <type name="Expansion_AWM">
@@ -3795,8 +3745,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="Expansion_Kar98">
         <nominal>25</nominal>
@@ -3813,7 +3761,6 @@
         <usage name="Hunting"/>
 		<value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
 	<!-- AMMOBOXES -->
 	<type name="AmmoBox_Expansion_46x30_25rnd">
@@ -3828,8 +3775,6 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="AmmoBox_Expansion_338_15rnd">
         <nominal>10</nominal>
@@ -3843,8 +3788,6 @@
         <category name="weapons"/>
         <tag name="shelves"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="Expansion_AmmoBox_8mm_15rnd">
         <nominal>30</nominal>
@@ -3890,8 +3833,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="ExpansionAmmoLAW">
         <nominal>8</nominal>
@@ -3904,8 +3845,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="Ammo_Expansion_M203_Smoke_White">
         <nominal>10</nominal>
@@ -4125,9 +4064,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Police"/>
-        <value name="Tier1"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
     <type name="Mag_Expansion_Vityaz_30Rnd">
         <nominal>25</nominal>
@@ -4141,8 +4078,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Mag_Expansion_M14_20Rnd">
         <nominal>8</nominal>
@@ -4156,8 +4091,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
     <type name="Mag_Expansion_M14_10Rnd">
         <nominal>12</nominal>
@@ -4172,8 +4105,6 @@
         <usage name="Military"/>
         <usage name="Town"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier1"/>
     </type>
     <type name="Mag_Expansion_M9_15Rnd">
         <nominal>30</nominal>
@@ -4199,7 +4130,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
 	<type name="Mag_Expansion_G36_30Rnd">
@@ -4214,7 +4144,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
     </type>
 	<type name="Mag_Expansion_Kedr_20Rnd">
 	    <nominal>30</nominal>
@@ -4227,7 +4156,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier1"/>
         <value name="Tier2"/>
 	</type>
 	<type name="Mag_Expansion_MP7_40Rnd">
@@ -4241,8 +4169,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
 	</type>
 	<type name="Mag_Expansion_AWM_5Rnd">
 	    <nominal>20</nominal>
@@ -4255,7 +4181,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Tier4"/>
 	</type>
 	<!-- CURRENCYS -->
 	<type name="ExpansionGoldBar">
@@ -4752,8 +4677,6 @@
         <usage name="Police"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
     </type>
 	<type name="ExpansionBoltCutters">
         <nominal>0</nominal>

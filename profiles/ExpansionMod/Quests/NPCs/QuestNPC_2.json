@@ -1,23 +1,23 @@
 {
     "ConfigVersion": 6,
     "ID": 2,
-    "ClassName": "ExpansionQuestNPCElias",
+    "ClassName": "ExpansionQuestNPCFrancis",
     "Position": [
-        0.0,
-        0.0,
-        0.0
+        4866.01, 
+        10.4577, 
+        2297.9
     ],
     "Orientation": [
-        -10.0,
+        -163.858,
         0.0,
         0.0
     ],
-    "NPCName": "Steve",
+    "NPCName": "Francis",
     "DefaultNPCText": "What do you want? I am busy...",
     "Waypoints": [],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "NBCLoadout",
+    "NPCLoadoutFile": "NPC2Loadout",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,

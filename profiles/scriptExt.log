@@ -1,5 +1,0 @@
-02-04 12:04:19 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<8b3d8800>
-02-04 12:04:19 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<6a01a010>
-02-04 12:47:45 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<8b3d8800>
-02-04 12:47:45 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<6a01a010>
-02-04 12:47:45 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<6a01a010> saved as alive

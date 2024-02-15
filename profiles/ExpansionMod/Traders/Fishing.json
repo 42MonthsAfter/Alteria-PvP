@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_FISHING",
+    "DisplayName": "FISHING & HUNTING",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -12,7 +12,8 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "Fishing"
+        "Rare_Pelts",
+        "Rare_Fish"
     ],
     "Items": {
         "carp": 1,

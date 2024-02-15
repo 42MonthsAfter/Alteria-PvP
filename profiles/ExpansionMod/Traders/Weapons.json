@@ -14,13 +14,12 @@
     "Categories": [
         "Ammo_Boxes",
         "Assault_Rifle_Mags",
-        "Cosmetics",
         "Submachine_Gun_Mags",
         "Sniper_Rifles_Mags",
         "Shotgun_Mags",
         "Rifle_Mags",
         "Pistol_Mags",
-        "Optics"
+        "Cosmetics"
     ],
     "Items": {
         "expansionammorpg": 3,

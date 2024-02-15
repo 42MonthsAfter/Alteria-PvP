@@ -1,0 +1,19 @@
+13:47:09.031 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+13:47:09.031 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+13:47:09.031 [Expansion Quests] - Create new quest instance for quest: 61 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+13:47:09.035 [AI Patrol] Spawning 3 Shamans bots at <4833.790527, 47.840000, 1333.133423>
+13:47:09.128 [AI Patrol] Spawning 3 Shamans bots at <4423.389160, -5.614249, 2990.764404>
+13:47:23.347 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 61
+13:47:33.285 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= for quest 62
+13:47:47.113 [AI Patrol] Spawning 3 Shamans bots at <3744.614258, 4.640000, 5971.872559>
+13:47:47.125 [AI Patrol] Spawning 3 Shamans bots at <3737.098877, 4.640000, 5976.481445>
+13:47:47.136 [AI Patrol] Spawning 3 Shamans bots at <4151.279785, 18.289940, 4780.644043>
+13:47:47.148 [AI Patrol] Spawning 3 Shamans bots at <4121.067871, 18.289940, 4763.045410>
+13:47:47.160 [AI Patrol] Spawning 3 Shamans bots at <4164.678223, 18.289940, 4786.615723>
+13:47:47.171 [AI Patrol] Spawning 3 Shamans bots at <3682.104980, 4.640000, 5996.889648>
+13:47:47.183 [AI Patrol] Spawning 3 Shamans bots at <3798.090088, 4.640000, 5967.420410>
+13:47:47.195 [AI Patrol] Spawning 3 Shamans bots at <3707.912109, 4.640000, 6051.742676>
+13:47:47.203 [AI Patrol] Spawning 3 Shamans bots at <2726.025879, 43.939999, 5965.836426>
+13:52:11.031 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer
+14:18:40.515 [AI Patrol] Spawning 3 Shamans bots at <5312.690918, 30.700001, 1419.538940>
+14:18:41.234 [AI Patrol] Spawning 3 Shamans bots at <5824.861816, 26.129999, 1766.486816>

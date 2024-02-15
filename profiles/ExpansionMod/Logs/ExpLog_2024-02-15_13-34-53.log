@@ -1,0 +1,7 @@
+13:36:43.257 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+13:36:43.257 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+13:36:43.257 [Expansion Quests] - Create new quest instance for quest: 61 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+13:36:43.261 [AI Patrol] Spawning 3 Shamans bots at <4903.922363, 46.903736, 1390.057129>
+13:36:43.355 [AI Patrol] Spawning 3 Shamans bots at <4431.035645, -5.420190, 2997.760986>
+13:37:12.625 [AI Patrol] Spawning 3 Shamans bots at <5071.839844, 35.286526, 1435.852051>
+13:41:49.128 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer_Military

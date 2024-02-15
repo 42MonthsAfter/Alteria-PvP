@@ -1,0 +1,10 @@
+14:21:49.441 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:21:49.441 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+14:21:49.441 [Expansion Quests] - Create new quest instance for quest: 62 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:21:49.445 [AI Patrol] Spawning 3 Shamans bots at <4984.390137, 46.617958, 1287.461182>
+14:22:17.761 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4985.015137, 3.842118, 2144.839844>) Entered the safezone
+14:22:20.316 [AI Patrol] Spawning 3 Shamans bots at <5829.394043, 26.255823, 1946.328857>
+14:22:25.656 [AI Patrol] Spawning 3 Shamans bots at <4416.295898, -4.709010, 3004.693115>
+14:23:30.628 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 62
+14:26:50.968 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer_Basebuilding
+14:29:01.804 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<1801.101196, 6.382359, 7611.024902>) Left the safezone

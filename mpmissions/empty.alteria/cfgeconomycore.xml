@@ -64,4 +64,7 @@
 	<ce folder="ModTypes/Expansion">
 		<file name="types.xml" type="types" />
 	</ce>
+	<ce folder="ModTypes/Gebs">
+		<file name="types.xml" type="types" />
+	</ce>
 </economycore>

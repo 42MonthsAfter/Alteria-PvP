@@ -1,0 +1,112 @@
+14:32:07.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:32:07.945 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+14:32:42.914 [AI Patrol] Spawning 3 Shamans bots at <4817.979004, 47.840000, 1340.466797>
+14:32:43.011 [AI Patrol] Spawning 3 Shamans bots at <4413.880371, -5.135015, 2997.901855>
+14:32:43.480 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4828.025391, 6.337271, 2266.367432>) Entered the safezone
+14:36:06.589 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= for quest 16
+14:36:22.253 [AI Patrol] Spawning 3 Shamans bots at <6687.969727, 3.008428, 3206.487305>
+14:36:22.265 [AI Patrol] Spawning 3 Shamans bots at <6300.464355, 55.764465, 4023.816650>
+14:36:32.367 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6736.412109, 19.120001, 3694.616211>) Left the safezone
+14:36:35.105 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4854.000977, 10.519625, 2291.162354>) Entered the safezone
+14:36:51.191 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 16
+14:37:17.570 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Basebuilding
+14:37:30.789 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+14:37:30.800 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+14:37:30.800 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+14:37:30.800 [AI Patrol] Spawning 3 Shamans bots at <4859.708984, 15.630000, 7546.458008>
+14:37:30.816 [AI Patrol] Spawning 3 Shamans bots at <4086.904785, 15.756714, 6992.829102>
+14:37:31.769 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+14:40:04.757 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2163.549316, 54.812496, 3064.541504>) Left the safezone
+14:42:02.488 [VehicleAttachments] Player [Admin] Bunker (uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) detached Car Battery (type=CarBattery) from vehicle ToyotaHilux rust(id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.270264, 11.645014, 4810.994629>)
+14:42:18.718 [VehicleAttachments] Player [Admin] Bunker (uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) detached Headlight Bulb (type=HeadlightH7) from vehicle ToyotaHilux rust(id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.270264, 11.645014, 4810.994629>)
+14:42:52.789 [AI Patrol] Spawning 3 Shamans bots at <1705.361816, 15.570000, 487.084229>
+14:43:38.656 [VehicleAttachments] Player [Admin] Bunker (uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) detached Car Battery (type=CarBattery) from vehicle BMW (rust)(id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489698, 656.071228>)
+14:43:46.316 [VehicleAttachments] Player [Admin] Bunker (uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) detached Car Radiator (type=CarRadiator) from vehicle BMW (rust)(id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489698, 656.071228>)
+14:46:23.753 [VehicleAttachments] Player [Admin] Bunker (uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) detached Car Radiator (type=CarRadiator) from vehicle URAL 4320(id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<4801.425293, 47.881466, 1265.666992>)
+14:46:41.855 [AI Patrol] Spawning 3 Shamans bots at <7378.300781, 26.373766, 2141.651611>
+14:46:41.867 [AI Patrol] Spawning 3 Shamans bots at <6045.694824, 26.249302, 1986.039307>
+14:46:41.878 [AI Patrol] Spawning 3 Shamans bots at <6104.687012, 8.150000, 2621.920166>
+14:46:41.886 [AI Patrol] Spawning 3 Shamans bots at <7143.751465, 86.305092, 1254.120117>
+14:46:41.894 [AI Patrol] Spawning 3 Shamans bots at <6019.291992, 26.129999, 1916.969604>
+14:47:26.921 [VehicleAttachments] Player [Admin] Bunker (uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) detached Cougar Rust kamo Hood (type=Cougar_Doors_hood_rust) from vehicle Cougar Rust kamo(id=B12A11A4E64D99AE25B937A42F9FC65B pos=<6779.290527, 26.067690, 2119.113281>)
+14:47:35.855 [VehicleAttachments] Player [Admin] Bunker (uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) detached Car Battery (type=CarBattery) from vehicle Cougar Rust kamo(id=B12A11A4E64D99AE25B937A42F9FC65B pos=<6779.290527, 26.067690, 2119.113281>)
+14:48:56.085 [VehicleAttachments] Player [Admin] Bunker (uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) detached Car Radiator (type=CarRadiator) from vehicle G65 Rust (id=AB5260B2CC470CF123C81491A910CE2F pos=<6767.297852, 19.053844, 3780.563232>)
+14:49:20.023 [AI Patrol] Spawning 3 Shamans bots at <4010.601807, 15.630000, 6651.572266>
+14:52:29.179 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+14:52:29.183 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+14:52:29.183 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 3
+14:52:29.187 [AI Patrol] Spawning 3 Shamans bots at <5560.251953, 39.556076, 4997.852539>
+14:52:30.160 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+14:57:30.605 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+14:57:30.609 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+14:57:30.609 [AI Patrol] Spawning 3 Shamans bots at <2519.328369, 43.939999, 5827.485840>
+14:57:30.617 [AI Patrol] Spawning 3 Shamans bots at <2681.280518, 43.939999, 5925.712402>
+14:57:30.625 [AI Patrol] Spawning 3 Shamans bots at <2502.693359, 43.939999, 5737.111816>
+14:57:30.632 [AI Patrol] Spawning 3 Shamans bots at <2511.511475, 43.939999, 5700.401855>
+14:57:30.640 [AI Patrol] Spawning 3 Shamans bots at <2487.031250, 44.263485, 5950.162109>
+15:03:57.523 [AI Patrol] Spawning 3 Shamans bots at <4004.122314, 15.630000, 6611.193359>
+15:08:47.300 [AI Patrol] Spawning 3 Shamans bots at <4541.169434, 15.700000, 7743.963379>
+15:09:04.902 [VehicleAttachments] Player [Admin] Bunker (uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) detached Car Battery (type=CarBattery) from vehicle Citroen 2CV Rust (id=3B7C56F0FA4426C0D7746AA85E15D5A4 pos=<2270.238770, 94.520927, 6341.175293>)
+15:10:13.562 [VehicleAttachments] Player [Admin] Bunker (uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) detached Car Battery (type=CarBattery) from vehicle HAMMER_H1 black_rust(id=46585D722E4909CABA20EFBAFD293760 pos=<6802.768066, 14.416528, 6792.102051>)
+15:11:02.617 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4822.393066, 6.322497, 2270.113770>) Entered the safezone
+15:17:14.871 [AI Patrol] Spawning 3 Shamans bots at <4333.454590, 15.942184, 7637.671387>
+15:17:30.792 [AI Patrol] Spawning 3 Shamans bots at <4358.428223, 15.700000, 7671.416016>
+15:26:06.578 [AI Patrol] Spawning 3 Shamans bots at <5267.622070, 18.401670, 5048.741699>
+15:26:32.460 [AI Patrol] Spawning 3 Shamans bots at <5689.495117, 194.302414, 4410.770020>
+15:28:48.203 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+15:30:26.058 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+15:30:26.066 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:30:26.066 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+15:30:27.027 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+15:30:43.101 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+15:31:07.082 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+15:31:07.089 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:31:07.089 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+15:31:08.039 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+15:37:47.507 [AI Patrol] Spawning 3 Shamans bots at <5532.043945, 209.889999, 4124.230957>
+15:38:45.003 [VehicleDeleted] Citroen2CV_rust (id=3B7C56F0FA4426C0D7746AA85E15D5A4 pos=<2270.238770, 94.520927, 6341.175293>)
+15:44:05.179 [AI Patrol] Spawning 3 Shamans bots at <4160.962402, 18.289940, 4784.447266>
+15:44:09.015 [AI Patrol] Spawning 3 Shamans bots at <4140.915527, 18.289940, 4773.565430>
+15:44:14.062 [AI Patrol] Spawning 3 Shamans bots at <4118.339844, 18.289940, 4744.604980>
+15:44:42.394 [AI Patrol] Spawning 3 Shamans bots at <3999.625977, 20.257381, 4655.346680>
+15:44:46.484 [AI Patrol] Spawning 3 Shamans bots at <3981.264404, 19.371695, 4629.877441>
+15:44:50.421 [AI Patrol] Spawning 3 Shamans bots at <3974.482910, 19.482822, 4653.475098>
+15:45:00.843 [AI Patrol] Spawning 3 Shamans bots at <4017.471680, 9.818224, 4864.542480>
+15:45:44.457 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+15:53:48.511 [AI Patrol] Spawning 3 Shamans bots at <3675.319092, 5.367870, 4662.273438>
+16:03:10.574 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Basebuilding
+16:05:31.078 [AI Patrol] Spawning 3 Shamans bots at <3944.656738, 17.787628, 4639.104980>
+16:17:31.191 [AI Patrol] Spawning 3 Shamans bots at <2326.946045, 54.799999, 3052.285889>
+16:18:03.167 [AI Patrol] Spawning 3 Shamans bots at <2166.174561, 54.799999, 3057.142334>
+16:18:48.558 [AI Patrol] Spawning 3 Shamans bots at <2100.910889, 54.799999, 3048.612549>
+16:18:51.113 [AI Patrol] Spawning 3 Shamans bots at <2089.466553, 54.799999, 3021.933594>
+16:19:15.140 [AI Patrol] Spawning 3 Shamans bots at <2056.692871, 54.799999, 3020.456299>
+16:19:32.332 [AI Patrol] Spawning 3 Shamans bots at <1965.328613, 54.799999, 2951.201904>
+16:19:33.398 [AI Patrol] Spawning 3 Shamans bots at <1960.119995, 54.799999, 2929.283203>
+16:19:35.804 [AI Patrol] Spawning 3 Shamans bots at <1943.045654, 54.799999, 2937.248535>
+16:20:56.851 [AI Patrol] Spawning 3 Shamans bots at <2901.503418, 53.410000, 3205.647461>
+16:21:07.394 [AI Patrol] Spawning 3 Shamans bots at <2837.717285, 53.410000, 3202.527344>
+16:26:24.339 [Killfeed] Capt Chaos got killed by Survivor (Shamans) with SK 59/66 from a distance of 2 m.
+16:27:04.710 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+16:27:04.714 [AI Patrol] Spawning 3 Shamans bots at <3751.627441, 15.630000, 6564.408691>
+16:27:04.726 [AI Patrol] Spawning 3 Shamans bots at <3767.956055, 15.630000, 6565.974609>
+16:27:04.742 [AI Patrol] Spawning 3 Shamans bots at <3738.906250, 4.640000, 5967.815918>
+16:27:04.753 [AI Patrol] Spawning 3 Shamans bots at <3742.946533, 4.640000, 5973.064453>
+16:27:04.765 [AI Patrol] Spawning 3 Shamans bots at <3709.038574, 4.640000, 6040.951660>
+16:27:04.781 [AI Patrol] Spawning 3 Shamans bots at <3669.150391, 4.640000, 6002.511719>
+16:27:04.796 [AI Patrol] Spawning 3 Shamans bots at <3807.115234, 4.640000, 5973.307617>
+16:27:04.804 [AI Patrol] Spawning 3 Shamans bots at <3770.339355, 15.630000, 6567.223633>
+16:27:05.714 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+16:27:55.597 [AI Patrol] Spawning 3 Shamans bots at <3423.239990, 17.368374, 6310.863770>
+16:29:16.187 [AI Patrol] Spawning 3 Shamans bots at <3327.865723, 16.469999, 6218.760742>
+16:36:30.261 [AI Patrol] Spawning 3 Shamans bots at <3673.244385, 5.354221, 4651.366699>
+16:45:52.886 [AI Patrol] Spawning 3 Shamans bots at <1625.552246, 44.780598, 3077.908203>
+16:53:11.300 [AI Patrol] Spawning 3 Shamans bots at <979.738464, 6.682146, 3099.792480>
+16:53:12.421 [AI Patrol] Spawning 3 Shamans bots at <977.132385, 5.997698, 3112.552979>
+16:53:55.433 [AI Patrol] Spawning 3 Shamans bots at <848.338562, 5.260000, 3288.611084>
+16:54:02.414 [AI Patrol] Spawning 3 Shamans bots at <834.170227, 5.260000, 3333.653076>
+16:58:48.843 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+17:07:11.277 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+17:07:11.285 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+17:07:11.285 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+17:07:12.230 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3

@@ -12,7 +12,7 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "Vehicle_Parts"
+        "Vehicle_Parts:0"
     ],
     "Items": {}
 }

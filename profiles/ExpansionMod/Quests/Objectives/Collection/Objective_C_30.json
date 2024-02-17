@@ -2,13 +2,13 @@
     "ConfigVersion": 27,
     "ID": 30,
     "ObjectiveType": 4,
-    "ObjectiveText": "Collect 10 Yellow Construction Helmets",
+    "ObjectiveText": "Bring Me 2 Bear Pelts",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 10,
-            "ClassName": "ConstructionHelmet_Yellow",
+            "Amount": 2,
+            "ClassName": "BearPelt",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }

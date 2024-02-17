@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 29,
     "Type": 1,
-    "Title": "Collect 6 Cans of KVASS",
+    "Title": "Bring Me 3 Bluegills",
     "Descriptions": [
-        "So here is the deal, I got dumped. My girlfriend wrote me from Canada to break things off. Can you believe that? Any chance you can round up some beer so I can drink away my sorrows?",
-        "No I can't show you a picture of her. Yes, she is totally real. Whats your problem?",
-        "Time to put on some old sad bastard music and throw back some room temp brews. You're the best."
+        "So yeah, black bass were good but I have a theory that people won't know the difference if it's a lesser fish. Want to get me some bluegill to help me prove my point?",
+        "This should be easy! Those little bastards are every where!",
+        "What do you think about this new stew? Can you tell a difference?"
     ],
-    "ObjectiveText": "Collect 6 Cans of KVASS",
+    "ObjectiveText": "Bring Me 3 Bluegills",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_Colt1911Stainless",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_Colt1911Stainless_mag_7Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_SP1Vektor",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_SP1Vektor_mag_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_SP1Vektor_mag_15Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
@@ -46,7 +61,7 @@
         {
             "ConfigVersion": 27,
             "ID": 29,
-            "ObjectiveType": 4
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,

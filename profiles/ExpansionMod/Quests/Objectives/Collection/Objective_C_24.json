@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 26,
     "ID": 24,
-    "ObjectiveType": 4,
-    "ObjectiveText": "Collect 5 Heat Packs",
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 4 Deer Pelts",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 5,
-            "ClassName": "Heatpack",
+            "Amount": 4,
+            "ClassName": "DeerPelt",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }

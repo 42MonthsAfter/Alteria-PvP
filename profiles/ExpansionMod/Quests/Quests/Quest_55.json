@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 55,
     "Type": 1,
-    "Title": "Kill 8 Zombies with a Crowbar",
+    "Title": "Find the Stash at the Airfield",
     "Descriptions": [
-        "Lets trying getting up close and personal. How about you grab yourself a crowbar and put 8 zombies out of their misery?",
-        "What? You already did this with a screwdriver. This should be a piece of cake.",
-        "Alright! On to the next quest."
+        "Alright, this one isn't for the faint of heart. Visit the Airfield and dig up some magic.",
+        "It's not that scary, is it?",
+        "I don't know if I have anything more challenging than that one..."
     ],
-    "ObjectiveText": "Kill 8 Zombies with a Crowbar",
+    "ObjectiveText": "Find the Stash at the Airfield",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,31 +20,30 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_DoubleBarrelShotgun",
-            "Amount": 1,
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
-    ],
-    "NeedToSelectReward": 1,
-    "RandomReward": 0,
+          }
+        ],
+        "NeedToSelectReward": 1,
+        "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        5
+        7
     ],
     "QuestTurnInIDs": [
-        5
+        7
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 55,
-            "ObjectiveType": 2
+            "ObjectiveType": 6
         }
     ],
     "QuestColor": 0,

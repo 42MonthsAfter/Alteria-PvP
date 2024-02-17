@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 49,
     "Type": 1,
-    "Title": "Kill 20 Heavy Military Zombies",
+    "Title": "Kill 6 Military Zombies with a Broom",
     "Descriptions": [
-        "Look, this one is about as tough as it gets. You know those military zombies with chest rigs and helmets? Yeah, get me 20 of them.",
-        "You've come this far, surely you can handle this.",
-        "Seriously, I'm going to have to come up with something more difficult. You are running through these like it's nothing."
+        "It's time to clean up the military zones. Literally. Grab yourself a broom and kill 6 zombies in uniform and we will see whats up.",
+        "What you standing around for?",
+        "Seriously? You pulled that off? Alrighty then."
     ],
-    "ObjectiveText": "Kill 20 Heavy Military Zombies",
+    "ObjectiveText": "Kill 6 Military Zombies with a Broom",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_P90",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_P90_mag_50Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_FamasSpecialOps",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_FamasSpecialOps_mag_40Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_FamasSpecialOps_mag_40Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,

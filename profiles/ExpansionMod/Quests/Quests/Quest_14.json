@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 14,
     "Type": 1,
-    "Title": "Visit Deadman's Rock",
+    "Title": "Collect 5 Heat Packs",
     "Descriptions": [
-        "One of the most over interesting areas on Alteria, Deadman's Rock is totally worth seeing at least once. Check it out and get back here quick.",
-        "What are you waiting for?",
-        "You made it all the way up there, back and survived?"
+        "This is pretty simple... My hands are cold as shit. Get out there and scoop me up some heat packs so I can help keep my digits nice and toasty.",
+        "What? Wear gloves? What kind of suggestion is that?",
+        "Hell yes! I'm going to have the warmest hands in the Holler. No, I won't prove it. Freaking weirdo."
     ],
-    "ObjectiveText": "Visit Deadman's Rock",
+    "ObjectiveText": "Collect 5 Heat Packs",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,33 +20,48 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_Beretta92FSDesert",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_Beretta92FS_mag_15Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_Beretta92FS",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_Beretta92FS_mag_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_Beretta92FS_mag_15Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        2
+        3
     ],
     "QuestTurnInIDs": [
-        2
+        3
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 14,
-            "ObjectiveType": 3
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,

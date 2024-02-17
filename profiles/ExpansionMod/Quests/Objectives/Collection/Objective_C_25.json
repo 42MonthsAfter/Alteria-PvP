@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 26,
     "ID": 25,
-    "ObjectiveType": 4,
-    "ObjectiveText": "Collect 4 3 Digit Combination Locks",
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 4 Cow Pelts",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
             "Amount": 4,
-            "ClassName": "CombinationLock",
+            "ClassName": "CowPelt",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }

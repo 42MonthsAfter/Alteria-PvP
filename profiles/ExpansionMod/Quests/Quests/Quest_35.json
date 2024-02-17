@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 35,
     "Type": 1,
-    "Title": "Bring Me 4 Cow Pelts",
+    "Title": "Kill 20 Construction Workers",
     "Descriptions": [
-        "Alright, so here is the deal, I'm thinking about trying to make some boots but need some genuine leather. Any chance you can grab me enough cow pelts so I can make a few trial pairs?",
-        "Moo moo buckaroo. Where those pelts at.",
-        "Getting it done! Thank you so much. I can't wait to get my cobbler on."
+        "My girlfriend used to date a construction worker and it makes me a little jealous. Go out and kill 20 of them and let's talk. Oh, you wouldn't know her, by the way, she lives in Canada.",
+        "So this one is too tough for you, eh? I was wondering if you were up for it...",
+        "Hells yes, nice job. I feel much better about myself now."
     ],
-    "ObjectiveText": "Bring Me 4 Cow Pelts",
+    "ObjectiveText": "Kill 20 Construction Workers",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,33 +20,48 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_SST30",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_SST30_mag_35Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_ACR",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_ACR_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_ACR_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        4
+        5
     ],
     "QuestTurnInIDs": [
-        4
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 35,
-            "ObjectiveType": 5
+            "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,

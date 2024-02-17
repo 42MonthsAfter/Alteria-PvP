@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 37,
     "Type": 1,
-    "Title": "Bring Me 5 Pig Pelts",
+    "Title": "Kill 20 NBC Zombies",
     "Descriptions": [
-        "So this is going to sound pretty crazy, but we are thinking about starting a football league. I know, but things get boring around here. We need to make some balls thouh. Any chance you could get us some pig pelts?",
-        "We are all counting on you!",
-        "This is going to be amazing. The half time show is going to be next level."
+        "Ever seen those zombies running around in NBC gear thinking they are all great? I can't stand them. Kill 20 and I'll hook you up.",
+        "Having troubles? You got to know where to find them!",
+        "Heck yeah, screw those guys. Reap your reward, you savage you."
     ],
-    "ObjectiveText": "Bring Me 5 Pig Pelts",
+    "ObjectiveText": "Kill 20 NBC Zombies",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,33 +20,48 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_Tec9",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_Tec9_mag_50Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_ACWR",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_ACWR_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_ACWR_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        4
+        5
     ],
     "QuestTurnInIDs": [
-        4
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 37,
-            "ObjectiveType": 5
+            "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,

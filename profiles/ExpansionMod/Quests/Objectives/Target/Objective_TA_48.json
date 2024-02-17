@@ -2,7 +2,7 @@
     "ConfigVersion": 27,
     "ID": 48,
     "ObjectiveType": 2,
-    "ObjectiveText": "Kill 20 Military Zombies",
+    "ObjectiveText": "Kill 8 Military Zombies with a Steak Knife",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
@@ -12,7 +12,7 @@
     ],
     "MaxDistance": -1.0,
     "MinDistance": -1.0,
-    "Amount": 20,
+    "Amount": 8,
     "ClassNames": [
         "ZmbM_SoldierNormal",
         "ZmbM_usSoldier_normal_Desert",
@@ -23,7 +23,9 @@
         "InfectedSoldierHardJMCWinter"
     ],
     "CountSelfKill": 0,
-    "AllowedWeapons": [],
+    "AllowedWeapons": [
+        "SteakKnife"
+    ],
     "ExcludedClassNames": [],
     "CountAIPlayers": 0,
     "AllowedTargetFactions": [],

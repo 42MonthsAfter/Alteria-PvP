@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 11,
     "Type": 1,
-    "Title": "Visit Cassandra",
+    "Title": "Collect 5 Packs of Pumpkin Seeds",
     "Descriptions": [
-        "There is a lot to see on Alteria, to get started why don't you make your way to Cassandra. It's a big town way up north with plenty of places to loot, some tunnels to check out,",
-        "What? Cassandra too far away?",
-        "Wow, you made it all the way up north and back? Nice work."
+        "I'm looking to get a little project going, could use your help. Get out there and get me 5 packs of pumpkin seeds so I can get the art project start. Yeah, I said art, what of it?.",
+        "I seriously can't finish this project with out your help. Need me those seeds!",
+        "Amazing! I'm one step closer to be the Andy Warhol of Deer Isle."
     ],
-    "ObjectiveText": "Visit Cassandra",
+    "ObjectiveText": "Collect 5 Packs of Pumpkin Seeds",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,40 +20,48 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_SmithWesson_Knife_Green",
-            "Amount": 1,
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        },
-        {
-            "ClassName": "TWP_SmithWesson_Knife_Black",
+          },
+          {
+            "ClassName": "TWP_ArexZero",
             "Amount": 1,
+            "Attachments": [
+              "TWP_ArexZero_mag_18Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_ArexZero_mag_18Rnd",
+            "Amount": 3,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        2
+        3
     ],
     "QuestTurnInIDs": [
-        2
+        3
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 11,
-            "ObjectiveType": 3
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,

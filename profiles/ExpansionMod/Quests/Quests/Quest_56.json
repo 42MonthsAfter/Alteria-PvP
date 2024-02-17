@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 56,
     "Type": 1,
-    "Title": "Kill 5 Zombies with a Shovel",
+    "Title": "Find the Stash at the Orchard",
     "Descriptions": [
-        "You know the nice thing about killing zombies with a shovel? You can dig their grave too. Take out 5 of these suckers, but don't worry about putting them in the ground.",
-        "Get out there and get to swinging! Not like that... Pervert.",
-        "Well played. Going to have to make things a little harder on you next time."
+        "No one really knows how at the Orchard became to be, but there are some goodies out there worth digging up.",
+        "Get out there.",
+        "Nice! You didn't start growing a third arm did you?"
     ],
-    "ObjectiveText": "Kill 5 Zombies with a Shovel",
+    "ObjectiveText": "Find the Stash at the Orchard",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,31 +20,30 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_KSG",
-            "Amount": 1,
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
-    ],
-    "NeedToSelectReward": 1,
-    "RandomReward": 0,
+          }
+        ],
+        "NeedToSelectReward": 1,
+        "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        5
+        7
     ],
     "QuestTurnInIDs": [
-        5
+        7
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 56,
-            "ObjectiveType": 2
+            "ObjectiveType": 6
         }
     ],
     "QuestColor": 0,

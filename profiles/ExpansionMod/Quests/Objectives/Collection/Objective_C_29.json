@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 26,
     "ID": 29,
-    "ObjectiveType": 4,
-    "ObjectiveText": "Collect 6 Cans of KVASS",
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 3 Bluegills",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 6,
-            "ClassName": "SodaCan_Kvass",
+            "Amount": 1,
+            "ClassName": "geb_Bluegill",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }

@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 50,
     "Type": 1,
-    "Title": "Kill 20 Priest Zombies",
+    "Title": "Kill 10 Military Zombies with a Hammer",
     "Descriptions": [
-        "This my last one, after this you are officially Billy Badass of end times. Find and kill 20 Priest Zombies, assuming you can find them...",
-        "There is nothing wrong with quiting. This quest isn't for everyone.",
-        "I'm beyond words. I have no idea how you were able to pull this off. Take your reward and I'll think of something new for you to do that's more of a challenge."
+        "Yo, hammer, don't hurt 'em. Or in this case, do. Grab yourself a hammer and take it to the skull of 10 military zombies.",
+        "You not up for this? It's ok to tap out.",
+        "I'm seriously impressed."
     ],
-    "ObjectiveText": "Kill 20 Priest Zombies",
+    "ObjectiveText": "Kill 10 Military Zombies with a Hammer",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_Kriss",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_Kriss_mag_33Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_G36",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_G36_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_G36_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,

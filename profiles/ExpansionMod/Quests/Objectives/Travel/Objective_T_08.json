@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 8,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Apple Orchard",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1959.04, 
+        15.57, 
+        549.794
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Apple Orchard",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

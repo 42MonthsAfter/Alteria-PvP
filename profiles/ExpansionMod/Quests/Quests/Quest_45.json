@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 45,
     "Type": 1,
-    "Title": "Kill 20 Construction Workers",
+    "Title": "Kill 8 Zombies with a Crowbar",
     "Descriptions": [
-        "My girlfriend used to date a construction worker and it makes me a little jealous. Go out and kill 20 of them and let's talk. Oh, you wouldn't know her, by the way, she lives in Canada.",
-        "So this one is too tough for you, eh? I was wondering if you were up for it...",
-        "Hells yes, nice job. I feel much better about myself now."
+        "Lets trying getting up close and personal. How about you grab yourself a crowbar and put 8 zombies out of their misery?",
+        "What? You already did this with a screwdriver. This should be a piece of cake.",
+        "Alright! On to the next quest."
     ],
-    "ObjectiveText": "Kill 20 Construction Workers",
+    "ObjectiveText": "Kill 8 Zombies with a Crowbar",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_MP5Silenced",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_MP5Silenced_mag_30Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_ARX160",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_ARX160_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_AR70_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,

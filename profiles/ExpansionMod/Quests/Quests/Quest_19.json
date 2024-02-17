@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 19,
     "Type": 1,
-    "Title": "Visit South Harbor",
+    "Title": "Collect 6 Cans of KVASS",
     "Descriptions": [
-        "Okay, this one is going to take some team work. Get your gear together and go visit South Harbor. Watch your back though, there are people gunning for you all over the place out there.",
-        "What? This one have you too scared?",
-        "YO! Look at you! Getting out there and getting things done."
+        "So here is the deal, I got dumped. My girlfriend wrote me from Canada to break things off. Can you believe that? Any chance you can round up some beer so I can drink away my sorrows?",
+        "No I can't show you a picture of her. Yes, she is totally real. Whats your problem?",
+        "Time to put on some old sad bastard music and throw back some room temp brews. You're the best."
     ],
-    "ObjectiveText": "Visit South Harbor",
+    "ObjectiveText": "Collect 6 Cans of KVASS",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,44 +20,48 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_MK14",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_MK14_mag_30Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        },
-        {
-            "ClassName": "TWP_MSBSGrotC",
+          },
+          {
+            "ClassName": "TWP_Glock18Honor",
             "Amount": 1,
             "Attachments": [
-                "TWP_MSBSGrotC_mag_30Rnd"
+              "TWP_Glock18Honor_mag_17Rnd"
             ],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_Glock18Honor_mag_17Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        2
+        3
     ],
     "QuestTurnInIDs": [
-        2
+        3
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 19,
-            "ObjectiveType": 3
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,

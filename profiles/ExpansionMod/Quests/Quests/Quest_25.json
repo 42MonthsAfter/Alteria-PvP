@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 25,
     "Type": 1,
-    "Title": "Collect 4 3 Digit Combination Locks",
+    "Title": "Bring Me 4 Cow Pelts",
     "Descriptions": [
-        "Ask me how many times my bike has been stollen? Go on. Ask me. 17. 17 times. Scoop me up some combination locks so I can put an end to this nightmare.",
-        "You're going to be able to see my bike because it was stolen. I thought we covered this?",
-        "My bike will be safer that Pee-Wee's now, all because of you. Thank you!"
+        "Alright, so here is the deal, I'm thinking about trying to make some boots but need some genuine leather. Any chance you can grab me enough cow pelts so I can make a few trial pairs?",
+        "Moo moo buckaroo. Where those pelts at.",
+        "Getting it done! Thank you so much. I can't wait to get my cobbler on."
     ],
-    "ObjectiveText": "Collect 4 3 Digit Combination Locks",
+    "ObjectiveText": "Bring Me 4 Cow Pelts",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_Beretta92FS",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_Beretta92FS_mag_15Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_MP443",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_MP443_mag_18Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_MP443_mag_18Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
@@ -46,7 +61,7 @@
         {
             "ConfigVersion": 27,
             "ID": 25,
-            "ObjectiveType": 4
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,

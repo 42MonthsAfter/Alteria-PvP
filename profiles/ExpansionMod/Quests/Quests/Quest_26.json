@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 26,
     "Type": 1,
-    "Title": "Collect 6 Screwdrivers",
+    "Title": "Bring Me 3 Angel Fish",
     "Descriptions": [
-        "I need some screwdrivers. No, not the drink. Well...yeah that drink too, but I'll settle for tool first. We will work on the drinks later.",
-        "If you can't get the tools, I'll take the drinks. Just saying.",
-        "Hells yes! No it's time to work on the beverages!"
+        "I'm trying to impress this girl by getting her an aquarium set up. She said she loves angel fish. Any chance you could help me a few to get things started?",
+        "This is going to be so awesome. Thanks for helping me out!",
+        "She is going to love this! You're the best."
     ],
-    "ObjectiveText": "Collect 6 Screwdrivers",
+    "ObjectiveText": "Bring Me 3 Angel Fish",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_BerettaDEBlack",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_BerettaDE_mag_15Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_P8",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_P8_mag_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_P8_mag_15Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
@@ -46,7 +61,7 @@
         {
             "ConfigVersion": 27,
             "ID": 26,
-            "ObjectiveType": 4
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,

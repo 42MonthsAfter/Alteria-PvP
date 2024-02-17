@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 7,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit the Airfield",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6782.2,  
+        26.13,
+        1994.79
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Airfield",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

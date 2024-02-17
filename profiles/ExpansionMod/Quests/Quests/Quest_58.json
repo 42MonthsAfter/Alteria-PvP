@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 58,
     "Type": 1,
-    "Title": "Kill 8 Military Zombies with a Steak Knife",
+    "Title": "Find the Stash at Fort Milton",
     "Descriptions": [
-        "You've shown you can kill your run-of-the-mill zombies easily, but how about military zombies? Oh yeah? How about with a steak knife?",
-        "Chop, chop. Get it? Chop, chop? No? Never mind...",
-        "Okay, okay... I see you."
+        "Have you checked out Fort Milton? No? Well it's about time.",
+        "Get on it!",
+        "You found it! Was it worth the trip?"
     ],
-    "ObjectiveText": "Kill 8 Military Zombies with a Steak Knife",
+    "ObjectiveText": "Find the Stash at Fort Milton",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,31 +20,30 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_BenelliM4",
-            "Amount": 1,
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
-    ],
-    "NeedToSelectReward": 1,
-    "RandomReward": 0,
+          }
+        ],
+        "NeedToSelectReward": 1,
+        "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        5
+        7
     ],
     "QuestTurnInIDs": [
-        5
+        7
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 58,
-            "ObjectiveType": 2
+            "ObjectiveType": 6
         }
     ],
     "QuestColor": 0,

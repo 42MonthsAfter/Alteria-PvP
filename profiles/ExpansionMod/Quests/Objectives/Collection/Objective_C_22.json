@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 26,
     "ID": 22,
-    "ObjectiveType": 4,
-    "ObjectiveText": "Collect 4 Wrenches",
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 5 Minnows",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 4,
-            "ClassName": "Wrench",
+            "Amount": 5,
+            "ClassName": "geb_Minnow",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }

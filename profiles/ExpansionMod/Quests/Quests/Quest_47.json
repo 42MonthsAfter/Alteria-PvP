@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 47,
     "Type": 1,
-    "Title": "Kill 20 NBC Zombies",
+    "Title": "Kill 6 Zombies with a Pipewrench",
     "Descriptions": [
-        "Ever seen those zombies running around in NBC gear thinking they are all great? I can't stand them. Kill 20 and I'll hook you up.",
-        "Having troubles? You got to know where to find them!",
-        "Heck yeah, screw those guys. Reap your reward, you savage you."
+        "Ever killed a zombie with a pipewrench? How about six?",
+        "You're going to be buff after this one.",
+        "Well done, my friend. Regular zombies are easy though, how about we set things up for the next one?"
     ],
-    "ObjectiveText": "Kill 20 NBC Zombies",
+    "ObjectiveText": "Kill 6 Zombies with a Pipewrench",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_CX4Storm",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_CX4Storm_mag_30Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_ASVal",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_ASVal_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_ASVal_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,

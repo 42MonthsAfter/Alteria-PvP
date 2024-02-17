@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 24,
     "Type": 1,
-    "Title": "Collect 5 Heat Packs",
+    "Title": "Bring Me 4 Deer Pelts",
     "Descriptions": [
-        "This is pretty simple... My hands are cold as shit. Get out there and scoop me up some heat packs so I can help keep my digits nice and toasty.",
-        "What? Wear gloves? What kind of suggestion is that?",
-        "Hell yes! I'm going to have the warmest hands in the Holler. No, I won't prove it. Freaking weirdo."
+        "Grab your rifle and hunting scope, I need some pelts for a cosplay thing I'm working on. Don't ask, it's a long story, but they need to be deer pelts.",
+        "I thought I said not to ask? Come on.",
+        "Hope that wasn't too much trouble!"
     ],
-    "ObjectiveText": "Collect 5 Heat Packs",
+    "ObjectiveText": "Bring Me 4 Deer Pelts",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_Glock19M",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_Glock19M_mag_15Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_MP40",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_MP40_mag_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_MP40_mag_15Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
@@ -46,7 +61,7 @@
         {
             "ConfigVersion": 27,
             "ID": 24,
-            "ObjectiveType": 4
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,

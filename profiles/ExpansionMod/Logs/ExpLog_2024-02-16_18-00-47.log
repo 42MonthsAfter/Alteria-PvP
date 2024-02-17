@@ -1,0 +1,128 @@
+18:13:48.804 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:13:48.804 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:13:48.804 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:16:26.023 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+18:16:26.039 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+18:16:26.039 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 6
+18:16:26.039 [AI Patrol] Spawning 2 Shamans bots at <2815.041748, 44.408497, 5940.356445>
+18:16:27.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+18:18:53.531 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+18:32:20.273 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+18:35:19.703 [AI Patrol] Spawning 2 Shamans bots at <2027.827515, 54.799999, 2985.844238>
+18:56:48.070 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+18:56:48.078 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+18:56:48.085 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+18:56:49.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+19:04:42.367 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+19:04:42.375 [AI Patrol] Spawning 2 Shamans bots at <4189.910156, 16.135023, 7606.308105>
+19:04:42.390 [AI Patrol] Spawning 2 Shamans bots at <4402.906738, 26.918522, 7202.739746>
+19:04:43.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+19:06:50.312 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+19:06:50.320 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+19:06:50.320 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+19:06:51.296 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+19:21:03.351 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+19:21:03.359 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+19:21:03.359 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 3
+19:21:04.359 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+19:27:09.203 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+19:31:04.484 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+19:31:04.492 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+19:31:04.492 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+19:31:05.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+19:39:45.382 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+19:40:14.804 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+19:40:14.812 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+19:40:14.812 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+19:40:15.796 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+19:43:00.531 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+19:45:00.132 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+19:45:00.132 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:45:24.000 [AI Patrol] Spawning 2 Shamans bots at <1699.574219, 15.570000, 480.262634>
+19:47:52.867 [VehicleEnter] Player {BtWF}_LT-Goovis [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489728, 656.070129>) as driver
+19:47:54.648 [VehicleEngine] Player {BtWF}_LT-Goovis [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489737, 656.069641>)
+19:47:58.125 [VehicleLeave] Player {BtWF}_LT-Goovis [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489723, 656.068909>)
+19:48:29.023 [Killfeed] Hooligan-235 got killed by Survivor (Shamans) with KA-M from a distance of 78 m.
+19:55:14.015 [AI Patrol] Spawning 2 Shamans bots at <4901.876953, 47.810001, 1270.426147>
+19:55:14.585 [Safezone] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4831.309082, 6.322500, 2251.408936>) Entered the safezone
+19:55:14.929 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+19:56:21.554 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 99
+19:56:37.500 [ATM] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has withdrawn 1000 from his ATM account.
+19:57:40.882 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase mag_glock_15rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:57:40.921 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought mag_glock_15rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 63.
+19:57:41.070 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase mag_glock_15rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:57:41.156 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought mag_glock_15rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 64.
+19:58:32.859 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+19:58:32.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:58:32.859 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+19:58:47.593 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_00buck_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:58:47.687 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_00buck_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 40.
+19:58:48.445 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_00buck_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:58:48.492 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_00buck_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 40.
+19:58:49.171 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_00buck_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:58:49.218 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_00buck_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 40.
+19:58:50.437 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_00buck_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:58:50.476 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_00buck_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 40.
+19:58:53.882 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:58:53.976 [Market] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 40.
+20:02:56.507 [ATM] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has deposited 673 on his ATM account.
+20:03:25.101 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 7
+20:03:32.937 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 31
+20:03:38.257 [Killfeed] ChaoticBeauty07 got killed by Survivor (Shamans) with KAS-74U from a distance of 2 m.
+20:04:25.562 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+20:04:26.554 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+20:05:24.179 [Safezone] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4991.841797, 3.843074, 2087.714355>) Left the safezone
+20:07:47.812 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: swRcX59Xgfw8XIyAWzNrlGYn2Q4pWz1i0LoESFqmk88=
+20:07:47.812 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:10:29.734 [Safezone] Player "{BtWF}_LT-Goovis" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4750.408203, 6.960871, 2258.520508>) Entered the safezone
+20:49:27.031 [VehicleEnter] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<2452.310303, 108.912430, 2593.875244>) as driver
+20:49:29.179 [VehicleEngine] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<2452.294678, 108.910080, 2593.896484>)
+20:49:32.085 [VehicleLeave] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<2452.283447, 108.908066, 2593.927979>)
+20:51:57.570 [VehicleEnter] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<2452.266113, 108.905624, 2593.947266>) as driver
+20:52:08.992 [VehicleLeave] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<2452.213379, 108.896873, 2594.062744>)
+20:55:03.718 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+20:55:03.718 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:55:03.718 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+20:55:44.273 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+20:57:21.046 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 54LAF05hoxfuQ6MiKrMlahqa7-4antpscJodvqv_q2I=
+20:57:21.046 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+21:00:56.492 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+21:00:56.500 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+21:00:56.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+21:00:57.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+21:01:28.960 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+21:01:28.968 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+21:01:28.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+21:01:29.929 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+21:07:04.554 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Medical
+21:12:52.273 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<79051fa0> at <1514.83, 118.09, 6397.97> EXPLOSION range 12 dropoff 3
+21:12:52.273 [Killfeed] bassman84 was killed by an explosion caused by EGD-5 Frag Grenade.
+21:16:57.507 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+21:18:54.164 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+21:18:54.171 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+21:18:54.171 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+21:18:55.125 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+22:09:43.250 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+22:22:34.710 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+22:23:03.929 [Party] Player "(ADMIN)BLUE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+22:23:03.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+22:23:03.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+22:23:04.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+22:23:41.023 [Party] Player "(ADMIN)BLUE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+22:28:15.046 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+22:28:15.054 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+22:28:15.054 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+22:28:15.054 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+22:28:16.000 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+22:31:53.562 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Medical
+23:14:47.484 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ=
+23:14:47.492 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:14:47.492 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ=
+23:19:50.226 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=
+23:19:50.226 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:35:08.468 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): who is looking for a bbp book'
+23:38:01.734 [BaseRaiding] mmg_lockable_gun_rack_grey (<1673.070435, 53.812206, 2968.796143>) Code set by player "DirtyDan" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <1671.790161, 52.957493, 2968.762207>) and the code is 1776
+23:55:17.890 [BaseRaiding] mmg_locker02_blue (<1673.408813, 52.917496, 2967.291260>) Code set by player "DirtyDan" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <1672.292603, 52.957493, 2967.237305>) and the code is 1776
+23:57:33.968 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+23:57:50.640 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Medical
+23:59:20.609 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)

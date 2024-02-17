@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 26,
     "ID": 21,
-    "ObjectiveType": 4,
-    "ObjectiveText": "Collect 5 Packs of Pumpkin Seeds",
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 3 Whole Roosters",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 5,
-            "ClassName": "PumpkinSeedsPack",
+            "Amount": 3,
+            "ClassName": "DeadRooster",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }

@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 27,
     "Type": 1,
-    "Title": "Collect 3 Surgical Masks",
+    "Title": "Bring Me 5 Pig Pelts",
     "Descriptions": [
-        "There are a few people around here that need surgical masks. Not because of the virus, but because their breath be stinking. Get me some so I can help us all out.",
-        "Guess you haven't talked to these people yet... Cause you would be hurrying if so.",
-        "What a relief. These close talkers are going to be a lot easier to be around now."
+        "So this is going to sound pretty crazy, but we are thinking about starting a football league. I know, but things get boring around here. We need to make some balls thouh. Any chance you could get us some pig pelts?",
+        "We are all counting on you!",
+        "This is going to be amazing. The half time show is going to be next level."
     ],
-    "ObjectiveText": "Collect 3 Surgical Masks",
+    "ObjectiveText": "Bring Me 5 Pig Pelts",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_BerettaPX4",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_BerettaPX4_mag_17Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_P2000Protector",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_P2000Protector_mag_16Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_P2000Protector_mag_16Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
@@ -46,7 +61,7 @@
         {
             "ConfigVersion": 27,
             "ID": 27,
-            "ObjectiveType": 4
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,

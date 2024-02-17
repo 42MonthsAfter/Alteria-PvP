@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 22,
     "Type": 1,
-    "Title": "Collect 4 Wrenches",
+    "Title": "Bring Me 5 Minnows",
     "Descriptions": [
-        "See all those cars over there by the auto trader? Yeah, I'm working on getting them up and running but need your help. Could use 4 wrentchs to get started.",
-        "This too much of an ask?",
-        "Niiiiiice. I'm going to get this whips running soon."
+        "I'm thinking about starting a minow spawn tank, but lack the minnows. And water. And talk. Let's get started with the minnows.",
+        "How hard can it be to get these little fishes?",
+        "Well done! How long did that take you?"
     ],
-    "ObjectiveText": "Collect 4 Wrenches",
+    "ObjectiveText": "Bring Me 5 Minnows",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_SigSauerP229",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_SigSauerP229_mag_13Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_LugerP08",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_LugerP08_mag_8Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_LugerP08_mag_8Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
@@ -46,7 +61,7 @@
         {
             "ConfigVersion": 27,
             "ID": 22,
-            "ObjectiveType": 4
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,

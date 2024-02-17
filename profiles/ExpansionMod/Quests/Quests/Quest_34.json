@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 34,
     "Type": 1,
-    "Title": "Bring Me 4 Deer Pelts",
+    "Title": "Kill 20 Milk Mades",
     "Descriptions": [
-        "Grab your rifle and hunting scope, I need some pelts for a cosplay thing I'm working on. Don't ask, it's a long story, but they need to be deer pelts.",
-        "I thought I said not to ask? Come on.",
-        "Hope that wasn't too much trouble!"
+        "Looking for more of a challenge, eh? Go out and kill some Milk Maids, you know, those old lady zombies that run around the villages. Knock down 20 and come back to see me.",
+        "What? You have a soft sport for these old ladies? Come on now.",
+        "Nice, nice. Here is a little something for your trouble."
     ],
-    "ObjectiveText": "Bring Me 4 Deer Pelts",
+    "ObjectiveText": "Kill 20 Milk Mades",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,33 +20,48 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_UMPPrimalSaber",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_UMPPrimalSaber_mag_35Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_Stoner63",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_Stoner63_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_Stoner63_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        4
+        5
     ],
     "QuestTurnInIDs": [
-        4
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 34,
-            "ObjectiveType": 5
+            "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,

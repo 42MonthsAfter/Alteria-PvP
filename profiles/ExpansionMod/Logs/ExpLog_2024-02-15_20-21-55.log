@@ -1,0 +1,51 @@
+20:22:41.367 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+20:22:41.375 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+20:22:41.375 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 6
+20:22:42.351 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+20:22:43.835 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4864.699219, 10.367133, 2292.463867>) Entered the safezone
+20:22:43.843 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:22:43.843 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+20:22:43.843 [AI Patrol] Spawning 2 Shamans bots at <4966.670410, 45.444206, 1359.636475>
+20:22:43.937 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 99
+20:23:06.726 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+20:23:06.734 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+20:23:06.734 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+20:23:07.718 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+20:24:03.742 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5308.124512, 30.690311, 1415.826172>) Left the safezone
+20:24:14.984 [Killfeed] [Admin] Bunker got killed by Survivor (Shamans) with SK 59/66 from a distance of 13 m.
+20:24:34.820 [AI Patrol] Spawning 2 Shamans bots at <2741.845703, 43.939999, 5860.164063>
+20:26:51.234 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:26:51.234 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:27:41.617 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Basebuilding
+20:28:41.968 [Killfeed] [Admin] Bunker got killed by Survivor (Shamans) with SK 59/66 from a distance of 4 m.
+20:33:39.500 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+20:33:39.507 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+20:33:39.507 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+20:33:39.515 [AI Patrol] Spawning 2 Shamans bots at <4736.632813, 16.484505, 7479.889160>
+20:33:40.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+20:41:39.867 [AI Patrol] Spawning 2 Shamans bots at <2180.693115, 54.799999, 3225.790527>
+20:48:32.898 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+20:48:32.906 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+20:48:32.906 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 3
+20:48:33.867 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+21:09:49.335 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+21:28:20.570 [Safezone] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= pos=<4668.060059, 2.501168, 2245.102295>) Entered the safezone
+21:28:23.679 [Safezone] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= pos=<4667.817871, 2.501145, 2241.618408>) Entered the safezone
+21:29:39.335 [Expansion Quests] - CompleteQuest - Player with UID aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= has completed quest 99
+21:29:58.429 [Expansion Quests] - CompleteQuest - Player with UID sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= has completed quest 99
+21:31:11.585 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= for quest 2
+21:31:44.187 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= for quest 60
+21:32:04.187 [ATM] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) has withdrawn 1000 from his ATM account.
+21:32:12.734 [ATM] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) has withdrawn 1000 from his ATM account.
+21:33:15.265 [Market] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) has send a requested to purchase tetracyclineantibiotics x1 from the trader "Medicals (Linda [MEDICAL])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+21:33:15.390 [Market] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) has bought tetracyclineantibiotics x1 from the trader "Medicals (Linda [MEDICAL])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 1800.
+21:50:40.242 [ATM] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) has deposited 200 on his ATM account.
+21:52:56.617 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer_Medical
+22:04:52.515 [Safezone] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= pos=<4992.817871, 3.843095, 2090.700195>) Left the safezone
+22:04:53.140 [Safezone] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= pos=<4989.914063, 3.843081, 2091.268555>) Left the safezone
+22:22:04.171 [AI Patrol] Spawning 2 Shamans bots at <6338.558594, 28.583183, 2097.292969>
+22:41:26.726 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+22:54:11.593 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+23:12:54.039 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ysXLPGxvINTWJrUI_cLicG01RRa30GIHtUhoD1SXkpo=
+23:12:54.039 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:14:03.617 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer_Basebuilding

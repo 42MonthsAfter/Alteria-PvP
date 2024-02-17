@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 46,
     "Type": 1,
-    "Title": "Kill 20 Biker Zombies",
+    "Title": "Kill 5 Zombies with a Shovel",
     "Descriptions": [
-        "Ever had a nice picnic ruined by a bunch of Harley riders? Yeah, just happened to me last weekend. Kill 20 biker zombies and I'll have a little something-something for you.",
-        "What, these guys too hard to find? I see them all over the place. Can tell by those stupid jackets.",
-        "You saved my picnicing plans of the future. Here is a little something for your trouble."
+        "You know the nice thing about killing zombies with a shovel? You can dig their grave too. Take out 5 of these suckers, but don't worry about putting them in the ground.",
+        "Get out there and get to swinging! Not like that... Pervert.",
+        "Well played. Going to have to make things a little harder on you next time."
     ],
-    "ObjectiveText": "Kill 20 Biker Zombies",
+    "ObjectiveText": "Kill 5 Zombies with a Shovel",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_PP19Vityaz",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_PP19Vityaz_mag_30Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_ASR",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_ASR_mag_40Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_ASR_mag_40Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,

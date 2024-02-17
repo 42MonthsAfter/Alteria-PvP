@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 26,
     "ID": 27,
-    "ObjectiveType": 4,
-    "ObjectiveText": "Collect 3 Surgical Masks",
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 5 Pig Pelts",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 3,
-            "ClassName": "SurgicalMask",
+            "Amount": 5,
+            "ClassName": "PigPelt",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }

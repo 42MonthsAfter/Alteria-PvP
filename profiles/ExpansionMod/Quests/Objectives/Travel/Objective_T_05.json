@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 5,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit the Toxic Zone",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        7536.46,  
+        1.81855,
+        6811.53
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Toxic Zone",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 38,
     "Type": 1,
-    "Title": "Bring Me 4 Black Bass",
+    "Title": "Kill 20 Military Zombies",
     "Descriptions": [
-        "I've been trying a new recipe, but am missing the main ingrediant; black bass. Any chance you can round up 4 of those bad boys for me?",
-        "You will be the first served, I just need those fishes.",
-        "Time for me to get into the kitchen!"
+        "This one shouldn't be too hard for badass like yourself. Knock out some military zombies and get back to me.",
+        "Seriously? This is almost easier than the ones before. What's wrong with you?",
+        "Rolling murder machine. Well done! Take this for your troubles."
     ],
-    "ObjectiveText": "Bring Me 4 Black Bass",
+    "ObjectiveText": "Kill 20 Military Zombies",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,33 +20,48 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_P90Shallow_Grave",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_P90Shallow_Grave_mag_50Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_AK9",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_AK9_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_AK9_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        4
+        5
     ],
     "QuestTurnInIDs": [
-        4
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 38,
-            "ObjectiveType": 5
+            "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,

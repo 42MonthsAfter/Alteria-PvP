@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 15,
     "Type": 1,
-    "Title": "Visit the Toxic Zone",
+    "Title": "Collect 4 3 Digit Combination Locks",
     "Descriptions": [
-        "If you haven't checked it out yet, the Toxic Zone is a pretty awesome.",
-        "Whats the problem? Can't swim?",
-        "You made it? Holy shit, I didn't think I would see you again. Well done."
+        "Ask me how many times my bike has been stollen? Go on. Ask me. 17. 17 times. Scoop me up some combination locks so I can put an end to this nightmare.",
+        "You're going to be able to see my bike because it was stolen. I thought we covered this?",
+        "My bike will be safer that Pee-Wee's now, all because of you. Thank you!"
     ],
-    "ObjectiveText": "Visit the Toxic Zone",
+    "ObjectiveText": "Collect 4 3 Digit Combination Locks",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,33 +20,48 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_Kriss",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_Kriss_mag_33Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_BerettaDEBlack",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_BerettaDE_mag_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_BerettaDE_mag_15Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        2
+        3
     ],
     "QuestTurnInIDs": [
-        2
+        3
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 15,
-            "ObjectiveType": 3
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,

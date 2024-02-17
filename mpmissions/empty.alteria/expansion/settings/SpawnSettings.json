@@ -111,8 +111,8 @@
         }
     ],
     "SpawnHealthValue": 100.0,
-    "SpawnEnergyValue": 750.0,
-    "SpawnWaterValue": 750.0,
+    "SpawnEnergyValue": 500.0,
+    "SpawnWaterValue": 500.0,
     "EnableRespawnCooldowns": 1,
     "RespawnCooldown": 120,
     "TerritoryRespawnCooldown": 240,

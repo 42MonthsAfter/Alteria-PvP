@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 48,
     "Type": 1,
-    "Title": "Kill 20 Military Zombies",
+    "Title": "Kill 8 Military Zombies with a Steak Knife",
     "Descriptions": [
-        "This one shouldn't be too hard for badass like yourself. Knock out some military zombies and get back to me.",
-        "Seriously? This is almost easier than the ones before. What's wrong with you?",
-        "Rolling murder machine. Well done! Take this for your troubles."
+        "You've shown you can kill your run-of-the-mill zombies easily, but how about military zombies? Oh yeah? How about with a steak knife?",
+        "Chop, chop. Get it? Chop, chop? No? Never mind...",
+        "Okay, okay... I see you."
     ],
-    "ObjectiveText": "Kill 20 Military Zombies",
+    "ObjectiveText": "Kill 8 Military Zombies with a Steak Knife",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_KacPDW",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_KacPDW_mag_30Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_SteyrAugA3",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_SteyrAug_mag_45Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_SteyrAug_mag_45Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,

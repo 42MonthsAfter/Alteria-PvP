@@ -1,0 +1,151 @@
+00:08:00.946 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ=
+00:08:00.946 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:13:02.122 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer
+00:26:23.445 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+00:26:23.445 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+00:27:06.558 [AI Patrol] Spawning 2 Shamans bots at <4781.136719, 47.840000, 1362.221191>
+00:27:06.786 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<4814.873535, 6.322500, 2273.139648>) Entered the safezone
+00:27:12.459 [Expansion Quests] - CompleteQuest - Player with UID OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= has completed quest 99
+00:30:48.348 [AI Patrol] Spawning 2 Shamans bots at <2252.623047, 54.799999, 3238.465576>
+00:30:58.347 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<1679.804321, 52.616486, 2966.023926>) Left the safezone
+00:33:21.850 [AI Patrol] Spawning 2 Shamans bots at <2811.827881, 41.675434, 5817.491699>
+00:52:44.549 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): Dont forget to check the trader tab on Alteria DC.
+00:56:44.269 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+00:56:44.286 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+00:56:44.287 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+00:56:44.287 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+00:56:45.208 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+00:57:12.902 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+01:04:42.086 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<4844.658203, 9.649073, 2284.202148>) Entered the safezone
+01:09:22.661 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+01:09:22.670 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+01:09:22.671 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 6
+01:09:23.653 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+01:10:11.063 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<1151.567505, 5.594759, 5040.858887>) Left the safezone
+01:10:27.229 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+01:10:31.958 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+01:10:31.967 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+01:10:31.967 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+01:10:31.967 [Expansion Quests] - Create new quest instance for quest: 2 - Player UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+01:10:32.899 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+01:11:57.435 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+01:11:57.442 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+01:11:57.443 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+01:11:58.427 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+01:13:06.550 [AI Patrol] Spawning 2 Shamans bots at <5977.428223, 26.129999, 1917.418091>
+01:14:36.446 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+01:14:36.454 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+01:14:36.455 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+01:14:36.455 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+01:14:37.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+01:15:10.484 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<1e62b960> at <1153.37, 5.72, 5039.47> EXPLOSION range 12 dropoff 3
+01:15:10.485 [Killfeed] ChaoticBeauty07 was killed by an explosion caused by EGD-5 Frag Grenade.
+01:15:51.075 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+01:15:52.069 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+01:16:57.508 [Safezone] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= pos=<4984.019531, 3.842125, 2146.164795>) Entered the safezone
+01:18:40.951 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): chaoticBeauty07 first victim to a scavenger hunt!
+01:20:12.979 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): is that what that grenede was?
+01:20:21.487 [AI Patrol] Spawning 2 Shamans bots at <4583.503906, 16.348042, 7397.663086>
+01:20:46.349 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): where can i sell guns?
+01:21:33.810 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): For the time being you better trust who you do business with.
+01:21:48.333 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): also in the discord tab is some hunts for yall
+01:21:49.062 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): im here at the holler
+01:23:09.989 [AI Patrol] Spawning 2 Shamans bots at <4478.436035, 15.706090, 7732.149902>
+01:23:18.835 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): There is only certin traders there.    Weapons for time will not be sold or bought.  But earned or traded
+01:23:32.344 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): oh ok i see 
+01:24:00.338 [Safezone] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= pos=<4728.744629, 2.404917, 2533.609375>) Left the safezone
+01:24:16.937 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): we like to keep things a little more risky on this server.  
+01:24:43.108 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): gotcha i was just trying to make some money 
+01:24:57.939 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): did you notice the quest Ai up there
+01:25:09.145 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): yes i started one
+01:25:13.976 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): sweet
+01:25:38.397 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): you can only launch one at a time
+01:26:02.573 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): yes.  Thats so other players have to ability to get some as well.
+01:26:18.215 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): Dont want one person taking all the quests
+01:26:26.299 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): oh so there not like personal quests
+01:27:04.192 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): and those will update.  Open world quests.  What ever quest you take is personal
+01:27:17.752 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): i see ok 
+01:27:25.931 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+01:27:49.885 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): Things will update all around this map.  We are just getting started on it
+01:27:51.951 [Chat - Global]("ChaoticBeauty07"(id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=)): so....just a question/small tiny favor...would it be too much to ask for a little weaponry help? ive died many...many times...
+01:28:14.057 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): ya hold on.  Ill show you what you missed lol
+01:28:55.622 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): can i get a tp?
+01:29:03.772 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): to chaotic
+01:29:10.676 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): plz
+01:29:11.073 [Chat - Global]("ChaoticBeauty07"(id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=)): please?
+01:29:26.186 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): did you want whats in that barrel
+01:29:37.015 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): also your cross is out there
+01:30:51.075 [Chat - Global]("ChaoticBeauty07"(id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=)): thank you :)
+01:31:03.178 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): so there is hunts that admin will put out.  you just need to pay attention to dc
+01:31:30.896 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): ill get you over to the holler tho
+01:32:01.453 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): sure that will work 
+01:32:14.135 [Chat - Global]("ChaoticBeauty07"(id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=)): me too please?
+01:32:31.016 [Chat - Global]("ChaoticBeauty07"(id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=)): thanks love
+01:32:39.347 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): thanks
+01:32:40.752 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): have fun yall 
+01:32:47.209 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): ill be around for a little longer
+01:37:12.540 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): we are enjoying this server btw 
+01:37:54.135 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer_Medical
+01:42:02.331 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): Thank you.  
+01:50:16.897 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): yall be safe out there.  Gotta run. Hopefully i can be on longer tomorrow
+01:50:46.716 [AI Patrol] Spawning 2 Shamans bots at <6785.255859, 19.120001, 3717.735352>
+01:59:41.572 [Killfeed] CrazyBob1027 got killed by Survivor (Shamans) with SK 59/66 from a distance of 4 m.
+02:00:14.625 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+02:00:15.618 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+02:08:38.911 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): later 
+03:04:48.135 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer
+03:29:21.278 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<1e6258e0> at <4653.79, 38.9, 1394.2> EXPLOSION range 12 dropoff 3
+03:33:52.975 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=
+03:33:52.976 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+03:34:37.122 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+03:34:38.115 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+03:36:04.229 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): LOOOOOT!!!!!!!!!!!! Nice.
+03:42:47.028 [Safezone] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= pos=<4668.905762, 2.501144, 2242.511719>) Entered the safezone
+03:44:56.525 [Safezone] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= pos=<4729.180176, 2.404917, 2538.319580>) Left the safezone
+03:51:55.634 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=
+03:51:55.634 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+03:51:55.635 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=
+04:08:48.060 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): hello everyone
+04:09:50.009 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): SUP
+04:09:56.753 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): GOOD LUCK LOL
+04:10:09.817 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): lol
+04:10:37.365 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): ty goodluck
+04:24:26.113 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): are the bots still on here
+04:24:34.106 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): yep and they kill
+04:24:49.270 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): ty
+04:25:21.501 [Party] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=) joinded the party "SlutZ Of DayZ" (id=7 ownerUID= ownerName=)
+04:25:21.502 [Party] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=) created a party named SlutZ Of DayZ (SOD)
+04:25:22.501 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 7
+04:33:08.167 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+04:34:05.705 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): <et the Games start.
+04:35:00.757 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+04:35:00.769 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+04:35:00.771 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+04:35:01.712 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+04:36:01.412 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+04:36:01.419 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+04:36:01.419 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+04:36:01.419 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+04:36:02.351 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+04:43:05.214 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): thats where you are
+04:45:25.880 [AI Patrol] Spawning 2 Shamans bots at <7530.526855, 26.180696, 1821.866577>
+04:48:02.052 [Safezone] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= pos=<4669.329102, 2.501132, 2241.179688>) Entered the safezone
+04:49:19.201 [Expansion Quests] - CompleteQuest - Player with UID iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= has completed quest 99
+04:51:40.244 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= for quest 31
+04:56:30.806 [Safezone] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= pos=<4992.873047, 3.843107, 2084.077393>) Left the safezone
+05:03:24.445 [VehicleAttachments] Player CrazyBob1027 (uid=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) detached Cougar Wheel (type=Cougar_Wheel) from vehicle Cougar Rust kamo(id=B12A11A4E64D99AE25B937A42F9FC65B pos=<6771.324707, 26.067684, 2138.076660>)
+05:07:59.929 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): you want me to help
+05:09:08.937 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+05:09:09.929 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 6
+05:09:25.408 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+05:09:40.945 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) left the party "Psychonuats" (id=6 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+05:12:31.560 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): ill draw them away so you can get to your truck
+05:13:33.957 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): hello?
+05:14:23.330 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): im on top of the atc
+05:15:14.404 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): ok 3....
+05:15:23.751 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): 2....
+05:15:33.408 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): 1...
+05:15:44.976 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): im out
+05:47:02.304 [Party] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=) left the party "SlutZ Of DayZ" (id=7 ownerUID=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= ownerName=S.O.D-Rusty)
+05:58:32.308 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+05:58:39.371 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)

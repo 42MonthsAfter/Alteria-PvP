@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 36,
     "Type": 1,
-    "Title": "Bring Me 3 Angel Fish",
+    "Title": "Kill 20 Biker Zombies",
     "Descriptions": [
-        "I'm trying to impress this girl by getting her an aquarium set up. She said she loves angel fish. Any chance you could help me a few to get things started?",
-        "This is going to be so awesome. Thanks for helping me out!",
-        "She is going to love this! You're the best."
+        "Ever had a nice picnic ruined by a bunch of Harley riders? Yeah, just happened to me last weekend. Kill 20 biker zombies and I'll have a little something-something for you.",
+        "What, these guys too hard to find? I see them all over the place. Can tell by those stupid jackets.",
+        "You saved my picnicing plans of the future. Here is a little something for your trouble."
     ],
-    "ObjectiveText": "Bring Me 3 Angel Fish",
+    "ObjectiveText": "Kill 20 Biker Zombies",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,33 +20,46 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_SRGlock",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_SRGlock_mag_33Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 100,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "REPLACE",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "REPLACE",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        4
+        5
     ],
     "QuestTurnInIDs": [
-        4
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 36,
-            "ObjectiveType": 5
+            "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,

@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 20,
     "Type": 1,
-    "Title": "Visit Ares",
+    "Title": "Collect 10 Yellow Construction Helmets",
     "Descriptions": [
-        "Alright, last one, and it's for all the marbles... Get your ass down to Ares.",
-        "It's ok, seriously, I wouldn't want to do this one either.",
-        "I'm seriously speachless. You are a master of Alteria."
+        "Me and the boys are starting a construction company but are missing some of the gear. Can you get us some helmets? We need 10. And they need to be yellow.",
+        "Don't ask why they need to be yellow, they just do.",
+        "I can't believe you did this. I was just joking but I guess I need to pay you now for the hard work."
     ],
-    "ObjectiveText": "Visit Ares",
+    "ObjectiveText": "Collect 10 Yellow Construction Helmets",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,44 +20,48 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_MK18",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_MK18_mag_100Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        },
-        {
-            "ClassName": "TWP_MAB38",
+          },
+          {
+            "ClassName": "TWP_Glock18Rebel",
             "Amount": 1,
             "Attachments": [
-                "TWP_MAB38_mag_40Rnd"
+              "TWP_Glock18Rebel_mag_17Rnd"
             ],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_Glock18Rebel_mag_17Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        2
+        3
     ],
     "QuestTurnInIDs": [
-        2
+        3
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 20,
-            "ObjectiveType": 3
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,

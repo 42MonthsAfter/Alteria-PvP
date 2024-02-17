@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 52,
     "Type": 1,
-    "Title": "Kill 5 Zombies with an IJ",
+    "Title": "Find the Stash in the Old Castle",
     "Descriptions": [
-        "Your good at the silent killing, but that's easier than making a lot of noise, isn't it? How about you try killing 5 zombies with an IJ?",
-        "Might be easier if you got yourself a silencer.",
-        "Well done. Think you are down for making more noise next time?."
+        "If you haven't been out there, there is some crazy stuff in the Old Castle. Few people head out there so there is a good chance that this stash is still hidden.",
+        "What are you waiting for?",
+        "You survived! Well done!"
     ],
-    "ObjectiveText": "Kill 5 Zombies with an IJ",
+    "ObjectiveText": "Find the Stash in the Old Castle",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,33 +20,30 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_AA12",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_AA12_mag_32Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
-    ],
-    "NeedToSelectReward": 1,
-    "RandomReward": 0,
+          }
+        ],
+          "NeedToSelectReward": 1,
+          "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        5
+        7
     ],
     "QuestTurnInIDs": [
-        5
+        7
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 52,
-            "ObjectiveType": 2
+            "ObjectiveType": 6
         }
     ],
     "QuestColor": 0,

@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 28,
     "Type": 1,
-    "Title": "Collect 5 Large Gas Canisters",
+    "Title": "Bring Me 4 Black Bass",
     "Descriptions": [
-        "So it turns out that those flashlights didn't solve the issue. Going to need to step things up a bit. Any chance you can get me 5 large gas canisters?",
-        "Are you not seeing how dark it is around here? We need these canisters!",
-        "Yo, nice work! Now lets see if this helps solve this problem."
+        "I've been trying a new recipe, but am missing the main ingrediant; black bass. Any chance you can round up 4 of those bad boys for me?",
+        "You will be the first served, I just need those fishes.",
+        "Time for me to get into the kitchen!"
     ],
-    "ObjectiveText": "Collect 5 Large Gas Canisters",
+    "ObjectiveText": "Bring Me 4 Black Bass",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_BerettaSwordCutlass",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_BerettaSwordCutlass_mag_20Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_SigSauerP250",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_SigSauerP250_mag_10Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_SigSauerP250_mag_10Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
@@ -46,7 +61,7 @@
         {
             "ConfigVersion": 27,
             "ID": 28,
-            "ObjectiveType": 4
+            "ObjectiveType": 5
         }
     ],
     "QuestColor": 0,

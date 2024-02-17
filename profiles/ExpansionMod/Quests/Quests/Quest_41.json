@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 41,
     "Type": 1,
-    "Title": "Kill 10 Zombies",
+    "Title": "Kill 10 Zombies with a Screwdriver",
     "Descriptions": [
-        "This shouldn't be too tough for a survivor like yourself. Go out and kill 10 zombies however you can.",
-        "I though we already talked about this? Aren't you supposed to be cleansing zombies?",
-        "See, that wasn't so hard now was it?"
+        "So you fancy yourself a zombie slayer, eh? You up for a challenge? How about you go out and kill 10 zombies with nothing but a screwdriver?",
+        "This shouldn't too hard for someone like you...",
+        "Impressive! Seriously."
     ],
-    "ObjectiveText": "Kill 10 Zombies",
+    "ObjectiveText": "Kill 10 Zombies with a Screwdriver",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_SR3",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_SR3_mag_30Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_AR70",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_AR70_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_AR70_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,

@@ -1,0 +1,223 @@
+12:02:48.242 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+12:02:48.253 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:02:48.253 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+12:02:48.253 [Expansion Quests] - Create new quest instance for quest: 1 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:02:48.253 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:02:48.257 [AI Patrol] Spawning 2 Shamans bots at <6017.750000, 26.129999, 1937.031616>
+12:02:48.402 [AI Patrol] Spawning 2 Shamans bots at <7302.297363, 26.129999, 2152.402832>
+12:02:49.203 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:03:08.410 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6435.414063, 26.142498, 2244.904785>) used the  ExpansionCarKey to unlock URAL_4320_rust (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6438.411133, 26.171474, 2241.540527>)
+12:03:27.539 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6438.410645, 26.171474, 2241.540527>) as driver
+12:03:43.945 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+12:03:43.953 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+12:03:43.953 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:03:43.953 [Expansion Quests] - Create new quest instance for quest: 1 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+12:03:43.953 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+12:03:44.906 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:03:45.250 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+12:03:45.257 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+12:03:45.257 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:03:45.261 [AI Patrol] Spawning 2 Shamans bots at <4526.044922, 16.425087, 7280.021484>
+12:03:46.238 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:04:04.664 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6426.336426, 26.142498, 2255.302002>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6425.062012, 26.170351, 2253.614746>)
+12:04:06.687 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6426.336426, 26.142498, 2255.302002>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6425.062012, 26.170351, 2253.614746>)
+12:04:08.464 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6426.336426, 26.142498, 2255.302002>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6425.062012, 26.170351, 2253.614746>)
+12:04:55.019 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6438.411133, 26.171474, 2241.540283>)
+12:05:07.824 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6438.410645, 26.171474, 2241.540039>) as driver
+12:05:11.082 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6438.410645, 26.171471, 2241.540039>)
+12:05:36.214 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6425.062012, 26.170351, 2253.614746>) as driver
+12:05:49.898 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6416.596680, 26.171473, 2253.767822>)
+12:05:58.984 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6414.007324, 26.142485, 2253.279785>) used the  ExpansionCarKey to lock URAL_4320_rust (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6416.596680, 26.171476, 2253.767822>)
+12:06:33.523 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6425.062012, 26.170351, 2253.614746>) as passenger
+12:06:33.964 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6425.062012, 26.170351, 2253.614746>)
+12:07:51.664 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Military
+12:07:55.828 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6756.260742, 26.193014, 2181.149414>)
+12:07:57.050 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6756.260742, 26.193018, 2181.149414>)
+12:08:00.968 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6756.260742, 26.193016, 2181.149414>) as driver
+12:08:14.988 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6756.260742, 26.193014, 2181.149414>)
+12:08:23.445 [AI Patrol] Spawning 2 Shamans bots at <4458.580078, 15.714382, 7720.876465>
+12:09:42.230 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+12:09:42.234 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+12:09:42.238 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:09:43.203 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:11:52.625 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<6753.918457, 26.067682, 2175.326660>) as driver
+12:12:04.277 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<6753.948730, 26.067661, 2175.337891>)
+12:14:01.460 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<6420.416504, 26.142494, 2251.009033>) used the  ExpansionCarKey to unlock URAL_4320_rust (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6416.596680, 26.171476, 2253.767822>)
+12:14:33.089 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6416.596680, 26.171474, 2253.767822>) as driver
+12:14:53.699 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6391.820313, 26.230350, 2315.999756>)
+12:15:11.167 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6392.993652, 26.202477, 2314.105957>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6391.820313, 26.230350, 2316.000000>)
+12:17:08.117 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6416.596680, 26.171474, 2253.766602>)
+12:17:09.367 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<6753.957520, 26.067684, 2175.341309>) as driver
+12:17:10.394 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6416.596680, 26.171474, 2253.766357>) as passenger
+12:17:13.289 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<6753.957520, 26.067684, 2175.341309>)
+12:19:44.992 [AI Patrol] Spawning 2 Shamans bots at <4730.947754, 47.747375, 1338.162354>
+12:21:33.835 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6402.169922, 26.236916, 2328.550049>)
+12:21:33.996 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6402.169922, 26.236916, 2328.550293>)
+12:22:00.863 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<6391.557617, 26.202499, 2317.950684>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6391.820313, 26.230349, 2316.000000>)
+12:23:42.781 [AI Patrol] Spawning 2 Shamans bots at <2291.849609, 54.799999, 2985.694824>
+12:23:48.402 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6391.820313, 26.230360, 2315.999756>) as driver
+12:23:53.730 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6391.820313, 26.230350, 2315.999756>)
+12:24:44.746 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6391.820313, 26.230350, 2315.999756>) as driver
+12:24:52.621 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6391.820313, 26.230350, 2315.999756>)
+12:25:01.562 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6391.820313, 26.230350, 2315.999756>) as driver
+12:25:05.558 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<6391.820313, 26.230350, 2316.000000>)
+12:25:51.671 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6402.169922, 26.236916, 2328.550049>) as driver
+12:25:54.792 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<6402.169922, 26.236916, 2328.550293>)
+12:27:31.144 [Party] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=) joinded the party "SlutZ Of DayZ" (id=7 ownerUID=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= ownerName=S.O.D-Rusty)
+12:27:31.156 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=
+12:27:31.156 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 7
+12:27:31.156 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=
+12:27:32.105 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+12:29:04.722 [AI Patrol] Spawning 2 Shamans bots at <2704.383545, 43.939999, 5871.602539>
+12:29:40.230 [AI Patrol] Spawning 2 Shamans bots at <6932.958984, 15.368507, 3669.008301>
+12:33:15.281 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<3876.787109, 15.567619, 6595.967285>) as passenger
+12:37:52.914 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<1765.755005, 13.337683, 5023.105957>)
+12:37:54.273 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<1765.755127, 13.337683, 5023.105957>)
+12:39:19.179 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<5004.053223, 56.531612, 3657.746826>)
+12:39:54.179 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<5012.951172, 57.196548, 3687.521240>)
+12:39:57.648 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<5004.053223, 56.531624, 3657.746094>) as driver
+12:40:07.242 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<5014.618652, 57.156155, 3686.884277>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<5012.951172, 57.196548, 3687.521484>)
+12:40:10.312 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<5004.053223, 56.531597, 3657.744629>)
+12:40:12.250 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<1765.759888, 13.337686, 5023.086914>) as driver
+12:40:14.777 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<1765.760010, 13.337685, 5023.086914>)
+12:40:32.582 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<1765.712524, 13.337429, 5022.943359>) as passenger
+12:41:05.000 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<5020.008301, 56.501717, 3666.168213>)
+12:41:18.937 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<5015.433105, 56.512814, 3667.604248>) used the  ExpansionCarKey to lock URAL_4320_rust (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<5020.008301, 56.501724, 3666.168213>)
+12:42:55.437 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<5014.808105, 57.156151, 3686.976074>) used the  ExpansionCarKey to unlock HAMMER_H1_black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<5012.951172, 57.196548, 3687.521484>)
+12:43:12.605 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<5012.951172, 57.196548, 3687.521484>) as driver
+12:43:15.628 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<5012.951172, 57.196548, 3687.521240>)
+12:43:40.996 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<5022.125488, 56.469917, 3667.608643>) used the  ExpansionCarKey to unlock URAL_4320_rust (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<5020.008301, 56.501724, 3666.168213>)
+12:43:49.601 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<5020.008301, 56.501728, 3666.167969>) as driver
+12:43:52.195 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<5020.008301, 56.501717, 3666.167969>)
+12:45:22.554 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<2070.947266, 54.722248, 2944.885254>)
+12:45:38.906 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<2071.105225, 54.737686, 2944.981689>)
+12:45:53.945 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<2071.105225, 54.737686, 2944.981689>) as passenger
+12:46:07.335 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<2071.105225, 54.737686, 2944.981689>) as driver
+12:46:10.042 [VehicleEngine] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] started vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<2071.105225, 54.737686, 2944.981689>)
+12:46:27.835 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): NOT BAD
+12:46:36.734 [Chat - Global]("Nachoz"(id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=)): epic server
+12:48:17.039 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4743.244629, 4.202656, 2476.555664>) Entered the safezone
+12:48:24.125 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4743.013672, 3.343421, 2474.822266>) Entered the safezone
+12:48:36.828 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle URAL 4320 (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<4763.961426, 7.101646, 2339.232666>)
+12:48:40.578 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4763.331055, 7.257480, 2336.495117>) used the  ExpansionCarKey to lock URAL_4320_rust (id=7135282C374F1C9BBE67BDBD6CCEEBC4 pos=<4763.961426, 7.101651, 2339.232666>)
+12:48:45.945 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle HAMMER_H1 black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<4763.295410, 6.353906, 2351.840088>)
+12:49:00.125 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4764.026855, 6.441230, 2349.965332>) used the  ExpansionCarKey to lock HAMMER_H1_black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<4763.295898, 6.353915, 2351.840088>)
+12:50:05.339 [Expansion Quests] - CancelQuestServer - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has cancelled quest 7
+12:50:10.925 [Expansion Quests] - CancelQuestServer - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has cancelled quest 1
+12:50:36.472 [Killfeed] S.O.D-Rusty got killed by Survivor (Shamans) with Bizon from a distance of 3 m.
+12:50:36.847 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has withdrawn 1300 from his ATM account.
+12:50:39.964 [ATM] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has withdrawn 1000 from his ATM account.
+12:50:57.785 [Party] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=) joinded the party "SlutZ Of DayZ" (id=7 ownerUID=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= ownerName=S.O.D-Rusty)
+12:50:58.132 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase camonet x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+12:50:58.281 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought camonet x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 350.
+12:50:58.781 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+12:51:00.875 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase camonet x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+12:51:01.019 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought camonet x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 350.
+12:51:09.625 [Safezone] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4= pos=<4669.059082, 4.392316, 2242.198242>) Entered the safezone
+12:51:09.625 [Safezone] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I= pos=<4668.721680, 4.394115, 2243.080322>) Entered the safezone
+12:51:24.808 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4715.767090, 5.637235, 2267.199219>)
+12:51:25.871 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4715.767090, 5.637204, 2267.199219>)
+12:51:41.234 [VehicleDeleted] HAMMER_H1_black_rust (id=46585D722E4909CABA20EFBAFD293760 pos=<4763.295898, 6.353915, 2351.840088>)
+12:51:41.234 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4760.091309, 6.539720, 2349.498779>) covered vehicle "HAMMER_H1_black_rust" (GlobalID=80000000800000008000000080000750 pos=<4763.295898, 6.353915, 2351.840088>)!
+12:51:43.101 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4715.767090, 5.637201, 2267.199219>) as driver
+12:51:47.093 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4715.767090, 5.637199, 2267.199219>)
+12:52:00.011 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4759.414551, 7.709729, 2337.277832>) covered vehicle "URAL_4320_rust" (GlobalID=80000000800000008000000080000725 pos=<4763.961426, 7.101651, 2339.232666>)!
+12:52:13.898 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4762.935059, 6.517113, 2348.816162>) uncovered vehicle "HAMMER_H1_black_rust" (GlobalID=80000000800000008000000080000750 pos=<4763.295898, 6.353915, 2351.840088>)!
+12:52:36.468 [VehicleDeleted] HAMMER_H1_black_rust (id=4498D2C9E64B4BE3BB6CA78027301AD1 pos=<4763.296387, 6.353755, 2351.842285>)
+12:52:36.468 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4762.913574, 6.507532, 2348.932861>) covered vehicle "HAMMER_H1_black_rust" (GlobalID=80000000800000008000000080000750 pos=<4763.296387, 6.353755, 2351.842285>)!
+12:53:07.605 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase expansioncarkey x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+12:53:07.781 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought expansioncarkey x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 600.
+12:53:58.578 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4715.911621, 5.853583, 2270.708008>) paired a  ExpansionCarKey to Cougar_rust (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4715.767090, 5.637202, 2267.199219>)
+12:54:00.441 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4715.911621, 5.853583, 2270.708008>) used the  ExpansionCarKey to lock Cougar_rust (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4715.767090, 5.637202, 2267.199219>)
+12:54:02.644 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4715.911621, 5.853583, 2270.708008>) used the  ExpansionCarKey to unlock Cougar_rust (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4715.767090, 5.637202, 2267.199219>)
+13:00:25.320 [Safezone] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I= pos=<4658.493164, 2.492306, 2239.484619>) Left the safezone
+13:00:38.523 [Safezone] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I= pos=<4667.768066, 2.501147, 2244.081055>) Entered the safezone
+13:01:16.710 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+13:01:18.453 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+13:01:27.437 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4715.752441, 5.823272, 2270.530273>) used the  ExpansionCarKey to lock Cougar_rust (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4715.767090, 5.637202, 2267.199219>)
+13:03:31.171 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+13:04:00.902 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+13:10:23.503 [Party] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=) left the party "SlutZ Of DayZ" (id=7 ownerUID=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= ownerName=S.O.D-Rusty)
+14:00:06.765 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:00:06.765 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+14:00:09.046 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Medical
+14:25:11.921 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+14:25:11.937 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+14:25:11.937 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 3
+14:25:11.937 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+14:25:12.867 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+14:33:08.031 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:33:08.031 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+14:33:08.031 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:42:34.273 [ExplosionDamageSystem] About to explode FlashGrenade_Ammo from FlashGrenade<f4f8e990> at <1670.11, 87.65, 2619.52> EXPLOSION range 20 dropoff 5
+15:09:11.246 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4813.201660, 6.446928, 2248.750732>) Entered the safezone
+15:09:11.250 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+15:09:11.257 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:09:11.257 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+15:09:11.257 [Expansion Quests] - Create new quest instance for quest: 1 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:09:11.257 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:09:12.195 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+15:14:54.691 [BaseRaiding] BBP_BWindow (<1667.069702, 52.917500, 2958.202148>) Code set by player "Capt Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <1666.189209, 52.957462, 2959.000488>) and the code is 1776
+15:23:12.046 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Medical
+15:29:30.328 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+15:34:42.750 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4715.747559, 5.822259, 2270.520020>) used the  ExpansionCarKey to unlock Cougar_rust (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4715.767090, 5.637202, 2267.199219>)
+15:39:15.515 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4715.767090, 5.637235, 2267.199219>) as driver
+15:39:35.300 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4715.767090, 5.637221, 2267.199219>)
+15:40:04.933 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4579.222656, 4.379295, 2211.337646>) Left the safezone
+15:45:49.898 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<6403.976563, 26.067684, 2269.407227>)
+15:47:28.292 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<6403.976563, 26.067684, 2269.407227>) as driver
+15:47:31.246 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<6403.976563, 26.067684, 2269.407227>)
+15:51:27.941 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4984.543945, 5.732888, 2145.371826>) Entered the safezone
+15:51:55.570 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle Cougar Rust kamo (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4901.992676, 6.247685, 2257.302246>)
+15:52:08.250 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4899.721191, 6.322464, 2257.358154>) used the  ExpansionCarKey to lock Cougar_rust (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4901.992676, 6.247684, 2257.302002>)
+15:52:38.734 [Expansion Quests] - CompleteQuest - Player with UID SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= has completed quest 7
+15:58:55.054 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4768.159668, 6.663609, 2338.799316>) uncovered vehicle "URAL_4320_rust" (GlobalID=80000000800000008000000080000725 pos=<4763.961426, 7.101651, 2339.232666>)!
+15:59:10.789 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4763.427734, 7.228466, 2336.784912>) used the  ExpansionCarKey to unlock URAL_4320_rust (id=26A55E28F14BAEF7469E61A33FC5B4D3 pos=<4763.963867, 7.101357, 2339.232422>)
+16:06:01.492 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4767.853027, 6.621881, 2341.207275>) used the  ExpansionCarKey to lock URAL_4320_rust (id=26A55E28F14BAEF7469E61A33FC5B4D3 pos=<4763.963867, 7.101357, 2339.232422>)
+16:06:22.687 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4759.704590, 7.713125, 2336.806396>) covered vehicle "URAL_4320_rust" (GlobalID=80000000800000008000000080000725 pos=<4763.963867, 7.101357, 2339.232422>)!
+16:07:08.144 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4903.318848, 6.322500, 2254.092529>) used the  ExpansionCarKey to unlock Cougar_rust (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4901.992676, 6.247684, 2257.302002>)
+16:07:12.000 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4903.318848, 6.322500, 2254.092529>) used the  ExpansionCarKey to lock Cougar_rust (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4901.992676, 6.247684, 2257.302002>)
+16:07:14.433 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4903.318848, 6.322500, 2254.092529>) used the  ExpansionCarKey to unlock Cougar_rust (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4901.992676, 6.247684, 2257.302002>)
+16:11:52.875 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4903.283691, 6.322501, 2254.163330>) used the  ExpansionCarKey to lock Cougar_rust (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<4901.992676, 6.247684, 2257.302002>)
+16:12:48.125 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has deposited 100 on his ATM account.
+16:17:34.851 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+16:17:49.179 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+16:17:49.179 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+16:18:48.207 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4825.153809, 6.310000, 2270.006348>) Entered the safezone
+16:20:50.445 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5618.755371, 14.789390, 5417.383301>) Left the safezone
+16:21:18.164 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4861.646973, 10.501563, 2293.881836>) Entered the safezone
+16:38:20.609 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<aea8070> at <5952.36, 34.36, 2099.35> EXPLOSION range 12 dropoff 3
+16:44:59.964 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+16:44:59.972 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+16:44:59.972 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+16:44:59.972 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+16:45:00.914 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+16:46:46.093 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Basebuilding
+17:02:17.851 [VehicleEnter] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<2162.677490, 54.776031, 3067.888672>) as driver
+17:02:21.921 [VehicleEngine] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<2162.677490, 54.776043, 3067.885742>)
+17:10:39.617 [Safezone] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<4984.340332, 4.392217, 2148.948486>) Entered the safezone
+17:11:00.316 [VehicleLeave] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<4897.836914, 6.286021, 2255.511475>)
+17:11:52.015 [Expansion Quests] - CompleteQuest - Player with UID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= has completed quest 99
+17:19:15.882 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= for quest 51
+17:20:18.964 [VehicleEnter] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<4897.836914, 6.286063, 2255.510742>) as driver
+17:20:24.191 [VehicleEngine] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<4897.836914, 6.286032, 2255.510498>)
+17:21:04.062 [Safezone] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5007.891113, 8.793509, 2004.264404>) Left the safezone
+17:23:14.664 [VehicleLeave] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<4185.573242, 29.478462, 1552.840454>)
+17:26:48.382 [VehicleEnter] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<4185.573242, 29.478239, 1552.848633>) as driver
+17:26:52.785 [VehicleEngine] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<4185.573730, 29.478012, 1552.855713>)
+17:27:52.976 [VehicleLeave] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<3824.337646, 39.986263, 1787.032837>)
+17:29:19.968 [VehicleEnter] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<3824.408447, 39.975842, 1786.990234>) as driver
+17:29:22.875 [VehicleEngine] Player Capt Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Sarka 120 (id=F593073ECF49DE13340298B86DBF76B4 pos=<3824.491455, 39.963730, 1786.941772>)
+17:31:13.437 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+17:31:52.859 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+17:31:52.867 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+17:31:52.867 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+17:31:53.855 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+17:33:34.789 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+17:33:35.781 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+17:44:26.710 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+17:44:56.617 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+17:44:56.625 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+17:44:56.625 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+17:44:57.609 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+17:56:39.566 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)

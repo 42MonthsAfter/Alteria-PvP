@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 26,
     "ID": 23,
-    "ObjectiveType": 4,
-    "ObjectiveText": "Collect 6 Flashlights",
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 3 Lake Trout",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 6,
-            "ClassName": "Flashlight",
+            "Amount": 3,
+            "ClassName": "geb_LakeTrout",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }

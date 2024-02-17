@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 43,
     "Type": 1,
-    "Title": "Kill 50 Zombies",
+    "Title": "Kill 10 Zombies with a Granade",
     "Descriptions": [
-        "Let's see if you're ready for this. Go out and kill 50 zombies by any means necessary.",
-        "What, this too hard for you?",
-        "Whoa... Look at you, Big Timer! Well done."
+        "Let's see how you do with explosives. Kill 10 zombies with granades and we will see what you're made of.",
+        "You aren't afraid of some big bangs are you?",
+        "Nice work! Did you get them all in one go?"
     ],
-    "ObjectiveText": "Kill 50 Zombies",
+    "ObjectiveText": "Kill 10 Zombies with a Granade",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,16 +20,31 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_Auto9",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_Auto9_mag_25Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_AR15",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_AR15_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_AR15_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,

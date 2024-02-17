@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 10,
     "Type": 1,
-    "Title": "Get a Tent",
+    "Title": "Visit Ares",
     "Descriptions": [
-        "You know what is more cozy than sleeping under some sticks? Wrapping up in a sleeping bag in a tent. Go grab yourself a tent, pop it up, and climb on in",
-        "Having trouble finding a tent? You can always buy one here in the Holler.",
-        "See how much nicer than the makeshift shelter that is? Nothing cozier than a tent."
+        "Alright, last one, and it's for all the marbles... Get your ass down to Ares.",
+        "It's ok, seriously, I wouldn't want to do this one either.",
+        "I'm seriously speachless. You are a master of Alteria."
     ],
-    "ObjectiveText": "Get a Tent",
+    "ObjectiveText": "Visit Ares",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -24,36 +24,34 @@
             "Amount": 100,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        },
-        {
-            "ClassName": "NailBox",
-            "Amount": 5,
+          },
+          {
+            "ClassName": "TWP_FirefighterAxe",
+            "Amount": 1,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        1
+        2
     ],
     "QuestTurnInIDs": [
-        1
+        2
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 10,
-            "ObjectiveType": 10
+            "ObjectiveType": 3
         }
     ],
     "QuestColor": 0,

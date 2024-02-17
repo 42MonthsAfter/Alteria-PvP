@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 4,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit Deadman's Rock",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1503.6, 
+        120.313, 
+        6386.76
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Deadman's Rock",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

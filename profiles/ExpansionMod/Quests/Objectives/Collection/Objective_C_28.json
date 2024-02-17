@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 26,
     "ID": 28,
-    "ObjectiveType": 4,
-    "ObjectiveText": "Collect 5 Large Gas Canisters",
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 4 Black Bass",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 5,
-            "ClassName": "LargeGasCanister",
+            "Amount": 4,
+            "ClassName": "geb_Blackbass",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }

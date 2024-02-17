@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 33,
     "Type": 1,
-    "Title": "Bring Me 3 Lake Trout",
+    "Title": "Kill 50 Zombies",
     "Descriptions": [
-        "Stepping it up a bit. Let's see how you are when it comes to larger fishing game. I need me some trout, perferably of the lake varaity.",
-        "I know they are tougher than minows, but come one. This can't be that difficult.",
-        "Master angeler! Let's see if I can't make things a little tougher for you next time."
+        "Let's see if you're ready for this. Go out and kill 50 zombies by any means necessary.",
+        "What, this too hard for you?",
+        "Whoa... Look at you, Big Timer! Well done."
     ],
-    "ObjectiveText": "Bring Me 3 Lake Trout",
+    "ObjectiveText": "Kill 50 Zombies",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,33 +20,48 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_UMP",
-            "Amount": 1,
-            "Attachments": [
-                "TWP_UMP_mag_35Rnd"
-            ],
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
+          },
+          {
+            "ClassName": "TWP_Tar21",
+            "Amount": 1,
+            "Attachments": [
+              "TWP_Tar21_mag_30Rnd"
+            ],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          },
+          {
+            "ClassName": "TWP_Tar21_mag_30Rnd",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+          }
     ],
     "NeedToSelectReward": 1,
     "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        4
+        5
     ],
     "QuestTurnInIDs": [
-        4
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 33,
-            "ObjectiveType": 5
+            "ObjectiveType": 2
         }
     ],
     "QuestColor": 0,

@@ -110,3 +110,9 @@
 17:07:11.285 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
 17:07:11.285 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
 17:07:12.230 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+17:14:16.046 [AI Patrol] Spawning 3 Shamans bots at <829.529480, 5.260000, 3425.565674>
+17:19:11.109 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: ysXLPGxvINTWJrUI_cLicG01RRa30GIHtUhoD1SXkpo=
+17:19:11.109 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:26:13.890 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Basebuilding
+17:46:34.359 [AI Patrol] Spawning 3 Shamans bots at <886.470215, 5.260000, 3135.457520>
+17:59:20.648 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "dirtydan" (id=3 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)

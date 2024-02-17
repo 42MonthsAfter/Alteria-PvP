@@ -2,7 +2,7 @@
     "ConfigVersion": 27,
     "ID": 41,
     "ObjectiveType": 2,
-    "ObjectiveText": "Kill 10 Zombies",
+    "ObjectiveText": "Kill 10 Zombies with a Screwdriver",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
@@ -94,7 +94,9 @@
         "ZmbF_kid3"
     ],
     "CountSelfKill": 0,
-    "AllowedWeapons": [],
+    "AllowedWeapons": [
+        "Screwdriver"
+    ],
     "ExcludedClassNames": [],
     "CountAIPlayers": 0,
     "AllowedTargetFactions": [],

@@ -2,13 +2,13 @@
     "ConfigVersion": 21,
     "ID": 54,
     "Type": 1,
-    "Title": "Kill 10 Zombies with an MKII",
+    "Title": "Find the Stash at Kelfka",
     "Descriptions": [
-        "Let's tone things down a bit. Get your hands on a MKII and take out 10 zombies then get back to me.",
-        "This should be the easiest thing you do today, what are you waiting around for?",
-        "See, that wasn't so hard now was it?"
+        "Now this one is a bit more challenging and dangerous.",
+        "It's ain't going to dig itself up.",
+        "I honestly didn't think you would make it back from that one."
     ],
-    "ObjectiveText": "Kill 10 Zombies with an MKII",
+    "ObjectiveText": "Find the Stash at Kelfka",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
@@ -20,31 +20,30 @@
     "QuestItems": [],
     "Rewards": [
         {
-            "ClassName": "TWP_BenelliM3",
-            "Amount": 1,
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 200,
             "Attachments": [],
             "DamagePercent": 0,
-            "HealthPercent": 0,
             "QuestID": -1,
             "Chance": 1.0
-        }
-    ],
-    "NeedToSelectReward": 1,
-    "RandomReward": 0,
+          }
+        ],
+        "NeedToSelectReward": 1,
+        "RandomReward": 0,
     "RandomRewardAmount": -1,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        5
+        7
     ],
     "QuestTurnInIDs": [
-        5
+        7
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 27,
             "ID": 54,
-            "ObjectiveType": 2
+            "ObjectiveType": 6
         }
     ],
     "QuestColor": 0,

@@ -1,14 +1,14 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 26,
     "ID": 26,
-    "ObjectiveType": 4,
-    "ObjectiveText": "Collect 6 Screwdrivers",
+    "ObjectiveType": 5,
+    "ObjectiveText": "Bring Me 3 Angel Fish",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 6,
-            "ClassName": "Screwdriver",
+            "Amount": 3,
+            "ClassName": "geb_Angelfish",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }

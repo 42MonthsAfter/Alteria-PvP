@@ -2,15 +2,15 @@
     "Enabled": 1,
     "Weight": 5.0,
     "MissionMaxTime": 900,
-    "MissionName": "Ship-SW",
+    "MissionName": "Ares",
     "Difficulty": 0,
     "Objective": 0,
     "Reward": "",
     "Data": {
         "Pos": [
-            2136,
+            2139.18, 
             0.0,
-            3024
+            3023.77
         ],
         "Radius": 100.0,
         "PosHeight": 22.0,

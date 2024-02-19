@@ -1,0 +1,75 @@
+18:02:24.753 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:02:24.757 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:02:24.757 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:02:24.761 [AI Patrol] Spawning 2 Shamans bots at <2230.346436, 54.799999, 2991.890381>
+18:07:25.820 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Basebuilding
+18:07:44.636 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+18:07:44.636 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+18:38:38.765 [AI Patrol] Spawning 2 Shamans bots at <2669.121338, 44.109932, 5970.071777>
+18:55:05.632 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+18:55:05.632 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+18:56:41.015 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID= ownerName=)
+18:56:41.015 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) created a party named Dirtydan (getfucked)
+18:56:41.992 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 0
+18:56:47.687 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) invited the player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)to the party named Dirtydan
+18:58:33.132 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+18:58:34.132 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:04:45.132 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+19:04:45.132 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:07:13.976 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): there is just something special about loading in as a freshie when you logged off fully geared.....
+19:07:36.953 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): =]
+19:07:40.164 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya he did a wipe it was in the discord
+19:07:53.093 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): I know i was just foolin
+19:08:34.687 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): im loving this server so far and so is my girlfriend
+19:09:36.882 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): we went for that military airdrop at the air field the other night and it was insanity lmaoooo SOOO many zombies 
+19:10:02.851 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): it took every bullet we had to take them all out 
+19:10:17.625 [Chat - Global]("CrazyBob1027"(id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=)): super fun 
+19:17:45.250 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): a
+19:17:48.781 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): thx
+19:19:43.757 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+19:19:43.757 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:19:43.757 [AI Patrol] Spawning 2 Shamans bots at <4127.081055, 19.075277, 7544.987305>
+19:20:57.296 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "PSYCHONAUTS" (id=1 ownerUID= ownerName=)
+19:20:57.296 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) created a party named PSYCHONAUTS ()
+19:20:58.296 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 1
+19:21:06.781 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) invited the player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=)to the party named PSYCHONAUTS
+19:21:19.406 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+19:21:20.406 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+19:21:58.015 [AI Patrol] Spawning 2 Shamans bots at <4848.897461, 47.634838, 1402.569702>
+19:35:28.820 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Basebuilding
+19:38:22.921 [AI Patrol] Spawning 2 Shamans bots at <6427.488770, 26.129999, 1931.170654>
+19:44:27.414 [AI Patrol] Spawning 2 Shamans bots at <7158.925781, 26.129999, 1727.153687>
+19:47:17.867 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): this map is sweet cant wait for it to be done done 
+19:52:13.843 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i wonder if yall are staring at the same moon i am LOL
+19:52:32.343 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): lol
+19:57:59.843 [Safezone] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<4668.388184, 2.501143, 2242.240967>) Entered the safezone
+19:57:59.859 [Party] Player "CrazyBob1027" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) left the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+19:58:04.539 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+19:58:06.281 [Safezone] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4667.197754, 2.501132, 2242.405029>) Entered the safezone
+19:58:46.406 [Expansion Quests] - CompleteQuest - Player with UID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= has completed quest 99
+20:00:20.179 [Expansion Quests] - CompleteQuest - Player with UID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= has completed quest 99
+20:17:14.390 [Safezone] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5103.436035, 1.814278, 2374.832275>) Left the safezone
+20:18:09.406 [Safezone] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<5068.736816, -0.012427, 2355.994873>) Entered the safezone
+20:22:41.515 [Safezone] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4730.849609, 2.404906, 2532.805420>) Left the safezone
+20:22:42.101 [Safezone] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<4725.395020, 2.404846, 2536.622803>) Left the safezone
+20:25:57.140 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Xm6gtmR-Qq-txlr4-S0eXqyN2QNqd14mSK6WNlTA--M=
+20:25:57.140 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:25:57.140 [AI Patrol] Spawning 2 Shamans bots at <4582.174805, 16.285522, 7404.460449>
+20:35:27.164 [Killfeed] Hooligan-235 got killed by Survivor (Shamans) with SK 59/66 from a distance of 5 m.
+21:01:48.843 [AI Patrol] Spawning 2 Shamans bots at <6612.316406, 22.260000, 3792.320557>
+21:03:47.859 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Medical
+21:09:03.929 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+21:31:57.101 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+21:46:56.437 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+21:46:56.437 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+21:53:03.054 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+21:53:03.054 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:27:44.601 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+22:52:38.109 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+22:52:38.109 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:52:38.109 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+23:09:37.585 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+23:09:37.601 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+23:09:37.601 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:09:38.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:21:57.171 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)

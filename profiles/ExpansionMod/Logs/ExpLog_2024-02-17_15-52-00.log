@@ -1,0 +1,6 @@
+15:54:53.132 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+15:54:53.132 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+15:54:53.144 [AI Patrol] Spawning 2 Shamans bots at <2552.518799, 43.894569, 5686.590820>
+15:55:14.492 [AI Patrol] Spawning 2 Shamans bots at <4892.160645, 47.820000, 1283.452515>
+15:55:14.808 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4822.536133, 6.322500, 2266.763672>) Entered the safezone
+16:00:02.226 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military

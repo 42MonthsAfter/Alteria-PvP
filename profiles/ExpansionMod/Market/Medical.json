@@ -1,7 +1,7 @@
 {
     "m_Version": 12,
     "DisplayName": "MEDICALS",
-    "Icon": "Deliver",
+    "Icon": "Pill",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 10.0,

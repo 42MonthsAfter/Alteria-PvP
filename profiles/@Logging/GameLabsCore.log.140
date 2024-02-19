@@ -1,0 +1,17 @@
+************************** 2024-02-18T17:00:36+00:00 **************************
+2024-02-18T17:00:36+00:00 | [INFO	] GameLabs v1.932 start for server 78da06b5-bc0a-424b-9b66-a42c7f89719f
+2024-02-18T17:00:44+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-02-18T17:00:44+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-02-18T17:00:44+00:00 | [INFO	] Experimental speed check is enabled
+2024-02-18T17:00:44+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2024-02-18T17:12:17+00:00 | [WARN	] [Teleport] SurvivorBase<f748b010> position=0x0000000049aa2c70 {<6973.69,26.33,1954.19>}
+2024-02-18T17:12:19+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-02-18T17:12:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-18T17:12:19+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198369601190, distance=26.396u, unitsPerSecond=10.5584 [threshold=8, inVehicle=0, triggers=1])
+2024-02-18T17:12:19+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-18T17:12:19+00:00 | [WARN	] ****************************************
+2024-02-18T17:13:06+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-02-18T17:13:06+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-18T17:13:06+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=4168.7u, unitsPerSecond=1667.48 [threshold=8, inVehicle=0, triggers=1])
+2024-02-18T17:13:06+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-18T17:13:06+00:00 | [WARN	] ****************************************

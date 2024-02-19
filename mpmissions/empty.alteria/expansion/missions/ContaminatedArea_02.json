@@ -2,15 +2,15 @@
     "Enabled": 1,
     "Weight": 5.0,
     "MissionMaxTime": 900,
-    "MissionName": "Pavlovo-South",
+    "MissionName": "Cassandra",
     "Difficulty": 0,
     "Objective": 0,
     "Reward": "",
     "Data": {
         "Pos": [
-            4342,
+            4573.72, 
             0.0,
-            7609
+            7550.15
         ],
         "Radius": 150.0,
         "PosHeight": 11.0,

@@ -1,0 +1,4 @@
+15:48:33.859 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4806.055176, 6.095615, 2250.773682>) Entered the safezone
+15:48:33.871 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+15:48:33.875 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+15:48:33.886 [AI Patrol] Spawning 2 Shamans bots at <4894.034668, 47.820000, 1280.050903>

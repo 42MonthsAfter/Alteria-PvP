@@ -1,0 +1,313 @@
+12:21:08.710 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+12:21:08.726 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+12:21:08.726 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+12:21:08.730 [AI Patrol] Spawning 2 Shamans bots at <4155.580566, 17.785593, 7562.330566>
+12:21:08.878 [AI Patrol] Spawning 2 Shamans bots at <4417.005371, 16.553356, 7289.541992>
+12:21:09.695 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:21:23.789 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+12:21:23.789 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+12:21:23.789 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+12:21:28.207 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+12:21:28.207 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+12:21:28.210 [AI Patrol] Spawning 2 Shamans bots at <2755.939941, 43.939999, 5908.410645>
+12:22:02.652 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+12:22:02.664 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:22:02.664 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+12:22:02.664 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:22:03.640 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:24:19.203 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+12:24:19.203 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+12:24:19.203 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+12:26:12.894 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Basebuilding
+12:32:52.625 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ysXLPGxvINTWJrUI_cLicG01RRa30GIHtUhoD1SXkpo=
+12:32:52.625 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+12:32:52.625 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ysXLPGxvINTWJrUI_cLicG01RRa30GIHtUhoD1SXkpo=
+12:36:03.660 [Expansion Quests] - CompleteQuest - Player with UID spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= has completed quest 99
+12:36:03.664 [AI Patrol] Spawning 2 Shamans bots at <4934.470703, 47.413479, 1353.737427>
+12:36:04.015 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4840.053711, 10.945397, 2287.946533>) Entered the safezone
+12:36:56.996 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<6704.719238, 14.719835, 6800.584961>) Left the safezone
+12:38:29.656 [VehicleAttachments] Player [ADMIN]DrKilledByDeath (uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) detached Mercedes-Benz W140 Wheel (type=MBw140_Wheel) from vehicle Mercedes-Benz W140(id=CAD63B5DD94BC6313CDF7FBF840DED72 pos=<6696.116211, 14.396228, 6800.780273>)
+12:42:02.902 [Chat - Global]("Rhino"(id=ysXLPGxvINTWJrUI_cLicG01RRa30GIHtUhoD1SXkpo=)): why are zed so hrad to kill
+12:45:28.765 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+12:45:28.765 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+12:45:28.765 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+12:46:04.191 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 99
+12:46:04.894 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4826.880371, 6.322500, 2266.867188>) Entered the safezone
+12:46:06.582 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+12:46:06.589 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=
+12:46:06.589 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:46:07.570 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:47:18.925 [AI Patrol] Spawning 2 Shamans bots at <2246.508057, 54.799999, 2978.806152>
+12:48:23.175 [VehicleEnter] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] entered vehicle Interceptor (id=5F070FE59F4A7377B78EDF8F4C77611B pos=<4842.624512, 6.200665, 2242.598633>) as driver
+12:48:24.925 [VehicleEngine] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] started vehicle Interceptor (id=5F070FE59F4A7377B78EDF8F4C77611B pos=<4842.624512, 6.200665, 2242.598633>)
+12:48:31.875 [VehicleAttachments] Player [ADMIN]DrKilledByDeath (uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) detached Car Battery (type=CarBattery) from vehicle Citroen 2CV Rust (id=C372089A0F45A9416EFF5BB805B4748D pos=<1876.810913, 51.606026, 3499.730225>)
+12:48:40.437 [VehicleAttachments] Player [ADMIN]DrKilledByDeath (uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) detached Spark Plug (type=SparkPlug) from vehicle Citroen 2CV Rust (id=C372089A0F45A9416EFF5BB805B4748D pos=<1876.810913, 51.606026, 3499.730225>)
+12:48:51.136 [VehicleLeave] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] left vehicle Interceptor (id=5F070FE59F4A7377B78EDF8F4C77611B pos=<4840.606445, 6.200664, 2238.939209>)
+12:49:26.027 [VehicleEnter] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] entered vehicle MUSTANG Rust  (id=949FC9A506413BD8E3B9F8A779F04AAB pos=<4837.596680, 6.369740, 2246.437500>) as driver
+12:49:27.625 [VehicleEngine] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] started vehicle MUSTANG Rust  (id=949FC9A506413BD8E3B9F8A779F04AAB pos=<4837.596680, 6.369740, 2246.437500>)
+12:49:53.386 [VehicleLeave] Player [Admin] Bunker [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] left vehicle MUSTANG Rust  (id=949FC9A506413BD8E3B9F8A779F04AAB pos=<4837.928223, 6.369740, 2240.006348>)
+12:50:24.957 [VehicleCarKey] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4836.689453, 6.322500, 2240.919922>) paired a  ExpansionCarKey to MUSTANG_rust (id=949FC9A506413BD8E3B9F8A779F04AAB pos=<4837.927734, 6.369740, 2240.006592>)
+12:50:27.386 [VehicleCarKey] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4836.689453, 6.322500, 2240.919922>) used the  ExpansionCarKey to lock MUSTANG_rust (id=949FC9A506413BD8E3B9F8A779F04AAB pos=<4837.927734, 6.369740, 2240.006592>)
+12:50:34.722 [VehicleCarKey] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4840.832520, 6.322500, 2241.703125>) paired a  ExpansionCarKey to Interceptor (id=5F070FE59F4A7377B78EDF8F4C77611B pos=<4840.606445, 6.200664, 2238.939209>)
+12:50:36.453 [VehicleCarKey] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4840.832520, 6.322500, 2241.703125>) used the  ExpansionCarKey to lock Interceptor (id=5F070FE59F4A7377B78EDF8F4C77611B pos=<4840.606445, 6.200664, 2238.939209>)
+12:52:20.593 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= for quest 52
+12:52:48.765 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<3475.682617, 19.380428, 5285.093750>) Left the safezone
+12:53:05.937 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4824.809570, 11.675513, 2323.669434>) Entered the safezone
+12:53:38.437 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4830.686035, 6.397235, 2264.338135>) Entered the safezone
+12:53:48.535 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 52
+12:58:07.230 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4994.905762, 3.654869, 2056.010498>) Left the safezone
+12:58:17.750 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<1905.202881, 50.552464, 3494.153809>) paired a  ExpansionCarKey to BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<1906.574341, 50.713459, 3496.627441>)
+12:58:19.582 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<1904.970703, 50.726006, 3495.773682>) used the  ExpansionCarKey to lock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<1906.574341, 50.713459, 3496.627441>)
+12:58:20.648 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<1904.970703, 50.726006, 3495.773682>) used the  ExpansionCarKey to unlock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<1906.574341, 50.713459, 3496.627441>)
+12:58:25.765 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<1906.574341, 50.706745, 3496.567627>) as driver
+12:58:28.347 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<1906.574219, 50.695709, 3496.469238>)
+12:59:25.945 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4986.105957, 3.842109, 2144.800781>) Entered the safezone
+12:59:35.511 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<2142.394287, 54.894703, 2936.358154>)
+13:00:08.253 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2144.750732, 54.974968, 2936.786865>) used the  ExpansionCarKey to lock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<2142.394287, 54.894703, 2936.358154>)
+13:00:15.230 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4993.591797, 3.843095, 2075.450439>) Left the safezone
+13:00:32.484 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4984.321289, 3.842129, 2144.613525>) Entered the safezone
+13:00:52.937 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4990.930664, 3.843086, 2087.339844>) Left the safezone
+13:01:37.109 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4807.843750, 6.262996, 2256.322510>) Entered the safezone
+13:02:04.847 [ATM] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) has deposited 200 on his ATM account.
+13:02:28.570 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+13:04:37.609 [Killfeed] Anatoliy-GopnikSlayer got killed by Survivor (Shamans) with SK 59/66 from a distance of 1 m.
+13:05:31.839 [Killfeed] Anatoliy-GopnikSlayer got killed by Survivor (Shamans) with SK 59/66 from a distance of 23 m.
+13:07:12.484 [Party] Player "Dirtyrectum" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+13:07:12.496 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+13:07:12.496 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+13:07:13.480 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+13:09:00.105 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+13:09:09.167 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+13:09:09.167 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+13:09:09.171 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+13:10:28.640 [Safezone] Player "Dirtyrectum" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4895.371094, 6.511897, 2248.962891>) Entered the safezone
+13:18:01.472 [Killfeed] Anatoliy-GopnikSlayer got killed by Survivor (Shamans) with SK 59/66 from a distance of 3 m.
+13:18:55.523 [VehicleDeleted] Citroen2CV_rust (id=C372089A0F45A9416EFF5BB805B4748D pos=<1876.810913, 51.606026, 3499.730225>)
+13:20:17.203 [Killfeed] Rhino got killed by Survivor (Shamans) with Bizon from a distance of 7 m.
+13:24:29.312 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2142.121826, 54.974968, 2938.034668>) used the  ExpansionCarKey to unlock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<2142.394287, 54.894703, 2936.358154>)
+13:24:33.753 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<2142.393555, 54.894718, 2936.358154>) as driver
+13:24:37.828 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle BMW (rust) (Locked) (id=71F23079A94120599A43B09C6B991E1B pos=<2142.390869, 54.894726, 2936.358154>)
+13:26:20.234 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+13:27:17.902 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle BMW (rust) (Locked) (id=71F23079A94120599A43B09C6B991E1B pos=<4117.376465, 7.776698, 2752.586670>)
+13:29:13.699 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4644.881348, 21.857046, 6665.342773>) Left the safezone
+13:29:29.664 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+13:29:29.671 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=
+13:29:29.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+13:29:30.636 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+13:30:14.019 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+13:31:53.531 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=3 ownerUID= ownerName=)
+13:31:53.535 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) created a party named Sharkparty (SHRK)
+13:31:54.531 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 3
+13:34:44.304 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+13:34:44.312 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=
+13:34:44.312 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+13:34:45.277 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+13:38:03.890 [Chat - Team]("Dirtyrectum"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): f
+13:38:13.636 [Chat - Global]("Dirtyrectum"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): fuck its dark lol
+13:38:45.285 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): dark as fuck lol
+13:38:54.675 [Chat - Global]("Dirtyrectum"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i like it tho
+13:39:11.058 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): yeah NVGs are gold
+13:39:42.503 [Party] Player "Dirtyrectum" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+13:40:53.312 [Safezone] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4786.217285, 7.423676, 2283.840332>) Entered the safezone
+13:40:53.312 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+13:40:53.320 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+13:40:53.320 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+13:40:54.285 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+13:49:25.972 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Basebuilding
+13:49:28.703 [Safezone] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4991.050293, 3.843068, 2090.795166>) Left the safezone
+13:49:56.472 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle BMW (rust) (Locked) (id=71F23079A94120599A43B09C6B991E1B pos=<4116.885254, 7.519796, 2748.451416>)
+13:50:00.878 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle BMW (rust) (Locked) (id=71F23079A94120599A43B09C6B991E1B pos=<4116.885254, 7.519733, 2748.450684>)
+13:50:07.710 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<4116.885254, 7.519717, 2748.450195>)
+13:51:56.839 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4117.252441, 7.509204, 2747.358887>) used the  ExpansionCarKey to lock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<4116.885254, 7.519711, 2748.450195>)
+13:51:56.972 [Killfeed] Anatoliy-GopnikSlayer got killed by Mr.Warrior with Mosin 91/30 from a distance of 19 m.
+13:52:20.554 [VehicleCarKey] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI= pos=<4117.876953, 7.474368, 2747.003174>) used the  ExpansionCarKey to unlock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<4116.885254, 7.519711, 2748.450195>)
+13:53:21.117 [VehicleEnter] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] entered vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<4116.885254, 7.519697, 2748.450195>) as driver
+13:53:24.421 [VehicleEngine] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] started vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<4116.885254, 7.519691, 2748.449951>)
+13:53:54.691 [Chat - Global]("Anatoliy-GopnikSlayer"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): nice shot brother. made my heart rate go up hahaha
+13:54:37.074 [VehicleEngine] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] stopped vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<4109.624512, 22.429407, 2220.525146>)
+13:54:40.523 [VehicleLeave] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] left vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<4109.770508, 22.429752, 2220.432861>)
+13:54:57.121 [VehicleCarKey] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI= pos=<4111.518066, 22.522455, 2221.614990>) used the  ExpansionCarKey to lock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<4109.770508, 22.429720, 2220.433105>)
+13:55:12.898 [Chat - Global]("Anatoliy-GopnikSlayer"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): pls what is red circle on map?
+13:55:27.753 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): trader
+13:55:29.859 [Chat - Global]("Sharkparty"(id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)): safe zone
+13:55:43.386 [Chat - Global]("Anatoliy-GopnikSlayer"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): thankyou
+13:57:56.562 [AI Patrol] Spawning 2 Shamans bots at <6348.403809, 27.985212, 2097.094971>
+14:00:55.988 [VehicleCarKey] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI= pos=<4108.648926, 22.522499, 2223.345703>) used the  ExpansionCarKey to unlock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<4109.770508, 22.429720, 2220.433105>)
+14:01:20.503 [VehicleCarKey] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI= pos=<4111.441406, 22.522499, 2222.099365>) used the  ExpansionCarKey to lock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<4109.770508, 22.429720, 2220.433105>)
+14:02:44.808 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+14:07:24.277 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+14:07:24.285 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=
+14:07:24.285 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:07:25.242 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:08:41.394 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+14:09:28.371 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+14:31:37.757 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+14:31:37.761 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+14:31:37.761 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:31:38.714 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:32:45.878 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+14:32:45.886 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=
+14:32:45.886 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:32:46.839 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:33:44.023 [VehicleCarKey] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI= pos=<4112.094238, 22.522499, 2221.349854>) used the  ExpansionCarKey to unlock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<4109.770508, 22.429720, 2220.433105>)
+14:33:52.539 [VehicleEnter] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] entered vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<4109.770508, 22.429749, 2220.433350>) as driver
+14:34:10.296 [VehicleLeave] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] left vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<4109.770508, 22.429750, 2220.435303>)
+14:34:15.812 [VehicleCarKey] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI= pos=<4111.585449, 22.522499, 2221.725830>) used the  ExpansionCarKey to lock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<4109.770508, 22.429750, 2220.435303>)
+14:34:56.003 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+14:34:56.011 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+14:34:56.011 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:34:56.011 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+14:34:56.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:35:21.789 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): john McClain must love rain
+14:37:18.828 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+14:37:39.140 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+14:37:39.148 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=
+14:37:39.148 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:37:40.105 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:39:18.480 [VehicleCarKey] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI= pos=<4111.462402, 22.522484, 2221.361572>) used the  ExpansionCarKey to unlock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<4109.770508, 22.429750, 2220.435303>)
+14:39:30.082 [VehicleEnter] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] entered vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<4109.770508, 22.429724, 2220.435059>) as driver
+14:39:33.421 [VehicleEngine] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] started vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<4109.770508, 22.429737, 2220.436035>)
+14:42:28.281 [VehicleLeave] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] left vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<3599.714111, 1.616795, 3503.874512>)
+14:42:34.046 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<3599.715576, 1.616732, 3503.874512>) as driver
+14:42:36.000 [VehicleEnter] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] entered vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<3599.716553, 1.616750, 3503.874512>) as passenger
+14:42:48.160 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<3599.720703, 1.616704, 3503.874023>)
+14:43:37.601 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): looking for a bbp book.  willing to trade 
+14:46:15.332 [Chat - Global]("Mr.Warrior"(id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=)): anybody know why i suddenly cant use thrid person anymore?
+14:46:34.402 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): they switched it to 1pp
+14:46:44.433 [Safezone] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI= pos=<4668.310059, 3.001474, 2241.457520>) Entered the safezone
+14:46:44.460 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4668.277344, 3.002085, 2242.336670>) Entered the safezone
+14:46:45.484 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): like on their other servers
+14:47:01.218 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): pvp zones have always been 1pp with them
+14:47:24.078 [VehicleLeave] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] left vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<4773.334961, 6.230277, 2279.553955>)
+14:47:54.796 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=71F23079A94120599A43B09C6B991E1B pos=<4747.076172, 6.546245, 2260.348633>)
+14:52:11.414 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+14:52:29.023 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4749.803223, 7.107125, 2257.494141>) Entered the safezone
+14:52:29.023 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+14:52:29.031 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+14:52:29.031 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:52:29.031 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+14:52:29.984 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+14:57:11.394 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4745.318359, 6.561224, 2259.823730>) used the  ExpansionCarKey to lock BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<4747.070313, 6.545522, 2260.353271>)
+14:58:16.433 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+14:58:16.441 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+14:58:16.441 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:58:17.386 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:58:26.167 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to sell cp_cannabisbagblackfrost x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+14:58:26.304 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has sold cp_cannabisbagblackfrost x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) and got 4500.
+14:58:31.976 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+14:58:32.144 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) and got 1000.
+14:58:33.125 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+14:58:33.250 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) and got 1000.
+14:58:34.214 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+14:58:34.390 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) and got 1000.
+14:58:36.628 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to sell cp_cannabisbagstardawg x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+14:58:36.789 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has sold cp_cannabisbagstardawg x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) and got 2500.
+14:59:26.054 [AI Patrol] Spawning 2 Shamans bots at <6795.471680, 19.120001, 3808.301758>
+15:00:08.644 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to sell cp_cannabisbagblackfrost x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:00:08.816 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has sold cp_cannabisbagblackfrost x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) and got 4500.
+15:01:02.644 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase camonet x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:01:02.804 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought camonet x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 350.
+15:01:12.226 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase sparkplug x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:01:12.359 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought sparkplug x1 from the trader "Vehicle_Parts (Lewis [VEHICLE PARTS])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 1200.
+15:05:14.281 [VehicleDeleted] BMW_rust (id=71F23079A94120599A43B09C6B991E1B pos=<4747.070313, 6.545522, 2260.353271>)
+15:05:14.281 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4746.020508, 6.367183, 2263.587891>) covered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<4747.070313, 6.545522, 2260.353271>)!
+15:06:37.882 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4746.830566, 6.348546, 2263.907959>) uncovered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<4747.070313, 6.545522, 2260.353271>)!
+15:06:55.179 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4747.257324, 7.030204, 2257.359375>) used the  ExpansionCarKey to unlock BMW_rust (id=9EABEABB334BC41F517CBAB264A3E401 pos=<4747.066895, 6.542217, 2260.381348>)
+15:10:39.781 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4747.735352, 6.994525, 2257.715088>) used the  ExpansionCarKey to lock BMW_rust (id=9EABEABB334BC41F517CBAB264A3E401 pos=<4747.066895, 6.542217, 2260.381348>)
+15:10:58.718 [VehicleDeleted] BMW_rust (id=9EABEABB334BC41F517CBAB264A3E401 pos=<4747.066895, 6.542217, 2260.381348>)
+15:10:58.718 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4746.063965, 6.340444, 2263.954834>) covered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<4747.066895, 6.542217, 2260.381348>)!
+15:11:33.687 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase mag_akm_drum75rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:11:33.851 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought mag_akm_drum75rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 480.
+15:12:15.769 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:12:15.898 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+15:12:17.828 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:12:17.992 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+15:12:20.109 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:12:20.269 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+15:12:21.699 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:12:21.851 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+15:12:22.835 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:12:23.000 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+15:12:29.023 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer
+15:15:52.007 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase bandagedressing x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:15:52.140 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought bandagedressing x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 300.
+15:15:54.007 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase bandagedressing x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:15:54.160 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought bandagedressing x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 300.
+15:15:55.746 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase bandagedressing x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:15:55.875 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought bandagedressing x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 300.
+15:16:08.734 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase tetracyclineantibiotics x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:16:08.898 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought tetracyclineantibiotics x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 1800.
+15:18:04.304 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+15:18:04.304 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+15:18:56.636 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has deposited 9610 on his ATM account.
+15:23:10.843 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+15:23:20.183 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4746.635254, 6.342635, 2263.972168>) uncovered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<4747.066895, 6.542217, 2260.381348>)!
+15:23:56.839 [VehicleDeleted] BMW_rust (id=850AE4FE7A40C06BDAF4E3AC56752096 pos=<4747.063477, 6.538919, 2260.409912>)
+15:23:56.839 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4745.096680, 6.568755, 2259.716309>) covered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<4747.063477, 6.538919, 2260.409912>)!
+15:27:35.398 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+15:30:37.953 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+15:31:10.312 [Territory] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) created territory Of Camp Cock at <6475.982910, 77.811409, 6541.302734>
+15:31:45.191 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+15:31:45.199 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:31:45.199 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:31:46.132 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:32:19.078 [Territory] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6473.791504, 77.811386, 6545.568848>) was invited to join the territory Of Camp Cock at <6475.982910, 77.811409, 6541.302734> by the player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)
+15:48:18.816 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+15:48:18.816 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+15:50:13.980 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): look who showed up. whats up lou
+15:50:30.015 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hey man how goes it?
+15:50:46.199 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): nice to see a name from deer isle
+15:51:13.324 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): figured i would give alteria a try. never been on this map before
+15:51:20.617 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): its fun
+15:53:19.753 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): do the traders on here have guns or just the basics?
+15:53:36.000 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): cant buy anything just sell i think
+15:53:51.109 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): guess it has basics
+15:53:51.519 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ok cool
+15:59:29.164 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): Its about to be Black screen lol
+15:59:37.671 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): yup i see that lol
+16:00:19.867 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): for how long do you think?
+16:00:27.195 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): about the same as DI
+16:00:33.054 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ok
+16:01:25.175 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i might just die of hunger before day comes around lol
+16:01:37.253 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): where are you
+16:01:57.937 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): don't wantr to say haha
+16:02:45.648 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lol
+16:05:39.632 [BaseRaiding] BBP_SDoor (<6473.819336, 77.989868, 6541.773926>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <6474.696777, 77.854256, 6542.776367>) and the code is 1776
+16:05:45.445 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=3 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+16:08:15.343 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): can't wait for the pnw server to drop
+16:08:49.644 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya its gunna be fun.  only like 6 days
+16:09:33.773 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): only seen the map on a few vids and it looks pretty dope. a lot of new building models from what i saw
+16:12:20.542 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): looking for a flair gun if you come across one
+16:26:57.984 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lou looks like only us on
+16:27:04.589 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): you need anything
+16:27:36.425 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): a knife cut up this fucking pig i found lol
+16:27:48.218 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): im up north easy
+16:27:55.003 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): east
+16:28:04.476 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): mid west
+16:28:13.210 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) invited the player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)to the party named Dirtydan
+16:28:19.382 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): its all good i will find something
+16:28:22.890 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ok
+16:28:25.125 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+16:28:26.125 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:29:31.398 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): you guys looking for mmg armor stand?
+16:29:41.808 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): not just yet
+16:29:51.332 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): storage more than anything
+16:30:00.812 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ok
+16:36:47.132 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer_Military
+16:42:29.882 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): AI same idea as DI? heli crash and mil areas?
+16:49:45.464 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya
+16:49:58.609 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): well i didnt see an y on the last crash
+16:54:59.027 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+17:33:52.250 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+17:33:52.250 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:42:36.324 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=3 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+17:42:36.332 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+17:42:36.332 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+17:42:36.332 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+17:42:37.281 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+17:49:20.062 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+17:49:20.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:49:20.062 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+17:58:28.390 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+17:58:31.226 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+17:59:19.878 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=3 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)

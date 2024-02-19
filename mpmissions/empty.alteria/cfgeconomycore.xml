@@ -67,4 +67,7 @@
 	<ce folder="ModTypes/Gebs">
 		<file name="types.xml" type="types" />
 	</ce>
+	<ce folder="ModTypes/CannabisPlus">
+		<file name="types.xml" type="types" />
+	</ce>
 </economycore>

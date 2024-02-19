@@ -1,0 +1,32 @@
+12:02:26.875 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4851.131836, 11.455049, 2302.542236>) Entered the safezone
+12:02:26.875 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+12:02:26.898 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:02:26.898 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+12:02:26.898 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+12:02:27.824 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+12:02:49.425 [Safezone] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4880.438965, 9.214613, 2283.153076>) Entered the safezone
+12:02:49.433 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+12:02:49.433 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+12:03:33.777 [VehicleCover] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4920.872559, 6.322474, 2258.137207>) uncovered vehicle "ToyotaHilux" (GlobalID=8000000080000000800000008000048A pos=<4923.375488, 6.314731, 2257.636963>)!
+12:03:35.468 [AI Patrol] Spawning 2 Shamans bots at <4786.636230, 47.840000, 1249.701782>
+12:03:48.003 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4922.955078, 6.322500, 2261.001465>) used the  ExpansionCarKey to unlock ToyotaHilux (id=2371C479F74C2DB5D9F80A8AF0BBE3D9 pos=<4923.372559, 6.314731, 2257.637695>)
+12:04:03.964 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle ToyotaHilux (id=2371C479F74C2DB5D9F80A8AF0BBE3D9 pos=<4923.374512, 6.314747, 2257.637695>) as driver
+12:04:07.621 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle ToyotaHilux (Locked) (id=2371C479F74C2DB5D9F80A8AF0BBE3D9 pos=<4923.372070, 6.314734, 2257.637695>)
+12:06:55.738 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 55
+12:07:00.128 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 7
+12:07:28.937 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Basebuilding
+12:07:32.417 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4925.040527, 6.322490, 2257.192383>) used the  ExpansionCarKey to unlock ToyotaHilux (id=2371C479F74C2DB5D9F80A8AF0BBE3D9 pos=<4923.371094, 6.314731, 2257.637695>)
+12:07:38.558 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle ToyotaHilux (id=2371C479F74C2DB5D9F80A8AF0BBE3D9 pos=<4923.370605, 6.314732, 2257.637695>) as driver
+12:07:41.656 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle ToyotaHilux (id=2371C479F74C2DB5D9F80A8AF0BBE3D9 pos=<4923.370605, 6.314732, 2257.637695>)
+12:08:22.972 [Safezone] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5011.567871, 9.031701, 2008.852173>) Left the safezone
+12:09:18.210 [AI Patrol] Spawning 2 Shamans bots at <6494.632813, 26.129999, 1821.452026>
+12:10:03.664 [AI Patrol] Spawning 2 Shamans bots at <7139.791504, 26.129999, 1823.812378>
+12:10:54.023 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle ToyotaHilux (id=2371C479F74C2DB5D9F80A8AF0BBE3D9 pos=<6931.223145, 26.351990, 1948.751099>)
+12:10:59.898 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] switched seats in vehicle ToyotaHilux (Locked) (id=2371C479F74C2DB5D9F80A8AF0BBE3D9 pos=<6931.223633, 26.353251, 1948.752441>) to passenger
+12:11:07.738 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle ToyotaHilux (id=2371C479F74C2DB5D9F80A8AF0BBE3D9 pos=<6931.224121, 26.353691, 1948.752808>)
+12:11:35.789 [Killfeed] Anatoliy-GopnikSlayer got killed by Survivor (Shamans) with SK 59/66 from a distance of 19 m.
+12:12:48.042 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+12:12:48.042 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+12:13:06.246 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4825.935547, 6.322500, 2262.070313>) Entered the safezone
+12:13:33.515 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4729.771973, 2.404932, 2537.509033>) Left the safezone
+12:17:04.839 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)

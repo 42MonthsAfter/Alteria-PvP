@@ -1,11 +1,11 @@
 {
     "m_Version": 12,
-    "DisplayName": "FISHING & HUNTING",
+    "DisplayName": "HOLLER MARKET",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
     "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Fishing",
+    "TraderIcon": "Menu",
     "Currencies": [
         "expansionbanknotehryvnia"
     ],
@@ -13,7 +13,9 @@
     "DisplayCurrencyName": "",
     "Categories": [
         "Rare_Pelts:0",
-        "Rare_Fish:0"
+        "Rare_Fish:0",
+        "Good_Good:2",
+        "Medical:0"
     ],
     "Items": {}
 }

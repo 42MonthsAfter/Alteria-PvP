@@ -1,0 +1,9 @@
+16:20:04.140 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4815.231934, 6.318007, 2251.727051>) Entered the safezone
+16:20:04.148 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+16:20:04.152 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+16:20:04.156 [AI Patrol] Spawning 2 Shamans bots at <4768.869629, 42.748734, 1440.377319>
+16:25:11.156 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Basebuilding
+16:25:22.808 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<2631.812012, 43.939999, 5866.545898>) Left the safezone
+16:26:12.863 [AI Patrol] Spawning 2 Shamans bots at <4151.408203, 17.071688, 7592.807617>
+16:27:24.687 [AI Patrol] Spawning 2 Shamans bots at <7134.302734, 26.129999, 1856.453979>
+16:27:24.707 [AI Patrol] Spawning 2 Shamans bots at <5990.967773, 26.129999, 1954.371094>

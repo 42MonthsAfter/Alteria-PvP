@@ -1,0 +1,12 @@
+23:27:29.210 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+23:27:29.218 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+23:27:29.226 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+23:27:30.171 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:32:30.671 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Medical
+23:49:07.484 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+23:49:07.484 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+23:49:07.484 [AI Patrol] Spawning 2 Shamans bots at <2820.442871, 43.944073, 5878.513672>
+23:52:20.007 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+23:52:20.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:52:20.007 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+23:59:20.367 [Party] Player "Capt Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)

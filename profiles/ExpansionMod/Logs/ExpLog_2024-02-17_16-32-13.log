@@ -1,0 +1,11 @@
+16:34:10.781 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+16:34:10.781 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+16:35:50.656 [AI Patrol] Spawning 2 Shamans bots at <4785.916016, 47.840000, 1312.913086>
+16:35:50.875 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 99
+16:35:51.437 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4823.072266, 6.322500, 2271.449707>) Entered the safezone
+16:36:23.371 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= for quest 57
+16:39:03.011 [AI Patrol] Spawning 2 Shamans bots at <1669.623413, 15.570000, 537.247498>
+16:39:13.144 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<1814.334595, 25.841413, 1208.172363>) Left the safezone
+16:39:15.898 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Military
+16:39:44.730 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4829.049805, 6.458323, 2265.758057>) Entered the safezone
+16:39:56.230 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 57

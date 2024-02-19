@@ -1,0 +1,5 @@
+16:58:06.339 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+16:58:06.339 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+17:03:09.656 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Basebuilding
+17:07:47.972 [AI Patrol] Spawning 2 Shamans bots at <2647.057373, 43.952145, 5938.969727>
+17:55:36.382 [AI Patrol] Spawning 2 Shamans bots at <2185.462891, 54.799999, 3201.418213>

@@ -1,0 +1,5 @@
+15:26:50.144 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+15:26:50.144 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+15:27:11.089 [AI Patrol] Spawning 2 Shamans bots at <4947.105469, 47.102566, 1349.018066>
+15:27:11.398 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4816.755371, 6.322500, 2265.607910>) Entered the safezone
+15:31:56.757 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Military

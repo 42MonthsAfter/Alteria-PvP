@@ -5,11 +5,11 @@
         "Show_Notifications": 0,
         "Use_UI_Notifications": 0,
         "Add_Zone_Name_To_Message": 0,
-        "Exit_Zone_Countdown": 10.0,
-        "Force1stPersonInPVP": 0,
+        "Exit_Zone_Countdown": 0.0,
+        "Force1stPersonInPVP": 1,
         "Week_Starts_On_Sunday": 0,
-        "Custom_Enter_Zone_Message": "",
-        "Custom_Exit_Zone_Message": "",
+        "Custom_Enter_Zone_Message": "Welcome to the Holler.",
+        "Custom_Exit_Zone_Message": "Be safe out there.",
         "Custom_Exit_Zone_Countdown_Message": ""
     },
     "DAMAGE": {

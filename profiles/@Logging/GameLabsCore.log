@@ -1,0 +1,47 @@
+************************** 2024-02-19T17:00:37+00:00 **************************
+2024-02-19T17:00:37+00:00 | [INFO	] GameLabs v1.932 start for server 78da06b5-bc0a-424b-9b66-a42c7f89719f
+2024-02-19T17:00:45+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-02-19T17:00:45+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-02-19T17:00:45+00:00 | [INFO	] Experimental speed check is enabled
+2024-02-19T17:00:46+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2024-02-19T18:00:45+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-19T18:00:45+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-19T18:00:46+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-19T18:17:05+00:00 | [WARN	] [Spawn] Spawning ExplosionTest (x1) at 0x00000000e0ed0db8 {<2819.92,53.61,3209.07>}
+2024-02-19T18:37:35+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-02-19T18:37:35+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-19T18:37:35+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199407766611, distance=1839.03u, unitsPerSecond=735.611 [threshold=8, inVehicle=0, triggers=1])
+2024-02-19T18:37:35+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-02-19T18:37:35+00:00 | [WARN	] ****************************************
+2024-02-19T18:47:00+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-19T18:47:00+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-19T18:47:01+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-19T18:47:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-19T18:49:12+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-19T18:49:12+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-19T18:49:13+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-19T18:49:46+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2024-02-19T19:09:46+00:00 | [WARN	] [Spawn] Spawning ExpansionCodeLock (x4) for SurvivorBase<7f2bc010>
+2024-02-19T19:49:16+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-19T19:49:16+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-19T19:49:16+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-19T19:50:46+00:00 | [WARN	] [Heal] SurvivorBase<89222030>
+2024-02-19T19:58:31+00:00 | [WARN	] [Heal] SurvivorBase<89222030>
+2024-02-19T20:49:21+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-19T20:49:21+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-19T20:49:21+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-19T21:04:01+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-19T21:04:06+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-19T21:04:11+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-19T21:04:11+00:00 | [ERROR	] PlayerConnect errorCode(8)
+2024-02-19T21:04:16+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-19T21:04:21+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-19T21:04:26+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-19T21:04:31+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-19T21:04:36+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-19T21:04:41+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-02-19T21:27:02+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<91c4a030>> fired for already disconnected player [steam64=76561198151056996]
+2024-02-19T21:49:26+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-02-19T21:49:26+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-02-19T21:49:26+00:00 | [WARN	] RegisterAsync re-authorized
+2024-02-19T21:51:31+00:00 | [WARN	] [Spawn] Spawning Heatpack (x1) for SurvivorBase<89222030>

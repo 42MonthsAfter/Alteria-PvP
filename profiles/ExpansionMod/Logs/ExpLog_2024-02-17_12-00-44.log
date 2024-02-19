@@ -1,0 +1,122 @@
+12:01:31.773 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ByWSWC_5I9S2qV8C9vo1QzyuxjTu5BmQHlLK1rcLrU8=
+12:01:31.773 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+12:01:31.777 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ByWSWC_5I9S2qV8C9vo1QzyuxjTu5BmQHlLK1rcLrU8=
+12:01:31.781 [AI Patrol] Spawning 2 Shamans bots at <4183.324219, 15.811079, 7646.256836>
+12:01:31.921 [AI Patrol] Spawning 2 Shamans bots at <4493.977051, 35.649776, 7173.489258>
+12:04:02.207 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+12:04:02.214 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=
+12:04:02.214 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+12:04:02.214 [Expansion Quests] - Create new quest instance for quest: 37 - Player UID: 6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=
+12:04:03.175 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:04:20.851 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+12:04:20.859 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+12:04:20.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:04:21.832 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:05:25.839 [AI Patrol] Spawning 2 Shamans bots at <1864.692505, 15.570000, 657.281738>
+12:05:47.929 [Party] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=) joinded the party "SlutZ Of DayZ" (id=7 ownerUID=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= ownerName=S.O.D-Rusty)
+12:05:47.937 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=
+12:05:47.937 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 7
+12:05:48.902 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+12:06:41.085 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Military
+12:11:42.011 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+12:11:42.019 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+12:11:42.019 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:11:42.019 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+12:11:42.976 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:19:20.574 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489744, 656.045227>) as driver
+12:19:34.328 [VehicleEnter] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] entered vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489725, 656.040039>) as passenger
+12:20:24.675 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] started vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489725, 656.019104>)
+12:20:53.664 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+12:25:56.796 [VehicleLeave] Player Hawk [uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=] left vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<3010.108154, 14.899722, 863.092651>)
+12:25:58.843 [VehicleEngine] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] stopped vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<3010.107910, 14.899719, 863.091980>)
+12:26:05.445 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<3010.107910, 14.899753, 863.089783>)
+12:26:51.796 [VehicleAttachments] Player Hawk (uid=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) detached Car Battery (type=CarBattery) from vehicle BMW (rust)(id=96EC3A9C9146490C65326AA94D92B6DB pos=<3010.107910, 14.899727, 863.089417>)
+12:27:43.878 [Party] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=) left the party "SlutZ Of DayZ" (id=7 ownerUID=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= ownerName=S.O.D-Rusty)
+12:29:52.984 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+12:31:00.992 [VehicleDeleted] Cougar_rust (id=B12A11A4E64D99AE25B937A42F9FC65B pos=<3018.326904, 14.917686, 869.572449>)
+12:31:00.992 [VehicleCover] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4= pos=<3019.569580, 14.992488, 865.213074>) covered vehicle "Cougar_rust" (GlobalID=80000000800000008000000080000728 pos=<3018.326904, 14.917686, 869.572449>)!
+12:31:27.375 [Party] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=) joinded the party "SlutZ Of DayZ" (id=7 ownerUID=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= ownerName=S.O.D-Rusty)
+12:31:27.382 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=
+12:31:27.382 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+12:31:28.343 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+12:35:04.210 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+12:42:09.000 [Chat - Global]("S.O.D-Rusty"(id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=)): hey pops hows your day?
+13:06:38.242 [AI Patrol] Spawning 2 Shamans bots at <6797.637207, 19.120001, 3701.416016>
+13:29:11.085 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Military
+13:35:55.015 [Safezone] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= pos=<4740.743164, 2.410268, 2482.468018>) Entered the safezone
+13:37:31.882 [AI Patrol] Spawning 2 Shamans bots at <4851.606934, 47.161961, 1186.370850>
+13:37:49.101 [Safezone] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= pos=<4989.662598, 3.843054, 2086.994873>) Left the safezone
+13:40:59.605 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ByWSWC_5I9S2qV8C9vo1QzyuxjTu5BmQHlLK1rcLrU8=
+13:40:59.605 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+13:40:59.605 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ByWSWC_5I9S2qV8C9vo1QzyuxjTu5BmQHlLK1rcLrU8=
+13:46:47.695 [Safezone] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4861.035156, 10.589499, 2295.596436>) Entered the safezone
+13:46:47.710 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+13:46:47.710 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+13:46:47.710 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+13:47:02.742 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 32
+13:47:11.347 [ATM] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has deposited 100 on his ATM account.
+13:47:56.742 [AI Patrol] Spawning 2 Shamans bots at <2096.982666, 54.799999, 2918.273682>
+13:48:07.449 [Safezone] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2452.956543, 109.040810, 2595.417725>) Left the safezone
+13:51:01.691 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<3933.279541, 11.744733, 4808.723145>) paired a  ExpansionCarKey to ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.270264, 11.645014, 4810.994629>)
+13:51:03.230 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<3933.279541, 11.744733, 4808.723145>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.270264, 11.645014, 4810.994629>)
+14:00:17.925 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<3935.239990, 11.871512, 4807.702148>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.270264, 11.645014, 4810.994629>)
+14:02:29.359 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.267578, 11.644940, 4810.994629>) as driver
+14:02:31.203 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.268066, 11.644948, 4810.994629>)
+14:02:36.867 [VehicleAttachments] Player Anatoliy-GopnikSlayer (uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) detached Jerrycan (type=CanisterGasoline) from vehicle ToyotaHilux rust(id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.267578, 11.644938, 4810.994629>)
+14:02:44.519 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<3934.643799, 11.843680, 4807.844238>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.267578, 11.644938, 4810.994629>)
+14:06:03.968 [Party] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=) left the party "SlutZ Of DayZ" (id=7 ownerUID=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= ownerName=S.O.D-Rusty)
+14:10:43.992 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<3933.965332, 11.579498, 4811.524902>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.267578, 11.644938, 4810.994629>)
+14:11:42.921 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.266357, 11.644913, 4810.994629>) as driver
+14:11:45.808 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3935.269775, 11.644980, 4810.994629>)
+14:12:48.253 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4115.905762, 6.202646, 5039.339844>)
+14:13:23.753 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4115.905762, 6.202637, 5039.344727>) as driver
+14:13:26.398 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4115.905762, 6.202637, 5039.344238>)
+14:14:17.488 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3815.586182, 9.238711, 4745.314453>)
+14:14:46.953 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3815.587402, 9.238718, 4745.312988>) as driver
+14:14:49.359 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3815.587646, 9.238721, 4745.312988>)
+14:15:06.539 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3743.345459, 7.078542, 4740.555176>)
+14:16:15.945 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3743.343506, 7.078811, 4740.552734>) as driver
+14:16:18.671 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3743.345215, 7.078493, 4740.554688>)
+14:17:25.933 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4118.485840, 18.294682, 4772.645508>)
+14:21:15.386 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4117.082520, 18.302439, 4774.520508>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4118.483887, 18.294703, 4772.648438>)
+14:21:16.921 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4117.143555, 18.302439, 4774.533691>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4118.483887, 18.294703, 4772.648438>)
+14:21:22.417 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4117.698730, 18.302439, 4774.628906>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4118.483887, 18.294703, 4772.648438>)
+14:21:39.417 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4114.699707, 18.302439, 4771.606934>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4118.483887, 18.294703, 4772.648438>)
+14:22:25.992 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4115.375488, 18.302439, 4771.515625>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4118.483887, 18.294703, 4772.648438>)
+14:26:10.195 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4117.781738, 18.302439, 4774.197754>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4118.483887, 18.294703, 4772.648438>)
+14:26:15.898 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4118.483887, 18.294699, 4772.651855>) as driver
+14:26:20.109 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle ToyotaHilux rust (Locked) (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4118.483398, 18.294704, 4772.652344>)
+14:26:26.839 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+14:26:26.851 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+14:26:26.851 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+14:26:26.851 [Expansion Quests] - Create new quest instance for quest: 56 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+14:26:27.789 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+14:26:59.804 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3986.050293, 19.870331, 4653.923340>)
+14:41:24.925 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3986.051514, 19.870310, 4653.918945>) as driver
+14:41:30.503 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<3986.052979, 19.870342, 4653.915527>)
+14:46:10.542 [AI Patrol] Spawning 2 Shamans bots at <6399.508789, 26.129999, 2172.722656>
+14:47:20.632 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<6043.604492, 6.281457, 2794.931396>)
+14:48:55.515 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<6043.604492, 6.281528, 2794.930664>)
+14:49:01.542 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6044.390137, 6.568522, 2796.118652>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<6043.604492, 6.281456, 2794.931641>)
+14:49:17.648 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6040.662109, 6.185869, 2796.316162>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<6043.604492, 6.281456, 2794.931641>)
+14:50:35.089 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6040.621094, 6.185269, 2796.324707>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<6043.604492, 6.281456, 2794.931641>)
+15:01:18.449 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4839.548828, 11.743081, 2306.229980>) Entered the safezone
+15:01:18.460 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+15:01:18.464 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+15:02:49.125 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Military
+15:03:18.386 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6040.097168, 6.280541, 2795.202393>) used the  ExpansionCarKey to unlock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<6043.604492, 6.281456, 2794.931641>)
+15:05:24.218 [VehicleEnter] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<6043.604492, 6.281444, 2794.931641>) as driver
+15:05:26.792 [VehicleEngine] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<6043.604004, 6.281604, 2794.929688>)
+15:06:47.070 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) joinded the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+15:06:47.085 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=
+15:06:47.085 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+15:06:47.085 [Expansion Quests] - Create new quest instance for quest: 37 - Player UID: 6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=
+15:06:48.035 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+15:08:22.328 [Safezone] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4984.344238, 4.885336, 2145.350830>) Entered the safezone
+15:08:49.621 [VehicleLeave] Player Anatoliy-GopnikSlayer [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle ToyotaHilux rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4896.757813, 7.803226, 2275.634766>)
+15:08:55.691 [VehicleCarKey] Player "Anatoliy-GopnikSlayer" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4895.833496, 7.934630, 2274.274658>) used the  ExpansionCarKey to lock ToyotaHilux_rust (id=AB39BB5E9A4A87E272F4E28E267BC1C8 pos=<4896.758301, 7.803694, 2275.637939>)
+15:09:21.769 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 31
+15:10:10.617 [Chat - Global]("wiggy"(id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=)): warrior join chat
+15:13:27.492 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<3052.252441, 15.010468, 867.764282>) uncovered vehicle "URAL_4320_rust" (GlobalID=80000000800000008000000080000725 pos=<3050.500732, 15.052023, 864.435059>)!
+15:13:45.687 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<3050.456299, 15.010535, 862.087463>) used the  ExpansionCarKey to unlock URAL_4320_rust (id=E03649BE2B447ED70DC2E2A44E5BE5CE pos=<3050.499756, 15.052024, 864.435120>)
+15:13:53.296 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle URAL 4320 (id=E03649BE2B447ED70DC2E2A44E5BE5CE pos=<3050.499756, 15.052029, 864.435181>) as driver

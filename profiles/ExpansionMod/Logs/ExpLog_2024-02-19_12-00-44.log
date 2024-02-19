@@ -1,0 +1,117 @@
+12:31:01.425 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4934.479004, 6.506700, 2255.299316>) Entered the safezone
+12:31:01.441 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+12:31:01.441 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+12:31:01.445 [AI Patrol] Spawning 2 Shamans bots at <4846.667969, 42.804096, 1480.907471>
+12:31:34.085 [VehicleCover] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4928.450684, 6.317587, 2245.219482>) uncovered vehicle "NivaPickup_red" (GlobalID=800000008000000080000000800002E1 pos=<4926.033691, 6.361367, 2247.269287>)!
+12:31:42.328 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4928.484863, 6.560005, 2245.197754>) used the  ExpansionCarKey to unlock NivaPickup_red (id=F1877321BD4BD425A4F398B6A1D74C23 pos=<4926.032227, 6.361363, 2247.269531>)
+12:32:17.734 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4928.569824, 6.509914, 2245.081299>) used the  ExpansionCarKey to lock NivaPickup_red (id=F1877321BD4BD425A4F398B6A1D74C23 pos=<4926.032227, 6.361363, 2247.269531>)
+12:32:38.699 [VehicleDeleted] NivaPickup_red (id=F1877321BD4BD425A4F398B6A1D74C23 pos=<4926.032227, 6.361363, 2247.269531>)
+12:32:38.699 [VehicleCover] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4928.723145, 6.316115, 2244.065186>) covered vehicle "NivaPickup_red" (GlobalID=800000008000000080000000800002E1 pos=<4926.032227, 6.361363, 2247.269531>)!
+12:36:09.531 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer
+12:41:40.437 [VehicleCover] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4923.390625, 6.321366, 2246.842041>) uncovered vehicle "NivaPickup_red" (GlobalID=800000008000000080000000800002E1 pos=<4926.032227, 6.361363, 2247.269531>)!
+12:41:48.867 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4927.648438, 6.557556, 2244.045410>) used the  ExpansionCarKey to unlock NivaPickup_red (id=A48B647B3846E37D333EA78205A4C90C pos=<4926.033691, 6.361354, 2247.269775>)
+12:44:25.968 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4927.806641, 6.321065, 2248.625977>) used the  ExpansionCarKey to lock NivaPickup_red (id=A48B647B3846E37D333EA78205A4C90C pos=<4926.033691, 6.361354, 2247.269775>)
+12:45:23.695 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4924.794922, 6.320730, 2246.880127>) used the  ExpansionCarKey to unlock NivaPickup_red (id=A48B647B3846E37D333EA78205A4C90C pos=<4926.033691, 6.361354, 2247.269775>)
+12:46:51.601 [VehicleEnter] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<4926.032715, 6.361372, 2247.268066>) as driver
+12:46:54.718 [VehicleEngine] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<4926.031738, 6.361374, 2247.267578>)
+12:47:20.433 [VehicleLeave] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<4967.143066, 3.990242, 2214.702637>)
+12:47:29.726 [VehicleEnter] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<4967.144043, 3.990218, 2214.703125>) as driver
+12:47:32.472 [VehicleEngine] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<4967.143555, 3.990221, 2214.702881>)
+12:47:51.691 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5003.369629, 7.493517, 2022.434326>) Left the safezone
+12:51:41.289 [VehicleLeave] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<4130.949707, 28.984447, 1590.597656>)
+12:51:46.281 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4129.089844, 28.967781, 1590.559937>) used the  ExpansionCarKey to lock NivaPickup_red (id=A48B647B3846E37D333EA78205A4C90C pos=<4130.946777, 28.984489, 1590.598145>)
+12:59:56.660 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4130.404785, 29.004953, 1586.945313>) used the  ExpansionCarKey to unlock NivaPickup_red (id=A48B647B3846E37D333EA78205A4C90C pos=<4130.946777, 28.984489, 1590.598145>)
+13:02:28.410 [VehicleEnter] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<4130.945801, 28.984505, 1590.597656>) as driver
+13:02:29.863 [VehicleEngine] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<4130.945801, 28.984503, 1590.597656>)
+13:06:06.062 [AI Patrol] Spawning 2 Shamans bots at <2247.522705, 54.799999, 3014.947998>
+13:06:30.187 [VehicleEngine] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<3181.768066, 130.945114, 2803.495361>)
+13:06:33.832 [VehicleLeave] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<3181.767822, 130.944916, 2803.495850>)
+13:09:24.562 [VehicleEnter] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<3181.769531, 130.944885, 2803.495605>) as driver
+13:09:26.953 [VehicleEngine] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<3181.769531, 130.945007, 2803.495850>)
+13:10:03.390 [VehicleLeave] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<2880.172363, 54.305035, 3095.268555>)
+13:10:07.992 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2880.329346, 54.268887, 3093.773438>) used the  ExpansionCarKey to lock NivaPickup_red (id=A48B647B3846E37D333EA78205A4C90C pos=<2880.171387, 54.305042, 3095.265137>)
+13:15:47.234 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+13:15:47.234 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+13:17:06.140 [ExplosionDamageSystem] About to explode Explosion_NonLethal from ExplosionTest<779eca60> at <2819.92, 53.61, 3209.07> EXPLOSION range 4 dropoff 1
+13:17:22.074 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+13:17:22.074 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+13:18:48.875 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2882.907227, 54.276993, 3093.951416>) used the  ExpansionCarKey to unlock NivaPickup_red (id=A48B647B3846E37D333EA78205A4C90C pos=<2880.171387, 54.305042, 3095.265137>)
+13:22:45.937 [VehicleEnter] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<2880.171875, 54.305050, 3095.265137>) as driver
+13:22:48.640 [VehicleEngine] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<2880.171875, 54.305050, 3095.264893>)
+13:23:41.378 [VehicleLeave] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<2625.946777, 51.175724, 3328.549805>)
+13:24:15.890 [VehicleEnter] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<2625.947998, 51.174358, 3328.551025>) as driver
+13:24:18.859 [VehicleEngine] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<2625.947510, 51.174343, 3328.550293>)
+13:25:48.925 [VehicleLeave] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<2421.458008, 55.940666, 3501.298584>)
+13:25:55.812 [VehicleEnter] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<2421.457031, 55.940426, 3501.303223>) as driver
+13:25:57.039 [VehicleEngine] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<2421.457764, 55.940445, 3501.301758>)
+13:26:13.964 [VehicleLeave] Player PipPapScallywap [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle NivaPickup Red (id=A48B647B3846E37D333EA78205A4C90C pos=<2400.123047, 56.493385, 3490.806885>)
+13:31:20.089 [Territory] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) created territory Of The Just Us League at <2393.381104, 56.439999, 3494.425293>
+13:49:45.332 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+13:49:45.332 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+13:59:09.878 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Military
+14:00:24.062 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2402.873535, 56.452465, 3492.463379>) used the  ExpansionCarKey to lock NivaPickup_red (id=A48B647B3846E37D333EA78205A4C90C pos=<2400.125000, 56.493393, 3490.804932>)
+14:02:14.023 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2397.859863, 56.452496, 3489.778809>) used the  ExpansionCarKey to unlock NivaPickup_red (id=A48B647B3846E37D333EA78205A4C90C pos=<2400.125000, 56.493393, 3490.804932>)
+14:05:40.394 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2401.430908, 56.452446, 3489.478271>) used the  ExpansionCarKey to lock NivaPickup_red (id=A48B647B3846E37D333EA78205A4C90C pos=<2400.125000, 56.493393, 3490.804932>)
+14:10:39.371 [BaseRaiding] mmg_equipment_locker_grey (<2395.444580, 56.439999, 3489.968750>) Code set by player "PipPapScallywap" (ID = "-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=" at <2395.695068, 56.452496, 3488.702637>) and the code is 884155
+14:10:58.804 [BaseRaiding] BBP_SGate (<2414.213379, 56.439999, 3497.176025>) Code set by player "PipPapScallywap" (ID = "-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=" at <2413.279785, 56.452496, 3496.239990>) and the code is 884155
+14:30:24.441 [BaseRaiding] BBP_BDoor (<2393.618164, 56.439995, 3485.055420>) Code set by player "PipPapScallywap" (ID = "-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=" at <2394.928955, 56.452465, 3486.035889>) and the code is 884155
+14:32:30.921 [BaseRaiding] BBP_BDoor (<2395.235840, 56.418835, 3495.647705>) Code set by player "PipPapScallywap" (ID = "-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=" at <2394.228271, 56.790436, 3495.416504>) and the code is 884155
+14:35:17.226 [VehicleDeleted] NivaPickup_red (id=A48B647B3846E37D333EA78205A4C90C pos=<2400.125000, 56.493393, 3490.804932>)
+14:35:17.226 [VehicleCover] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2400.006104, 56.452496, 3488.632080>) covered vehicle "NivaPickup_red" (GlobalID=800000008000000080000000800002E1 pos=<2400.125000, 56.493393, 3490.804932>)!
+14:44:53.132 [Killfeed] PipPapScallywap got killed by Survivor (Shamans) with KA-M from a distance of 5 m.
+14:54:43.496 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+14:54:43.515 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:54:43.515 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 4
+14:54:43.515 [Expansion Quests] - Create new quest instance for quest: 46 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:54:43.515 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:54:44.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+15:18:09.148 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4760.760254, 8.036130, 2328.383301>) Entered the safezone
+15:18:09.152 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+15:18:09.160 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:18:09.164 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+15:18:10.093 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+15:22:29.781 [BaseRaiding] BBP_SDoor (<3858.062744, 59.539261, 1225.128540>) Code set by player "Hooligan-235" (ID = "Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=" at <3858.749756, 59.579197, 1224.999023>) and the code is 181818
+15:23:07.660 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4729.075684, 2.404928, 2549.300781>) Left the safezone
+15:24:01.441 [BaseRaiding] BBP_BDoor (<3862.397217, 54.752647, 1224.106812>) Code set by player "Hooligan-235" (ID = "Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=" at <3861.736084, 54.764244, 1224.714111>) and the code is 181818
+15:24:06.878 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Military
+15:33:40.847 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4741.228027, 2.410262, 2482.925537>) Entered the safezone
+15:34:24.742 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4762.523926, 7.574314, 2332.227539>) uncovered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<4765.622559, 6.956636, 2334.974854>)!
+15:34:48.562 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4768.865723, 6.685103, 2335.307373>) used the  ExpansionCarKey to unlock BMW_rust (id=376D3635B142472659B416BB73B7156A pos=<4765.708008, 6.944647, 2335.015381>)
+15:39:24.230 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4768.514648, 6.709576, 2335.712158>) used the  ExpansionCarKey to lock BMW_rust (id=376D3635B142472659B416BB73B7156A pos=<4765.708008, 6.944647, 2335.015381>)
+15:39:42.851 [VehicleDeleted] BMW_rust (id=376D3635B142472659B416BB73B7156A pos=<4765.708008, 6.944647, 2335.015381>)
+15:39:42.851 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4763.187012, 7.427556, 2333.146973>) covered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<4765.708008, 6.944647, 2335.015381>)!
+15:41:15.593 [AI Patrol] Spawning 2 Shamans bots at <1919.543701, 8.220000, 496.486023>
+15:49:35.480 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4992.737793, 3.843095, 2088.740967>) Left the safezone
+15:51:38.578 [VehicleCover] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2399.907959, 56.452496, 3487.973877>) uncovered vehicle "NivaPickup_red" (GlobalID=800000008000000080000000800002E1 pos=<2400.125000, 56.493393, 3490.804932>)!
+15:51:45.781 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2397.669434, 56.452496, 3489.127686>) used the  ExpansionCarKey to unlock NivaPickup_red (id=557866C6EB495477878C6F87FEF2057F pos=<2400.125732, 56.493370, 3490.804199>)
+15:56:17.843 [VehicleAttachments] Player PipPapScallywap (uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) detached Barrel (type=Barrel_Yellow) from vehicle NivaPickup Red(id=557866C6EB495477878C6F87FEF2057F pos=<2400.125732, 56.493370, 3490.804199>)
+15:56:21.125 [AI Patrol] Spawning 2 Shamans bots at <6274.581543, 26.129999, 2173.343262>
+15:56:26.640 [VehicleAttachments] Player PipPapScallywap (uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) detached Barrel (type=Barrel_Yellow) from vehicle NivaPickup Red(id=557866C6EB495477878C6F87FEF2057F pos=<2400.125732, 56.493370, 3490.804199>)
+16:04:00.773 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: RJNPnvnCc9Xn_pdy7N-1JhvrwhcyyUcq1gazxprfL5Y=
+16:04:00.773 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+16:04:00.777 [AI Patrol] Spawning 2 Shamans bots at <4636.735352, 16.988945, 7450.106934>
+16:04:00.796 [AI Patrol] Spawning 2 Shamans bots at <4428.649414, 15.710000, 7703.630859>
+16:10:38.710 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2403.749268, 56.452496, 3492.642334>) used the  ExpansionCarKey to lock NivaPickup_red (id=557866C6EB495477878C6F87FEF2057F pos=<2400.125732, 56.493370, 3490.804199>)
+16:14:25.589 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: uzlHoJtZdgxxgxmw8XOE8dTHHsLqI6Lj1bhpYdihHCo=
+16:14:25.593 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+16:33:19.253 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4984.980957, 3.842116, 2144.731445>) Entered the safezone
+16:35:39.792 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+16:42:15.617 [Killfeed] Hooligan-235 died from Wound Infection.
+16:42:38.000 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+16:42:38.000 [AI Patrol] Spawning 2 Shamans bots at <2510.228760, 43.939999, 5724.827148>
+16:42:38.992 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:48:49.882 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4985.951172, 3.842128, 2143.055176>) Entered the safezone
+16:49:41.078 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+16:49:41.097 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+16:49:41.097 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+16:49:42.003 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+16:51:51.937 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 18
+16:52:08.718 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 18
+16:52:14.078 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 14
+16:52:26.175 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 14
+16:52:37.167 [Killfeed] Hooligan-235 got killed by Survivor (Shamans) with Bizon from a distance of 1 m.
+16:52:53.976 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Medical
+16:53:04.988 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+16:53:05.980 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:54:23.531 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+16:55:34.414 [ATM] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) has deposited 400 on his ATM account.

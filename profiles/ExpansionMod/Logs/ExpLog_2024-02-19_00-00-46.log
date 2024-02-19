@@ -1,0 +1,192 @@
+00:03:33.395 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+00:03:33.402 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+00:03:33.403 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+00:03:33.403 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+00:03:34.365 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+00:04:10.163 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+00:04:10.170 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+00:04:10.171 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+00:04:10.171 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=
+00:04:11.149 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+00:05:34.055 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+00:05:34.055 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:05:34.057 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+00:05:34.057 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+00:05:34.060 [AI Patrol] Spawning 2 Shamans bots at <2053.476074, 54.799999, 3164.259033>
+00:08:42.565 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Medical
+00:11:17.380 [AI Patrol] Spawning 2 Shamans bots at <2677.038086, 44.362003, 6008.612793>
+00:18:45.369 [AI Patrol] Spawning 2 Shamans bots at <4955.712891, 44.312256, 1394.653076>
+00:20:25.728 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4669.544434, 2.501148, 2241.980469>) Entered the safezone
+00:20:41.701 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:20:41.710 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:20:41.711 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+00:20:42.651 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:25:43.334 [Expansion Quests] - CompleteQuest - Player with UID Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= has completed quest 9
+00:25:59.408 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:25:59.419 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:25:59.419 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:26:00.365 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:27:04.876 [ATM] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) has deposited 100 on his ATM account.
+00:31:50.987 [AI Patrol] Spawning 2 Shamans bots at <4185.708008, 16.136930, 7604.353516>
+00:34:21.875 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= for quest 57
+00:39:04.192 [AI Patrol] Spawning 2 Shamans bots at <4861.824219, 15.677873, 7478.796387>
+00:39:04.860 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): do u need to the full nbc gear or just the mask for gas zones?
+00:39:15.234 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): have no clue
+00:39:22.200 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): have not been there yet
+00:39:26.780 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): u find nvg yet
+00:39:33.212 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): yes
+00:39:41.071 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): think i have the whole set 
+00:39:51.924 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): ok i was going to give u 1 i found 2
+00:40:51.889 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): you lookin for a squad hooligan
+00:41:04.786 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+00:42:26.229 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4626.407715, 2.473500, 2226.339355>) Left the safezone
+00:48:56.813 [Killfeed] Lets_G0_Brandon got killed by Survivor (Shamans) with SK 59/66 from a distance of 4 m.
+00:49:26.753 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+00:49:27.745 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+00:50:07.300 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): where did you just get shot at
+00:53:33.163 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): letgobrandon where did you get shot at
+01:08:19.170 [Killfeed] DirtyDan got killed by Survivor (Shamans) with SK 59/66 from a distance of 9 m.
+01:08:28.336 [Killfeed] Captain Chaos got killed by Survivor (Shamans) with SK 59/66 from a distance of 3 m.
+01:08:45.687 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+01:08:46.682 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+01:09:09.145 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+01:09:10.140 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+01:17:22.902 [AI Patrol] Spawning 2 Shamans bots at <1903.647095, 15.570000, 553.487488>
+01:20:15.624 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+01:25:24.777 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+01:34:01.813 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+01:34:10.569 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Basebuilding
+01:45:40.544 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+01:45:40.552 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+01:45:40.552 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+01:45:41.504 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+02:09:26.799 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+02:11:33.764 [Territory] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) created territory Hooligan at <3857.943848, 55.385479, 1227.090332>
+02:26:02.854 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+02:26:02.863 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+02:26:02.863 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+02:26:03.805 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+02:37:09.842 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4666.796387, 2.501135, 2243.301514>) Entered the safezone
+02:37:23.248 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4667.116211, 2.501145, 2241.213623>) Entered the safezone
+02:37:36.538 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID= ownerName=)
+02:37:36.539 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) created a party named AFL (Hooligans)
+02:37:37.537 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 4
+02:37:59.872 [Expansion Quests] - CompleteQuest - Player with UID Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= has completed quest 57
+02:38:55.581 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): SAW YOU ON THE BRIDGE
+02:40:16.602 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): cant hear me?
+02:41:05.390 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): NO
+02:41:06.779 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): STRANGE
+02:41:31.770 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): WAS BEHIND U ON THE BRIDGE
+02:41:32.252 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): CAN 
+02:41:41.720 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): can u hear me
+02:41:47.198 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): NO
+02:42:13.089 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): seems buggy
+02:42:25.701 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): my discord works fine
+02:42:40.020 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): i heard u then i switched to my head phones now i cant
+02:43:53.617 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= for quest 46
+02:43:57.749 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): dont worry im friendly unless shot at
+02:44:14.999 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): sounds good
+02:44:22.727 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): im still learning the map
+02:44:39.314 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): yeah we ahve been here for 3 wipes lol
+02:44:39.890 [ATM] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) has deposited 200 on his ATM account.
+02:44:58.329 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): every time we get a start build a small base, wipe
+02:45:07.685 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): lol yah
+02:45:23.843 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): ive only been here for 2 days
+02:45:57.206 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): ok, well its not official live yet, they still working out the bugs
+02:46:32.613 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): so we cant sell guns
+02:46:42.573 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): only way to make money is quest?
+02:47:07.564 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): nope, you can only make money via missions on the board and selling weed
+02:47:18.209 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): but I cant find the weed guy
+02:47:35.959 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): it right here the market
+02:47:40.175 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): the lady
+02:47:54.717 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): oh okay was not there lasty night
+02:48:20.475 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): yah the market with the red sign next the the misson board
+02:48:31.874 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): cheers
+02:48:42.101 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): yup
+02:49:59.531 [AI Patrol] Spawning 2 Shamans bots at <5931.566406, 26.861492, 1862.484619>
+02:50:03.590 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 31
+02:50:16.905 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4991.518555, 3.843109, 2101.797607>) Left the safezone
+02:50:18.318 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 32
+02:51:02.545 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): off to find a shovel the kill 5 zombies 
+02:51:12.681 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): to kill*
+02:51:35.501 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): ok, wont shoot if i see u
+02:51:45.369 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): same
+02:58:16.601 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Medical
+03:01:20.760 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4626.893066, 2.473495, 2228.245850>) Left the safezone
+03:05:39.588 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4667.691406, 2.501149, 2244.169189>) Entered the safezone
+03:07:44.515 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): so do you need to find a bbp book to build?
+03:07:52.778 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): yes
+03:08:06.276 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): ok
+03:08:31.960 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): they are fairly easy to find in industrialm building sites and garages
+03:08:58.201 [AI Patrol] Spawning 2 Shamans bots at <7194.824707, 26.129999, 1769.375122>
+03:09:14.126 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): ok cool 
+03:11:16.378 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4613.292969, 2.473501, 2221.771484>) Left the safezone
+03:36:31.243 [BaseRaiding] ExpansionSafeMedium (<3854.886230, 60.178242, 1219.947754>) Code set by player "Hooligan-235" (ID = "Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=" at <3856.538330, 59.579216, 1220.437134>) and the code is 1818
+03:38:48.439 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+03:55:26.127 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4668.590820, 2.501142, 2244.056641>) Entered the safezone
+03:56:07.835 [Expansion Quests] - CompleteQuest - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has completed quest 31
+03:56:17.601 [Expansion Quests] - CompleteQuest - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has completed quest 32
+04:01:30.057 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_545x39_20rnd x5 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+04:01:30.364 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_545x39_20rnd x5 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 160.
+04:01:56.813 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x5 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+04:01:57.104 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x5 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 160.
+04:04:41.704 [ATM] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has deposited 180 on his ATM account.
+04:12:06.620 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 42
+04:15:09.737 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4991.698242, 3.843087, 2084.995850>) Left the safezone
+04:17:04.277 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4983.691895, 3.842127, 2141.773438>) Entered the safezone
+04:22:01.101 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4745.583984, 7.083319, 2256.432861>) Entered the safezone
+04:22:01.101 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+04:22:01.119 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+04:22:01.119 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:22:01.120 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+04:22:02.044 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:23:41.368 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has withdrawn 10610 from his ATM account.
+04:24:05.998 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase twp_ace23_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+04:24:06.121 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought twp_ace23_mag_30rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 900.
+04:24:06.612 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer
+04:24:51.866 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+04:24:52.039 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+04:24:53.603 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+04:24:53.768 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+04:25:03.353 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+04:25:03.494 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+04:25:04.623 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+04:25:04.793 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_762x54_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+04:26:17.475 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has deposited 9582 on his ATM account.
+04:26:57.464 [Expansion Quests] - CancelQuestServer - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has cancelled quest 42
+04:27:06.912 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 33
+04:30:01.675 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4746.253418, 6.337221, 2264.492676>) uncovered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<4747.063477, 6.538919, 2260.409912>)!
+04:30:16.169 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4745.079590, 6.488386, 2260.833740>) used the  ExpansionCarKey to unlock BMW_rust (id=15F3566819473BB27F9576846D9161BB pos=<4747.060547, 6.535567, 2260.438965>)
+04:41:08.205 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= for quest 32
+04:48:00.261 [ATM] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has withdrawn 180 from his ATM account.
+04:48:54.529 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x3 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+04:48:54.835 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x3 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 96.
+04:49:42.705 [ATM] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has deposited 84 on his ATM account.
+04:52:14.769 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<4747.060547, 6.533778, 2260.455811>) as driver
+04:52:21.275 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<4747.060059, 6.526368, 2260.522217>) as passenger
+04:52:22.900 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<4747.060059, 6.524597, 2260.538330>)
+04:52:56.927 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4557.039551, 3.028365, 2203.360596>) Left the safezone
+04:52:56.953 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4556.602539, 3.027944, 2204.094238>) Left the safezone
+04:59:38.789 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<2484.306396, 104.869713, 2105.448975>)
+04:59:40.021 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<2484.306396, 104.869736, 2105.449707>)
+05:00:07.865 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<2484.306396, 104.869728, 2105.450928>) as driver
+05:00:10.705 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<2484.306396, 104.869720, 2105.452393>) as passenger
+05:00:13.121 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<2484.306396, 104.869713, 2105.453369>)
+05:05:55.279 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<4743.784668, 42.599701, 1472.702148>)
+05:06:00.009 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<4743.784668, 42.599724, 1472.702148>)
+05:06:09.072 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4743.886719, 42.692497, 1474.979004>) used the  ExpansionCarKey to lock BMW_rust (id=15F3566819473BB27F9576846D9161BB pos=<4743.784668, 42.599724, 1472.702148>)
+05:14:45.431 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4743.306641, 42.692497, 1474.839966>) used the  ExpansionCarKey to unlock BMW_rust (id=15F3566819473BB27F9576846D9161BB pos=<4743.784668, 42.599724, 1472.702148>)
+05:14:53.828 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<4743.784180, 42.599720, 1472.702148>) as driver
+05:14:56.121 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<4743.783691, 42.599724, 1472.702026>) as passenger
+05:15:40.783 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<4743.778809, 42.599751, 1472.700439>)
+05:21:10.019 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<2243.806152, 15.489750, 626.612305>)
+05:21:16.810 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<2243.807373, 15.489748, 626.612000>) as driver
+05:21:19.818 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<2243.808350, 15.489737, 626.611816>)
+05:21:37.091 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<2213.088379, 15.489744, 627.961182>)
+05:21:39.974 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle BMW (rust) (id=15F3566819473BB27F9576846D9161BB pos=<2213.088623, 15.489731, 627.961182>)
+05:22:02.089 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2213.509033, 15.582491, 625.849854>) used the  ExpansionCarKey to lock BMW_rust (id=15F3566819473BB27F9576846D9161BB pos=<2213.088623, 15.489731, 627.961182>)
+05:52:55.677 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Medical
+05:55:29.337 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2216.853271, 15.582479, 627.490479>) used the  ExpansionCarKey to unlock BMW_rust (id=15F3566819473BB27F9576846D9161BB pos=<2213.088623, 15.489731, 627.961182>)
+05:58:27.496 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2215.633301, 15.582499, 629.721497>) used the  ExpansionCarKey to lock BMW_rust (id=15F3566819473BB27F9576846D9161BB pos=<2213.088623, 15.489731, 627.961182>)
+05:58:59.078 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+05:59:00.312 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)

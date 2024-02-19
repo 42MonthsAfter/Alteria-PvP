@@ -2,15 +2,15 @@
     "Enabled": 1,
     "Weight": 5.0,
     "MissionMaxTime": 900,
-    "MissionName": "Ship-Central",
+    "MissionName": "Kefka",
     "Difficulty": 0,
     "Objective": 0,
     "Reward": "",
     "Data": {
         "Pos": [
-            6734,
+            6736.03, 
             0.0,
-            3690
+            3694.84
         ],
         "Radius": 100.0,
         "PosHeight": 22.0,

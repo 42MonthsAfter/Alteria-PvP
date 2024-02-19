@@ -504,3 +504,13 @@
 11:42:22.441 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489717, 656.065918>)
 11:42:47.425 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489736, 656.065002>) as driver
 11:43:17.218 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489747, 656.056458>)
+11:45:19.101 [VehicleEnter] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] entered vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489728, 656.055969>) as driver
+11:45:29.804 [VehicleLeave] Player Mr.Warrior [uid=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=] left vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489725, 656.050659>)
+11:50:07.210 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4669.577148, 2.501143, 2241.631836>) Entered the safezone
+11:52:01.453 [Expansion Quests] - CompleteQuest - Player with UID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= has completed quest 99
+11:52:32.660 [VehicleEnter] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] entered vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489737, 656.049255>) as driver
+11:52:40.738 [VehicleLeave] Player Nachoz [uid=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=] left vehicle BMW (rust) (id=96EC3A9C9146490C65326AA94D92B6DB pos=<2193.382813, 15.489717, 656.046570>)
+11:54:45.269 [Party] Player "Nachoz" (id=fvuyfu2vAyZ5FpaBSc8JMfvFka2TJFc5PXMfSME3A8I=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+11:59:21.054 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)
+11:59:21.054 [Party] Player "S.O.D-Rusty" (id=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM=) left the party "SlutZ Of DayZ" (id=7 ownerUID=iAIcpeFKuUmTYYRta5ELKOhrmEamsmrgLwRzQwFgtNM= ownerName=S.O.D-Rusty)
+11:59:21.062 [Party] Player "Mr.Warrior" (id=6hCxNhmcaZ7JeXJSF7evVrv0ZyyXYSyXIZJg-pSH2ZI=) left the party "Gits" (id=4 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Slightly Crazed)

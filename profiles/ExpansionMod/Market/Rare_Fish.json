@@ -1,7 +1,7 @@
 {
     "m_Version": 12,
     "DisplayName": "RARE FISH",
-    "Icon": "Deliver",
+    "Icon": "Fish",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
     "InitStockPercent": 75.0,

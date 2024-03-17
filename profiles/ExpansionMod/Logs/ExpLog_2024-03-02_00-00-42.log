@@ -1,0 +1,14 @@
+03:58:29.542 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+03:58:29.557 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+03:58:29.557 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+03:58:30.489 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+04:03:33.751 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer_Medical
+05:17:31.414 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle BMW (rust) (id=776611B53C4D9DEB6A093AAAB2454CF9 pos=<5273.647461, 18.402168, 5048.026855>) as driver
+05:17:34.792 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle BMW (rust) (id=776611B53C4D9DEB6A093AAAB2454CF9 pos=<5273.647461, 18.402195, 5048.027344>)
+05:19:08.082 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle BMW (rust) (id=776611B53C4D9DEB6A093AAAB2454CF9 pos=<5273.647461, 18.402187, 5048.027344>) as driver
+05:19:11.992 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle BMW (rust) (id=776611B53C4D9DEB6A093AAAB2454CF9 pos=<5273.647461, 18.402187, 5048.027344>)
+05:19:16.345 [VehicleEngine] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] started vehicle BMW (rust) (id=776611B53C4D9DEB6A093AAAB2454CF9 pos=<5273.647461, 18.402185, 5048.027344>)
+05:19:53.851 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle BMW (rust) (id=776611B53C4D9DEB6A093AAAB2454CF9 pos=<5273.647461, 18.402191, 5048.027344>)
+05:26:01.748 [MissionAirdrop] An airdrop is heading towards "Mt Helikon" (pos=<6612.930176, 0.000000, 4908.759766> type=Random_Mt-Helikon) with a ExpansionAirdropContainer_Military
+05:39:48.216 [AI Patrol] Spawning 2 Shamans bots at <6601.863770, 22.260000, 3699.936279>
+05:59:19.884 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

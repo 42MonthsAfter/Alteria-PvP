@@ -1,0 +1,12 @@
+00:02:49.267 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ax7Tt8AKEfSEyy4-XVMEjmiM71IuF4dUHcqKEdRBHaE=
+00:02:49.268 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ax7Tt8AKEfSEyy4-XVMEjmiM71IuF4dUHcqKEdRBHaE=
+00:07:57.650 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Medical
+00:16:00.242 [Safezone] Player "Taco" (id=ax7Tt8AKEfSEyy4-XVMEjmiM71IuF4dUHcqKEdRBHaE= pos=<4741.696289, 2.410254, 2481.842773>) Entered the safezone
+00:16:15.058 [AI Patrol] Spawning 2 Shamans bots at <4869.229004, 46.802311, 1412.520508>
+00:20:16.055 [Expansion Quests] - CompleteQuest - Player with UID ax7Tt8AKEfSEyy4-XVMEjmiM71IuF4dUHcqKEdRBHaE= has completed quest 99
+00:23:21.419 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+00:23:21.436 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+00:23:21.437 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+00:23:21.437 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+00:23:22.272 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+00:23:52.591 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)

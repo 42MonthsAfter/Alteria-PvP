@@ -1,0 +1,16 @@
+00:05:58.823 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ZawjbPkWak4HJ21ROnGuGMPNDy7NeAO3CfnGiWyUFIc=
+00:05:58.823 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:05:58.824 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ZawjbPkWak4HJ21ROnGuGMPNDy7NeAO3CfnGiWyUFIc=
+00:08:23.228 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: B11ZKNufTZgtsm9uy9qfodwmB-W8Dm-EeJnX_nmN-pE=
+00:08:23.229 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+00:08:23.229 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: B11ZKNufTZgtsm9uy9qfodwmB-W8Dm-EeJnX_nmN-pE=
+00:11:04.596 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Basebuilding
+00:13:40.515 [AI Patrol] Spawning 2 Shamans bots at <2724.527832, 43.939999, 5893.317871>
+00:15:05.293 [Party] Player "ElTincho77" (id=B11ZKNufTZgtsm9uy9qfodwmB-W8Dm-EeJnX_nmN-pE=) joinded the party "cdt 1 " (id=12 ownerUID= ownerName=)
+00:15:05.293 [Party] Player "ElTincho77" (id=B11ZKNufTZgtsm9uy9qfodwmB-W8Dm-EeJnX_nmN-pE=) created a party named cdt 1  ()
+00:15:06.292 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 12
+00:15:09.924 [Party] Player "ElTincho77" (id=B11ZKNufTZgtsm9uy9qfodwmB-W8Dm-EeJnX_nmN-pE=) invited the player "ElCabezzon" (id=ZawjbPkWak4HJ21ROnGuGMPNDy7NeAO3CfnGiWyUFIc=)to the party named cdt 1 
+00:15:15.561 [Party] Player "ElCabezzon" (id=ZawjbPkWak4HJ21ROnGuGMPNDy7NeAO3CfnGiWyUFIc=) joinded the party "cdt 1 " (id=12 ownerUID=B11ZKNufTZgtsm9uy9qfodwmB-W8Dm-EeJnX_nmN-pE= ownerName=ElTincho77)
+00:15:16.561 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 12
+00:30:19.650 [Party] Player "ElCabezzon" (id=ZawjbPkWak4HJ21ROnGuGMPNDy7NeAO3CfnGiWyUFIc=) left the party "cdt 1 " (id=12 ownerUID=B11ZKNufTZgtsm9uy9qfodwmB-W8Dm-EeJnX_nmN-pE= ownerName=ElTincho77)
+00:30:31.077 [Party] Player "ElTincho77" (id=B11ZKNufTZgtsm9uy9qfodwmB-W8Dm-EeJnX_nmN-pE=) left the party "cdt 1 " (id=12 ownerUID=B11ZKNufTZgtsm9uy9qfodwmB-W8Dm-EeJnX_nmN-pE= ownerName=ElTincho77)

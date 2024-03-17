@@ -1,0 +1,5 @@
+01:48:14.062 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: burvSOpk5h3azQjnXtkXLxxqShDxeox2aevqiyjcK30=
+01:49:52.438 [AI Patrol] Spawning 2 Shamans bots at <2720.579102, 44.322514, 6022.106445>
+01:53:22.662 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer_Medical
+02:00:20.114 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: burvSOpk5h3azQjnXtkXLxxqShDxeox2aevqiyjcK30=
+02:00:20.115 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: burvSOpk5h3azQjnXtkXLxxqShDxeox2aevqiyjcK30=

@@ -1,0 +1,10 @@
+08:43:11.900 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 3D5zTjmJkvl7DZTqUgBmPGQaEqWPiSx2mX3zNqpjbyU=
+08:43:11.900 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+08:48:18.507 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Military
+08:53:24.146 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+08:53:24.158 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+08:53:24.160 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+08:53:24.160 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+08:53:25.115 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+08:55:25.429 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+08:56:33.718 [AI Patrol] Spawning 2 Shamans bots at <2750.410156, 43.939999, 5806.848633>

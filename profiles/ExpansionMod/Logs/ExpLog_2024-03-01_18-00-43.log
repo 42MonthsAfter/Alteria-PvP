@@ -1,0 +1,24 @@
+18:20:41.984 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+18:20:41.992 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:20:41.992 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+18:20:41.992 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:20:42.937 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+18:22:55.804 [AI Patrol] Spawning 2 Shamans bots at <4914.159668, 47.822472, 1280.988037>
+18:25:44.312 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Medical
+18:31:11.906 [AI Patrol] Spawning 2 Shamans bots at <6019.147461, 26.129999, 1816.862183>
+18:45:48.703 [AI Patrol] Spawning 2 Shamans bots at <6794.119629, 19.496908, 3853.606445>
+18:47:40.906 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lhn9s24EER2oNseVd1-_8OCoQuHWtVsLq8YgFxZKZqI=
+18:47:40.906 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Lhn9s24EER2oNseVd1-_8OCoQuHWtVsLq8YgFxZKZqI=
+18:55:41.617 [AI Patrol] Spawning 2 Shamans bots at <2547.791260, 43.939999, 5876.912109>
+19:20:43.906 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+19:20:43.921 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+19:20:43.921 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+19:20:43.921 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+19:20:44.867 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+19:21:29.890 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+19:50:05.304 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer_Military
+20:48:01.640 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8WOME_R_pLqH-sK7mQcoyxUIPHkCmt7swg5WOdenEdo=
+20:48:01.640 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8WOME_R_pLqH-sK7mQcoyxUIPHkCmt7swg5WOdenEdo=
+21:02:25.843 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+22:40:27.414 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: EmLelcSnKOlFwzP9O8ou_EoQxfd6Ek973AD99RlCuZM=
+22:40:31.312 [MissionAirdrop] An airdrop is heading towards "Mt Helikon" (pos=<6612.930176, 0.000000, 4908.759766> type=Random_Mt-Helikon) with a ExpansionAirdropContainer_Medical

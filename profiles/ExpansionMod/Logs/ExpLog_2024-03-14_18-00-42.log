@@ -1,0 +1,9 @@
+18:01:25.480 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+18:01:25.480 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+18:06:33.636 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Basebuilding
+18:37:22.937 [AI Patrol] Spawning 2 Shamans bots at <2492.703369, 43.939999, 5760.224609>
+23:35:47.304 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: SM9lVZicmJ05KfJaJSuwjztJmH5BMw1y_G70EnWADQQ=
+23:35:50.640 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer
+23:47:48.085 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+23:47:48.085 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+23:48:09.218 [AI Patrol] Spawning 2 Shamans bots at <4461.574219, 16.187080, 7304.628906>

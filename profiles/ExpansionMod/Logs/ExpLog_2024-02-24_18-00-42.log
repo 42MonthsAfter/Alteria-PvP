@@ -1,0 +1,78 @@
+18:25:51.218 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: oWGFxGpBh-Dqtj9usE_UbkXiq09cT7ZDofBxnHLWxRA=
+18:25:51.218 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:30:14.171 [AI Patrol] Spawning 2 Shamans bots at <2622.761475, 43.939999, 5767.695313>
+18:30:53.468 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Basebuilding
+18:35:20.328 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) joinded the party "Wenco" (id=7 ownerUID=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= ownerName=justin)
+18:35:20.343 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=
+18:35:20.343 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 7
+18:35:21.312 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+18:37:17.929 [AI Patrol] Spawning 2 Shamans bots at <2091.088867, 61.317574, 3259.391357>
+18:46:53.234 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+18:46:53.234 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+18:46:53.234 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+19:19:39.179 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4833.852539, 10.558157, 2232.660156>) Entered the safezone
+19:19:39.195 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+19:19:39.195 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:19:39.195 [AI Patrol] Spawning 2 Shamans bots at <4934.039551, 44.599346, 1405.939331>
+19:20:38.273 [AI Patrol] Spawning 2 Shamans bots at <5947.088379, 26.129999, 1894.015625>
+19:20:54.679 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5117.444336, 1.880810, 2359.205322>) Left the safezone
+19:28:59.882 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+19:28:59.890 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+19:28:59.890 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+19:29:00.867 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:30:44.742 [Safezone] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= pos=<4667.253418, 2.501133, 2242.377930>) Entered the safezone
+19:33:53.953 [AI Patrol] Spawning 2 Shamans bots at <4730.192871, 16.011902, 7517.261719>
+19:36:50.703 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<a521f4b0> at <5937.97, 55.85, 4812.44> EXPLOSION range 20 dropoff 5
+19:37:26.406 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= for quest 7
+19:37:45.046 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= for quest 31
+19:39:34.390 [Safezone] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= pos=<4989.084961, 3.843088, 2100.246826>) Left the safezone
+19:42:05.812 [AI Patrol] Spawning 2 Shamans bots at <6816.728027, 19.120001, 3717.962402>
+19:42:37.546 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4668.104980, 2.501147, 2241.148193>) Entered the safezone
+19:45:01.562 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= for quest 46
+19:46:25.289 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4602.271973, 2.473506, 2218.211426>) Left the safezone
+19:52:35.468 [MissionAirdrop] An airdrop is heading towards "Cassandra" (pos=<4274.000000, 0.000000, 7597.299805> type=Random_Cassandra) with a ExpansionAirdropContainer_Military
+19:54:43.031 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+19:54:43.039 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:54:43.039 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+20:12:14.921 [AI Patrol] Spawning 2 Shamans bots at <7645.656250, 26.129999, 1849.528076>
+20:14:42.953 [AI Patrol] Spawning 2 Shamans bots at <4504.742188, 15.699078, 7759.626465>
+20:25:25.812 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+20:25:25.812 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:25:25.812 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+20:25:59.609 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+20:26:33.023 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) left the party "Wenco" (id=7 ownerUID=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= ownerName=justin)
+21:14:47.593 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer
+22:41:30.453 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+22:41:30.468 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+22:41:30.468 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+22:41:30.468 [Expansion Quests] - Create new quest instance for quest: 51 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+22:41:31.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+22:41:32.601 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer
+22:47:51.796 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+22:47:52.796 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+23:19:04.210 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4742.274902, 2.410253, 2482.896240>) Entered the safezone
+23:22:13.531 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to sell cp_cannabisbagblackfrost x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:22:13.812 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has sold cp_cannabisbagblackfrost x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) and got 4500.
+23:24:14.937 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase twp_ruger556_magpul x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:24:15.242 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought twp_ruger556_magpul x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 900.
+23:24:40.875 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase mag_stanag_60rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:24:41.171 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought mag_stanag_60rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 480.
+23:24:41.445 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase mag_stanag_60rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:24:41.773 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought mag_stanag_60rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 480.
+23:25:46.351 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:25:46.656 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:25:47.750 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:25:48.054 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:25:48.851 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:25:49.156 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:25:50.000 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:25:50.304 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:25:51.187 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:25:51.468 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:25:52.312 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:25:52.593 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:29:41.414 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4613.691895, 2.473532, 2223.232666>) Left the safezone
+23:30:05.195 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4667.498535, 2.501132, 2242.597412>) Entered the safezone
+23:30:42.531 [ATM] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has deposited 2448 on his ATM account.
+23:31:24.312 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4614.033203, 2.473514, 2225.802002>) Left the safezone
+23:59:19.031 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)

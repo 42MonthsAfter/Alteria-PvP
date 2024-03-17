@@ -1,0 +1,5 @@
+21:45:54.921 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:45:54.921 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:50:56.546 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Military
+22:48:47.851 [AI Patrol] Spawning 2 Shamans bots at <2213.105469, 54.799999, 3087.354980>
+23:13:38.546 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Military

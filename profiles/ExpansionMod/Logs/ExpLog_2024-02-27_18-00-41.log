@@ -1,0 +1,51 @@
+18:03:17.476 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:03:17.484 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+18:03:17.484 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+18:03:18.449 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+18:08:21.738 [MissionAirdrop] An airdrop is heading towards "Mt Helikon" (pos=<6612.930176, 0.000000, 4908.759766> type=Random_Mt-Helikon) with a ExpansionAirdropContainer_Military
+18:34:12.726 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:34:13.718 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+18:55:56.968 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+18:55:57.960 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+18:57:30.570 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+18:57:30.585 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:57:30.585 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+18:57:30.585 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:57:31.531 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+18:58:15.476 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+18:58:15.484 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+18:58:15.484 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:58:16.429 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:59:33.601 [AI Patrol] Spawning 2 Shamans bots at <4764.362793, 47.690498, 1384.237549>
+19:00:19.757 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+19:11:14.531 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+19:11:41.335 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+19:11:41.343 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+19:11:41.343 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+19:11:42.328 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+19:30:11.773 [MissionAirdrop] An airdrop is heading towards "Mt Helikon" (pos=<6612.930176, 0.000000, 4908.759766> type=Random_Mt-Helikon) with a ExpansionAirdropContainer_Military
+19:30:26.671 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<7d892720> at <3286.82, 132.67, 1574.31> EXPLOSION range 20 dropoff 5
+19:30:59.468 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<d5c48c30> at <3294.64, 134.45, 1589.59> EXPLOSION range 12 dropoff 3
+19:37:35.445 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+19:46:01.421 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+19:46:02.406 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+20:02:14.328 [AI Patrol] Spawning 2 Shamans bots at <2549.911865, 42.049194, 5650.717773>
+20:08:44.835 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+20:27:48.507 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+20:27:48.515 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+20:27:48.515 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:27:49.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:29:45.375 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+21:48:04.156 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+21:48:04.156 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+21:48:04.156 [Expansion Quests] - Create new quest instance for quest: 1 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+21:48:04.164 [AI Patrol] Spawning 2 Shamans bots at <7192.936035, 26.129999, 2120.812744>
+21:48:04.179 [AI Patrol] Spawning 2 Shamans bots at <6058.668457, 26.129999, 1906.001343>
+21:48:09.773 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Basebuilding
+22:16:46.734 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+22:16:46.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+22:16:46.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+22:16:46.750 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+22:16:47.703 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+23:16:07.796 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer_Military
+23:54:35.281 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)

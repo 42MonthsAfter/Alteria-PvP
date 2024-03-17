@@ -1,0 +1,14 @@
+03:40:25.419 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+03:40:25.434 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+03:40:25.435 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 9
+03:40:25.435 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+03:40:25.439 [AI Patrol] Spawning 2 Shamans bots at <4870.508789, 18.508768, 7452.591797>
+03:40:26.387 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+03:45:25.868 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Basebuilding
+04:27:37.809 [AI Patrol] Spawning 2 Shamans bots at <4428.790039, 15.849222, 7730.059082>
+04:32:27.009 [Killfeed] brailsford40 got killed by Survivor (Shamans) with Bizon from a distance of 2 m.
+04:33:35.988 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+04:33:36.980 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+05:09:49.869 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer
+05:20:06.798 [AI Patrol] Spawning 2 Shamans bots at <2787.431885, 43.946552, 5882.620605>
+05:33:41.929 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)

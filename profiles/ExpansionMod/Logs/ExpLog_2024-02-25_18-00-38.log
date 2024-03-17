@@ -1,0 +1,19 @@
+22:12:18.687 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+22:12:18.687 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+22:12:18.687 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+22:17:19.812 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Military
+22:31:14.929 [AI Patrol] Spawning 2 Shamans bots at <1975.836792, 15.570000, 569.161682>
+22:54:30.500 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+22:54:30.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:54:30.500 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+22:54:30.500 [AI Patrol] Spawning 2 Shamans bots at <7520.706543, 26.129999, 2181.763184>
+23:04:37.640 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+23:04:37.640 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:04:37.640 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+23:05:55.296 [AI Patrol] Spawning 2 Shamans bots at <4714.863281, 47.672348, 1353.825317>
+23:15:53.585 [Safezone] Player "FinnMcCool" (id=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI= pos=<4667.229004, 2.501144, 2241.377686>) Entered the safezone
+23:22:29.218 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI= for quest 1
+23:24:00.851 [Expansion Quests] - CompleteQuest - Player with UID KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI= has completed quest 99
+23:32:58.820 [Safezone] Player "FinnMcCool" (id=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI= pos=<4991.615723, 3.843068, 2090.551758>) Left the safezone
+23:34:08.773 [AI Patrol] Spawning 2 Shamans bots at <6035.329102, 26.129999, 2022.715210>
+23:40:09.812 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer_Military

@@ -1,0 +1,24 @@
+07:48:44.730 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 8BF9aaaxdT7EUhmFata9XCjVpHNZCkAmfovOg5LNE5g=
+07:53:52.035 [MissionAirdrop] An airdrop is heading towards "Cassandra" (pos=<4274.000000, 0.000000, 7597.299805> type=Random_Cassandra) with a ExpansionAirdropContainer_Basebuilding
+07:56:01.001 [AI Patrol] Spawning 2 Shamans bots at <2518.811523, 43.939999, 5796.273926>
+08:33:15.480 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:33:15.496 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=
+08:33:15.498 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+08:33:15.498 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=
+08:33:15.501 [AI Patrol] Spawning 2 Shamans bots at <2171.594482, 54.799999, 3217.268799>
+08:33:16.457 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+08:50:06.943 [Killfeed] tearsofdawn1066 got killed by Survivor (Shamans) with KAS-74U from a distance of 11 m.
+08:50:31.019 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:50:32.013 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+09:15:19.164 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer_Basebuilding
+09:36:24.570 [Party] Player "tearsofdawn1066" (id=Sltx5zKJy7sVbO2kN3XTpRthB0wkULqErUtRpY6M_7o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:45:41.722 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4803.693848, 5.902375, 2248.231934>) Entered the safezone
+11:45:41.726 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+11:45:41.734 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+11:45:41.738 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+11:45:41.738 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+11:45:41.742 [AI Patrol] Spawning 2 Shamans bots at <4832.764648, 47.958855, 1401.967651>
+11:45:42.656 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+11:45:43.414 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Basebuilding
+11:57:00.152 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4613.554199, 2.473492, 2221.663330>) Left the safezone
+11:59:19.031 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)

@@ -1,0 +1,38 @@
+************************** 2024-03-10T11:00:36+00:00 **************************
+2024-03-10T11:00:36+00:00 | [INFO	] GameLabs v1.932 start for server 78da06b5-bc0a-424b-9b66-a42c7f89719f
+2024-03-10T11:00:44+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-03-10T11:00:44+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-03-10T11:00:45+00:00 | [INFO	] Experimental speed check is enabled
+2024-03-10T11:00:45+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2024-03-10T11:04:25+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-10T11:04:30+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-10T12:00:45+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-10T12:00:45+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-10T12:00:45+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-10T13:00:50+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-10T13:00:50+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-10T13:00:50+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-10T13:35:15+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-10T13:35:20+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-10T13:54:55+00:00 | [WARN	] [Teleport] SurvivorBase<78166030> position=0x0000000096b8bc30 {<6429.79,51.0283,6591.61>}
+2024-03-10T13:54:55+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-03-10T13:54:55+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T13:54:55+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198369601190, distance=51.0283u, unitsPerSecond=20.4113 [threshold=8, inVehicle=0, triggers=1])
+2024-03-10T13:54:55+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T13:54:55+00:00 | [WARN	] ****************************************
+2024-03-10T13:57:15+00:00 | [WARN	] [Spawn] Spawning ExpansionSatchel (x4) for SurvivorBase<78166030>
+2024-03-10T14:00:50+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-10T14:00:50+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-10T14:00:51+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-10T14:11:10+00:00 | [WARN	] [Spawn] Spawning Whetstone (x1) for SurvivorBase<78166030>
+2024-03-10T15:00:55+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-10T15:00:55+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-10T15:00:56+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-10T15:31:35+00:00 | [WARN	] [Teleport] SurvivorBase<771fe010> position=0x0000000096b8bc30 {<6383.68,41.8857,6498.49>}
+2024-03-10T15:31:37+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2024-03-10T15:31:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T15:31:37+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199521855408, distance=41.8863u, unitsPerSecond=16.7545 [threshold=8, inVehicle=0, triggers=1])
+2024-03-10T15:31:37+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2024-03-10T15:31:37+00:00 | [WARN	] ****************************************
+2024-03-10T16:00:01+00:00 | [INFO	] (Reporter) Disabled
+2024-03-10T16:00:01+00:00 | [INFO	] (Core) Attempting graceful exit

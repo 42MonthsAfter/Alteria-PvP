@@ -1,0 +1,28 @@
+12:01:22.054 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: vc5xvgebndzBWjJRYdw_VOQBnWJAj-pWiEKMkYsMdk4=
+12:01:22.054 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: vc5xvgebndzBWjJRYdw_VOQBnWJAj-pWiEKMkYsMdk4=
+12:05:03.011 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: EzH7HZbWxfRkoV6RRxxP3bAP_c9N7VOp9Y_FYc0yT3w=
+12:05:03.011 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: EzH7HZbWxfRkoV6RRxxP3bAP_c9N7VOp9Y_FYc0yT3w=
+12:05:03.015 [AI Patrol] Spawning 2 Shamans bots at <2631.686523, 44.403057, 5989.223633>
+12:06:26.203 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Basebuilding
+12:08:56.023 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Y5iOSvxbktT62YFXmU8MFrK1NW7DtDBd1SxmQE5_6zY=
+12:08:56.023 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Y5iOSvxbktT62YFXmU8MFrK1NW7DtDBd1SxmQE5_6zY=
+12:19:38.378 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: JHEKTWwuQPVCyWZfP08wKI64lDyJZVWzSlQ991tCxTw=
+12:40:31.500 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: EzH7HZbWxfRkoV6RRxxP3bAP_c9N7VOp9Y_FYc0yT3w=
+12:40:31.503 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: EzH7HZbWxfRkoV6RRxxP3bAP_c9N7VOp9Y_FYc0yT3w=
+13:09:39.511 [Safezone] Player "(ADMIN)BLUE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4789.488281, 7.423676, 2282.760498>) Entered the safezone
+13:09:39.511 [Party] Player "(ADMIN)BLUE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+13:09:39.523 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+13:09:39.523 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+13:09:39.527 [AI Patrol] Spawning 2 Shamans bots at <4962.932129, 41.343449, 1424.082275>
+13:09:40.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+13:12:23.738 [Party] Player "(ADMIN)BLUE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+13:18:31.570 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+13:19:09.132 [Chat - Global]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): derf
+13:22:48.640 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<4824.631348, 6.310000, 2266.884277>) Entered the safezone
+13:31:02.203 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Military
+13:47:40.484 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 8bbiCe2m62y5RFhr8dzIDPIIBLoAhRQgUVhJGxOv9-U=
+15:17:22.683 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=
+15:17:30.207 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Basebuilding
+16:18:26.562 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+16:18:26.562 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+16:41:30.210 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Military

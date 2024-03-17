@@ -1,0 +1,4 @@
+00:03:23.876 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ax7Tt8AKEfSEyy4-XVMEjmiM71IuF4dUHcqKEdRBHaE=
+00:03:23.881 [AI Patrol] Spawning 2 Shamans bots at <6048.185059, 26.129999, 1891.306763>
+00:03:24.026 [AI Patrol] Spawning 2 Shamans bots at <7126.353027, 27.290865, 1685.959106>
+00:08:31.388 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Medical

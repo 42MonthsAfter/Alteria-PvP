@@ -1,0 +1,16 @@
+00:02:18.178 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+00:02:18.178 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+00:02:18.182 [AI Patrol] Spawning 2 Shamans bots at <2779.465576, 44.394081, 5963.162598>
+00:07:25.076 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer_Basebuilding
+01:27:55.118 [Killfeed] Paspuniak got killed by Survivor (Shamans) with SK 59/66 from a distance of 32 m.
+02:49:21.503 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 0h4aTLUYUwhAC2k5RTtdM7z-TUWYh2dHiQiaz4NlAqg=
+02:49:21.503 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 0h4aTLUYUwhAC2k5RTtdM7z-TUWYh2dHiQiaz4NlAqg=
+02:49:29.077 [MissionAirdrop] An airdrop is heading towards "Cassandra" (pos=<4274.000000, 0.000000, 7597.299805> type=Random_Cassandra) with a ExpansionAirdropContainer
+03:06:04.058 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 0h4aTLUYUwhAC2k5RTtdM7z-TUWYh2dHiQiaz4NlAqg=
+03:06:04.058 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 0h4aTLUYUwhAC2k5RTtdM7z-TUWYh2dHiQiaz4NlAqg=
+03:07:57.853 [VehicleEnter] Player space [uid=0h4aTLUYUwhAC2k5RTtdM7z-TUWYh2dHiQiaz4NlAqg=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3683.073730, 4.705274, 5939.402832>) as driver
+03:08:02.782 [VehicleEngine] Player space [uid=0h4aTLUYUwhAC2k5RTtdM7z-TUWYh2dHiQiaz4NlAqg=] started vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3683.073730, 4.705275, 5939.402832>)
+03:08:20.547 [VehicleEngine] Player space [uid=0h4aTLUYUwhAC2k5RTtdM7z-TUWYh2dHiQiaz4NlAqg=] stopped vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3619.778320, 4.653447, 5989.425293>)
+03:08:24.828 [VehicleLeave] Player space [uid=0h4aTLUYUwhAC2k5RTtdM7z-TUWYh2dHiQiaz4NlAqg=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3619.778320, 4.653447, 5989.425293>)
+03:37:57.666 [AI Patrol] Spawning 2 Shamans bots at <2314.727539, 54.799999, 3015.919189>
+04:09:51.382 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Basebuilding

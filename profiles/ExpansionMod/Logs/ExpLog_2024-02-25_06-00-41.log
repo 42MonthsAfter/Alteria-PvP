@@ -1,0 +1,128 @@
+06:02:08.712 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+06:02:08.720 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:02:08.720 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+06:02:08.720 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+06:02:09.669 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:05:23.947 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+06:05:23.962 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:05:23.962 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:05:23.962 [Expansion Quests] - Create new quest instance for quest: 58 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+06:05:24.882 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+06:07:13.080 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Military
+06:10:11.244 [AI Patrol] Spawning 2 Shamans bots at <2072.558838, 55.628143, 2879.065430>
+06:14:22.222 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2321.186523, 77.112503, 1693.243164>) used the  ExpansionCarKey to unlock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2321.722168, 77.019730, 1694.352783>)
+06:14:28.746 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2321.722168, 77.019730, 1694.352783>) as passenger
+06:14:35.929 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2321.722900, 77.019753, 1694.353027>) as driver
+06:14:39.539 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2321.726074, 77.019753, 1694.351563>)
+06:15:50.146 [AI Patrol] Spawning 2 Shamans bots at <1515.685425, 15.570000, 473.706482>
+06:18:20.121 [AI Patrol] Spawning 2 Shamans bots at <4869.016113, 47.231209, 1400.531006>
+06:20:32.880 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4673.043945, 3.006785, 2245.064697>) Entered the safezone
+06:20:32.906 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4673.166504, 3.007063, 2245.993164>) Entered the safezone
+06:20:47.052 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4773.498535, 6.229731, 2277.540283>)
+06:20:49.611 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4773.498535, 6.229729, 2277.540283>)
+06:23:24.027 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has withdrawn 63830 from his ATM account.
+06:24:36.625 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase twp_scardragon_mag_50rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:24:36.796 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought twp_scardragon_mag_50rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 900.
+06:24:38.611 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase twp_scardragon_mag_50rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:24:38.750 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought twp_scardragon_mag_50rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 900.
+06:24:40.396 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase twp_scardragon_mag_50rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:24:40.574 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought twp_scardragon_mag_50rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 900.
+06:25:09.414 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:09.570 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:10.386 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:10.558 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:11.359 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:11.529 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:12.283 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:12.441 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:13.322 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:13.492 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:14.169 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:14.337 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:15.009 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:15.187 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:15.753 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:15.919 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:16.457 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:16.634 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:17.150 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:17.318 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:17.699 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:17.865 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:18.193 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:18.349 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:25:18.697 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has send a requested to purchase ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+06:25:18.865 [Market] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has bought ammobox_308win_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+06:34:10.191 [ATM] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) has deposited 61114 on his ATM account.
+06:35:37.966 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4773.498535, 6.229733, 2277.540283>) as passenger
+06:35:42.326 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4773.498535, 6.229753, 2277.540283>) as driver
+06:35:46.410 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4773.498535, 6.229736, 2277.540283>)
+06:37:09.171 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4531.698730, 3.029529, 2194.678711>) Left the safezone
+06:37:09.171 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4531.992676, 3.026961, 2193.893066>) Left the safezone
+06:43:03.458 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2814.870605, 21.790466, 4248.360352>)
+06:43:12.921 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2814.870605, 21.790468, 4248.360352>)
+06:52:50.542 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2813.578125, 21.970600, 4248.160156>) used the  ExpansionCarKey to lock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2814.870605, 21.790468, 4248.360352>)
+06:52:52.271 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2813.578125, 21.970600, 4248.160156>) used the  ExpansionCarKey to unlock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2814.870605, 21.790468, 4248.360352>)
+06:52:59.865 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2814.870605, 21.790443, 4248.359863>) as driver
+06:53:03.212 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2814.870605, 21.790457, 4248.359863>)
+06:53:22.208 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2815.168457, 21.689032, 4251.662109>) as passenger
+06:55:21.660 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4024.278809, 23.582537, 4524.627441>)
+06:55:26.058 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4024.279053, 23.582376, 4524.631348>)
+06:55:39.605 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4026.201904, 23.769960, 4524.132813>) used the  ExpansionCarKey to lock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4024.278809, 23.582380, 4524.631836>)
+06:58:34.708 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4022.453125, 23.567207, 4525.595703>) used the  ExpansionCarKey to unlock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4024.278809, 23.582380, 4524.631836>)
+06:58:40.703 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4024.278809, 23.582380, 4524.631836>) as passenger
+06:59:09.468 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4024.279053, 23.582314, 4524.633301>) as driver
+06:59:12.726 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4024.279053, 23.582148, 4524.637207>)
+07:04:33.333 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<6689.922852, 14.244992, 6797.116699>)
+07:04:37.761 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<6689.927246, 14.244991, 6797.114258>)
+07:05:35.355 [VehicleAttachments] Player Lets_G0_Brandon (uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) detached BMW Wheel (type=BMW_Wheel) from vehicle BMW (rust)(id=941B3604A84BE4265C9A5EA4372083F2 pos=<6689.927246, 14.244991, 6797.114258>)
+07:05:40.177 [VehicleAttachments] Player wiggy (uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) detached  (type=BMW_Wheel_destroyed) from vehicle BMW (rust)(id=941B3604A84BE4265C9A5EA4372083F2 pos=<6689.927246, 14.244991, 6797.114258>)
+07:05:56.335 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<6689.920898, 14.270563, 6797.109375>) as passenger
+07:06:02.070 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<6689.921387, 14.270569, 6797.108398>) as driver
+07:06:05.761 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<6689.921387, 14.270580, 6797.120605>)
+07:14:23.103 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4820.852051, 12.579089, 4933.545410>)
+07:14:34.925 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4820.861816, 12.579143, 4933.556641>)
+07:14:45.730 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4823.915527, 12.702500, 4934.125000>) used the  ExpansionCarKey to lock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4820.862793, 12.579165, 4933.554199>)
+07:15:23.515 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+07:15:24.800 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+08:27:57.195 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) joinded the party "Wenco" (id=7 ownerUID=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= ownerName=justin)
+08:27:57.210 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=
+08:27:57.212 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 7
+08:27:57.212 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=
+08:27:57.214 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=
+08:27:58.085 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Military
+08:27:58.183 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+08:55:11.277 [AI Patrol] Spawning 2 Shamans bots at <2855.567627, 40.049999, 5901.210449>
+09:03:28.453 [AI Patrol] Spawning 2 Shamans bots at <4297.414063, 17.786345, 7509.864258>
+09:12:39.128 [AI Patrol] Spawning 2 Shamans bots at <4760.496094, 32.353477, 7341.784668>
+09:50:48.781 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) left the party "Wenco" (id=7 ownerUID=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= ownerName=justin)
+10:25:11.460 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+10:25:11.460 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+10:25:11.460 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+10:25:21.093 [MissionAirdrop] An airdrop is heading towards "Fort Yuma" (pos=<1729.079956, 0.000000, 6552.689941> type=Random_Fort-Yuma) with a ExpansionAirdropContainer_Medical
+11:17:18.328 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=
+11:17:18.328 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+11:17:46.546 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+11:17:46.546 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+11:17:46.546 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+11:19:47.437 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "Die Hard" (id=8 ownerUID= ownerName=)
+11:19:47.437 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) created a party named Die Hard (Die)
+11:19:48.437 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 8
+11:19:51.585 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) invited the player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=)to the party named Die Hard
+11:20:44.921 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "BLAA" (id=9 ownerUID= ownerName=)
+11:20:44.921 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) created a party named BLAA ()
+11:20:45.921 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 9
+11:23:06.382 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) left the party "Die Hard" (id=8 ownerUID=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM= ownerName=TomInTheNorth)
+11:24:02.394 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) invited the player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=)to the party named BLAA
+11:24:07.382 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+11:24:08.382 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+11:32:05.984 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) left the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+11:47:42.164 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) joinded the party "Wenco" (id=7 ownerUID=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= ownerName=justin)
+11:47:42.171 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=
+11:47:42.171 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+11:47:42.171 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=
+11:47:42.171 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=
+11:47:43.140 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+11:49:12.097 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Medical
+11:59:20.269 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+11:59:20.281 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) left the party "Wenco" (id=7 ownerUID=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= ownerName=justin)

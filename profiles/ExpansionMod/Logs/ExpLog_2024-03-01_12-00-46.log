@@ -1,0 +1,21 @@
+12:07:21.570 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+12:07:21.589 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+12:07:21.589 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+12:07:21.589 [Expansion Quests] - Create new quest instance for quest: 58 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+12:07:21.593 [AI Patrol] Spawning 2 Shamans bots at <4725.922852, 42.027004, 1422.885864>
+12:07:22.531 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:12:27.503 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Medical
+12:20:55.214 [AI Patrol] Spawning 2 Shamans bots at <2022.036743, 54.799999, 2949.958008>
+13:08:17.019 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4667.912109, 2.501146, 2241.016602>) Entered the safezone
+13:12:50.210 [Expansion Quests] - CompleteQuest - Player with UID Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= has completed quest 58
+13:15:06.917 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= for quest 32
+13:17:07.554 [ATM] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) has deposited 200 on his ATM account.
+13:19:13.285 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4627.417969, 2.473505, 2227.553467>) Left the safezone
+13:38:24.511 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Military
+13:47:37.007 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+13:52:39.128 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+13:53:03.492 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 8WOME_R_pLqH-sK7mQcoyxUIPHkCmt7swg5WOdenEdo=
+16:34:13.414 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8WOME_R_pLqH-sK7mQcoyxUIPHkCmt7swg5WOdenEdo=
+16:34:13.414 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8WOME_R_pLqH-sK7mQcoyxUIPHkCmt7swg5WOdenEdo=
+16:34:18.570 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer
+17:20:12.359 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 2yWnxmA5DHfuTWD11ZAj10kf6hmw_5YfSKB5TqHrCvQ=

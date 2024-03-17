@@ -1,0 +1,67 @@
+09:52:20.937 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+09:52:20.941 [AI Patrol] Spawning 2 Shamans bots at <4362.426758, 16.958586, 7247.311035>
+09:57:23.398 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6469.682617, 66.955299, 6531.447754>) deployed ExpansionSatchel at <6470.162109, 67.616920, 6531.067383>
+09:57:25.031 [MissionAirdrop] An airdrop is heading towards "Fort Yuma" (pos=<1729.079956, 0.000000, 6552.689941> type=Random_Fort-Yuma) with a ExpansionAirdropContainer_Military
+09:57:53.503 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<5ea11fd0> at <6470.19, 66.95, 6533.37> EXPLOSION range 5 dropoff 2.5
+09:57:53.503 [ExplosionDamageSystem] Queued Expansion_C4_Explosion<5ea11fd0> ExpansionC4_Ammo for ExpansionBarbedWire<242c20b0> - count: 1
+09:57:53.539 [ExplosionDamageSystem] ExpansionBarbedWire<242c20b0> at <6470.34, 69.94, 6534.45> was not hit by ExpansionC4_Ammo from Expansion_C4_Explosion<5ea11fd0> at <6470.19, 66.95, 6533.37> - applying direct EXPLOSION damage coef 0.728639
+09:57:53.539 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<242c20b0> at <6470.343262, 69.938492, 6534.446289> has been hit by explosive Expansion_C4_Explosion<5ea11fd0>
+09:57:53.539 [ExplosionDamageSystem] Dequeued Expansion_C4_Explosion<5ea11fd0> ExpansionC4_Ammo for ExpansionBarbedWire<242c20b0> - count: 0
+09:57:53.539 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+09:57:53.539 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <6470.34, 69.94, 6534.45>
+09:57:53.539 [BaseBuildingRaiding] They dealt 437.183 * 50 = 21859.2 damage with ExpansionC4_Ammo from Expansion_C4_Explosion
+09:57:53.539 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 0
+09:57:53.539 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+09:58:25.371 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6469.374023, 66.995575, 6532.590332>) deployed ExpansionSatchel at <6469.914551, 67.657196, 6532.303223>
+09:58:55.476 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<5ea14410> at <6470.26, 66.7, 6533.65> EXPLOSION range 5 dropoff 2.5
+10:18:40.308 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6475.746582, 77.811417, 6545.308594>) deployed ExpansionSatchel at <6475.724121, 78.473038, 6545.919922>
+10:18:56.511 [VehicleCover] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6470.467773, 67.074318, 6537.707031>) uncovered vehicle "BMW_X5" (GlobalID=800000008000000080000000800002E0 pos=<6472.931152, 66.902969, 6537.345703>)!
+10:19:10.480 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<2410b2f0> at <6473.91, 77.81, 6544.82> EXPLOSION range 5 dropoff 2.5
+10:19:10.480 [ExplosionDamageSystem] Queued Expansion_C4_Explosion<2410b2f0> ExpansionC4_Ammo for ExpansionSafeMini<2640b480> - count: 1
+10:19:10.480 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeMini<2640b480> at <6473.907227, 77.811409, 6544.824707> has been hit by explosive Expansion_C4_Explosion<2410b2f0>
+10:19:10.480 [ExplosionDamageSystem] Dequeued Expansion_C4_Explosion<2410b2f0> ExpansionC4_Ammo for ExpansionSafeMini<2640b480> - count: 0
+10:19:10.480 [ExplosionDamageSystem] Overriding Expansion_C4_Explosion<2410b2f0> damage dealt to ExpansionSafeMini<2640b480> at <6473.907227, 77.811409, 6544.824707> 599.994 -> 600
+10:19:10.480 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:19:10.480 [BaseBuildingRaiding] A player damaged ExpansionSafeMini at <6473.91, 77.81, 6544.82>
+10:19:10.484 [BaseBuildingRaiding] They dealt 600 * 17 = 10200 damage with ExpansionC4_Ammo from Expansion_C4_Explosion
+10:19:10.484 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 10000 to 0
+10:19:10.484 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:20:01.398 [VehicleAttachments] Player [BTWF]CMDR-Chuck_N_Biskitz (uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) detached Barrel (type=Barrel_Red) from vehicle BMW X5(id=3877A031C04B6BA7BC42789DE22599CB pos=<6472.936523, 66.902672, 6537.343750>)
+10:20:05.433 [VehicleAttachments] Player [BTWF]CMDR-Chuck_N_Biskitz (uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) detached Barrel (type=Barrel_Yellow) from vehicle BMW X5(id=3877A031C04B6BA7BC42789DE22599CB pos=<6472.936523, 66.902672, 6537.343750>)
+10:29:06.742 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<6476.255371, 81.062622, 6545.308105>) deployed ExpansionSatchel at <6476.457520, 81.720108, 6544.728516>
+10:29:36.843 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<80cb3c70> at <6477.47, 82.47, 6545.78> EXPLOSION range 5 dropoff 2.5
+10:29:36.843 [ExplosionDamageSystem] Queued Expansion_C4_Explosion<80cb3c70> ExpansionC4_Ammo for ExpansionSafeLarge<25a2f9a0> - count: 1
+10:29:36.843 [ExplosionDamageSystem] Queued Expansion_C4_Explosion<80cb3c70> ExpansionC4_Ammo for ExpansionSafeMini<241ba7e0> - count: 1
+10:29:36.843 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeLarge<25a2f9a0> at <6477.719238, 82.473946, 6545.500000> has been hit by explosive Expansion_C4_Explosion<80cb3c70>
+10:29:36.847 [ExplosionDamageSystem] Dequeued Expansion_C4_Explosion<80cb3c70> ExpansionC4_Ammo for ExpansionSafeLarge<25a2f9a0> - count: 0
+10:29:36.847 [ExplosionDamageSystem] Overriding Expansion_C4_Explosion<80cb3c70> damage dealt to ExpansionSafeLarge<25a2f9a0> at <6477.719238, 82.473946, 6545.500000> 599.977 -> 600
+10:29:36.847 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:29:36.847 [BaseBuildingRaiding] A player damaged ExpansionSafeLarge at <6477.72, 82.47, 6545.5>
+10:29:36.847 [BaseBuildingRaiding] They dealt 600 * 17 = 10200 damage with ExpansionC4_Ammo from Expansion_C4_Explosion
+10:29:36.847 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 20000 to 9800
+10:29:36.847 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:29:36.847 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeMini<241ba7e0> at <6477.348145, 82.473946, 6545.999023> has been hit by explosive Expansion_C4_Explosion<80cb3c70>
+10:29:36.847 [ExplosionDamageSystem] Dequeued Expansion_C4_Explosion<80cb3c70> ExpansionC4_Ammo for ExpansionSafeMini<241ba7e0> - count: 0
+10:29:36.847 [ExplosionDamageSystem] Overriding Expansion_C4_Explosion<80cb3c70> damage dealt to ExpansionSafeMini<241ba7e0> at <6477.348145, 82.473946, 6545.999023> 599.975 -> 600
+10:29:36.847 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+10:29:36.847 [BaseBuildingRaiding] A player damaged ExpansionSafeMini at <6477.35, 82.47, 6546>
+10:29:36.847 [BaseBuildingRaiding] They dealt 600 * 17 = 10200 damage with ExpansionC4_Ammo from Expansion_C4_Explosion
+10:29:36.851 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 10000 to 0
+10:29:36.851 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+10:44:10.058 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4805.501465, 6.063842, 2250.404297>) Entered the safezone
+10:44:10.062 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+10:44:10.074 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+10:44:10.074 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+10:44:10.078 [AI Patrol] Spawning 2 Shamans bots at <4889.911621, 47.840000, 1317.498535>
+10:44:11.023 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+11:02:57.468 [VehicleAttachments] Player [BTWF]CMDR-Chuck_N_Biskitz (uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) detached BMW Wheel (type=BMW_Wheel) from vehicle BMW (rust)(id=776611B53C4D9DEB6A093AAAB2454CF9 pos=<5273.640137, 18.348721, 5048.040039>)
+11:21:23.093 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer
+11:31:21.468 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4992.686035, 3.843091, 2093.108154>) Left the safezone
+11:39:12.164 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from Expansion_M203_HE_Explosion<8ff6d130> at <4303.42, 0.56, 3532.63> EXPLOSION range 12 dropoff 3
+11:41:05.398 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+11:53:58.929 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4796.637695, 6.595495, 2258.032227>) Entered the safezone
+11:53:58.933 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:53:58.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+11:53:58.945 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+11:53:59.894 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+11:59:19.812 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

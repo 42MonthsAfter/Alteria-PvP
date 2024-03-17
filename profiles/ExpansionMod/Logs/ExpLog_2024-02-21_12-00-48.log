@@ -1,0 +1,65 @@
+12:02:15.343 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=3 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+12:02:15.363 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+12:02:15.363 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 3
+12:02:16.324 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+12:04:39.277 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+12:04:39.289 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+12:04:39.289 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+12:04:39.292 [AI Patrol] Spawning 2 Shamans bots at <2051.026367, 54.799999, 3029.606445>
+12:04:40.257 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:06:49.199 [AI Patrol] Spawning 2 Shamans bots at <2810.736328, 43.007088, 5832.147461>
+12:07:18.468 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Medical
+12:12:46.726 [AI Patrol] Spawning 2 Shamans bots at <4158.059570, 18.208729, 7537.634277>
+12:12:50.796 [AI Patrol] Spawning 2 Shamans bots at <4355.240234, 18.072788, 7239.403320>
+12:40:43.316 [AI Patrol] Spawning 2 Shamans bots at <4839.996094, 45.556686, 1439.683716>
+13:01:10.871 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+13:29:10.507 [MissionAirdrop] An airdrop is heading towards "Fort Yuma" (pos=<1729.079956, 0.000000, 6552.689941> type=Random_Fort-Yuma) with a ExpansionAirdropContainer
+14:22:41.519 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4742.301270, 2.410263, 2484.191895>) Entered the safezone
+14:30:28.648 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4632.603516, 2.492291, 2230.968018>) Left the safezone
+14:32:58.531 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=3 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+14:43:40.632 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+14:43:40.648 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+14:43:40.648 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+14:43:41.585 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:53:28.507 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Medical
+15:08:32.554 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+15:08:32.562 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:08:32.562 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+15:08:32.562 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:08:33.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+15:32:40.070 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+15:33:16.054 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+15:33:16.062 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+15:33:16.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:33:17.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:43:05.449 [AI Patrol] Spawning 2 Shamans bots at <1920.667358, 12.920000, 511.932709>
+16:03:55.546 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2328.566650, 78.196693, 1686.955200>) uncovered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<2331.203613, 78.115013, 1684.579590>)!
+16:04:19.527 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2328.842529, 78.195648, 1683.436157>) used the  ExpansionCarKey to unlock BMW_rust (id=237630DED94C45B5F595BB917B3CD020 pos=<2331.202637, 78.114983, 1684.579834>)
+16:17:32.605 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Military
+16:23:21.085 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2329.104492, 78.196404, 1686.459473>) used the  ExpansionCarKey to lock BMW_rust (id=237630DED94C45B5F595BB917B3CD020 pos=<2331.202637, 78.114983, 1684.579834>)
+16:23:39.750 [VehicleDeleted] BMW_rust (id=237630DED94C45B5F595BB917B3CD020 pos=<2331.202637, 78.114983, 1684.579834>)
+16:23:39.750 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2327.573242, 78.196495, 1685.161377>) covered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<2331.202637, 78.114983, 1684.579834>)!
+16:29:16.222 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2331.968018, 78.193932, 1680.478027>) uncovered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<2335.303955, 78.164421, 1680.639404>)!
+16:29:31.269 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2332.272705, 78.427597, 1682.040161>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=80C914423C4D68E9140E53A935522A26 pos=<2335.304199, 78.164413, 1680.639526>)
+16:29:45.117 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+16:29:45.125 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+16:29:45.125 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:29:46.101 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:32:03.898 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2332.231934, 78.310181, 1680.472412>) used the  ExpansionCarKey to lock PONTIAC_rust (id=80C914423C4D68E9140E53A935522A26 pos=<2335.304199, 78.164413, 1680.639526>)
+16:32:22.054 [VehicleDeleted] PONTIAC_rust (id=80C914423C4D68E9140E53A935522A26 pos=<2335.304199, 78.164413, 1680.639526>)
+16:32:22.054 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2332.192383, 78.194016, 1681.020996>) covered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<2335.304199, 78.164413, 1680.639526>)!
+16:35:05.296 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+16:41:29.214 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+17:10:16.292 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+17:29:36.453 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+17:29:36.460 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+17:29:36.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+17:29:37.417 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+17:31:21.644 [AI Patrol] Spawning 2 Shamans bots at <6067.164063, 26.129999, 1903.099243>
+17:38:11.617 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<224cfb90> at <6897.47, 62.26, 794.18> EXPLOSION range 12 dropoff 3
+17:42:25.609 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Basebuilding
+17:54:18.457 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: P_UjV08lTgkn_peksLRMcJU5Ii3-ekPI2QJfME7Wbkw=
+17:54:18.457 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+17:55:41.742 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: K3sSgSOo9ojvLzx0lq3TM2mi_nInMBB6njG-96aQivM=
+17:55:41.742 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+17:59:19.632 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)

@@ -1,0 +1,33 @@
+06:04:51.769 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+06:04:51.785 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+06:04:51.785 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+06:04:52.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+06:06:10.744 [AI Patrol] Spawning 2 Shamans bots at <2718.451172, 43.939999, 5837.113770>
+06:09:52.554 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Medical
+06:29:37.105 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+06:33:42.541 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+06:33:42.548 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+06:33:42.548 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+06:33:43.521 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+07:34:29.587 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer_Basebuilding
+07:52:46.466 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:00:13.417 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:00:13.423 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+08:00:13.423 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+08:00:14.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+08:59:55.605 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer_Basebuilding
+09:04:44.462 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+09:08:21.042 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+09:08:21.054 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+09:08:21.054 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+09:08:22.011 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+09:35:33.457 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:11:33.640 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: TJO2uTh3HgEcuKLG5GZBXj1YHCplutv3TBrrQAx0aeE=
+11:11:33.640 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+11:11:35.609 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer_Basebuilding
+11:54:25.226 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+11:54:25.242 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+11:54:25.242 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+11:54:25.242 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+11:54:26.179 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+11:58:57.570 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)

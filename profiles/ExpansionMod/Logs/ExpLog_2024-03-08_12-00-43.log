@@ -1,0 +1,5 @@
+16:14:55.042 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+16:14:55.042 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+16:16:54.035 [AI Patrol] Spawning 2 Shamans bots at <2596.150635, 43.939247, 5706.388184>
+16:20:04.917 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer_Military
+17:45:53.953 [MissionAirdrop] An airdrop is heading towards "Mt Helikon" (pos=<6612.930176, 0.000000, 4908.759766> type=Random_Mt-Helikon) with a ExpansionAirdropContainer_Medical

@@ -1,0 +1,366 @@
+12:01:59.960 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4800.919434, 5.904165, 2247.598145>) Entered the safezone
+12:01:59.960 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+12:01:59.964 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+12:01:59.968 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+12:01:59.968 [AI Patrol] Spawning 2 Shamans bots at <4790.778809, 47.840000, 1340.867676>
+12:02:00.921 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+12:04:53.238 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= for quest 7
+12:07:05.781 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Medical
+12:20:32.265 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4727.794922, 2.404877, 2533.180664>) Left the safezone
+12:26:57.027 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4740.150391, 2.410272, 2482.781982>) Entered the safezone
+12:28:33.937 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4794.112793, -1.320151, 2099.544189>) Left the safezone
+12:45:46.777 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4716.072754, 1.240768, 2167.049072>) Entered the safezone
+12:52:16.925 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4728.174805, 2.404908, 2539.342285>) Left the safezone
+13:32:53.578 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+13:52:43.105 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+13:52:47.781 [MissionAirdrop] An airdrop is heading towards "Fort Yuma" (pos=<1729.079956, 0.000000, 6552.689941> type=Random_Fort-Yuma) with a ExpansionAirdropContainer
+13:59:58.824 [Safezone] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4741.570801, 2.410256, 2484.422852>) Entered the safezone
+14:01:19.527 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 31
+14:03:08.664 [Safezone] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4992.720703, 3.843104, 2083.636963>) Left the safezone
+14:33:23.242 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:23.246 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:23.246 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:23.246 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 15000 to 14983.2
+14:33:23.246 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:24.996 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:24.996 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:24.996 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:24.996 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14983.2 to 14966.4
+14:33:25.000 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:25.035 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:25.039 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:25.039 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:25.039 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14966.4 to 14949.6
+14:33:25.039 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:25.125 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:25.125 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:25.125 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:25.125 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14949.6 to 14932.8
+14:33:25.125 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:25.167 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:25.167 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:25.167 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:25.167 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14932.8 to 14916
+14:33:25.167 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:25.250 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:25.250 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:25.250 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:25.250 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14916 to 14899.2
+14:33:25.250 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:25.292 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:25.292 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:25.292 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:25.292 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14899.2 to 14882.4
+14:33:25.292 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:25.375 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:25.378 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:25.378 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:25.378 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14882.4 to 14865.6
+14:33:25.378 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:25.429 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:25.429 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:25.429 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:25.429 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14865.6 to 14848.8
+14:33:25.429 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:25.515 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:25.515 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:25.515 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:25.515 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14848.8 to 14832
+14:33:25.515 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:25.601 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:25.601 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:25.601 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:25.601 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14832 to 14815.2
+14:33:25.601 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:26.429 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:26.429 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:26.429 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:26.429 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14815.2 to 14798.4
+14:33:26.429 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:26.523 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:26.523 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:26.523 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:26.523 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14798.4 to 14781.6
+14:33:26.523 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:26.523 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:26.523 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:26.523 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:26.523 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14781.6 to 14764.8
+14:33:26.523 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:26.558 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:26.558 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:26.558 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:26.562 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14764.8 to 14748
+14:33:26.562 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:26.578 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:26.578 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:26.578 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:26.578 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14748 to 14731.2
+14:33:26.578 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:26.601 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:26.605 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:26.605 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:26.605 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14731.2 to 14714.4
+14:33:26.605 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:26.625 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:26.628 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:26.628 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:26.628 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14714.4 to 14697.6
+14:33:26.628 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:26.675 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:26.675 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:26.675 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:26.675 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14697.6 to 14680.8
+14:33:26.675 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:26.773 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:26.773 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:26.773 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:26.773 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14680.8 to 14664
+14:33:26.773 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:32.605 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:32.605 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:32.605 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:32.605 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14664 to 14647.2
+14:33:32.605 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:33:32.609 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:33:32.609 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3856.79, 59.58, 1220.36> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:33:32.609 [BaseBuildingRaiding] They dealt 16.8 * 1 = 16.8 damage with Bullet_Expansion_46x30 from Expansion_MP7
+14:33:32.609 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14647.2 to 14630.4
+14:33:32.609 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.234 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.234 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.234 [BaseBuildingRaiding] They dealt 30.938 * 1 = 30.938 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.234 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14630.4 to 14599.5
+14:35:04.238 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.238 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.238 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.238 [BaseBuildingRaiding] They dealt 30.9462 * 1 = 30.9462 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.238 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14599.5 to 14568.5
+14:35:04.238 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.238 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.238 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.238 [BaseBuildingRaiding] They dealt 30.9372 * 1 = 30.9372 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.238 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14568.5 to 14537.6
+14:35:04.238 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.238 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.238 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.242 [BaseBuildingRaiding] They dealt 30.9376 * 1 = 30.9376 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.242 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14537.6 to 14506.6
+14:35:04.242 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.242 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.242 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.242 [BaseBuildingRaiding] They dealt 30.9362 * 1 = 30.9362 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.242 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14506.6 to 14475.7
+14:35:04.242 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.242 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.242 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.242 [BaseBuildingRaiding] They dealt 30.9376 * 1 = 30.9376 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.242 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14475.7 to 14444.8
+14:35:04.242 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.242 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.242 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.242 [BaseBuildingRaiding] They dealt 30.9448 * 1 = 30.9448 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.242 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14444.8 to 14413.8
+14:35:04.242 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.242 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.242 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.242 [BaseBuildingRaiding] They dealt 30.9721 * 1 = 30.9721 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.246 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14413.8 to 14382.9
+14:35:04.246 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.761 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.765 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.765 [BaseBuildingRaiding] They dealt 30.9397 * 1 = 30.9397 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.765 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14382.9 to 14351.9
+14:35:04.765 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.765 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.765 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.765 [BaseBuildingRaiding] They dealt 30.9422 * 1 = 30.9422 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.765 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14351.9 to 14321
+14:35:04.765 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.765 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.765 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.765 [BaseBuildingRaiding] They dealt 30.9328 * 1 = 30.9328 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.765 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14321 to 14290
+14:35:04.765 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.765 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.765 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.765 [BaseBuildingRaiding] They dealt 30.9417 * 1 = 30.9417 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.765 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14290 to 14259.1
+14:35:04.765 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.765 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.765 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.769 [BaseBuildingRaiding] They dealt 30.9597 * 1 = 30.9597 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.769 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14259.1 to 14228.1
+14:35:04.769 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.769 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.769 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.769 [BaseBuildingRaiding] They dealt 30.9335 * 1 = 30.9335 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.769 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14228.1 to 14197.2
+14:35:04.769 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.769 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.769 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.769 [BaseBuildingRaiding] They dealt 30.9427 * 1 = 30.9427 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.769 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14197.2 to 14166.3
+14:35:04.769 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:04.773 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:04.773 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:04.773 [BaseBuildingRaiding] They dealt 30.9333 * 1 = 30.9333 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:04.773 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14166.3 to 14135.3
+14:35:04.773 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.234 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.234 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.234 [BaseBuildingRaiding] They dealt 30.9329 * 1 = 30.9329 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.234 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14135.3 to 14104.4
+14:35:05.234 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.234 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.238 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.238 [BaseBuildingRaiding] They dealt 30.9342 * 1 = 30.9342 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.238 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14104.4 to 14073.5
+14:35:05.238 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.238 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.238 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.238 [BaseBuildingRaiding] They dealt 30.9347 * 1 = 30.9347 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.238 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14073.5 to 14042.5
+14:35:05.238 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.238 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.238 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.238 [BaseBuildingRaiding] They dealt 30.9331 * 1 = 30.9331 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.242 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14042.5 to 14011.6
+14:35:05.242 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.242 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.242 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.242 [BaseBuildingRaiding] They dealt 30.9377 * 1 = 30.9377 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.242 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 14011.6 to 13980.7
+14:35:05.242 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.242 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.242 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.242 [BaseBuildingRaiding] They dealt 30.9342 * 1 = 30.9342 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.242 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13980.7 to 13949.7
+14:35:05.242 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.242 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.242 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.242 [BaseBuildingRaiding] They dealt 30.9341 * 1 = 30.9341 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.242 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13949.7 to 13918.8
+14:35:05.242 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.246 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.246 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.246 [BaseBuildingRaiding] They dealt 30.9668 * 1 = 30.9668 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.246 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13918.8 to 13887.8
+14:35:05.246 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.757 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.757 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.757 [BaseBuildingRaiding] They dealt 30.9422 * 1 = 30.9422 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.757 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13887.8 to 13856.9
+14:35:05.757 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.757 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.757 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.757 [BaseBuildingRaiding] They dealt 30.942 * 1 = 30.942 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.757 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13856.9 to 13825.9
+14:35:05.757 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.757 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.757 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.757 [BaseBuildingRaiding] They dealt 30.938 * 1 = 30.938 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.757 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13825.9 to 13795
+14:35:05.761 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.761 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.761 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.761 [BaseBuildingRaiding] They dealt 30.9586 * 1 = 30.9586 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.761 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13795 to 13764
+14:35:05.761 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.761 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.761 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.761 [BaseBuildingRaiding] They dealt 30.9386 * 1 = 30.9386 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.761 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13764 to 13733.1
+14:35:05.761 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.761 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.761 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.765 [BaseBuildingRaiding] They dealt 30.9573 * 1 = 30.9573 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.765 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13733.1 to 13702.1
+14:35:05.765 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.765 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.765 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.765 [BaseBuildingRaiding] They dealt 30.9394 * 1 = 30.9394 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.765 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13702.1 to 13671.2
+14:35:05.765 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:05.765 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:05.765 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:05.765 [BaseBuildingRaiding] They dealt 30.9602 * 1 = 30.9602 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:05.765 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13671.2 to 13640.2
+14:35:05.765 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:07.937 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:07.937 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:07.937 [BaseBuildingRaiding] They dealt 30.9562 * 1 = 30.9562 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:07.937 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13640.2 to 13609.3
+14:35:07.937 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:07.937 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:07.937 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:07.937 [BaseBuildingRaiding] They dealt 30.9488 * 1 = 30.9488 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:07.937 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13609.3 to 13578.3
+14:35:07.937 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:07.937 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:07.937 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:07.937 [BaseBuildingRaiding] They dealt 30.9332 * 1 = 30.9332 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:07.937 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13578.3 to 13547.4
+14:35:07.937 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:07.937 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:07.937 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:07.941 [BaseBuildingRaiding] They dealt 30.9536 * 1 = 30.9536 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:07.941 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13547.4 to 13516.5
+14:35:07.941 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:07.941 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:07.941 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:07.941 [BaseBuildingRaiding] They dealt 30.9322 * 1 = 30.9322 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:07.941 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13516.5 to 13485.5
+14:35:07.941 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:07.941 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:07.941 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:07.941 [BaseBuildingRaiding] They dealt 30.9344 * 1 = 30.9344 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:07.941 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13485.5 to 13454.6
+14:35:07.941 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:07.941 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:07.945 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:07.945 [BaseBuildingRaiding] They dealt 30.9352 * 1 = 30.9352 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:07.945 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13454.6 to 13423.6
+14:35:07.945 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:35:07.945 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+14:35:07.945 [BaseBuildingRaiding] Player "[BTWF]CMDR-Chuck_N_Biskitz" (ID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) at <3858.39, 59.58, 1221.17> damaged ExpansionSafeMedium at <3854.89, 60.18, 1219.95>
+14:35:07.945 [BaseBuildingRaiding] They dealt 30.9379 * 1 = 30.9379 damage with Bullet_12GaugePellets from Expansion_BenelliM4
+14:35:07.945 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 13423.6 to 13392.7
+14:35:07.945 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+14:47:13.562 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<1a3bf830> at <3901.96, 53.05, 1287.9> EXPLOSION range 12 dropoff 3
+14:54:33.191 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 0h4aTLUYUwhAC2k5RTtdM7z-TUWYh2dHiQiaz4NlAqg=
+14:54:33.191 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 0h4aTLUYUwhAC2k5RTtdM7z-TUWYh2dHiQiaz4NlAqg=
+14:54:33.195 [AI Patrol] Spawning 2 Shamans bots at <2120.464600, 54.799999, 3108.494629>
+15:04:16.890 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from Expansion_M203_HE_Explosion<91e2f3a0> at <2163.77, 54.8, 2933.1> EXPLOSION range 12 dropoff 3
+15:14:50.812 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer
+15:36:08.800 [AI Patrol] Spawning 2 Shamans bots at <1664.978149, 5.920000, 501.483459>
+15:43:09.761 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from Expansion_M203_HE_Explosion<1c2d8af0> at <1768.67, 15.57, 514.64> EXPLOSION range 12 dropoff 3
+15:57:57.085 [ExplosionDamageSystem] About to explode FlashGrenade_Ammo from FlashGrenade<80237d10> at <1739.95, 1.87, 588.19> EXPLOSION range 20 dropoff 5
+16:10:04.164 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: KcQp0ws3WrM7PEV6AkHc1tQ96FH2tGF-XyS28WCGKSQ=
+16:18:39.781 [VehicleCover] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2335.268066, 78.193695, 1683.330811>) uncovered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<2335.385010, 78.164360, 1680.572388>)!
+16:18:52.242 [VehicleDeleted] PONTIAC_rust (id=F0A300066B4B2BC62170CDA900BC172D pos=<2335.385010, 78.164375, 1680.572510>)
+16:18:52.246 [VehicleCover] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2336.220947, 78.193222, 1682.676147>) covered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<2335.385010, 78.164375, 1680.572510>)!
+16:19:02.304 [VehicleCover] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2335.894775, 78.876862, 1676.512939>) uncovered vehicle "MUSTANG" (GlobalID=80000000800000008000000080002B6F pos=<2333.698975, 78.252312, 1677.337524>)!
+16:19:11.523 [VehicleEnter] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle MUSTANG (id=750FFC85E94EC2DF1867E996421F9D6E pos=<2333.698975, 78.252319, 1677.339233>) as driver
+16:19:13.785 [VehicleEngine] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle MUSTANG (id=750FFC85E94EC2DF1867E996421F9D6E pos=<2333.698730, 78.252312, 1677.339111>)
+16:19:16.480 [VehicleEngine] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle MUSTANG (id=750FFC85E94EC2DF1867E996421F9D6E pos=<2333.698975, 78.252312, 1677.339355>)
+16:19:19.621 [VehicleLeave] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle MUSTANG (id=750FFC85E94EC2DF1867E996421F9D6E pos=<2333.698975, 78.252312, 1677.339355>)
+16:21:15.847 [VehicleCover] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2332.429932, 78.194138, 1681.731934>) uncovered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<2335.385010, 78.164375, 1680.572510>)!
+16:21:23.910 [VehicleCarKey] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2332.207520, 78.427254, 1681.728149>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=D9D4E5C917481279C7E22594992C6DC0 pos=<2335.385010, 78.164375, 1680.573120>)
+16:22:51.718 [VehicleCarKey] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2332.853760, 78.194214, 1682.526611>) used the  ExpansionCarKey to lock PONTIAC_rust (id=D9D4E5C917481279C7E22594992C6DC0 pos=<2335.385010, 78.164375, 1680.573120>)
+16:23:02.945 [VehicleDeleted] PONTIAC_rust (id=D9D4E5C917481279C7E22594992C6DC0 pos=<2335.385010, 78.164375, 1680.573120>)
+16:23:02.945 [VehicleCover] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2332.450195, 78.194458, 1682.890991>) covered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<2335.385010, 78.164375, 1680.573120>)!
+16:25:18.949 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+16:25:18.960 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+16:25:18.960 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+16:25:18.964 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+16:25:19.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+16:26:57.320 [VehicleEnter] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle MUSTANG (id=750FFC85E94EC2DF1867E996421F9D6E pos=<2333.698730, 78.252319, 1677.340698>) as driver
+16:27:00.300 [VehicleEngine] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle MUSTANG (id=750FFC85E94EC2DF1867E996421F9D6E pos=<2333.698975, 78.252312, 1677.341187>)
+16:27:04.652 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+16:31:33.683 [VehicleLeave] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle MUSTANG (id=750FFC85E94EC2DF1867E996421F9D6E pos=<411.822571, 5.750887, 1878.652588>)
+16:32:18.078 [VehicleCarKey] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<413.255310, 5.663343, 1879.990601>) paired a  ExpansionCarKey to MUSTANG (id=750FFC85E94EC2DF1867E996421F9D6E pos=<411.822296, 5.750900, 1878.652466>)
+16:32:19.843 [VehicleCarKey] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<413.255310, 5.663343, 1879.990601>) used the  ExpansionCarKey to lock MUSTANG (id=750FFC85E94EC2DF1867E996421F9D6E pos=<411.822296, 5.750900, 1878.652466>)
+16:32:36.222 [VehicleDeleted] MUSTANG (id=750FFC85E94EC2DF1867E996421F9D6E pos=<411.822296, 5.750900, 1878.652466>)
+16:32:36.222 [VehicleCover] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<413.255310, 5.663343, 1879.990601>) covered vehicle "MUSTANG" (GlobalID=80000000800000008000000080002B6F pos=<411.822296, 5.750900, 1878.652466>)!
+16:37:38.820 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer

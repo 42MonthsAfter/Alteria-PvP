@@ -1,0 +1,125 @@
+00:01:41.032 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:01:41.043 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:01:41.043 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+00:01:41.044 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:01:41.986 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:01:56.122 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:01:56.130 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:56.130 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:01:56.130 [Expansion Quests] - Create new quest instance for quest: 39 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:01:57.090 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:06:48.695 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Military
+00:09:10.654 [Party] Player "DIRTYMIKE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:09:10.663 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:09:10.663 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:09:11.619 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:14:59.028 [Party] Player "DIRTYMIKE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:15:48.896 [Party] Player "DIRTYMIKE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:15:48.903 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:15:48.903 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:15:49.866 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:18:55.001 [AI Patrol] Spawning 2 Shamans bots at <1998.898438, 54.606773, 3186.349609>
+00:24:06.113 [BaseRaiding] BBP_BDoor (<2393.618164, 56.439995, 3485.055420>) player "Sharkparty" (ID = "2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=" at <2392.096191, 56.452496, 3484.767822>) failed to enter the correct code.
+00:24:06.113 [BaseRaiding] BBP_BDoor (<2393.618164, 56.439995, 3485.055420>) The correct code was 884155 and the player tried 69420
+00:29:05.880 [BaseRaiding] BBP_BDoor (<2395.235840, 56.418835, 3495.647705>) player "DIRTYMIKE" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <2396.690674, 56.452492, 3494.767578>) failed to enter the correct code.
+00:29:05.880 [BaseRaiding] BBP_BDoor (<2395.235840, 56.418835, 3495.647705>) The correct code was 884155 and the player tried 069
+00:29:10.974 [BaseRaiding] BBP_BDoor (<2395.235840, 56.418835, 3495.647705>) player "DIRTYMIKE" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <2396.690674, 56.452492, 3494.767578>) failed to enter the correct code.
+00:29:10.974 [BaseRaiding] BBP_BDoor (<2395.235840, 56.418835, 3495.647705>) The correct code was 884155 and the player tried 0069
+00:29:34.913 [BaseRaiding] BBP_BDoor (<2395.235840, 56.418835, 3495.647705>) player "DIRTYMIKE" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <2396.690674, 56.452492, 3494.767578>) failed to enter the correct code.
+00:29:34.913 [BaseRaiding] BBP_BDoor (<2395.235840, 56.418835, 3495.647705>) The correct code was 884155 and the player tried 42069
+00:30:45.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+00:30:45.945 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:32:06.877 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:38:17.934 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+00:38:17.947 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+00:38:17.947 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 1
+00:38:17.947 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+00:38:18.923 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:39:05.395 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+00:39:05.395 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+00:40:00.051 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<2403.528809, 56.452492, 3492.192871>) used the Admin CarKey to unpair NivaPickup_red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2400.127930, 56.493366, 3490.801270>)
+00:40:15.285 [VehicleCarKey] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<2403.528809, 56.452492, 3492.192871>) paired a  ExpansionCarKey to NivaPickup_red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2400.127930, 56.493366, 3490.801270>)
+00:40:18.244 [VehicleCarKey] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<2403.875488, 56.452496, 3490.869141>) used the  ExpansionCarKey to lock NivaPickup_red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2400.127930, 56.493366, 3490.801270>)
+00:40:24.832 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:40:24.840 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:40:24.841 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:40:24.841 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+00:40:25.786 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:45:35.826 [VehicleDeleted] Velociraptor6x6 (id=D7292930E042AF70B654F89B27872878 pos=<1236.869263, 23.253752, 5390.442383>)
+00:46:26.044 [Chat - Global]("ChaoticBeauty07"(id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=)): thank you <3
+00:46:38.810 [VehicleEnter] Player ChaoticBeauty07 [uid=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1364.279663, 23.094677, 5305.796387>) as driver
+00:46:42.235 [VehicleEngine] Player ChaoticBeauty07 [uid=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=] started vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1364.283081, 23.094839, 5305.796387>)
+00:47:35.104 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<5833.438965, 6.596816, 5859.637207>) as driver
+00:48:03.837 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<5833.436035, 6.596729, 5859.637207>)
+00:50:01.512 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle Kamaz Typhoon 63969 (id=1B9DEC02E44BF6899A2865B3DB450F88 pos=<2384.493408, 55.272373, 3561.604980>) as driver
+00:50:06.586 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle Kamaz Typhoon 63969 (id=1B9DEC02E44BF6899A2865B3DB450F88 pos=<2384.493164, 55.272392, 3561.604980>)
+00:50:23.329 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle Kamaz Typhoon 63969 (id=1B9DEC02E44BF6899A2865B3DB450F88 pos=<2374.905029, 55.689541, 3562.683105>)
+00:50:37.293 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle Kamaz Typhoon 63969 (id=1B9DEC02E44BF6899A2865B3DB450F88 pos=<2374.905029, 55.689533, 3562.683105>)
+00:52:34.963 [VehicleEnter] Player DIRTYMIKE [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Kamaz Typhoon 63969 (id=1B9DEC02E44BF6899A2865B3DB450F88 pos=<2374.905029, 55.689533, 3562.683105>) as passenger
+00:52:48.988 [VehicleLeave] Player DIRTYMIKE [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Kamaz Typhoon 63969 (id=1B9DEC02E44BF6899A2865B3DB450F88 pos=<2374.905029, 55.689533, 3562.683105>)
+00:53:37.131 [VehicleLeave] Player ChaoticBeauty07 [uid=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1105.128174, 1.763066, 4921.741211>)
+00:54:07.369 [VehicleEnter] Player ChaoticBeauty07 [uid=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1105.125122, 1.763057, 4921.737305>) as driver
+00:56:28.171 [VehicleEngine] Player ChaoticBeauty07 [uid=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=] stopped vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1761.656006, 13.029882, 5090.368652>)
+00:56:35.791 [VehicleLeave] Player ChaoticBeauty07 [uid=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1761.656006, 13.029920, 5090.367188>)
+01:00:18.678 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+01:01:07.656 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2436.607910, 52.469276, 3559.412109>)
+01:02:25.774 [BaseBuildingRaiding] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<2392.300049, 56.452496, 3484.281738>) deployed ExpansionSatchel at <2392.698242, 57.109982, 3483.814453>
+01:02:55.879 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<8e2d84e0> at <2393.62, 56.44, 3485.06> EXPLOSION range 5 dropoff 2.5
+01:12:15.183 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<2399.861572, 56.452496, 3488.608643>) used the  ExpansionCarKey to unlock NivaPickup_red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2400.127930, 56.493366, 3490.801270>)
+01:12:20.214 [VehicleAttachments] Player DIRTYMIKE (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached NivaPickup Wheel (type=NivaPickup_Wheel) from vehicle NivaPickup Red(id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2400.127930, 56.493366, 3490.801270>)
+01:16:21.719 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+01:17:21.207 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+01:17:21.214 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+01:17:21.215 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+01:17:21.215 [Expansion Quests] - Create new quest instance for quest: 39 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+01:17:22.151 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+01:21:54.348 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2400.136230, 56.493389, 3490.803223>) as driver
+01:21:56.599 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2400.135986, 56.493393, 3490.803467>)
+01:22:27.270 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2444.948975, 51.972240, 3550.815430>)
+01:22:30.655 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2444.947510, 51.972195, 3550.816406>)
+01:27:43.621 [VehicleEnter] Player DIRTYMIKE [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2444.945557, 51.972473, 3550.815186>) as driver
+01:27:50.838 [VehicleLeave] Player DIRTYMIKE [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2444.939453, 51.973042, 3550.815674>)
+01:28:18.430 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2444.938232, 51.973042, 3550.815430>) as driver
+01:28:20.835 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2444.936768, 51.973293, 3550.815430>)
+01:28:25.196 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2436.608643, 52.470036, 3559.403076>) as driver
+01:28:27.869 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2436.606934, 52.471828, 3559.388184>)
+01:30:18.190 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2363.151367, 56.244095, 3567.862793>)
+01:30:20.859 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2352.052979, 56.640385, 3569.077881>)
+01:30:42.889 [VehicleAttachments] Player DIRTYMIKE (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Kamaz Typhoon 63969 Wheel (type=Kamaz_Typhoon_Wheel) from vehicle Kamaz Typhoon 63969(id=1B9DEC02E44BF6899A2865B3DB450F88 pos=<2374.905029, 55.689541, 3562.683105>)
+01:30:47.992 [VehicleAttachments] Player DIRTYMIKE (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Kamaz Typhoon 63969 Wheel (type=Kamaz_Typhoon_Wheel) from vehicle Kamaz Typhoon 63969(id=1B9DEC02E44BF6899A2865B3DB450F88 pos=<2374.899658, 55.601933, 3562.662842>)
+01:30:53.287 [VehicleAttachments] Player DIRTYMIKE (uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) detached Kamaz Typhoon 63969 Wheel (type=Kamaz_Typhoon_Wheel) from vehicle Kamaz Typhoon 63969(id=1B9DEC02E44BF6899A2865B3DB450F88 pos=<2374.899658, 55.601933, 3562.662842>)
+01:31:34.692 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer_Military
+01:31:40.851 [VehicleEnter] Player DIRTYMIKE [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2363.151611, 56.244125, 3567.865967>) as passenger
+01:31:43.497 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2363.152100, 56.244106, 3567.865723>) as driver
+01:31:45.645 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<2363.151855, 56.244125, 3567.865479>)
+01:31:53.013 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2352.053223, 56.640388, 3569.079346>) as driver
+01:31:55.956 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2352.053223, 56.640396, 3569.080078>)
+01:48:37.536 [VehicleLeave] Player DIRTYMIKE [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<6267.660156, 15.585559, 6488.687012>)
+01:48:38.626 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<6267.661133, 15.585577, 6488.687012>)
+01:48:43.366 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<6267.662598, 15.585614, 6488.684570>)
+01:50:00.810 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6407.040527, 32.073051, 6441.837891>)
+01:50:05.219 [VehicleEnter] Player DIRTYMIKE [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6407.062500, 32.078480, 6441.837402>) as driver
+01:50:06.747 [VehicleEngine] Player DIRTYMIKE [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6407.081055, 32.083138, 6441.836914>)
+01:50:20.757 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<6267.659180, 15.585512, 6488.687500>) as driver
+01:50:23.662 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] started vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<6267.659180, 15.585512, 6488.687500>)
+01:50:50.148 [VehicleEngine] Player DIRTYMIKE [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.864746, 54.334766, 6479.408691>)
+01:50:58.609 [VehicleLeave] Player DIRTYMIKE [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.865234, 54.334705, 6479.408203>)
+01:51:00.976 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<6288.672363, 17.047626, 6495.532227>)
+01:51:28.267 [VehicleEnter] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] entered vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<6288.679688, 17.048496, 6495.549316>) as driver
+01:52:20.497 [VehicleEngine] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] stopped vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<6278.852539, 17.045431, 6515.245605>)
+01:52:23.908 [VehicleLeave] Player Sharkparty [uid=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=] left vehicle NivaPickup Red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<6278.884766, 17.046474, 6515.245605>)
+01:53:17.044 [VehicleCarKey] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6281.091797, 17.087852, 6512.879883>) used the  ExpansionCarKey to lock NivaPickup_red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<6278.892578, 17.046709, 6515.246094>)
+01:54:14.463 [VehicleDeleted] NivaPickup_red (id=2E7CAE976B4ACD587483CC81BAF1D145 pos=<6278.892578, 17.046709, 6515.246094>)
+01:54:14.464 [VehicleCover] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<6280.818848, 17.087418, 6511.821289>) covered vehicle "NivaPickup_red" (GlobalID=800000008000000080000000800002E1 pos=<6278.892578, 17.046709, 6515.246094>)!
+01:57:39.477 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+01:58:12.349 [BaseRaiding] BBP_SDoor (<6472.301270, 79.950233, 6545.647461>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <6471.753906, 80.050537, 6546.445801>) and the code is 1776
+02:01:02.908 [BaseRaiding] ExpansionSafeMini (<6477.348145, 82.473946, 6545.999023>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <6476.275879, 81.062622, 6545.393066>) and the code is 1776
+02:01:13.668 [BaseRaiding] ExpansionSafeLarge (<6477.719238, 82.473946, 6545.500000>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <6476.275879, 81.062622, 6545.393066>) and the code is 1776
+02:03:12.603 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6432.703125, 55.139381, 6481.164063>) paired a  ExpansionCarKey to Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.863281, 54.334839, 6479.410645>)
+02:03:14.529 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6432.703125, 55.139381, 6481.164063>) used the  ExpansionCarKey to lock Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.863281, 54.334839, 6479.410645>)
+02:03:16.404 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6432.596191, 55.266239, 6481.547363>) used the  ExpansionCarKey to unlock Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.863281, 54.334839, 6479.410645>)
+02:03:28.679 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6431.976563, 54.860279, 6481.163574>) used the  ExpansionCarKey to lock Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.863281, 54.334839, 6479.410645>)
+02:03:56.989 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+02:54:36.694 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Military
+04:18:06.696 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer
+05:12:33.802 [Party] Player "DIRTYMIKE" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)

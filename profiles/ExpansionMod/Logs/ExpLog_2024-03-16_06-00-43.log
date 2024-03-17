@@ -1,0 +1,22 @@
+09:05:27.541 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA=
+09:09:49.417 [Party] Player "[5-0] DeMental" (id=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA=) joinded the party "FiveOh" (id=14 ownerUID= ownerName=)
+09:09:49.417 [Party] Player "[5-0] DeMental" (id=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA=) created a party named FiveOh (5O)
+09:09:50.414 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 14
+09:10:34.558 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Military
+09:12:03.164 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: xx26iWIOVAcVT88WEB3OjoctCrcRKQjikKRQkDFhOPc=
+09:12:51.140 [Party] Player "[5-0] DeMental" (id=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA=) invited the player "[5-0] CannonFodder" (id=xx26iWIOVAcVT88WEB3OjoctCrcRKQjikKRQkDFhOPc=)to the party named FiveOh
+09:13:24.921 [Party] Player "[5-0] CannonFodder" (id=xx26iWIOVAcVT88WEB3OjoctCrcRKQjikKRQkDFhOPc=) joinded the party "FiveOh" (id=14 ownerUID=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA= ownerName=[5-0] DeMental)
+09:13:25.921 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+09:15:39.644 [Party] Player "[5-0] DeMental" (id=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA=) joinded the party "FiveOh" (id=14 ownerUID=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA= ownerName=[5-0] DeMental)
+09:15:40.640 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+09:28:07.648 [AI Patrol] Spawning 2 Shamans bots at <2556.543945, 43.939999, 5739.091797>
+09:56:00.890 [Killfeed] [5-0] DeMental got killed by Survivor (Shamans) with SK 59/66 from a distance of 32 m.
+09:56:11.558 [Party] Player "[5-0] DeMental" (id=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA=) left the party "FiveOh" (id=14 ownerUID=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA= ownerName=[5-0] DeMental)
+09:56:25.886 [Killfeed] [5-0] CannonFodder got killed by Survivor (Shamans) with SK 59/66 from a distance of 17 m.
+09:56:33.750 [Party] Player "[5-0] DeMental" (id=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA=) joinded the party "FiveOh" (id=14 ownerUID=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA= ownerName=[5-0] DeMental)
+09:56:33.757 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA=
+09:56:33.757 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+09:56:33.757 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA=
+09:56:34.742 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 14
+09:58:59.039 [Party] Player "[5-0] DeMental" (id=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA=) left the party "FiveOh" (id=14 ownerUID=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA= ownerName=[5-0] DeMental)
+09:59:26.480 [Party] Player "[5-0] CannonFodder" (id=xx26iWIOVAcVT88WEB3OjoctCrcRKQjikKRQkDFhOPc=) left the party "FiveOh" (id=14 ownerUID=fe11eQYnOYHVEzSfAJBM8F0FyxnENfZt8F9TBxgmdJA= ownerName=[5-0] DeMental)

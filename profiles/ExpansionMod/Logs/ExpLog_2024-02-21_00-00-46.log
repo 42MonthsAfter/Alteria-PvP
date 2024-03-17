@@ -1,0 +1,211 @@
+00:01:21.660 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=
+00:01:21.661 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:01:21.661 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=
+00:01:48.857 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ=
+00:01:48.858 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+00:01:48.858 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ=
+00:03:07.896 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:03:07.904 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:03:07.905 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+00:03:08.850 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:03:26.362 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:03:26.371 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:03:26.371 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:03:27.330 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:06:27.357 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Military
+00:11:02.469 [VehicleEnter] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6476.981934, 97.583427, 6546.570801>) as pilot
+00:11:09.616 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6476.981934, 97.583427, 6546.570801>) as passenger
+00:11:12.518 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6476.981934, 97.583427, 6546.570801>)
+00:12:26.826 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=
+00:12:26.826 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+00:12:26.826 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=
+00:15:48.386 [AI Patrol] Spawning 2 Shamans bots at <2117.948730, 55.062176, 3240.821533>
+00:17:02.591 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2214.993652, 62.120655, 2910.018066>)
+00:17:05.019 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2212.501221, 61.969402, 2910.428223>)
+00:17:09.698 [VehicleLeave] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2211.924072, 61.458111, 2910.485352>)
+00:19:35.374 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<9b9d9220> at <2229.89, 54.88, 2909.41> EXPLOSION range 20 dropoff 5
+00:19:49.905 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<9b9ca0e0> at <2223.69, 54.88, 2914.61> EXPLOSION range 20 dropoff 5
+00:20:05.513 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<9b9c5880> at <2224.3, 54.88, 2914.42> EXPLOSION range 20 dropoff 5
+00:23:33.733 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2211.924561, 61.458557, 2910.487793>) as pilot
+00:23:36.186 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2211.924561, 61.458557, 2910.487793>)
+00:24:23.995 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] stopped vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2302.429443, 58.439907, 2879.655762>)
+00:24:27.361 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2302.416748, 57.446030, 2879.656982>)
+00:25:38.003 [VehicleEnter] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2302.423828, 57.455303, 2879.624756>) as pilot
+00:25:53.961 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2302.424561, 57.456287, 2879.619629>)
+00:26:09.641 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2300.001953, 56.845959, 2886.931396>)
+00:26:13.986 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2299.977539, 55.631138, 2886.985840>) as passenger
+00:26:15.087 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<2299.987305, 55.631290, 2886.985352>)
+00:32:42.046 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6477.462402, 99.134346, 6547.639648>)
+00:32:48.204 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6477.358398, 98.280136, 6547.899902>)
+00:32:48.311 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6477.358398, 98.280121, 6547.899902>)
+00:33:32.648 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6475.086914, 97.896477, 6548.153320>)
+00:33:36.810 [VehicleLeave] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6475.692871, 97.583427, 6548.591309>)
+00:47:47.548 [Killfeed] PROPHET got killed by Survivor (Shamans) with KAS-74U from a distance of 21 m.
+00:55:29.231 [AI Patrol] Spawning 2 Shamans bots at <2811.566895, 44.319824, 5927.359375>
+00:55:32.521 [VehicleDeleted] ExpansionBigGyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6475.692871, 97.583519, 6548.590820>)
+00:59:14.068 [Chat - Global]("TheCoffee"(id=Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=)): Hey did you guys kill someone?
+01:07:46.064 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle BMW X5 (id=76090064CB40B108D7596A8531D2AE1F pos=<6472.931152, 66.902969, 6537.345703>) as passenger
+01:23:34.829 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle BMW X5 (id=76090064CB40B108D7596A8531D2AE1F pos=<6472.931152, 66.902969, 6537.345703>)
+01:29:05.998 [Party] Player "PROPHET" (id=wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ=) joinded the party "peeps" (id=5 ownerUID= ownerName=)
+01:29:05.999 [Party] Player "PROPHET" (id=wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ=) created a party named peeps ()
+01:29:06.998 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 5
+01:29:21.228 [Party] Player "PROPHET" (id=wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ=) invited the player "TheCoffee" (id=Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=)to the party named peeps
+01:30:50.643 [Party] Player "TheCoffee" (id=Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=) joinded the party "peeps" (id=5 ownerUID=wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ= ownerName=PROPHET)
+01:30:51.643 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 5
+01:34:27.364 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+01:37:56.839 [Killfeed] TheCoffee got killed by Survivor (Shamans) with KA-M from a distance of 23 m.
+01:38:07.771 [Killfeed] PROPHET got killed by Survivor (Shamans) with KA-M from a distance of 14 m.
+01:38:16.164 [Party] Player "TheCoffee" (id=Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=) left the party "peeps" (id=5 ownerUID=wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ= ownerName=PROPHET)
+01:38:30.277 [Party] Player "PROPHET" (id=wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ=) joinded the party "peeps" (id=5 ownerUID=wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ= ownerName=PROPHET)
+01:38:31.266 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 5
+01:38:57.661 [Party] Player "TheCoffee" (id=Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=) joinded the party "peeps" (id=5 ownerUID=wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ= ownerName=PROPHET)
+01:38:57.671 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=
+01:38:57.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 5
+01:38:57.671 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=
+01:38:58.654 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 5
+01:39:56.788 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6589.158691, 23.601343, 6435.944824>) as passenger
+01:39:59.530 [VehicleEnter] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6589.159180, 23.601130, 6435.944824>) as pilot
+01:40:06.440 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6589.159668, 23.601681, 6435.944336>)
+01:42:10.543 [AI Patrol] Spawning 2 Shamans bots at <6821.837402, 19.120001, 3648.270020>
+01:43:46.693 [AI Patrol] Spawning 2 Shamans bots at <6500.239258, 26.129999, 1909.886963>
+01:43:57.088 [AI Patrol] Spawning 2 Shamans bots at <7609.596191, 26.129999, 2076.531006>
+01:44:45.952 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6770.515625, 36.639343, 2194.832275>)
+01:44:46.158 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6770.515625, 36.639351, 2194.832275>)
+01:44:53.176 [VehicleLeave] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6770.515625, 36.639362, 2194.832275>)
+01:45:56.087 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<77896550> at <6777.82, 26.21, 2143.55> EXPLOSION range 20 dropoff 5
+01:46:51.415 [VehicleEnter] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6770.515625, 36.639347, 2194.832031>) as pilot
+01:46:52.952 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6770.515625, 36.639359, 2194.832031>)
+01:47:27.391 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6783.766602, 26.350740, 2088.033447>)
+01:47:30.586 [VehicleLeave] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6783.861816, 26.180811, 2087.503662>)
+01:49:38.547 [VehicleEnter] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6783.855469, 26.180843, 2087.495361>) as pilot
+01:49:41.495 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6783.855469, 26.180843, 2087.495361>)
+01:49:52.995 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6783.855469, 26.180853, 2087.495361>) as passenger
+01:57:01.472 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6487.189453, 93.046410, 6546.354492>)
+01:57:04.828 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6487.125488, 72.117256, 6546.759766>)
+01:57:08.525 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6484.509277, 67.396599, 6549.543457>)
+01:57:11.772 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6481.789063, 67.576645, 6549.406250>)
+01:57:14.700 [VehicleLeave] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Gyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6481.789063, 67.576668, 6549.407715>)
+02:00:55.499 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+02:01:44.467 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+02:15:21.366 [Party] Player "PROPHET" (id=wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ=) left the party "peeps" (id=5 ownerUID=wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ= ownerName=PROPHET)
+02:15:50.872 [Party] Player "TheCoffee" (id=Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=) left the party "peeps" (id=5 ownerUID=wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ= ownerName=PROPHET)
+02:17:26.424 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+02:17:26.440 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+02:17:26.441 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+02:17:26.441 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+02:17:27.368 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+02:35:12.989 [VehicleDeleted] ExpansionBigGyrocopter (id=5C76858F194B80F1E2B6F3805F74B633 pos=<6481.785645, 67.576775, 6549.422852>)
+02:49:57.400 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4741.407227, 2.410259, 2482.044434>) Entered the safezone
+02:50:28.604 [AI Patrol] Spawning 2 Shamans bots at <4856.029297, 47.840000, 1323.900757>
+02:51:39.399 [Expansion Quests] - CompleteQuest - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has completed quest 33
+02:52:08.612 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4806.099121, 6.051458, 2249.605225>) Entered the safezone
+02:52:08.612 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+02:52:08.623 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+02:52:08.623 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+02:52:08.623 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+02:52:09.553 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+02:52:39.129 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+02:52:39.457 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+02:52:41.221 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+02:52:41.521 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+02:52:42.965 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+02:52:43.259 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+02:52:44.814 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+02:52:45.125 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+02:52:58.303 [ATM] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has deposited 372 on his ATM account.
+02:57:32.425 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer
+02:57:47.860 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+02:58:53.489 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4766.937500, 6.767794, 2339.228027>) uncovered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<4765.138184, 6.805700, 2341.369873>)!
+02:59:08.156 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4768.558105, 6.488618, 2343.357422>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=43C2C9F85B469E2A7B18F3B266DA8563 pos=<4765.140137, 6.805513, 2341.370850>)
+03:02:12.273 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4767.289551, 6.674213, 2340.730469>) used the  ExpansionCarKey to lock PONTIAC_rust (id=43C2C9F85B469E2A7B18F3B266DA8563 pos=<4765.140137, 6.805513, 2341.370850>)
+03:02:32.403 [VehicleDeleted] PONTIAC_rust (id=43C2C9F85B469E2A7B18F3B266DA8563 pos=<4765.140137, 6.805513, 2341.370850>)
+03:02:32.403 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4766.606445, 6.781802, 2339.927490>) covered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<4765.140137, 6.805513, 2341.370850>)!
+03:06:13.701 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 38
+03:09:27.478 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4729.081055, 2.404908, 2536.984619>) Left the safezone
+03:16:58.655 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+03:16:58.656 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+03:16:58.656 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+03:31:10.041 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4743.026855, 2.410279, 2484.302979>) Entered the safezone
+03:41:26.918 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+03:41:26.918 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+03:41:26.919 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+04:12:18.971 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4767.219238, 6.723282, 2339.907715>) uncovered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<4765.140137, 6.805513, 2341.370850>)!
+04:12:26.037 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4767.271973, 6.964492, 2339.891357>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=2AF2785C9243671E9ED10B92453329D8 pos=<4765.142090, 6.805346, 2341.371338>)
+04:19:48.929 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4768.317383, 6.540401, 2342.503418>) used the  ExpansionCarKey to lock PONTIAC_rust (id=2AF2785C9243671E9ED10B92453329D8 pos=<4765.142090, 6.805346, 2341.371338>)
+04:20:08.942 [VehicleDeleted] PONTIAC_rust (id=2AF2785C9243671E9ED10B92453329D8 pos=<4765.142090, 6.805346, 2341.371338>)
+04:20:08.943 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4767.343262, 6.710887, 2339.925293>) covered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<4765.142090, 6.805346, 2341.371338>)!
+04:21:58.500 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Basebuilding
+04:22:31.975 [ATM] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has withdrawn 96 from his ATM account.
+04:22:49.563 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+04:22:49.878 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+04:22:50.528 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+04:22:50.822 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+04:22:51.862 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+04:22:52.155 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+04:25:04.658 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4728.322754, 2.404936, 2536.161377>) Left the safezone
+04:44:09.277 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4792.948730, 6.602803, 2257.035156>) Entered the safezone
+04:44:09.279 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+04:44:09.287 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+04:44:09.287 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:44:09.287 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+04:44:10.222 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+04:45:08.347 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4769.452148, 6.635069, 2336.040527>) uncovered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<4766.556641, 6.895460, 2333.258789>)!
+04:45:24.980 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4768.553223, 6.780762, 2332.105713>) used the  ExpansionCarKey to unlock BMW_rust (id=DDBC82C59944EE64A0DA01B852519D1E pos=<4766.601563, 6.888759, 2333.311523>)
+04:45:48.416 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=DDBC82C59944EE64A0DA01B852519D1E pos=<4766.633301, 6.883980, 2333.356689>) as driver
+04:48:02.828 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4742.976074, 2.410278, 2484.329346>) Entered the safezone
+04:48:58.732 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle BMW (rust) (id=DDBC82C59944EE64A0DA01B852519D1E pos=<4770.285645, 6.420595, 2337.069336>)
+04:49:53.781 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4766.601563, 6.797000, 2339.351318>) uncovered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<4765.142090, 6.805346, 2341.371338>)!
+04:50:02.503 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4766.151855, 6.831911, 2339.680176>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<4765.144043, 6.805161, 2341.372070>)
+04:50:19.941 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<4765.144043, 6.805156, 2341.371826>) as driver
+04:50:23.332 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<4765.144043, 6.805156, 2341.371826>)
+04:50:36.005 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4551.544922, 3.028747, 2201.534180>) Left the safezone
+04:51:23.562 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4531.540039, 3.149013, 2193.480225>) Left the safezone
+04:54:02.308 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=DDBC82C59944EE64A0DA01B852519D1E pos=<3886.927979, 55.012424, 1202.186768>)
+04:55:55.445 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<3896.840332, 54.578907, 1221.879517>)
+04:56:07.453 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<3899.020752, 54.640144, 1220.171509>) used the  ExpansionCarKey to lock PONTIAC_rust (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<3896.840332, 54.578903, 1221.879517>)
+05:07:10.765 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<3899.067871, 54.604584, 1221.441040>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<3896.840332, 54.578903, 1221.879517>)
+05:07:11.912 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=DDBC82C59944EE64A0DA01B852519D1E pos=<3886.927979, 55.012405, 1202.188843>) as driver
+05:07:18.568 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<3896.840576, 54.578907, 1221.879395>) as driver
+05:07:24.714 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (Locked) (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<3896.840576, 54.578907, 1221.879395>)
+05:07:32.044 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=DDBC82C59944EE64A0DA01B852519D1E pos=<3886.927979, 55.012287, 1202.203613>)
+05:07:40.089 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=DDBC82C59944EE64A0DA01B852519D1E pos=<3886.927979, 55.012287, 1202.204712>) as driver
+05:07:44.841 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle BMW (rust) (id=DDBC82C59944EE64A0DA01B852519D1E pos=<3886.927979, 55.012253, 1202.207275>)
+05:11:08.425 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<3498.460449, 55.512615, 1278.414063>)
+05:11:35.933 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<3498.976318, 55.481487, 1279.950928>) used the  ExpansionCarKey to lock PONTIAC_rust (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<3498.070313, 55.495934, 1278.462402>)
+05:11:47.052 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<3495.629883, 55.384483, 1282.014038>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<3498.039795, 55.500111, 1278.476929>)
+05:11:53.701 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<3498.000244, 55.499981, 1278.467407>) as driver
+05:11:55.564 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<3497.987793, 55.499496, 1278.468018>)
+05:13:36.687 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=DDBC82C59944EE64A0DA01B852519D1E pos=<3637.888184, 35.256027, 1126.889282>)
+05:14:34.093 [VehicleEnter] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] entered vehicle BMW (rust) (id=DDBC82C59944EE64A0DA01B852519D1E pos=<3637.887695, 35.256020, 1126.889526>) as driver
+05:16:21.437 [VehicleEngine] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] started vehicle BMW (rust) (id=DDBC82C59944EE64A0DA01B852519D1E pos=<3637.850098, 35.256050, 1126.882446>)
+05:17:47.265 [AI Patrol] Spawning 2 Shamans bots at <2057.704590, 15.570000, 628.569336>
+05:19:11.005 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: hZ8y5lotHs61HEGdUyHwYpOiFKhi5PeGHJRWwOO5YoA=
+05:19:11.007 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+05:19:11.007 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: hZ8y5lotHs61HEGdUyHwYpOiFKhi5PeGHJRWwOO5YoA=
+05:21:29.201 [VehicleLeave] Player wiggy [uid=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=] left vehicle BMW (rust) (id=DDBC82C59944EE64A0DA01B852519D1E pos=<2317.479004, 77.019890, 1690.712402>)
+05:21:31.453 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<2315.259766, 77.084282, 1700.586182>)
+05:23:03.652 [Territory] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) created territory stupid gits at <2339.267822, 78.152351, 1682.815430>
+05:23:35.273 [Territory] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2337.972412, 78.192352, 1681.478271>) was invited to join the territory stupid gits at <2339.267822, 78.152351, 1682.815430> by the player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=)
+05:24:26.623 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2312.829834, 77.131516, 1702.730225>) used the  ExpansionCarKey to lock PONTIAC_rust (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<2315.260010, 77.084282, 1700.586548>)
+05:27:07.187 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2312.638184, 77.130898, 1703.536011>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<2315.260010, 77.084282, 1700.586548>)
+05:28:10.140 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2312.452393, 77.132339, 1703.164063>) used the  ExpansionCarKey to lock PONTIAC_rust (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<2315.260010, 77.084282, 1700.586548>)
+05:28:22.281 [VehicleDeleted] PONTIAC_rust (id=3DBF3012DD416E7E6A07119BA6915C3D pos=<2315.260010, 77.084282, 1700.586548>)
+05:28:22.281 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2313.006348, 77.137436, 1699.816528>) covered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<2315.260010, 77.084282, 1700.586548>)!
+05:44:50.220 [BaseRaiding] BBP_SGate (<2327.350830, 78.157364, 1687.915649>) Code set by player "wiggy" (ID = "SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=" at <2328.725098, 78.196693, 1687.112915>) and the code is 7477
+05:45:56.898 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2316.990967, 77.119987, 1701.524292>) uncovered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<2315.260010, 77.084282, 1700.586548>)!
+05:46:00.560 [MissionAirdrop] An airdrop is heading towards "Mt Helikon" (pos=<6612.930176, 0.000000, 4908.759766> type=Random_Mt-Helikon) with a ExpansionAirdropContainer
+05:46:11.892 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2316.670898, 77.120819, 1701.943481>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=0684BCC04A4714394ABEF79F90CC6524 pos=<2315.260254, 77.084274, 1700.586548>)
+05:46:18.761 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle PONTIAC (rust) (id=0684BCC04A4714394ABEF79F90CC6524 pos=<2315.260254, 77.084274, 1700.586060>) as driver
+05:46:24.744 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle PONTIAC (rust) (Locked) (id=0684BCC04A4714394ABEF79F90CC6524 pos=<2315.260254, 77.084274, 1700.585815>)
+05:47:21.478 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle PONTIAC (rust) (id=0684BCC04A4714394ABEF79F90CC6524 pos=<2335.304199, 78.164413, 1680.639648>)
+05:47:24.214 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2337.364990, 78.193016, 1683.227661>) used the  ExpansionCarKey to lock PONTIAC_rust (id=0684BCC04A4714394ABEF79F90CC6524 pos=<2335.303955, 78.164413, 1680.639282>)
+05:47:44.357 [VehicleDeleted] PONTIAC_rust (id=0684BCC04A4714394ABEF79F90CC6524 pos=<2335.303955, 78.164413, 1680.639282>)
+05:47:44.357 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2336.579346, 78.193138, 1682.762695>) covered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<2335.303955, 78.164413, 1680.639282>)!
+05:52:19.576 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2333.190674, 78.193428, 1679.954590>) uncovered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<2335.303955, 78.164413, 1680.639282>)!
+05:52:43.357 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2331.833984, 78.194725, 1683.240356>) used the  ExpansionCarKey to unlock PONTIAC_rust (id=5D74BDB52047F7242DC2D78F564A3B08 pos=<2335.304199, 78.164421, 1680.639526>)
+05:54:40.316 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2333.062988, 78.194305, 1683.104858>) used the  ExpansionCarKey to lock PONTIAC_rust (id=5D74BDB52047F7242DC2D78F564A3B08 pos=<2335.304199, 78.164421, 1680.639526>)
+05:54:52.857 [VehicleDeleted] PONTIAC_rust (id=5D74BDB52047F7242DC2D78F564A3B08 pos=<2335.304199, 78.164421, 1680.639526>)
+05:54:52.857 [VehicleCover] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2332.727295, 78.194496, 1683.417236>) covered vehicle "PONTIAC_rust" (GlobalID=80000000800000008000000080000318 pos=<2335.304199, 78.164421, 1680.639526>)!
+05:56:54.449 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<2318.279053, 77.115288, 1693.115845>) used the  ExpansionCarKey to lock BMW_rust (id=DDBC82C59944EE64A0DA01B852519D1E pos=<2317.478516, 77.019890, 1690.713013>)
+05:59:19.503 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+05:59:19.517 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)

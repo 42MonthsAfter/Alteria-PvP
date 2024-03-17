@@ -1,0 +1,62 @@
+00:01:24.389 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+00:01:24.391 [Expansion Quests] - Create new quest instance for quest: 6 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+00:01:24.391 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+00:01:40.599 [VehicleEnter] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] entered vehicle MUSTANG Rust  (id=1F6ECCB13A4D0D77C551DCB98784E171 pos=<3875.731445, 55.219505, 1182.665405>) as driver
+00:01:42.244 [VehicleEngine] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] started vehicle MUSTANG Rust  (id=1F6ECCB13A4D0D77C551DCB98784E171 pos=<3875.731201, 55.219505, 1182.665527>)
+00:02:54.106 [AI Patrol] Spawning 2 Shamans bots at <2098.885010, 8.220000, 618.228943>
+00:04:41.207 [VehicleLeave] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] left vehicle MUSTANG Rust  (id=1F6ECCB13A4D0D77C551DCB98784E171 pos=<2431.390137, 4.481440, 299.144531>)
+00:05:13.609 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:05:13.624 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+00:05:13.625 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+00:05:14.565 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:06:33.699 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer
+00:07:29.746 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:09:19.201 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<4804.799805, 6.136394, 2253.114990>) Entered the safezone
+00:09:19.214 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+00:09:19.216 [AI Patrol] Spawning 2 Shamans bots at <4885.286133, 46.207951, 1414.405029>
+00:10:29.340 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+00:10:29.351 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:10:29.352 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:10:29.352 [Expansion Quests] - Create new quest instance for quest: 39 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+00:10:30.286 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+00:11:27.425 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6474.196289, 66.482132, 6523.821289>) Left the safezone
+00:11:35.739 [VehicleCover] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6280.088379, 17.071054, 6512.489258>) uncovered vehicle "NivaPickup_red" (GlobalID=800000008000000080000000800002E1 pos=<6278.892578, 17.046709, 6515.246094>)!
+00:11:53.949 [VehicleDeleted] NivaPickup_red (id=957ABFB87945B775672B529F921BB27A pos=<6278.893066, 17.048391, 6515.247559>)
+00:11:53.950 [VehicleCover] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6279.902344, 17.066933, 6512.372070>) covered vehicle "NivaPickup_red" (GlobalID=800000008000000080000000800002E1 pos=<6278.893066, 17.048391, 6515.247559>)!
+00:19:17.954 [VehicleDeleted] BMW_X5 (id=3877A031C04B6BA7BC42789DE22599CB pos=<6472.936523, 66.902672, 6537.343750>)
+00:19:22.196 [VehicleDeleted] MBw140 (id=CAD63B5DD94BC6313CDF7FBF840DED72 pos=<6696.122559, 14.369902, 6800.777832>)
+00:20:38.303 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<6431.461914, 54.200909, 6480.131348>) used the  ExpansionCarKey to unlock Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.863281, 54.334839, 6479.410645>)
+00:21:35.763 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.806152, 54.345387, 6479.483887>) as driver
+00:21:38.279 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.804688, 54.345612, 6479.484863>)
+00:21:53.133 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.791504, 54.334908, 6479.475098>)
+00:22:26.093 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.793457, 54.335056, 6479.472168>) as driver
+00:22:28.322 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6432.793457, 54.335037, 6479.472168>)
+00:23:03.643 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6425.702148, 45.409683, 6466.384277>)
+00:23:32.249 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6425.701172, 45.409317, 6466.384277>) as driver
+00:23:35.429 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6425.699707, 45.409054, 6466.384277>)
+00:30:34.608 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6867.665039, 15.601513, 6105.550293>)
+00:32:32.637 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Velociraptor6x6 Wheel (type=Velociraptor6x6_Wheel) from vehicle Velociraptor6x6 Red(id=077BE6D498427AFA8BD3C09B89C17844 pos=<6867.625488, 15.690704, 6105.513184>)
+00:35:19.426 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6868.282227, 15.393973, 6107.389160>) as driver
+00:35:21.518 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<6868.284180, 15.393270, 6107.387695>)
+00:37:50.161 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<7599.119629, 4.839656, 5414.445801>)
+00:38:09.742 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<7601.195801, 4.753413, 5415.225586>) used the  ExpansionCarKey to lock Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<7599.119629, 4.839667, 5414.445801>)
+00:41:27.156 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+01:29:30.595 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 6euSam_rLjtyUNioM8NfMgZvA2-pxKJh08P_ymYvkvc=
+01:29:35.790 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer
+05:24:49.050 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+05:24:49.066 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+05:24:49.068 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+05:24:49.068 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+05:24:50.000 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+05:24:55.791 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer_Basebuilding
+05:28:37.236 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4820.742676, 12.702483, 4935.530273>) used the  ExpansionCarKey to unlock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4820.862793, 12.579165, 4933.554199>)
+05:28:39.914 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4823.346680, 12.702500, 4935.158691>) used the  ExpansionCarKey to lock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4820.862793, 12.579165, 4933.554199>)
+05:28:42.804 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4824.086914, 12.702464, 4934.823242>) used the  ExpansionCarKey to unlock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4820.862793, 12.579165, 4933.554199>)
+05:29:16.912 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4823.715820, 12.702500, 4934.562988>) used the  ExpansionCarKey to lock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4820.862793, 12.579165, 4933.554199>)
+05:29:21.884 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4820.684570, 12.702500, 4935.398926>) used the  ExpansionCarKey to unlock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4820.862793, 12.579165, 4933.554199>)
+05:29:30.574 [VehicleEnter] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] entered vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4820.861816, 12.579145, 4933.553711>) as driver
+05:29:36.136 [VehicleEngine] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] started vehicle BMW (rust) (Locked) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<4820.864746, 12.579178, 4933.555664>)
+05:36:47.896 [AI Patrol] Spawning 2 Shamans bots at <2141.810303, 54.799999, 3006.912109>
+05:45:41.681 [VehicleLeave] Player Lets_G0_Brandon [uid=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=] left vehicle BMW (rust) (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2331.603760, 78.089386, 1683.957886>)
+05:57:28.468 [VehicleCarKey] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<2332.343506, 78.195122, 1685.218628>) used the  ExpansionCarKey to lock BMW_rust (id=941B3604A84BE4265C9A5EA4372083F2 pos=<2331.604248, 78.089386, 1683.958130>)
+05:59:19.800 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)

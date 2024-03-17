@@ -1,0 +1,19 @@
+18:24:14.921 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+18:24:14.929 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:24:14.929 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+18:24:14.929 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:24:15.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+18:29:23.859 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Medical
+18:32:57.554 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4742.128906, 2.410254, 2483.505859>) Entered the safezone
+18:33:20.156 [AI Patrol] Spawning 2 Shamans bots at <4901.581055, 45.687138, 1413.439575>
+18:37:15.304 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4630.178711, 2.473481, 2229.802490>) Left the safezone
+19:21:53.789 [BaseRaiding] mmg_locker02_green (<3856.722656, 59.539261, 1221.910522>) Code set by player "Hooligan-235" (ID = "Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=" at <3857.729980, 59.579258, 1221.483765>) and the code is 181818
+19:43:44.789 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4668.157715, 2.501121, 2240.232178>) Entered the safezone
+19:44:56.203 [Expansion Quests] - CompleteQuest - Player with UID Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= has completed quest 32
+19:45:35.281 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= for quest 56
+19:45:45.726 [ATM] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) has deposited 500 on his ATM account.
+19:47:18.828 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+20:41:55.062 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: ax7Tt8AKEfSEyy4-XVMEjmiM71IuF4dUHcqKEdRBHaE=
+20:42:04.015 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer
+20:42:52.015 [AI Patrol] Spawning 2 Shamans bots at <4422.621582, 14.660523, 7794.253906>
+21:07:34.281 [AI Patrol] Spawning 2 Shamans bots at <4751.439453, 37.407864, 7253.688965>

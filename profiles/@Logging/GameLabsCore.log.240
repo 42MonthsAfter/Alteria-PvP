@@ -1,0 +1,35 @@
+************************** 2024-03-11T16:00:38+00:00 **************************
+2024-03-11T16:00:38+00:00 | [INFO	] GameLabs v1.932 start for server 78da06b5-bc0a-424b-9b66-a42c7f89719f
+2024-03-11T16:00:46+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-03-11T16:00:46+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-03-11T16:00:46+00:00 | [INFO	] Experimental speed check is enabled
+2024-03-11T16:00:46+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2024-03-11T17:00:47+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-11T17:00:47+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-11T17:00:47+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-11T18:00:51+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-11T18:00:51+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-11T18:00:52+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-11T19:00:57+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-11T19:00:57+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-11T19:00:57+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-11T20:01:02+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-11T20:01:02+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-11T20:01:02+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-11T20:27:02+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T20:27:07+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T20:27:12+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T20:27:17+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T20:27:22+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T20:27:27+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T20:27:32+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T20:27:37+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2024-03-11T21:01:07+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2024-03-11T21:01:07+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2024-03-11T21:01:07+00:00 | [WARN	] RegisterAsync re-authorized
+2024-03-11T21:05:10+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2024-03-11T21:06:24+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2024-03-11T21:14:11+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<fdabeee0>> fired for already disconnected player [steam64=76561198061639561]
+2024-03-11T21:34:43+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<b248b740>> fired for already disconnected player [steam64=76561198167865173]
+2024-03-11T22:00:00+00:00 | [INFO	] (Reporter) Disabled
+2024-03-11T22:00:00+00:00 | [INFO	] (Core) Attempting graceful exit

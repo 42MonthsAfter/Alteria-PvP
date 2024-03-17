@@ -1,0 +1,38 @@
+08:44:58.587 [Safezone] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM= pos=<4812.678711, 6.658288, 2246.284180>) Entered the safezone
+08:44:58.589 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:44:58.603 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=
+08:44:58.605 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+08:44:58.609 [AI Patrol] Spawning 2 Shamans bots at <4941.388184, 47.647797, 1270.224243>
+08:44:59.535 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+08:50:01.298 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Medical
+08:50:15.144 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4939.704102, 6.506742, 2256.835449>) Entered the safezone
+08:50:15.144 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:50:15.156 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+08:50:15.156 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+08:50:16.107 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+08:51:24.263 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:53:23.011 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4828.158691, 6.322475, 2250.868164>) Entered the safezone
+08:53:23.011 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:53:23.017 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+08:53:23.019 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+08:53:23.978 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+08:53:56.988 [ATM] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) has withdrawn 1800 from the party "DIE HARD" (partyid=10 | ownerid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) ATM account.
+08:53:58.751 [ATM] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) has withdrawn 1800 from his ATM account.
+08:54:07.113 [Market] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) has send a requested to purchase tetracyclineantibiotics x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+08:54:07.269 [Market] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) has bought tetracyclineantibiotics x1 from the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 1800.
+08:59:36.771 [Safezone] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM= pos=<4990.174316, 3.843109, 2106.024414>) Left the safezone
+08:59:43.460 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4990.920410, 3.843116, 2106.206543>) Left the safezone
+09:07:19.582 [AI Patrol] Spawning 2 Shamans bots at <6491.295898, 26.129999, 1829.664917>
+09:24:09.402 [AI Patrol] Spawning 2 Shamans bots at <7345.303223, 26.129999, 2175.913086>
+09:45:46.960 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4985.462891, 3.842129, 2145.289063>) Entered the safezone
+09:45:52.843 [Safezone] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM= pos=<4985.845215, 3.842129, 2144.817871>) Entered the safezone
+09:53:00.535 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+09:53:03.867 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:58:08.269 [Safezone] Player "Mister Slade" (id=8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck= pos=<4803.015137, 5.943174, 2249.503418>) Entered the safezone
+10:58:08.289 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+10:58:08.289 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+10:58:08.289 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+10:58:15.304 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Medical
+11:00:41.937 [Safezone] Player "Mister Slade" (id=8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck= pos=<4993.369629, 3.843113, 2085.939697>) Left the safezone
+11:27:35.460 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 5H4q-6Zh7-t8_5ycTcsgRFr71MHA6neuG8iFga4HaXo=
+11:27:35.460 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1

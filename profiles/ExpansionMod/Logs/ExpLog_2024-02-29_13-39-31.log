@@ -1,0 +1,11 @@
+16:11:02.250 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+16:11:02.257 [AI Patrol] Spawning 2 Shamans bots at <2212.954102, 54.799999, 3032.746338>
+16:11:23.734 [VehicleDeleted] Kamaz_Typhoon (id=1B9DEC02E44BF6899A2865B3DB450F88 pos=<2376.010742, 55.474422, 3562.648193>)
+16:16:12.121 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer_Medical
+16:22:35.519 [VehicleAttachments] Player [ADMIN]DrKilledByDeath (uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) detached Car Radiator (type=CarRadiator) from vehicle HEMTT rust(id=4645C59088479588CC90DB971BD40862 pos=<3682.392090, 4.755604, 5945.830078>)
+16:22:56.898 [VehicleDeleted] HEMTT_rust (id=4645C59088479588CC90DB971BD40862 pos=<3682.392090, 4.755604, 5945.830078>)
+16:23:11.648 [VehicleAttachments] Player [ADMIN]DrKilledByDeath (uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) detached Car Battery (type=CarBattery) from vehicle LUAZ 969 rust(id=9D4A8AD30940B36AE45B558695125EE6 pos=<3683.073730, 4.705274, 5939.402832>)
+16:23:18.015 [VehicleAttachments] Player [ADMIN]DrKilledByDeath (uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=) detached Car Radiator (type=CarRadiator) from vehicle LUAZ 969 rust(id=9D4A8AD30940B36AE45B558695125EE6 pos=<3683.073730, 4.705274, 5939.402832>)
+16:25:41.906 [AI Patrol] Spawning 2 Shamans bots at <7320.575195, 26.129999, 2200.916016>
+16:28:33.804 [AI Patrol] Spawning 2 Shamans bots at <4420.802246, 15.698573, 7768.570801>
+16:28:33.828 [AI Patrol] Spawning 2 Shamans bots at <4768.551758, 25.601345, 7399.859375>

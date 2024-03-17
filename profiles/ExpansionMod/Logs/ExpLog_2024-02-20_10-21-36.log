@@ -1,0 +1,20 @@
+10:33:06.253 [Safezone] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4= pos=<4775.699219, 6.718448, 2298.820068>) Entered the safezone
+10:33:06.257 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+10:33:06.269 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=
+10:33:06.269 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+10:33:07.222 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:38:06.699 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Military
+10:49:50.695 [AI Patrol] Spawning 2 Shamans bots at <4777.712402, 47.840000, 1225.435059>
+10:51:34.253 [Safezone] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4757.502930, 6.324180, 2271.116455>) Entered the safezone
+10:51:34.253 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+10:51:34.261 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+10:51:34.261 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:51:34.261 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+10:51:35.199 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+10:52:04.070 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4747.911133, 6.328300, 2267.090576>) uncovered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<4751.046387, 6.234889, 2268.294678>)!
+10:52:16.976 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4747.911133, 6.328300, 2267.090576>) used the  ExpansionCarKey to unlock BMW_rust (id=44D669A3CC4783A60BB3CA87FBE67D77 pos=<4751.045898, 6.234881, 2268.294922>)
+10:53:59.257 [VehicleCarKey] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4748.247070, 6.327629, 2267.687744>) used the  ExpansionCarKey to lock BMW_rust (id=44D669A3CC4783A60BB3CA87FBE67D77 pos=<4751.045898, 6.234881, 2268.294922>)
+10:54:09.566 [Party] Player "Hawk" (id=Vq9KG5wXnlxiAZYi9EngBgzAagT-q5gfv9gcAfd4zA4=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+10:54:20.875 [VehicleDeleted] BMW_rust (id=44D669A3CC4783A60BB3CA87FBE67D77 pos=<4751.045898, 6.234881, 2268.294922>)
+10:54:20.875 [VehicleCover] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI= pos=<4748.389648, 6.339943, 2266.034180>) covered vehicle "BMW_rust" (GlobalID=800000008000000080000000800002E2 pos=<4751.045898, 6.234881, 2268.294922>)!
+10:58:15.441 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)

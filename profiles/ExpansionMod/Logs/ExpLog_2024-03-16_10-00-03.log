@@ -1,0 +1,9 @@
+10:13:59.953 [Safezone] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4841.698730, 6.322469, 2243.188721>) Entered the safezone
+10:13:59.972 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+10:13:59.972 [AI Patrol] Spawning 2 Shamans bots at <4920.590820, 47.452415, 1368.689819>
+10:19:03.828 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer_Military
+11:55:55.628 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+11:55:55.628 [Expansion Quests] - Create new quest instance for quest: 6 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+11:55:55.628 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+11:55:55.632 [AI Patrol] Spawning 2 Shamans bots at <2058.274902, 15.570000, 591.754272>
+11:56:02.828 [MissionAirdrop] An airdrop is heading towards "Mt Helikon" (pos=<6612.930176, 0.000000, 4908.759766> type=Random_Mt-Helikon) with a ExpansionAirdropContainer_Military

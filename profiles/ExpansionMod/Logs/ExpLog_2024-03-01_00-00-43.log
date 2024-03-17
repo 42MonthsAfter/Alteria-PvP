@@ -1,0 +1,60 @@
+00:42:33.157 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+00:42:33.164 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+00:42:33.164 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+00:42:33.165 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+00:42:34.129 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:42:47.584 [Party] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+00:42:47.591 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+00:42:47.591 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:42:47.591 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+00:42:48.555 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+00:47:34.362 [MissionAirdrop] An airdrop is heading towards "Cassandra" (pos=<4274.000000, 0.000000, 7597.299805> type=Random_Cassandra) with a ExpansionAirdropContainer
+01:09:27.108 [Safezone] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= pos=<4742.004395, 2.410249, 2481.446533>) Entered the safezone
+01:09:51.252 [Safezone] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= pos=<4743.421875, 2.410292, 2484.986328>) Entered the safezone
+01:10:02.529 [AI Patrol] Spawning 2 Shamans bots at <4816.209961, 47.853725, 1353.489990>
+01:13:38.252 [Expansion Quests] - CompleteQuest - Player with UID aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= has completed quest 99
+01:13:54.000 [Expansion Quests] - CompleteQuest - Player with UID sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= has completed quest 99
+01:21:07.533 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= for quest 2
+01:21:22.172 [Expansion Quests] - CancelQuestServer - Player with UID aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= has cancelled quest 2
+01:21:26.413 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= for quest 31
+01:21:40.603 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= for quest 31
+01:31:15.113 [Safezone] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= pos=<4991.647461, 3.843103, 2100.474609>) Left the safezone
+01:31:15.603 [Safezone] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= pos=<4988.874023, 3.843087, 2099.985107>) Left the safezone
+01:35:26.162 [Safezone] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= pos=<4984.272461, 3.842072, 2142.275635>) Entered the safezone
+01:35:29.606 [Safezone] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= pos=<4986.505371, 3.842130, 2145.236328>) Entered the safezone
+01:43:48.457 [Safezone] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0= pos=<4988.133789, 3.843059, 2100.239258>) Left the safezone
+01:43:49.906 [Safezone] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= pos=<4992.950195, 3.843103, 2086.602295>) Left the safezone
+01:47:54.221 [AI Patrol] Spawning 2 Shamans bots at <6368.140137, 26.129999, 2155.766357>
+02:10:15.359 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Military
+02:28:04.812 [AI Patrol] Spawning 2 Shamans bots at <7636.830078, 26.129999, 1751.232544>
+02:54:06.137 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+02:54:06.144 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+02:54:06.145 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+02:54:07.082 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+02:56:31.912 [AI Patrol] Spawning 2 Shamans bots at <2126.760498, 54.804676, 2930.130127>
+03:22:18.464 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<a6edd740> at <7692.45, 27.8, 1606.94> EXPLOSION range 20 dropoff 5
+03:22:18.465 [Killfeed] ChaoticBeauty07 was killed by an explosion caused by 6-M7 Frag Grenade.
+03:22:52.005 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+03:22:52.999 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+03:23:35.333 [Party] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+03:23:36.327 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+03:33:21.360 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Military
+03:34:12.214 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+03:34:13.208 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+04:02:34.840 [AI Patrol] Spawning 2 Shamans bots at <2851.173340, 44.410000, 5949.860352>
+04:05:05.346 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+04:07:30.829 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+04:07:30.834 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+04:07:30.834 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+04:07:31.775 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+04:14:01.077 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+04:23:32.576 [Party] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+04:23:33.569 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+04:34:36.837 [Party] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) left the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+04:35:15.708 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+05:51:15.087 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+05:51:15.093 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+05:51:15.093 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+05:51:16.080 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+05:51:22.361 [MissionAirdrop] An airdrop is heading towards "Cassandra" (pos=<4274.000000, 0.000000, 7597.299805> type=Random_Cassandra) with a ExpansionAirdropContainer
+05:58:33.693 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)

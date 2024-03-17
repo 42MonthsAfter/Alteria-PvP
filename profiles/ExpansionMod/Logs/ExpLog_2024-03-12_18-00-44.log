@@ -1,0 +1,26 @@
+18:01:22.195 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+18:01:22.195 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+18:06:25.890 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Military
+18:38:24.328 [Safezone] Player "FinnMcCool" (id=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI= pos=<4786.723145, 7.423676, 2283.560303>) Entered the safezone
+18:38:24.335 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+18:38:24.335 [AI Patrol] Spawning 2 Shamans bots at <4902.774902, 44.051689, 1432.655029>
+18:39:38.476 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI= for quest 7
+18:39:45.890 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI= for quest 6
+18:53:53.460 [AI Patrol] Spawning 2 Shamans bots at <5970.830078, 26.574839, 2063.234131>
+18:54:12.937 [Safezone] Player "FinnMcCool" (id=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI= pos=<4992.086914, 3.843082, 2094.865723>) Left the safezone
+19:00:49.570 [AI Patrol] Spawning 2 Shamans bots at <7192.653809, 26.129999, 1755.154907>
+22:13:28.078 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+22:13:28.078 [Expansion Quests] - Create new quest instance for quest: 6 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+22:13:28.078 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+22:13:37.890 [MissionAirdrop] An airdrop is heading towards "Fort Yuma" (pos=<1729.079956, 0.000000, 6552.689941> type=Random_Fort-Yuma) with a ExpansionAirdropContainer_Military
+23:13:49.015 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+23:13:49.015 [Expansion Quests] - Create new quest instance for quest: 6 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+23:13:49.015 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+23:35:33.890 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Basebuilding
+23:43:41.882 [VehicleEnter] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] entered vehicle MUSTANG Rust  (id=1F6ECCB13A4D0D77C551DCB98784E171 pos=<4409.707031, 40.269775, 1126.828491>) as driver
+23:43:43.781 [VehicleEngine] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] started vehicle MUSTANG Rust  (id=1F6ECCB13A4D0D77C551DCB98784E171 pos=<4409.707031, 40.269775, 1126.828491>)
+23:44:45.078 [VehicleLeave] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] left vehicle MUSTANG Rust  (id=1F6ECCB13A4D0D77C551DCB98784E171 pos=<4075.769775, 30.774431, 1525.472290>)
+23:45:50.515 [VehicleEnter] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] entered vehicle MUSTANG Rust  (id=1F6ECCB13A4D0D77C551DCB98784E171 pos=<4075.769531, 30.774330, 1525.472168>) as driver
+23:45:53.554 [VehicleEngine] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] started vehicle MUSTANG Rust  (id=1F6ECCB13A4D0D77C551DCB98784E171 pos=<4075.769531, 30.774332, 1525.472168>)
+23:46:49.851 [VehicleLeave] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] left vehicle MUSTANG Rust  (id=1F6ECCB13A4D0D77C551DCB98784E171 pos=<3875.731445, 55.219505, 1182.665405>)
+23:52:19.625 [BaseRaiding] mmg_locker02_green (<3858.005371, 59.693729, 1223.019165>) Code set by player "FinnMcCool" (ID = "KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=" at <3859.059326, 59.579197, 1222.649902>) and the code is 3526

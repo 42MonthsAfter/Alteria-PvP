@@ -1,0 +1,234 @@
+18:02:07.480 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+18:02:07.488 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+18:02:07.488 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:02:07.488 [Expansion Quests] - Create new quest instance for quest: 39 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+18:02:07.492 [AI Patrol] Spawning 2 Shamans bots at <6786.827637, 19.120001, 3831.890869>
+18:02:08.437 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:03:42.183 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+18:03:42.191 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+18:03:42.191 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 15
+18:03:42.191 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+18:03:43.140 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+18:03:57.421 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+18:03:57.425 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=
+18:03:57.425 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+18:03:57.425 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=
+18:03:58.375 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+18:04:08.250 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3780.565918, 4.971334, 5997.737305>) used the  ExpansionCarKey to unlock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082603, 5997.251953>)
+18:04:09.984 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3780.565918, 4.971334, 5997.737305>) used the  ExpansionCarKey to lock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082603, 5997.251953>)
+18:04:11.121 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3780.565918, 4.971334, 5997.737305>) used the  ExpansionCarKey to unlock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082603, 5997.251953>)
+18:04:26.523 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+18:04:26.527 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+18:04:26.527 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:04:26.531 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+18:04:27.488 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:04:38.308 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<7379.842773, 10.840781, 3548.863037>) as driver
+18:04:39.851 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<7379.845215, 10.841331, 3548.863770>)
+18:04:46.816 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3780.565918, 4.971334, 5997.737305>) used the  ExpansionCarKey to lock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082603, 5997.251953>)
+18:04:48.648 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3780.565918, 4.971334, 5997.737305>) used the  ExpansionCarKey to unlock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082603, 5997.251953>)
+18:05:43.183 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<7380.467773, 10.826409, 3547.614014>)
+18:05:48.527 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3780.457275, 4.971352, 5997.803711>) used the  ExpansionCarKey to lock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082603, 5997.251953>)
+18:05:51.054 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3780.457275, 4.971352, 5997.803711>) used the  ExpansionCarKey to unlock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082603, 5997.251953>)
+18:06:33.695 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<7380.470215, 10.850776, 3547.860107>)
+18:07:16.082 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Basebuilding
+18:07:20.945 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+18:07:31.917 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<7380.477051, 10.852885, 3547.870117>) as driver
+18:07:37.117 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<7380.477051, 10.855392, 3547.895508>)
+18:07:47.230 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<7380.475586, 10.859835, 3547.944092>) as passenger
+18:08:38.699 [Territory] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) created territory La Flama Blanca at <3788.857178, 4.953802, 6002.524902>
+18:10:19.804 [AI Patrol] Spawning 2 Shamans bots at <5942.093262, 26.129999, 1862.019287>
+18:11:41.972 [AI Patrol] Spawning 2 Shamans bots at <4921.164063, 45.693653, 1401.502563>
+18:14:33.265 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3784.462891, 4.971584, 5998.594727>) used the  ExpansionCarKey to lock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082603, 5997.251953>)
+18:14:38.132 [AI Patrol] Spawning 2 Shamans bots at <2160.559570, 54.799999, 3236.562744>
+18:15:01.929 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2470.525635, 104.823555, 2714.764160>)
+18:16:00.187 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2132.553223, 54.833168, 2971.553955>)
+18:16:05.085 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2132.552979, 54.833164, 2971.554199>)
+18:16:07.406 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3784.423096, 4.971595, 5998.608887>) used the  ExpansionCarKey to unlock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082603, 5997.251953>)
+18:16:25.429 [BaseRaiding] BBP_LGate (<3798.582031, 4.953802, 5996.032227>) Code set by player "Zookyook" (ID = "ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=" at <3797.879395, 4.954928, 5996.294434>) and the code is 2909
+18:16:27.859 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2132.552490, 54.833160, 2971.554932>) as driver
+18:16:29.703 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2132.553223, 54.833168, 2971.552002>)
+18:18:52.929 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2292.041992, 54.855797, 3027.831299>)
+18:20:05.890 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2292.049805, 54.856956, 3027.833984>) as driver
+18:20:08.546 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2292.059082, 54.857399, 3027.837158>)
+18:20:21.203 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2272.672852, 54.833183, 3099.231934>)
+18:20:23.476 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2272.674072, 54.833168, 3099.232422>)
+18:22:08.804 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2272.670410, 54.833157, 3099.230957>) as passenger
+18:22:12.937 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2272.672363, 54.833164, 3099.230957>) as driver
+18:22:17.218 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2272.670166, 54.833160, 3099.229980>)
+18:23:33.570 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2083.176758, 66.506271, 3524.687988>)
+18:25:09.398 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2083.175293, 66.506218, 3524.683594>) as driver
+18:25:12.500 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2083.175293, 66.506218, 3524.683594>)
+18:26:59.632 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.306885, 52.560593, 3962.777832>)
+18:27:47.007 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+18:27:47.015 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+18:27:47.015 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+18:27:47.015 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+18:27:47.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+18:29:48.820 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.306396, 52.560593, 3962.779053>)
+18:31:50.875 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<2188.652100, 52.526970, 3964.052490>) used the  ExpansionCarKey to lock Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.306396, 52.560593, 3962.779053>)
+18:32:10.710 [BaseRaiding] BBP_RGate (<3798.810303, 4.953802, 5996.126465>) Code set by player "Zookyook" (ID = "ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=" at <3797.528564, 4.962646, 5996.229004>) and the code is 2909
+18:34:38.796 [Territory] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<3791.080566, 4.969352, 5999.021973>) was invited to join the territory La Flama Blanca at <3788.857178, 4.953802, 6002.524902> by the player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=)
+18:37:35.804 [BaseRaiding] BBP_RGate (<3794.370605, 4.953802, 5996.712891>) Code set by player "Zookyook" (ID = "ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=" at <3793.134521, 4.970953, 5997.741699>) and the code is 2909
+18:42:56.078 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<2185.961182, 52.527241, 3961.020996>) used the  ExpansionCarKey to unlock Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.306396, 52.560593, 3962.779053>)
+18:47:12.437 [Territory] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) created territory of Charles is a Chode at <2202.320801, 52.510242, 3966.910889>
+18:47:51.734 [Territory] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<2194.185303, 52.527168, 3959.566895>) was invited to join the territory of Charles is a Chode at <2202.320801, 52.510242, 3966.910889> by the player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)
+19:03:01.367 [BaseRaiding] BBP_RGate (<2180.062988, 52.510242, 3958.429932>) Code set by player "DirtyMike" (ID = "eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=" at <2181.120117, 52.509140, 3959.932129>) and the code is 1776
+19:09:14.820 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3784.359863, 4.971735, 5999.235352>) used the  ExpansionCarKey to lock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082603, 5997.251953>)
+19:09:18.015 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3784.970947, 4.971616, 5998.946777>) used the  ExpansionCarKey to unlock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082603, 5997.251953>)
+19:09:25.156 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle  Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082601, 5997.251953>) as driver
+19:09:29.375 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] started vehicle  Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.838867, 5.082602, 5997.251953>)
+19:09:42.453 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] stopped vehicle  Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3777.446777, 5.083429, 5996.978027>)
+19:09:45.765 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle  Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3777.446045, 5.083431, 5996.978027>)
+19:12:27.234 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle  Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3777.446045, 5.083435, 5996.978027>) as driver
+19:12:29.320 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] started vehicle  Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3777.446045, 5.083425, 5996.978027>)
+19:12:41.039 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] stopped vehicle  Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.829102, 5.082573, 5997.172852>)
+19:12:46.312 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle  Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.829102, 5.082577, 5997.172852>)
+19:13:56.500 [BaseRaiding] mmg_equipment_locker_black (<3794.189209, 4.953802, 6001.430664>) Code set by player "Zookyook" (ID = "ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=" at <3793.178467, 4.960732, 6001.475098>) and the code is 2909
+19:13:57.085 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.306396, 52.560593, 3962.779053>) as passenger
+19:14:15.554 [VehicleCarKey] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk= pos=<3785.237305, 4.971543, 5998.707520>) used the  ExpansionCarKey to lock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.829102, 5.082578, 5997.172852>)
+19:20:30.296 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3701.960938, 17.558535, 6280.269043>) as driver
+19:20:33.273 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] started vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3701.960693, 17.558517, 6280.269043>)
+19:20:52.101 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] stopped vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3692.069092, 18.674065, 6336.375488>)
+19:20:55.531 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3692.069092, 18.674074, 6336.375488>)
+19:21:35.031 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3692.069092, 18.674072, 6336.375488>) as driver
+19:21:40.015 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3692.069092, 18.674070, 6336.375488>)
+19:22:24.632 [VehicleEnter] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3692.069092, 18.674078, 6336.375488>) as passenger
+19:22:35.281 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3692.069092, 18.674072, 6336.375488>) as driver
+19:22:40.257 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] started vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3692.069092, 18.674072, 6336.375488>)
+19:23:07.039 [BaseRaiding] BBP_SWindow (<2181.654297, 54.183201, 3954.978027>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <2182.890381, 52.980709, 3953.936035>) and the code is 1776
+19:23:29.265 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] stopped vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3666.216309, 15.794597, 6480.483398>)
+19:23:32.070 [VehicleLeave] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3666.216309, 15.794607, 6480.483398>)
+19:23:33.742 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3666.216309, 15.794662, 6480.483398>)
+19:24:33.789 [AI Patrol] Spawning 2 Shamans bots at <4402.391113, 16.730000, 7307.897461>
+19:26:47.078 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3666.216553, 15.794667, 6480.483398>) as driver
+19:26:54.882 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] started vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3666.217041, 15.794756, 6480.483398>)
+19:27:17.320 [VehicleEnter] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3727.185791, 15.665148, 6509.167480>) as passenger
+19:27:43.585 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] stopped vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3993.560303, 15.764946, 6616.744141>)
+19:27:45.796 [VehicleLeave] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3993.560303, 15.764955, 6616.744141>)
+19:27:49.023 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3993.560303, 15.764954, 6616.744141>)
+19:28:26.078 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3993.560303, 15.764881, 6616.744141>) as driver
+19:28:29.218 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3993.560303, 15.764897, 6616.744141>)
+19:29:19.578 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3993.560303, 15.764881, 6616.744141>) as driver
+19:29:26.468 [VehicleEnter] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3993.560303, 15.764896, 6616.744141>) as passenger
+19:29:41.359 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] started vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3993.560303, 15.764896, 6616.744141>)
+19:30:21.937 [AI Patrol] Spawning 2 Shamans bots at <2586.351074, 43.939999, 5795.583008>
+19:30:44.210 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] stopped vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3280.146240, 16.505430, 6198.679199>)
+19:30:47.140 [VehicleLeave] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3280.146240, 16.505415, 6198.679199>)
+19:30:49.101 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3280.146240, 16.505413, 6198.679199>)
+19:32:03.843 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.306396, 52.560593, 3962.779053>)
+19:32:19.929 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3280.146240, 16.505413, 6198.679199>) as driver
+19:32:25.937 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] started vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3280.146240, 16.505413, 6198.679199>)
+19:32:29.117 [VehicleEnter] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3280.146240, 16.505413, 6198.679199>) as passenger
+19:33:13.281 [VehicleAttachments] Player Captain Chaos (uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) detached Barrel (type=Barrel_Yellow) from vehicle Velociraptor6x6 Red(id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.306396, 52.560593, 3962.779053>)
+19:33:38.460 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] stopped vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2730.074463, 44.469521, 6014.189941>)
+19:33:41.007 [VehicleLeave] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2730.074463, 44.469570, 6014.190430>)
+19:33:43.250 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2730.074463, 44.469566, 6014.189941>)
+19:34:08.570 [Killfeed] Zookyook got killed by Survivor (Shamans) with Bizon from a distance of 21 m.
+19:34:09.375 [Killfeed] Ding Chavez got killed by Survivor (Shamans) with Bizon from a distance of 29 m.
+19:34:25.132 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+19:34:26.125 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+19:34:42.203 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+19:34:43.195 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+19:35:05.078 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Military
+19:35:41.875 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+19:35:42.867 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+19:36:25.054 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+19:36:26.046 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+19:38:20.640 [Killfeed] Zookyook got killed by Survivor (Shamans) with Bizon from a distance of 3 m.
+19:38:44.726 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+19:38:45.718 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+19:39:46.953 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+19:39:47.062 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+19:39:47.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+19:39:48.054 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+19:40:30.710 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+19:40:31.703 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+19:42:35.078 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+19:42:36.070 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+19:42:55.773 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+19:42:56.765 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+19:45:42.867 [BaseRaiding] ExpansionSafeMini (<2189.905273, 53.567764, 3955.153076>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <2189.476318, 52.505554, 3956.235352>) and the code is 1776
+19:48:03.648 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.306885, 52.560600, 3962.776611>) as driver
+19:48:04.992 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.306885, 52.560596, 3962.776855>)
+19:48:08.570 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.305664, 52.560593, 3962.779541>)
+19:48:11.085 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.306641, 52.560596, 3962.777100>)
+19:59:32.320 [VehicleEnter] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2730.074463, 44.469574, 6014.190430>) as passenger
+19:59:35.734 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2730.074463, 44.469570, 6014.190430>) as driver
+19:59:41.312 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] started vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2730.074463, 44.469566, 6014.189941>)
+20:00:34.117 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] stopped vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2590.752930, 62.674778, 6386.817871>)
+20:00:37.828 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2590.752930, 62.674774, 6386.817871>)
+20:00:42.265 [VehicleLeave] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2590.752930, 62.674789, 6386.818359>)
+20:09:27.570 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2590.752930, 62.674789, 6386.818359>) as driver
+20:09:34.718 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] started vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2590.752930, 62.674789, 6386.818359>)
+20:09:45.890 [VehicleEnter] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<2590.527588, 62.664040, 6386.757324>) as passenger
+20:10:29.226 [VehicleCarKey] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<2191.683350, 52.526962, 3965.751953>) used the  ExpansionCarKey to lock Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.307129, 52.560600, 3962.776123>)
+20:11:11.398 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] stopped vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<1956.777588, 89.681442, 6618.300293>)
+20:11:14.414 [VehicleLeave] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<1956.777588, 89.681435, 6618.300293>)
+20:11:16.710 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<1956.777588, 89.681442, 6618.300293>)
+20:32:29.898 [VehicleEnter] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<1956.777588, 89.681442, 6618.300293>) as passenger
+20:32:32.039 [VehicleEnter] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<1956.777710, 89.681412, 6618.300293>) as driver
+20:32:55.515 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] started vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<1956.777710, 89.681458, 6618.300293>)
+20:35:49.390 [VehicleCarKey] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<2190.023926, 52.526855, 3965.063965>) used the  ExpansionCarKey to unlock Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.307129, 52.560600, 3962.776123>)
+20:36:07.906 [AI Patrol] Spawning 2 Shamans bots at <4172.301758, 15.779574, 7679.764160>
+20:36:09.171 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.292725, 52.560585, 3962.775391>) as driver
+20:36:11.968 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2190.292725, 52.560589, 3962.774902>)
+20:36:24.554 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2169.453857, 52.644096, 3952.627686>)
+20:36:36.437 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2169.452393, 52.644112, 3952.628662>) as driver
+20:36:49.968 [VehicleEngine] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] stopped vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<4079.837646, 16.213736, 7288.427246>)
+20:36:52.640 [VehicleLeave] Player Ding Chavez [uid=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<4079.837646, 16.213728, 7288.426758>)
+20:36:54.484 [VehicleLeave] Player Zookyook [uid=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<4079.837646, 16.213730, 7288.426758>)
+20:40:23.953 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2379.246582, 54.879223, 3165.849854>) as passenger
+20:40:37.929 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) left the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+20:41:11.218 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2972.476318, 30.459223, 3684.968994>)
+20:41:23.421 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+20:41:23.429 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=
+20:41:23.429 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+20:41:23.429 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=
+20:41:24.390 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+20:42:00.601 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2972.473877, 30.459183, 3684.971436>) as passenger
+20:42:54.093 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<3083.273438, 30.430561, 3665.957520>)
+20:47:17.273 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<3083.276367, 30.430544, 3665.959473>) as passenger
+20:50:46.671 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2954.956543, 166.500061, 2652.887939>)
+20:50:47.296 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2954.957275, 166.500000, 2652.884766>)
+20:51:36.546 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2954.962891, 166.499634, 2652.888428>) as driver
+20:52:08.960 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2955.377686, 166.475632, 2652.976074>) as passenger
+20:53:38.328 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2837.152344, 128.277924, 1511.523804>)
+20:54:30.570 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2834.268311, 127.905663, 1510.811157>) as passenger
+20:58:12.554 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1758.138794, 63.410114, 2800.394043>)
+20:58:13.046 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1758.136841, 63.410011, 2800.395752>)
+20:59:18.078 [VehicleCarKey] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<1758.661499, 63.394039, 2798.439209>) used the  ExpansionCarKey to lock Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1758.136597, 63.410000, 2800.395752>)
+21:00:02.078 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer_Military
+21:00:07.390 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+21:00:08.382 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+21:02:25.632 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+21:04:34.375 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+21:04:34.382 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+21:04:34.382 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+21:04:34.382 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+21:04:35.367 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+21:07:10.710 [Party] Player "Zookyook" (id=ebSuNbDOK07A7q_C1vj8YvPq-R2l2KGJxQfX9cl2eGk=) left the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+21:07:14.218 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+21:09:31.984 [VehicleCarKey] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<1758.944458, 63.397373, 2797.583984>) used the  ExpansionCarKey to unlock Velociraptor6x6_red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1758.136597, 63.410000, 2800.395752>)
+21:10:16.343 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1758.135864, 63.409939, 2800.396484>) as driver
+21:10:26.515 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1758.138550, 63.410088, 2800.394043>)
+21:10:42.453 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1758.136230, 63.409966, 2800.395508>)
+21:10:49.609 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1758.139160, 63.410172, 2800.394287>) as passenger
+21:17:09.476 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1758.125610, 63.411667, 2800.468262>) as driver
+21:23:17.351 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1733.318970, 19.013805, 4922.975586>)
+21:23:37.273 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1737.431641, 16.748034, 4958.447266>)
+21:25:50.070 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1737.433716, 16.748037, 4958.446289>) as driver
+21:25:52.421 [VehicleEngine] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] started vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1737.433716, 16.748020, 4958.446289>)
+21:28:09.148 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1695.189941, 17.382128, 5206.029297>) as passenger
+21:29:23.882 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1695.191650, 17.382164, 5206.029785>)
+21:30:19.226 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1695.191772, 17.381693, 5206.021973>)
+21:30:27.226 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1695.192383, 17.381620, 5206.021484>) as driver
+21:31:00.656 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1695.193359, 17.381641, 5206.021973>) as passenger
+21:31:30.398 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1853.043335, 25.378298, 5325.041016>)
+21:31:31.242 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1853.045166, 25.378342, 5325.040527>)
+21:33:26.429 [VehicleEnter] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<1853.047974, 25.378290, 5325.026855>) as driver
+21:38:12.085 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2069.162598, 22.959351, 5422.097656>) as passenger
+21:42:25.765 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2167.371582, 52.672474, 3953.691895>)
+21:42:39.039 [VehicleEngine] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2194.945068, 52.561066, 3962.897949>)
+21:42:42.562 [VehicleLeave] Player DirtyMike [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Velociraptor6x6 Red (id=077BE6D498427AFA8BD3C09B89C17844 pos=<2194.946289, 52.561069, 3962.895752>)
+21:43:05.812 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+21:43:16.828 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)

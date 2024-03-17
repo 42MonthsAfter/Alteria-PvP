@@ -1,0 +1,15 @@
+06:08:59.019 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: o0FPJ4hOv27cTY1lTxqkA-cZlIdft-FKW3HxZCQhIVw=
+06:14:03.755 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer
+06:24:26.218 [AI Patrol] Spawning 2 Shamans bots at <2705.418457, 43.939999, 5929.109863>
+06:31:00.746 [Killfeed] Thundrdicc got killed by Survivor (Shamans) with Bizon from a distance of 1 m.
+09:25:56.656 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: C86YRCTr3ll4tXBdKmsr-NeN04WkY3e7F-ZRpQuKM3A=
+09:25:56.660 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: C86YRCTr3ll4tXBdKmsr-NeN04WkY3e7F-ZRpQuKM3A=
+09:25:58.757 [MissionAirdrop] An airdrop is heading towards "Fort Yuma" (pos=<1729.079956, 0.000000, 6552.689941> type=Random_Fort-Yuma) with a ExpansionAirdropContainer_Medical
+09:56:16.292 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: EzH7HZbWxfRkoV6RRxxP3bAP_c9N7VOp9Y_FYc0yT3w=
+10:30:35.445 [AI Patrol] Spawning 2 Shamans bots at <4531.961914, 15.770000, 7655.502930>
+10:31:16.011 [AI Patrol] Spawning 2 Shamans bots at <4755.100098, 30.375938, 7362.451660>
+11:01:39.179 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: EzH7HZbWxfRkoV6RRxxP3bAP_c9N7VOp9Y_FYc0yT3w=
+11:01:39.179 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: EzH7HZbWxfRkoV6RRxxP3bAP_c9N7VOp9Y_FYc0yT3w=
+11:01:39.765 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer
+11:26:44.726 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Y5iOSvxbktT62YFXmU8MFrK1NW7DtDBd1SxmQE5_6zY=
+11:53:17.863 [Killfeed] DERF570 died from Wound Infection.

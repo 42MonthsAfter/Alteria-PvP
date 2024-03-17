@@ -1,0 +1,17 @@
+00:35:59.165 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+00:35:59.166 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:35:59.166 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+00:35:59.169 [AI Patrol] Spawning 2 Shamans bots at <6249.031250, 26.279175, 2194.232178>
+00:35:59.316 [AI Patrol] Spawning 2 Shamans bots at <7501.861328, 26.166735, 2114.949463>
+00:41:07.657 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Basebuilding
+01:08:56.123 [AI Patrol] Spawning 2 Shamans bots at <4903.395996, 47.840000, 1320.754028>
+01:41:03.738 [Safezone] Player "Mister Slade" (id=8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck= pos=<4668.566406, 2.501146, 2242.081299>) Entered the safezone
+01:43:22.902 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+01:43:22.911 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+01:43:22.912 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+01:43:23.873 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+01:44:32.209 [Expansion Quests] - CompleteQuest - Player with UID 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck= has completed quest 99
+01:44:57.222 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+01:49:26.320 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck= for quest 1
+01:51:58.588 [Expansion Quests] - CancelQuestServer - Player with UID 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck= has cancelled quest 1
+01:52:19.251 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck= for quest 38

@@ -1,0 +1,45 @@
+12:01:25.156 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) joinded the party "Wenco" (id=7 ownerUID=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= ownerName=justin)
+12:01:25.175 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=
+12:01:25.175 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 7
+12:01:25.179 [AI Patrol] Spawning 2 Shamans bots at <4531.998535, 15.796116, 7640.776855>
+12:01:25.332 [AI Patrol] Spawning 2 Shamans bots at <4815.287598, 22.743221, 7420.329102>
+12:01:26.128 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+12:03:55.058 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+12:03:55.070 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+12:03:55.070 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+12:03:55.074 [AI Patrol] Spawning 2 Shamans bots at <4820.234375, 47.842312, 1348.925537>
+12:03:55.992 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:06:28.335 [MissionAirdrop] An airdrop is heading towards "Cassandra" (pos=<4274.000000, 0.000000, 7597.299805> type=Random_Cassandra) with a ExpansionAirdropContainer_Military
+12:08:13.625 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+12:08:13.640 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+12:08:13.640 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+12:08:14.589 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+12:16:10.902 [Killfeed] justin got killed by Survivor (Shamans) with KAS-74U from a distance of 5 m.
+12:16:37.445 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) joinded the party "Wenco" (id=7 ownerUID=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= ownerName=justin)
+12:16:38.433 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 7
+12:17:37.230 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) left the party "Wenco" (id=7 ownerUID=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= ownerName=justin)
+13:03:27.042 [AI Patrol] Spawning 2 Shamans bots at <6791.383301, 19.120001, 3725.474854>
+13:13:11.503 [BaseRaiding] BBP_SDoor (<3857.914551, 59.512856, 1228.307617>) Code set by player "Hooligan-235" (ID = "Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=" at <3857.493652, 59.579220, 1228.321289>) and the code is 181818
+13:19:43.664 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+13:27:59.445 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+13:29:22.203 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+13:29:22.214 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+13:29:22.214 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+13:29:23.160 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+13:38:55.066 [Killfeed] Hooligan-235 got killed by Survivor (Shamans) with SK 59/66 from a distance of 2 m.
+13:39:18.140 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+13:39:19.136 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+13:41:01.933 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+13:48:01.992 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+13:48:01.992 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+13:48:01.992 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+13:55:29.968 [AI Patrol] Spawning 2 Shamans bots at <2336.971924, 54.799999, 2987.594971>
+13:57:34.914 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+15:56:29.000 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+15:56:29.019 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:56:29.019 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+15:56:29.019 [Expansion Quests] - Create new quest instance for quest: 58 - Player UID: SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=
+15:56:29.941 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+15:56:30.460 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+16:04:07.250 [AI Patrol] Spawning 2 Shamans bots at <2001.460327, 15.570000, 684.074402>
+16:40:56.320 [Party] Player "wiggy" (id=SgADkNjbGaUs8SauxTNPqYQENYs5GlEGD7NNksMh0hI=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)

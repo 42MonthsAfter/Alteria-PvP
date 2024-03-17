@@ -1,0 +1,10 @@
+09:30:38.628 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+09:30:38.628 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+09:30:38.632 [AI Patrol] Spawning 2 Shamans bots at <2675.741943, 44.050331, 5967.679199>
+09:35:41.296 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Basebuilding
+09:37:01.582 [AI Patrol] Spawning 2 Shamans bots at <6551.184082, 27.462790, 1874.601440>
+09:45:11.679 [AI Patrol] Spawning 2 Shamans bots at <4716.787598, 40.617382, 1405.059204>
+09:45:12.136 [Safezone] Player "Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4926.961914, 6.322471, 2264.736084>) Entered the safezone
+11:29:18.074 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+11:29:18.074 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+11:29:19.292 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer_Military

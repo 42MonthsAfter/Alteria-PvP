@@ -1,0 +1,22 @@
+00:01:28.178 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=
+00:01:28.179 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:06:28.961 [MissionAirdrop] An airdrop is heading towards "Cassandra" (pos=<4274.000000, 0.000000, 7597.299805> type=Random_Cassandra) with a ExpansionAirdropContainer_Basebuilding
+00:12:08.900 [AI Patrol] Spawning 2 Shamans bots at <4544.748535, 33.942963, 7211.088867>
+00:13:29.840 [AI Patrol] Spawning 2 Shamans bots at <4219.297852, 15.830000, 7631.517090>
+01:01:04.254 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) joinded the party "Wenco" (id=7 ownerUID= ownerName=)
+01:01:04.255 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) created a party named Wenco (wb)
+01:01:05.253 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 7
+01:03:13.185 [Party] Player "justin" (id=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=) left the party "Wenco" (id=7 ownerUID=kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8= ownerName=justin)
+01:23:20.339 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: VaMg6OpLNnVqK6QT57n_gGj71g1EYc_a-XKmvA_-qMM=
+01:23:20.339 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+01:26:03.756 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+01:26:03.763 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+01:26:03.763 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+01:26:03.763 [Expansion Quests] - Create new quest instance for quest: 57 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+01:26:04.709 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+01:27:14.423 [Chat - Global]("Slightly Crazed"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): wouldnt get carried away with gear or building, server wipes tomorrow.
+01:42:05.044 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Military
+01:52:07.812 [AI Patrol] Spawning 2 Shamans bots at <1623.680054, 5.920000, 378.040314>
+02:14:40.118 [AI Patrol] Spawning 2 Shamans bots at <2585.545654, 43.939999, 5865.649902>
+02:29:57.553 [Chat - Global]("Slightly Crazed"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): like the map?
+02:43:45.761 [Party] Player "Slightly Crazed" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)

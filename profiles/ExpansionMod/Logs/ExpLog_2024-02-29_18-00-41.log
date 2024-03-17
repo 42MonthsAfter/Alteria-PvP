@@ -1,0 +1,34 @@
+19:23:02.234 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+19:23:02.242 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+19:23:02.250 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 1
+19:23:02.250 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+19:23:03.218 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+19:28:12.203 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+19:58:43.507 [VehicleDeleted] Kart_Orange (id=499DA7247F41ACC03AE10FB327B5F679 pos=<4055.886719, 15.774426, 7214.064941>)
+20:04:33.210 [VehicleDeleted] Kart (id=8DB81649354F467CFF931A904D09523A pos=<2614.885498, 44.217979, 5970.538086>)
+20:06:03.484 [AI Patrol] Spawning 2 Shamans bots at <2730.994141, 43.939999, 5961.352539>
+20:09:06.109 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 6irZyVzumYIubiHLeigpSaLoddCLIwu4v3P0sf6PIrc=
+20:09:06.265 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+20:13:55.851 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6irZyVzumYIubiHLeigpSaLoddCLIwu4v3P0sf6PIrc=
+20:13:55.851 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 6irZyVzumYIubiHLeigpSaLoddCLIwu4v3P0sf6PIrc=
+21:26:58.867 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+21:26:58.875 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+21:26:58.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:26:58.875 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=
+21:26:59.851 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:27:00.203 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Basebuilding
+21:40:10.570 [Party] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+21:40:10.585 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+21:40:10.585 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:40:10.585 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+21:40:11.562 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:41:13.343 [Party] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) left the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+21:42:12.664 [Party] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) joinded the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+21:42:12.671 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+21:42:12.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+21:42:12.671 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=
+21:42:13.656 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+22:30:19.007 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: KLlzjJ8zgcwHHrIjBS8gd15ouasAsfZDoMJGmLHGchw=
+22:53:01.210 [MissionAirdrop] An airdrop is heading towards "Mt Helikon" (pos=<6612.930176, 0.000000, 4908.759766> type=Random_Mt-Helikon) with a ExpansionAirdropContainer_Medical
+23:50:30.882 [Party] Player "ChaoticBeauty07" (id=aZuey8BZu5enttVf1frXEoSPxF2bH_OE61qSIaeu7J0=) left the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)
+23:50:30.882 [Party] Player "CrazyBob" (id=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE=) left the party "PSYCHONAUTS" (id=1 ownerUID=sotoW1_Nk-TTJiiIPsCtS3o5Fa1yZMPYUSJANQxS2rE= ownerName=CrazyBob1027)

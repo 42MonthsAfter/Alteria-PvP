@@ -1,0 +1,11 @@
+15:20:10.574 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: YGaNLcjGDSmSiDfAbxprnIK5B_w0vu6pCMO_f9n4LHM=
+15:25:17.683 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+15:53:02.898 [AI Patrol] Spawning 2 Shamans bots at <2513.243164, 43.939999, 5863.602051>
+16:46:34.320 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: C86YRCTr3ll4tXBdKmsr-NeN04WkY3e7F-ZRpQuKM3A=
+16:48:05.328 [VehicleEnter] Player ROMMIK27 [uid=C86YRCTr3ll4tXBdKmsr-NeN04WkY3e7F-ZRpQuKM3A=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3683.073730, 4.705273, 5939.402832>) as driver
+16:48:22.921 [VehicleEngine] Player ROMMIK27 [uid=C86YRCTr3ll4tXBdKmsr-NeN04WkY3e7F-ZRpQuKM3A=] started vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3683.073730, 4.705273, 5939.402832>)
+16:48:28.593 [VehicleEngine] Player ROMMIK27 [uid=C86YRCTr3ll4tXBdKmsr-NeN04WkY3e7F-ZRpQuKM3A=] stopped vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3683.073730, 4.705276, 5939.402832>)
+16:49:23.679 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Military
+16:49:36.500 [Chat - Global]("ROMMIK27"(id=C86YRCTr3ll4tXBdKmsr-NeN04WkY3e7F-ZRpQuKM3A=)): Hello
+16:50:32.031 [VehicleLeave] Player ROMMIK27 [uid=C86YRCTr3ll4tXBdKmsr-NeN04WkY3e7F-ZRpQuKM3A=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3683.073730, 4.705275, 5939.402832>)
+17:02:17.734 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: YGaNLcjGDSmSiDfAbxprnIK5B_w0vu6pCMO_f9n4LHM=

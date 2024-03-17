@@ -1,0 +1,9 @@
+10:18:47.835 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+10:18:47.851 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+10:18:47.851 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+10:18:47.851 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+10:18:47.855 [AI Patrol] Spawning 2 Shamans bots at <6736.763184, 19.049999, 3650.510498>
+10:18:48.796 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+10:23:49.796 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer_Medical
+10:42:28.843 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+11:13:03.148 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: hTPqp9NyVJJWTdks4gfQuHqk7-4Qf5mVXPfjsJ2lAog=

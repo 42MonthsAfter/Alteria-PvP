@@ -1,0 +1,12 @@
+11:20:16.914 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: MIvhIIzfkaybUnjSkMCnvLzQUHnE8aiVDFQApFkOLws=
+11:20:16.914 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+11:25:17.308 [MissionAirdrop] An airdrop is heading towards "Cassandra" (pos=<4274.000000, 0.000000, 7597.299805> type=Random_Cassandra) with a ExpansionAirdropContainer_Military
+11:28:21.105 [AI Patrol] Spawning 2 Shamans bots at <2656.415527, 43.239086, 5709.717773>
+11:39:09.871 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4772.137695, 6.377209, 2315.011719>) Entered the safezone
+11:39:09.871 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+11:39:09.882 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+11:39:09.882 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+11:39:09.882 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+11:39:09.886 [AI Patrol] Spawning 2 Shamans bots at <4770.651855, 45.691166, 1404.516968>
+11:39:10.824 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+11:59:19.410 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)

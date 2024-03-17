@@ -1,0 +1,105 @@
+12:01:24.039 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+12:01:24.050 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+12:01:24.050 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+12:01:24.050 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+12:01:24.054 [AI Patrol] Spawning 2 Shamans bots at <4854.747070, 43.760963, 1487.685669>
+12:01:24.988 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+12:04:27.109 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<1b2756e0> at <3911.63, 51.85, 1328.95> EXPLOSION range 20 dropoff 5
+12:06:28.523 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Military
+12:42:54.308 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<1b262950> at <3901.22, 51.54, 1335.06> EXPLOSION range 12 dropoff 3
+12:45:32.113 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+12:45:32.125 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+12:45:32.125 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+12:45:32.128 [Expansion Quests] - Create new quest instance for quest: 6 - Player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+12:45:33.078 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+12:54:59.027 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+13:28:38.539 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer
+13:41:45.195 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: odZRCUxVDaE27wosZZS9vf6g02jPJ4CuIAJRcmRsgwA=
+14:12:50.757 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+14:12:50.773 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+14:12:50.773 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+14:12:51.710 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+14:15:22.906 [VehicleCarKey] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4063.255127, 10.974100, 4157.931641>) used the  ExpansionCarKey to unlock Nissan_warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4060.724121, 11.069055, 4157.117676>)
+14:17:29.796 [Chat - Global]("DirtyMike"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): any one needing anything
+14:43:35.632 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+14:43:35.648 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+14:43:35.648 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+14:43:36.593 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+14:43:55.191 [AI Patrol] Spawning 2 Shamans bots at <4229.332031, 15.877110, 7558.167969>
+14:44:06.316 [Chat - Global]("Nick Leadbeatter"(id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=)): hi
+14:50:18.992 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+14:50:19.000 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:50:19.000 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+14:50:19.000 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:50:19.949 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+14:51:20.023 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+14:53:12.546 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Medical
+14:57:24.050 [VehicleEnter] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] entered vehicle Nissan warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4060.725830, 11.069055, 4157.118652>) as driver
+14:57:28.746 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Nissan warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4060.725586, 11.069054, 4157.118164>)
+14:58:04.273 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle Nissan warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4070.559570, 10.424893, 4145.901855>) as passenger
+14:58:17.074 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+14:58:17.082 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:58:17.082 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+14:58:17.085 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+14:58:18.031 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+15:02:03.632 [AI Patrol] Spawning 2 Shamans bots at <6757.371094, 19.129999, 3782.293457>
+15:02:52.718 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle Nissan warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<6141.250488, 42.484459, 3559.358154>)
+15:02:53.039 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Nissan warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<6141.252930, 42.484455, 3559.358154>)
+15:02:58.460 [VehicleLeave] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] left vehicle Nissan warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<6141.251465, 42.484459, 3559.358154>)
+15:03:05.054 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<6143.178223, 42.389935, 3558.473633>) used the  ExpansionCarKey to lock Nissan_warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<6141.252930, 42.484455, 3559.357910>)
+15:04:25.921 [AI Patrol] Spawning 2 Shamans bots at <4819.650391, 33.022598, 7324.161621>
+15:17:14.750 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<6142.979980, 42.388680, 3558.436279>) used the  ExpansionCarKey to unlock Nissan_warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<6141.252930, 42.484455, 3559.357910>)
+15:17:20.144 [VehicleEnter] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] entered vehicle Nissan warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<6141.252930, 42.484455, 3559.357910>) as passenger
+15:17:25.511 [VehicleEnter] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] entered vehicle Nissan warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<6141.252930, 42.484444, 3559.357178>) as driver
+15:17:33.589 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] started vehicle Nissan warrior (Locked) (id=71E53717F84715AD2155E5AE355D8FB3 pos=<6141.254883, 42.484444, 3559.357178>)
+15:22:43.125 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4743.114258, 3.374268, 2476.302734>) Entered the safezone
+15:22:43.125 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4742.284180, 3.367435, 2476.118652>) Entered the safezone
+15:23:13.187 [VehicleEngine] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] stopped vehicle Nissan warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4823.439453, 6.405411, 2254.809814>)
+15:23:16.222 [VehicleLeave] Player brailsford40 [uid=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=] left vehicle Nissan warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4823.439453, 6.405408, 2254.811768>)
+15:23:19.769 [VehicleLeave] Player Nick Leadbeatter [uid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=] left vehicle Nissan warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4823.439453, 6.405408, 2254.811768>)
+15:23:28.257 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4822.577148, 6.322483, 2256.436279>) used the  ExpansionCarKey to lock Nissan_warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4823.439453, 6.405413, 2254.809082>)
+15:23:45.375 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to sell cp_cannabisbagkush x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:23:45.531 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has sold cp_cannabisbagkush x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) and got 2000.
+15:23:55.714 [ATM] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has deposited 2000 on his ATM account.
+15:23:59.347 [ATM] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has deposited 2000 on the party "DIE HARD" (partyid=10 | ownerid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) ATM account.
+15:25:40.785 [ATM] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has withdrawn 500 from the party "DIE HARD" (partyid=10 | ownerid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) ATM account.
+15:25:42.289 [ATM] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has withdrawn 500 from his ATM account.
+15:26:03.035 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:26:03.203 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+15:26:03.718 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:26:03.882 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+15:26:04.449 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:26:04.625 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+15:26:05.191 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:26:05.351 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+15:26:05.910 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:26:06.082 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+15:26:07.093 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:26:07.261 [Market] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+15:26:22.500 [ATM] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has deposited 308 on his ATM account.
+15:26:26.976 [ATM] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) has deposited 308 on the party "DIE HARD" (partyid=10 | ownerid=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) ATM account.
+15:28:40.910 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4819.459961, 6.322500, 2254.917969>) used the  ExpansionCarKey to unlock Nissan_warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4823.439453, 6.405413, 2254.809082>)
+15:30:19.644 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4823.297363, 6.322494, 2257.357666>) used the  ExpansionCarKey to lock Nissan_warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4823.439453, 6.405413, 2254.809082>)
+15:30:23.382 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4822.988281, 6.322500, 2257.058594>) used the  ExpansionCarKey to unlock Nissan_warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4823.439453, 6.405413, 2254.809082>)
+15:30:28.445 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4741.549805, 2.410257, 2483.540771>) Entered the safezone
+15:30:31.632 [VehicleCarKey] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4823.218262, 6.322497, 2257.330566>) used the  ExpansionCarKey to lock Nissan_warrior (id=71E53717F84715AD2155E5AE355D8FB3 pos=<4823.439453, 6.405413, 2254.809082>)
+15:30:39.812 [Expansion Quests] - CancelQuestServer - Player with UID HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= has cancelled quest 6
+15:32:09.136 [Market] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has send a requested to sell cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+15:32:09.308 [Market] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has sold cp_cannabisbagskunk x1 at the trader "Fishing_Hunting (Helga [HOLLER MARKET])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) and got 1000.
+15:32:15.644 [ATM] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has deposited 1000 on his ATM account.
+15:34:51.601 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4989.908203, 3.843110, 2083.847656>) Left the safezone
+15:35:52.632 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4990.773438, 3.843084, 2085.272461>) Left the safezone
+15:50:17.796 [AI Patrol] Spawning 2 Shamans bots at <6510.483887, 26.129999, 2003.681396>
+15:52:46.890 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+15:55:28.378 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4986.197266, 3.842108, 2144.416260>) Entered the safezone
+15:56:12.281 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+15:56:21.515 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4984.919434, 3.842119, 2145.278076>) Entered the safezone
+15:56:38.562 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+15:56:41.238 [Safezone] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4849.277832, 6.322501, 2248.332275>) Entered the safezone
+15:56:41.238 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+15:56:41.246 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+15:56:41.246 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:56:42.199 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+15:59:56.468 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+16:03:35.261 [Party] Player "DirtyMike" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+16:19:54.562 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Military

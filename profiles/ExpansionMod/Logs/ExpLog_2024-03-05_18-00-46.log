@@ -1,0 +1,19 @@
+18:19:20.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: YGaNLcjGDSmSiDfAbxprnIK5B_w0vu6pCMO_f9n4LHM=
+18:19:20.750 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: YGaNLcjGDSmSiDfAbxprnIK5B_w0vu6pCMO_f9n4LHM=
+18:24:28.039 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Military
+19:49:20.031 [MissionAirdrop] An airdrop is heading towards "Cassandra" (pos=<4274.000000, 0.000000, 7597.299805> type=Random_Cassandra) with a ExpansionAirdropContainer_Military
+20:15:02.085 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 6irZyVzumYIubiHLeigpSaLoddCLIwu4v3P0sf6PIrc=
+20:15:02.085 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 6irZyVzumYIubiHLeigpSaLoddCLIwu4v3P0sf6PIrc=
+21:32:50.156 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:32:50.156 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:32:55.187 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer_Medical
+22:04:08.140 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+22:04:08.140 [Expansion Quests] - Create new quest instance for quest: 1 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+23:22:24.453 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+23:22:24.453 [Expansion Quests] - Create new quest instance for quest: 1 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+23:22:25.187 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+23:26:32.414 [AI Patrol] Spawning 2 Shamans bots at <6954.625000, 12.801025, 3706.814453>
+23:28:09.421 [AI Patrol] Spawning 2 Shamans bots at <6279.618652, 26.277529, 2215.649658>
+23:28:38.585 [AI Patrol] Spawning 2 Shamans bots at <7042.762695, 29.410582, 1820.523438>
+23:37:15.562 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<82cd42e0> at <6795.69, 26.21, 2172.48> EXPLOSION range 12 dropoff 3
+23:45:17.335 [Killfeed] FinnMcCool got killed by Survivor (Shamans) with Bizon from a distance of 17 m.

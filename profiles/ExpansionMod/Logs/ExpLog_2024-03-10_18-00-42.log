@@ -1,0 +1,20 @@
+18:20:54.742 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=
+18:20:54.742 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: qOowzXYHFyJFCnpfpXlMeaeg1Yaz6p4vnVRhOWvjkp0=
+18:20:54.750 [AI Patrol] Spawning 2 Shamans bots at <2791.467041, 43.939999, 5860.790039>
+18:26:04.046 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Military
+21:44:08.757 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+21:44:17.046 [MissionAirdrop] An airdrop is heading towards "Mt Helikon" (pos=<6612.930176, 0.000000, 4908.759766> type=Random_Mt-Helikon) with a ExpansionAirdropContainer_Military
+21:52:36.265 [AI Patrol] Spawning 2 Shamans bots at <2083.352295, 54.943119, 3223.699463>
+22:16:53.054 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+22:32:11.015 [VehicleCover] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<412.870728, 5.664527, 1880.612793>) uncovered vehicle "MUSTANG" (GlobalID=80000000800000008000000080002B6F pos=<411.822296, 5.750900, 1878.652466>)!
+22:32:18.437 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<411.534302, 5.668573, 1881.167236>) used the  ExpansionCarAdminKey to unlock MUSTANG (id=C4C98218C44ECEDCE954F98C3451E185 pos=<411.825134, 5.726816, 1878.658081>)
+22:34:54.851 [AdminTools] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<412.039948, 5.989976, 1880.596436>) used the  ExpansionCarAdminKey to lock MUSTANG (id=C4C98218C44ECEDCE954F98C3451E185 pos=<411.825134, 5.726816, 1878.658081>)
+22:35:07.281 [VehicleDeleted] MUSTANG (id=C4C98218C44ECEDCE954F98C3451E185 pos=<411.825134, 5.726816, 1878.658081>)
+22:35:07.281 [VehicleCover] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<412.508118, 5.665618, 1880.824951>) covered vehicle "MUSTANG" (GlobalID=80000000800000008000000080002B6F pos=<411.825134, 5.726816, 1878.658081>)!
+23:44:01.039 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+23:44:01.054 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+23:44:01.054 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+23:44:01.054 [Expansion Quests] - Create new quest instance for quest: 39 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+23:44:01.062 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer_Military
+23:44:01.976 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:55:40.312 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)

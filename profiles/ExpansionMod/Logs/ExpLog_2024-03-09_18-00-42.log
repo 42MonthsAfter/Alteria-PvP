@@ -1,0 +1,33 @@
+18:05:56.703 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+18:05:56.703 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+18:05:56.707 [AI Patrol] Spawning 2 Shamans bots at <2640.634766, 44.410000, 6003.380859>
+18:11:04.371 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Basebuilding
+19:35:12.375 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer_Military
+21:21:20.187 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 0h4aTLUYUwhAC2k5RTtdM7z-TUWYh2dHiQiaz4NlAqg=
+21:21:29.390 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Military
+21:28:57.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:28:57.945 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+22:06:41.046 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+22:06:41.046 [AI Patrol] Spawning 2 Shamans bots at <4773.779297, 36.888359, 7266.844727>
+22:06:41.070 [AI Patrol] Spawning 2 Shamans bots at <4299.641113, 15.722362, 7595.565430>
+22:12:29.414 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+22:14:32.953 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+22:14:32.953 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+22:15:30.125 [AI Patrol] Spawning 2 Shamans bots at <4874.871582, 47.840000, 1311.989624>
+22:15:30.195 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<4830.105957, 6.322500, 2258.025879>) Entered the safezone
+22:17:05.468 [Safezone] Player "[ADMIN]DrKilledByDeath" (id=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA= pos=<718.000977, 64.119301, 2310.275879>) Left the safezone
+22:20:25.281 [AI Patrol] Spawning 2 Shamans bots at <1692.884277, 15.570000, 486.314392>
+22:30:16.789 [AI Patrol] Spawning 2 Shamans bots at <6688.986328, 19.147343, 3716.911377>
+22:33:08.890 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+22:33:08.890 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+22:48:29.132 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+22:48:29.132 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+22:48:36.437 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Medical
+23:33:09.000 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: hTPqp9NyVJJWTdks4gfQuHqk7-4Qf5mVXPfjsJ2lAog=
+23:33:09.000 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: hTPqp9NyVJJWTdks4gfQuHqk7-4Qf5mVXPfjsJ2lAog=
+23:33:29.007 [Chat - Global]("Azrael"(id=hTPqp9NyVJJWTdks4gfQuHqk7-4Qf5mVXPfjsJ2lAog=)): wait, when the hell did i die
+23:33:48.234 [Chat - Global]("Azrael"(id=hTPqp9NyVJJWTdks4gfQuHqk7-4Qf5mVXPfjsJ2lAog=)): oh nvm
+23:47:52.367 [Party] Player "Azrael" (id=hTPqp9NyVJJWTdks4gfQuHqk7-4Qf5mVXPfjsJ2lAog=) joinded the party "Azraels Fall" (id=13 ownerUID= ownerName=)
+23:47:52.367 [Party] Player "Azrael" (id=hTPqp9NyVJJWTdks4gfQuHqk7-4Qf5mVXPfjsJ2lAog=) created a party named Azraels Fall (AF)
+23:47:53.367 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 13
+23:59:20.531 [Party] Player "Azrael" (id=hTPqp9NyVJJWTdks4gfQuHqk7-4Qf5mVXPfjsJ2lAog=) left the party "Azraels Fall" (id=13 ownerUID=hTPqp9NyVJJWTdks4gfQuHqk7-4Qf5mVXPfjsJ2lAog= ownerName=Azrael)

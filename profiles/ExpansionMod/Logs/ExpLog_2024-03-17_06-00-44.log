@@ -1,0 +1,47 @@
+06:17:41.574 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+06:17:41.589 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+06:17:41.589 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 15
+06:17:41.589 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+06:17:42.558 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+06:22:46.652 [MissionAirdrop] An airdrop is heading towards "Mt Helikon" (pos=<6612.930176, 0.000000, 4908.759766> type=Random_Mt-Helikon) with a ExpansionAirdropContainer_Basebuilding
+06:34:04.730 [AI Patrol] Spawning 2 Shamans bots at <2885.096436, 37.602859, 5849.431641>
+06:53:11.542 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+07:21:50.345 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+07:21:50.353 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+07:21:50.353 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+07:21:50.353 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+07:21:51.326 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+07:30:06.789 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<3783.994629, 4.971652, 5998.582520>) used the  ExpansionCarKey to unlock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.829102, 5.082578, 5997.172852>)
+07:30:33.988 [VehicleCarKey] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= pos=<3780.637207, 4.971150, 5997.262695>) used the  ExpansionCarKey to lock Camper (id=E85E7A00D64AF93FA3E8B697590C4F4F pos=<3783.829102, 5.082578, 5997.172852>)
+07:39:33.503 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+07:42:35.681 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+07:42:35.687 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+07:42:35.687 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+07:42:35.687 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+07:42:36.664 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+07:45:14.652 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer
+07:58:00.632 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+08:03:07.806 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+08:03:07.814 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+08:03:07.814 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+08:03:07.814 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+08:03:08.783 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+08:18:31.912 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+08:18:31.914 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+08:21:39.019 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+08:31:14.554 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_LAW_Explosion<8e2a0c70> at <3240.3, 17.88, 6126.37> EXPLOSION range 12 dropoff 3
+09:10:45.820 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Basebuilding
+09:25:19.781 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+09:25:19.781 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+10:23:40.500 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+10:23:40.519 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+10:23:40.523 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+10:23:40.523 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+10:23:41.472 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+10:36:16.832 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Medical
+10:55:45.039 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) left the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+10:59:33.906 [Party] Player "Ding Chavez" (id=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=) joinded the party "La Flama Blanca" (id=15 ownerUID=DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g= ownerName=Ding Chavez)
+10:59:33.914 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+10:59:33.914 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15
+10:59:33.914 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: DQ387kbD2K-a37oRXiRVk7g0pIza9NGkY242TMWRc1g=
+10:59:34.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 15

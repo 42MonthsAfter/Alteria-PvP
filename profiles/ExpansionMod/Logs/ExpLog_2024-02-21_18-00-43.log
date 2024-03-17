@@ -1,0 +1,198 @@
+18:02:07.750 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+18:02:07.757 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:02:07.757 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+18:02:08.683 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+18:07:13.710 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer
+18:31:32.140 [AI Patrol] Spawning 2 Shamans bots at <4961.839844, 46.823002, 1325.200562>
+18:37:12.726 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4668.752930, 2.501146, 2242.242676>) Entered the safezone
+18:38:55.148 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= for quest 46
+18:42:43.781 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4991.761719, 3.843105, 2100.450928>) Left the safezone
+18:46:48.039 [AI Patrol] Spawning 2 Shamans bots at <6397.596191, 26.129999, 1953.423950>
+18:51:24.273 [AI Patrol] Spawning 2 Shamans bots at <7027.697754, 26.129999, 1751.943848>
+18:58:17.679 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+18:58:17.695 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+18:58:17.695 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+18:58:17.695 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+18:58:17.695 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+18:58:18.632 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+18:59:02.710 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+19:01:19.984 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+19:01:19.992 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+19:01:19.992 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+19:01:19.992 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+19:01:19.992 [Expansion Quests] - Create new quest instance for quest: 31 - Player UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+19:01:20.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+19:03:49.640 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): you know there was a treasure hunt just outside your base?
+19:04:18.890 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): i saw but i wasnt online to find it
+19:04:32.882 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): we goy it
+19:04:39.453 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): got it
+19:04:47.234 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): nice good loot?
+19:05:02.312 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): 5.5k and 2 nvg
+19:05:09.546 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): nice
+19:05:50.750 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): those yellow crates down the road gave it away
+19:06:19.835 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): drove past and it matched
+19:07:07.601 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): do u have nvgs?
+19:07:33.132 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): yeh i think i have 2
+19:07:52.898 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): ok , was going to give u a set
+19:08:15.148 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): no 1 i forgot i died yesterday with a pair, thx thou
+19:08:55.328 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): im not to worried about gear it comes and goes
+19:09:09.828 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): just trying to learn the map
+19:09:13.648 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): well we going to get wiped soon anway
+19:09:26.507 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): yah i figured
+19:29:02.710 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer_Medical
+19:30:37.531 [BaseRaiding] BBP_SDoor (<3861.809814, 54.852646, 1225.626465>) Code set by player "Hooligan-235" (ID = "Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=" at <3862.010010, 54.775784, 1226.291992>) and the code is 181818
+19:32:21.921 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4667.259766, 2.501126, 2242.958252>) Entered the safezone
+19:33:01.085 [Expansion Quests] - CompleteQuest - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has completed quest 31
+19:33:58.773 [Expansion Quests] - CompleteQuest - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has completed quest 32
+19:34:24.875 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_12gaslug_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:34:25.156 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_12gaslug_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 40.
+19:34:26.570 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_12gaslug_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:34:26.835 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_12gaslug_10rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 40.
+19:34:29.312 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:34:29.609 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+19:34:29.656 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:34:29.945 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+19:34:30.085 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has send a requested to purchase ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+19:34:30.343 [Market] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has bought ammobox_556x45_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+19:34:42.570 [ATM] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has deposited 324 on his ATM account.
+19:37:20.093 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+19:38:37.718 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 33
+20:05:21.625 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+20:05:21.640 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+20:05:21.640 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+20:05:22.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:19:02.500 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): yo L.G.B  you wunna make a run
+20:20:07.117 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+20:20:07.125 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+20:20:07.125 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:20:07.125 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=
+20:20:08.070 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:20:59.742 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): yooooooooo lou
+20:21:08.992 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): yo whats up
+20:21:37.984 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): nothing much, just logging in 
+20:25:15.406 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i'm going to try to make it to your base at some point but it's a hell of a run lol
+20:25:17.187 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): any of you gunna check out pnw  when 42 drips it
+20:25:25.359 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i am
+20:25:29.750 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): drops***
+20:26:23.289 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ill be here just doing some day z tetra lol
+20:26:58.179 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4668.118164, 2.501147, 2241.228271>) Entered the safezone
+20:27:05.140 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+20:27:29.007 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): pnw?
+20:27:51.062 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): finally got some nvg's off a heli last night
+20:27:57.890 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): oh nice
+20:28:56.929 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): you got a heli by chance dan?
+20:29:11.375 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): hell no.  i Dont think there is helis just yet
+20:29:44.429 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): gotcha. found a 200 storage box here and don't feel like dragging it across hells half acre lol
+20:29:45.656 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4730.532715, 2.404901, 2539.116455>) Left the safezone
+20:29:46.343 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i wish.  i found a gyro last night but it must of been placed by doc or blue as a tease LOL
+20:30:10.984 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): stuck around for like 5 mins after landing
+20:30:31.343 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): that would have been nice
+20:30:58.273 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): it was for the 10 mins i used it.  I bet onece the map is stable there will be some cool shit
+20:31:08.609 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): most likely
+20:31:39.070 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): those dude be working to hard on this stuff lol.  
+20:32:00.296 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): cant imagine 6 maps with tickets from each one LOL
+20:32:02.320 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): going to be a good server
+20:32:23.046 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya ive been playing on and off on 42 for a while now
+20:32:25.281 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ya man i can't wait until all is fixed and good
+20:32:52.812 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): been fun to watch them grow
+20:33:47.781 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): even the short time i have been around they have made amazing progress
+20:35:56.351 [Expansion Quests] - CompleteQuest - Player with UID ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= has completed quest 99
+20:37:05.031 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): do you need help with that case?  I can come meet you if you have it one you for some back up
+20:37:51.828 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): naw i should be fine. will just be a very long slow run with the weight lol
+20:38:24.257 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): we have a car but dont use it lol.  way more fun discovering the map. we did find the place for the punch card
+20:38:41.046 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): i have room to carry it i found a good bag
+20:38:48.945 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol nice
+20:41:22.343 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): yo LGB do yall still need a bbp book?
+20:43:20.640 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): what ammo goes in the kar98? can't remember lol
+20:43:40.093 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): shit i cant recall but i have some at base
+20:43:45.859 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): 7.62x57
+20:43:53.148 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ya that one 
+20:43:55.398 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ty
+20:44:35.835 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): oh nvm was going to buy a boc but i'm broke lol
+20:45:08.406 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i have a decent ammount 
+20:45:21.656 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ok
+20:45:36.781 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): lets go brandon do you still need a bbp book
+20:45:41.164 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): roaming ai? can't remember
+20:45:54.312 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): depends on where you are at
+20:45:59.515 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): if i find any i will put it in the bin at trader, but not delete it
+20:46:07.546 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): ok
+20:46:23.093 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ask lets go brandon he know best lol
+20:46:31.382 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+20:46:56.289 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): lol not always had a terrible day just recently
+20:47:03.484 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): lol
+20:47:11.359 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): AI got me twice in 10 mins
+20:47:21.218 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): brutal
+20:47:32.453 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): the ai in cassandra are not fing around lol
+20:47:48.554 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): one was glitched into a wall could not see him
+20:47:52.625 [Chat - Global]("Lou Sassole"(id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=)): hey dan maybe meeting halfway might be best cause i'm way overweight lol
+20:48:15.109 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): heading that way
+20:48:31.085 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+20:48:31.093 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+20:48:31.093 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:48:31.953 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:48:44.609 [Safezone] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<4734.649902, 1.706002, 2537.912598>) Left the safezone
+20:48:58.921 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): if you go full overweight, your run is about the same as some one waiting for it all to return in distance covered
+20:49:26.593 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): if you go full weight its almost like have unlimited stamina
+20:49:34.554 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): yup
+20:54:08.710 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Medical
+20:56:37.187 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Sharkparty" (id=3 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+20:56:37.195 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=
+20:56:37.195 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 3
+20:56:38.156 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 3
+21:04:13.445 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Sharkparty" (id=3 ownerUID=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= ownerName=Sharkparty)
+21:04:29.406 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) invited the player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=)to the party named Dirtydan
+21:04:34.492 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+21:04:35.492 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+21:07:27.453 [Territory] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4= pos=<6473.322754, 89.454788, 6546.459961>) was invited to join the territory Of Camp Cock at <6475.982910, 77.811409, 6541.302734> by the player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)
+21:07:29.523 [Territory] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4486.839844, 6.458971, 2192.828857>) was invited to join the territory Of Camp Cock at <6475.982910, 77.811409, 6541.302734> by the player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)
+21:08:16.156 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4668.516113, 2.501136, 2243.751953>) Entered the safezone
+21:15:03.382 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4742.775391, 2.410255, 2481.587646>) Entered the safezone
+21:17:09.421 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): in your mouth
+21:18:06.742 [Expansion Quests] - CompleteQuest - Player with UID RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= has completed quest 33
+21:18:17.250 [ATM] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) has deposited 500 on his ATM account.
+21:26:41.960 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key 2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= for quest 33
+21:30:49.742 [Safezone] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q= pos=<4990.678223, 3.843091, 2102.177246>) Left the safezone
+21:33:01.671 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=
+21:33:01.671 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+21:33:01.679 [AI Patrol] Spawning 2 Shamans bots at <4737.628906, 28.193777, 7371.949707>
+21:34:26.875 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+21:53:25.679 [AI Patrol] Spawning 2 Shamans bots at <6881.841797, 19.120001, 3803.935791>
+22:13:34.062 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): cap is a pusy
+22:13:49.148 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): only on s because he isnt full pussy yet
+22:14:18.039 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): figured it was hot dogs and rainbows with you
+22:17:00.289 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+22:17:05.718 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+22:17:50.429 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+22:17:50.445 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+22:17:50.445 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+22:17:51.398 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+22:19:49.734 [MissionAirdrop] An airdrop is heading towards "South Harbor" (pos=<1854.040039, 0.000000, 584.143005> type=Random_South-Harbor) with a ExpansionAirdropContainer_Medical
+22:26:13.882 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+22:26:13.890 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+22:26:13.898 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+22:26:14.843 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:28:36.656 [Safezone] Player "Perfect" (id=IW3MnR3McauttxAmllhiLcVZXXR2zNHDIgpt6drXQpQ= pos=<4728.472656, 6.310415, 2260.993408>) Entered the safezone
+23:28:36.671 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: IW3MnR3McauttxAmllhiLcVZXXR2zNHDIgpt6drXQpQ=
+23:28:36.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:43:57.062 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key IW3MnR3McauttxAmllhiLcVZXXR2zNHDIgpt6drXQpQ= for quest 32
+23:45:15.750 [Safezone] Player "Perfect" (id=IW3MnR3McauttxAmllhiLcVZXXR2zNHDIgpt6drXQpQ= pos=<4648.011230, 2.492324, 2234.856445>) Left the safezone
+23:45:21.343 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4799.543457, 5.989687, 2251.992920>) Entered the safezone
+23:45:21.343 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+23:45:21.359 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+23:45:21.359 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+23:45:22.296 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+23:45:25.742 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Medical
+23:47:09.484 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: IW3MnR3McauttxAmllhiLcVZXXR2zNHDIgpt6drXQpQ=
+23:47:09.484 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:47:09.484 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: IW3MnR3McauttxAmllhiLcVZXXR2zNHDIgpt6drXQpQ=
+23:47:44.492 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4632.995605, 2.492293, 2230.205566>) Left the safezone
+23:48:11.140 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: IW3MnR3McauttxAmllhiLcVZXXR2zNHDIgpt6drXQpQ=
+23:48:11.140 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:48:11.140 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: IW3MnR3McauttxAmllhiLcVZXXR2zNHDIgpt6drXQpQ=
+23:48:41.984 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4667.619141, 2.501128, 2242.941162>) Entered the safezone
+23:51:48.562 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4614.062988, 2.473510, 2226.135254>) Left the safezone
+23:55:16.679 [Party] Player "Lou Sassole" (id=ebo0O4yOjYkK486s9SoqLuFc3tRe1vP1S2eE1IJxhV4=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+23:55:47.281 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+23:59:19.984 [Party] Player "Sharkparty" (id=2H7391gmOSCz4VnnBebcTth-2Sm4qjaSYaboxsOPA1Q=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+23:59:20.023 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+23:59:20.031 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)

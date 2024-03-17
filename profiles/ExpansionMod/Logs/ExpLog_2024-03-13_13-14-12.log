@@ -1,0 +1,57 @@
+13:19:42.500 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: odZRCUxVDaE27wosZZS9vf6g02jPJ4CuIAJRcmRsgwA=
+13:19:42.503 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: odZRCUxVDaE27wosZZS9vf6g02jPJ4CuIAJRcmRsgwA=
+13:24:44.738 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+14:07:04.011 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+14:07:04.011 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+14:22:45.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+14:22:45.750 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+14:29:07.894 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+14:29:07.894 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+14:29:20.917 [VehicleCover] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<7502.119141, 5.192154, 5316.296387>) uncovered vehicle "MUSTANG" (GlobalID=80000000800000008000000080002B6F pos=<7501.969238, 4.794227, 5314.273926>)!
+14:29:27.941 [VehicleCarKey] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<7502.209961, 5.204399, 5315.767090>) used the  ExpansionCarKey to unlock MUSTANG (id=F1527C32854C3197137D6F912C61C747 pos=<7501.969238, 4.794227, 5314.273926>)
+14:30:21.843 [VehicleEnter] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle MUSTANG (id=F1527C32854C3197137D6F912C61C747 pos=<7501.964355, 4.951029, 5314.250000>) as driver
+14:30:24.644 [VehicleEngine] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle MUSTANG (id=F1527C32854C3197137D6F912C61C747 pos=<7501.964355, 4.951018, 5314.250000>)
+14:31:13.171 [VehicleEngine] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] stopped vehicle MUSTANG (id=F1527C32854C3197137D6F912C61C747 pos=<7611.012695, 4.907916, 5287.411621>)
+14:31:17.121 [VehicleLeave] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle MUSTANG (id=F1527C32854C3197137D6F912C61C747 pos=<7611.012695, 4.907916, 5287.411621>)
+14:31:22.125 [VehicleCarKey] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<7612.498535, 4.849220, 5285.342773>) used the  ExpansionCarKey to lock MUSTANG (id=F1527C32854C3197137D6F912C61C747 pos=<7611.012695, 4.907918, 5287.411621>)
+14:32:12.722 [VehicleDeleted] MUSTANG (id=F1527C32854C3197137D6F912C61C747 pos=<7611.012695, 4.907918, 5287.411621>)
+14:32:12.722 [VehicleCover] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<7608.034180, 4.866289, 5289.227051>) covered vehicle "MUSTANG" (GlobalID=80000000800000008000000080002B6F pos=<7611.012695, 4.907918, 5287.411621>)!
+14:44:00.496 [BaseRaiding] BBP_BDoor (<7615.606934, 5.304932, 5304.519531>) Code set by player "[BTWF]CMDR-Chuck_N_Biskitz" (ID = "-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=" at <7616.296387, 5.316540, 5303.947754>) and the code is 841554
+14:47:46.734 [MissionAirdrop] An airdrop is heading towards "Fort Yuma" (pos=<1729.079956, 0.000000, 6552.689941> type=Random_Fort-Yuma) with a ExpansionAirdropContainer_Medical
+15:00:33.894 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: bfeJGIval6Uvun-_ippOaFEZ0dKZTTWr8n4xajk7fkM=
+15:07:22.027 [BaseRaiding] BBP_SDoor (<7615.884766, 5.304932, 5303.023438>) Code set by player "[BTWF]CMDR-Chuck_N_Biskitz" (ID = "-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=" at <7615.522949, 5.316537, 5302.504395>) and the code is 841544
+15:12:35.667 [BaseRaiding] BBP_SDoor (<7616.103027, 5.304932, 5301.675781>) Code set by player "[BTWF]CMDR-Chuck_N_Biskitz" (ID = "-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=" at <7617.264648, 6.413040, 5301.416016>) and the code is 841544
+15:15:22.835 [VehicleCover] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<7610.402344, 4.865475, 5285.677246>) uncovered vehicle "MUSTANG" (GlobalID=80000000800000008000000080002B6F pos=<7611.012695, 4.907918, 5287.411621>)!
+15:15:33.597 [VehicleCarKey] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<7610.431152, 4.865523, 5285.814453>) used the  ExpansionCarKey to unlock MUSTANG (id=73A762FF6445875E10685293E8045106 pos=<7611.012695, 4.907917, 5287.411621>)
+15:15:40.425 [VehicleEnter] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle MUSTANG (id=73A762FF6445875E10685293E8045106 pos=<7611.012695, 4.907917, 5287.411621>) as driver
+15:15:45.292 [VehicleEngine] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle MUSTANG (Locked) (id=73A762FF6445875E10685293E8045106 pos=<7611.012695, 4.907916, 5287.411621>)
+15:16:48.410 [AI Patrol] Spawning 2 Shamans bots at <6712.882813, 19.120001, 3730.219238>
+15:22:55.773 [AI Patrol] Spawning 2 Shamans bots at <6355.190430, 26.129999, 2119.058105>
+15:24:39.746 [AI Patrol] Spawning 2 Shamans bots at <4864.506348, 47.585045, 1212.872437>
+15:24:55.332 [VehicleLeave] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle MUSTANG (id=73A762FF6445875E10685293E8045106 pos=<5492.853027, 30.672598, 1690.281494>)
+15:26:07.101 [VehicleEnter] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] entered vehicle MUSTANG (id=73A762FF6445875E10685293E8045106 pos=<5492.853027, 30.672598, 1690.282104>) as driver
+15:26:08.527 [VehicleEngine] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] started vehicle MUSTANG (id=73A762FF6445875E10685293E8045106 pos=<5492.853027, 30.672598, 1690.281860>)
+15:27:30.328 [Safezone] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4984.327148, 4.464963, 2143.670898>) Entered the safezone
+15:28:02.582 [VehicleLeave] Player [BTWF]CMDR-Chuck_N_Biskitz [uid=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=] left vehicle MUSTANG (id=73A762FF6445875E10685293E8045106 pos=<4993.664551, 10.586517, 2275.162598>)
+15:28:03.910 [VehicleCarKey] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4993.126465, 10.282539, 2277.818359>) used the  ExpansionCarKey to lock MUSTANG (id=73A762FF6445875E10685293E8045106 pos=<4993.664551, 10.586561, 2275.162354>)
+15:28:04.980 [VehicleCarKey] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4993.126465, 10.282539, 2277.818359>) used the  ExpansionCarKey to unlock MUSTANG (id=73A762FF6445875E10685293E8045106 pos=<4993.664551, 10.586561, 2275.162354>)
+15:32:48.078 [VehicleCarKey] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4990.639160, 10.304467, 2276.206055>) used the  ExpansionCarKey to lock MUSTANG (id=73A762FF6445875E10685293E8045106 pos=<4993.664551, 10.586561, 2275.162354>)
+15:33:04.113 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: bfeJGIval6Uvun-_ippOaFEZ0dKZTTWr8n4xajk7fkM=
+15:33:04.113 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: bfeJGIval6Uvun-_ippOaFEZ0dKZTTWr8n4xajk7fkM=
+15:33:20.125 [VehicleDeleted] MUSTANG (id=73A762FF6445875E10685293E8045106 pos=<4993.664551, 10.586561, 2275.162354>)
+15:33:20.125 [VehicleCover] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4990.221680, 10.341760, 2275.277832>) covered vehicle "MUSTANG" (GlobalID=80000000800000008000000080002B6F pos=<4993.664551, 10.586561, 2275.162354>)!
+15:38:32.894 [Safezone] Player "[BTWF]CMDR-Chuck_N_Biskitz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4728.338867, 2.404885, 2536.835205>) Left the safezone
+15:39:22.332 [AI Patrol] Spawning 2 Shamans bots at <2081.592529, 54.799999, 3117.507568>
+16:08:17.628 [AI Patrol] Spawning 2 Shamans bots at <2797.717529, 43.939999, 5861.013184>
+16:12:24.003 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: bfeJGIval6Uvun-_ippOaFEZ0dKZTTWr8n4xajk7fkM=
+16:12:24.003 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: bfeJGIval6Uvun-_ippOaFEZ0dKZTTWr8n4xajk7fkM=
+16:15:40.835 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Basebuilding
+16:17:17.703 [AI Patrol] Spawning 2 Shamans bots at <4414.061035, 4.676620, 7856.328125>
+16:18:25.218 [AI Patrol] Spawning 2 Shamans bots at <4827.018066, 35.841606, 7219.637207>
+16:37:33.960 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: bfeJGIval6Uvun-_ippOaFEZ0dKZTTWr8n4xajk7fkM=
+16:37:33.960 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: bfeJGIval6Uvun-_ippOaFEZ0dKZTTWr8n4xajk7fkM=
+16:46:40.687 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: bfeJGIval6Uvun-_ippOaFEZ0dKZTTWr8n4xajk7fkM=
+16:46:40.687 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: bfeJGIval6Uvun-_ippOaFEZ0dKZTTWr8n4xajk7fkM=
+16:53:51.132 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+16:53:51.132 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+17:38:27.839 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Medical

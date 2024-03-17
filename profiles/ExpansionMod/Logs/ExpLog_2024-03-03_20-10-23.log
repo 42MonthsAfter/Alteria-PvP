@@ -1,0 +1,18 @@
+22:05:24.156 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4803.002930, 5.898783, 2246.969971>) Entered the safezone
+22:05:24.156 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+22:05:24.171 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+22:05:24.171 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+22:05:24.171 [Expansion Quests] - Create new quest instance for quest: 56 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+22:05:24.171 [AI Patrol] Spawning 2 Shamans bots at <4865.255859, 47.770954, 1367.950073>
+22:05:25.109 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+22:08:19.921 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4989.159668, 3.843090, 2105.692139>) Left the safezone
+22:10:25.031 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer
+22:43:41.984 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4666.463867, 2.501129, 2242.896729>) Entered the safezone
+22:45:02.187 [Expansion Quests] - CompleteQuest - Player with UID Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= has completed quest 56
+22:45:45.828 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= for quest 38
+22:46:06.820 [ATM] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) has deposited 200 on his ATM account.
+22:49:36.570 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4627.920410, 2.473506, 2227.354492>) Left the safezone
+23:30:48.820 [AI Patrol] Spawning 2 Shamans bots at <6416.532227, 26.129999, 1973.482544>
+23:34:18.140 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer
+23:49:49.375 [AI Patrol] Spawning 2 Shamans bots at <7515.036621, 26.129999, 2169.725830>
+23:59:20.125 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)

@@ -1,0 +1,8 @@
+11:39:47.464 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4834.682129, 6.716168, 2232.527100>) Entered the safezone
+11:39:47.468 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:39:47.480 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+11:39:47.480 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+11:39:47.488 [AI Patrol] Spawning 2 Shamans bots at <4771.137207, 47.840000, 1281.621216>
+11:39:48.425 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+11:40:37.593 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:44:54.371 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Military

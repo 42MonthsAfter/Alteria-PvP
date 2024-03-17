@@ -1,0 +1,22 @@
+20:29:57.312 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=
+20:35:04.468 [MissionAirdrop] An airdrop is heading towards "Fort Yuma" (pos=<1729.079956, 0.000000, 6552.689941> type=Random_Fort-Yuma) with a ExpansionAirdropContainer_Medical
+20:48:38.203 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+20:48:38.203 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: NUj5dH2QCyzwrXBBkAWpwAeeg4cKJakUjy5gBEZK-I4=
+21:13:05.640 [AI Patrol] Spawning 2 Shamans bots at <2169.335205, 54.799999, 3234.081787>
+21:13:11.343 [AI Patrol] Spawning 2 Shamans bots at <1698.317871, 1.737391, 552.637451>
+21:24:36.515 [AI Patrol] Spawning 2 Shamans bots at <4846.432129, 47.855373, 1384.122681>
+21:33:54.234 [VehicleEnter] Player [ADMIN]DrKilledByDeath [uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=] entered vehicle SUV Camo (id=46D90569AF45248234E0A79D70083BD7 pos=<4062.754883, 10.118629, 4142.663086>) as driver
+21:33:55.562 [VehicleEngine] Player [ADMIN]DrKilledByDeath [uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=] started vehicle SUV Camo (id=46D90569AF45248234E0A79D70083BD7 pos=<4062.751465, 10.118626, 4142.663086>)
+21:34:37.890 [VehicleLeave] Player [ADMIN]DrKilledByDeath [uid=spMEkRl42onhFHdF_u42e0T03x2sj347kUc600NXdGA=] left vehicle SUV Camo (id=46D90569AF45248234E0A79D70083BD7 pos=<4060.363281, 10.976960, 4157.290039>)
+21:41:16.218 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: kjSnWOEfP0_cRNIu0UrDnA_f5_zh7XbZeQLZYBPNUE4=
+21:59:27.125 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+21:59:35.468 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Medical
+22:07:32.968 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: kjSnWOEfP0_cRNIu0UrDnA_f5_zh7XbZeQLZYBPNUE4=
+22:07:32.968 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: kjSnWOEfP0_cRNIu0UrDnA_f5_zh7XbZeQLZYBPNUE4=
+22:20:44.382 [AI Patrol] Spawning 2 Shamans bots at <2717.062988, 43.939999, 5838.391602>
+22:37:02.781 [VehicleEnter] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] entered vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3619.778564, 4.653448, 5989.425293>) as driver
+22:37:05.812 [VehicleEngine] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] started vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3619.778320, 4.653445, 5989.425293>)
+22:38:01.703 [VehicleLeave] Player FinnMcCool [uid=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=] left vehicle LUAZ 969 rust (id=9D4A8AD30940B36AE45B558695125EE6 pos=<3701.888672, 17.553251, 6280.217285>)
+22:51:19.140 [AI Patrol] Spawning 2 Shamans bots at <4813.094238, 31.397280, 7350.362305>
+23:00:47.375 [AI Patrol] Spawning 2 Shamans bots at <4282.006836, 15.752214, 7627.432617>
+23:24:22.468 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer

@@ -1,0 +1,29 @@
+12:02:47.140 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+12:07:47.410 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer
+12:22:57.746 [AI Patrol] Spawning 2 Shamans bots at <6855.731445, 19.120001, 3713.487549>
+12:57:09.687 [AI Patrol] Spawning 2 Shamans bots at <5932.110352, 26.129999, 1948.656738>
+13:10:44.632 [Safezone] Player "FinnMcCool" (id=KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI= pos=<5070.592285, 1.784792, 2349.697510>) Entered the safezone
+13:11:19.117 [AI Patrol] Spawning 2 Shamans bots at <4829.866699, 47.840000, 1264.197144>
+15:36:26.195 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4972.510742, 2.972627, 2423.915771>) Entered the safezone
+15:36:26.199 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+15:36:26.214 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+15:36:26.214 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 10
+15:36:26.214 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+15:36:26.414 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Basebuilding
+15:36:27.164 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+15:40:29.886 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<5021.140625, -1.149692, 2460.905762>) Left the safezone
+15:42:58.398 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+15:43:07.593 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+15:43:07.601 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+15:43:07.601 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+15:43:07.601 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+15:43:08.562 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+15:43:41.062 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+15:44:06.906 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+15:44:06.914 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+15:44:06.914 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+15:44:06.914 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+15:44:07.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+15:51:02.175 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+17:48:59.929 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Dj-6_aSgGuPVYaq-POeeqvRPr_91gVAi6qp9fgRrqHk=
+17:49:02.636 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Basebuilding

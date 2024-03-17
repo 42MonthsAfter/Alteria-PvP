@@ -1,0 +1,12 @@
+09:02:05.378 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5046.387207, 4.531971, 2353.598389>) Entered the safezone
+09:02:05.394 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+09:02:05.394 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+09:02:05.400 [AI Patrol] Spawning 2 Shamans bots at <4946.461914, 44.428951, 1400.984131>
+09:03:04.009 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2395.946289, 56.452492, 3488.664795>) Left the safezone
+09:04:29.394 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<4966.954102, 8.223401, 2272.968018>) Entered the safezone
+09:06:57.722 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= for quest 33
+09:07:13.574 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Medical
+09:10:04.113 [Safezone] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<5104.779297, 1.813967, 2371.796875>) Left the safezone
+09:10:30.191 [AI Patrol] Spawning 2 Shamans bots at <5984.357910, 26.129999, 1811.959229>
+09:53:32.449 [AI Patrol] Spawning 2 Shamans bots at <7299.620117, 26.129999, 2216.458984>
+10:06:44.257 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<97449d00> at <6541.44, 26.19, 1992.82> EXPLOSION range 20 dropoff 5

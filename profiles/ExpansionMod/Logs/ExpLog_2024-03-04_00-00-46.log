@@ -1,0 +1,20 @@
+01:14:33.609 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: voYgN-M6qkPKqS22DTjkTAbtdXRSe2jYJ6lpDUGEgSQ=
+01:19:38.223 [MissionAirdrop] An airdrop is heading towards "Mt Helikon" (pos=<6612.930176, 0.000000, 4908.759766> type=Random_Mt-Helikon) with a ExpansionAirdropContainer
+01:29:53.863 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+01:29:53.870 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+01:29:53.871 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+01:29:53.871 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+01:29:53.876 [AI Patrol] Spawning 2 Shamans bots at <7567.840820, 26.129999, 2093.804199>
+01:29:54.819 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+01:39:43.764 [AI Patrol] Spawning 2 Shamans bots at <6507.196289, 26.129999, 1921.106079>
+02:12:59.928 [AI Patrol] Spawning 2 Shamans bots at <4885.745605, 47.840000, 1314.654541>
+02:18:41.893 [Safezone] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= pos=<4984.666504, 3.842100, 2144.255615>) Entered the safezone
+02:20:09.572 [Expansion Quests] - CompleteQuest - Player with UID Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= has completed quest 38
+02:20:22.669 [ATM] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) has deposited 500 on his ATM account.
+02:24:30.303 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= for quest 32
+02:25:32.834 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+02:58:05.601 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: voYgN-M6qkPKqS22DTjkTAbtdXRSe2jYJ6lpDUGEgSQ=
+02:58:05.602 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: voYgN-M6qkPKqS22DTjkTAbtdXRSe2jYJ6lpDUGEgSQ=
+02:58:11.226 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Military
+04:22:44.225 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Military
+04:46:36.412 [AI Patrol] Spawning 2 Shamans bots at <2637.675781, 38.850761, 5637.743164>

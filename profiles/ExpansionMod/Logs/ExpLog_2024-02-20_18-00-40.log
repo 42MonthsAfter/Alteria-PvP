@@ -1,0 +1,178 @@
+18:03:38.792 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+18:03:38.792 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:03:38.792 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+18:08:39.015 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Medical
+18:15:46.023 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: kYX6vAhwvvslTLKD-4LKWyJ7SYRzi3L63iF64xRXCf8=
+18:15:46.023 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+18:18:13.703 [AI Patrol] Spawning 2 Shamans bots at <2753.930664, 43.939999, 5865.433594>
+18:26:46.070 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+18:26:46.070 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+18:28:34.554 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): GUNNA MAKE IT LIGHT OUT GUYS. 
+18:28:45.367 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): GOTTA DO SOME THINGS.  QUICK 
+18:29:00.437 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): GET SOME NEW HUNTS PUT OUT THERE FOR YALL
+18:31:37.742 [AI Patrol] Spawning 2 Shamans bots at <4941.471191, 47.645889, 1292.405029>
+18:31:37.804 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<4823.469238, 6.322500, 2260.716309>) Entered the safezone
+18:31:57.351 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): Are yall able to go into 3pp
+18:32:43.523 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): ok.  that will change again soon.  
+18:32:58.718 [Chat - Admin]("(ADMIN)BLUE"(id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=)): gotta love day z updated
+18:33:24.531 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<6904.222656, 62.118660, 784.535706>) Left the safezone
+18:33:34.796 [AI Patrol] Spawning 2 Shamans bots at <6490.281738, 27.104494, 1940.108887>
+18:34:12.437 [AI Patrol] Spawning 2 Shamans bots at <4588.519043, 15.828461, 7476.615723>
+18:35:37.625 [AI Patrol] Spawning 2 Shamans bots at <4445.602539, 15.700000, 7681.373047>
+18:36:20.781 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+18:36:20.789 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+18:36:20.789 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+18:36:21.726 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+18:50:41.320 [BaseRaiding] BBP_BDoor (<6470.259766, 66.703087, 6533.646484>) Code set by player "Captain Chaos" (ID = "KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=" at <6471.175781, 66.958061, 6534.580078>) and the code is 1776
+18:51:08.125 [Territory] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created territory canttouchthis at <2223.826660, 63.183746, 3029.357178>
+18:53:24.546 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<2220.628662, 55.140251, 3026.479980>) used the Admin Hammer to build frame
+18:53:32.554 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<2220.628662, 55.140251, 3026.479980>) used the Admin Hammer to build t3_wall_concrete_bricks
+18:53:43.085 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<2220.629150, 55.140251, 3026.480225>) used the Admin Hammer to build t3_door
+18:54:11.273 [BaseRaiding] BBP_SDoor (<2220.609863, 54.527855, 3025.345947>) Code set by player "(ADMIN)BLUE" (ID = "OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=" at <2220.669922, 55.140251, 3026.453125>) and the code is 1442
+18:54:59.554 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<2216.755859, 55.140293, 3032.341553>) used the Admin Hammer to build frame
+18:55:06.023 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<2216.755859, 55.140293, 3032.341553>) used the Admin Hammer to build t3_wall_concrete_bricks
+18:55:33.289 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<2221.253418, 59.242138, 3034.294434>) used the Admin Hammer to build frame
+18:55:38.921 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<2221.253418, 59.242138, 3034.294434>) used the Admin Hammer to build t1_wall_planks
+18:55:46.421 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<2221.253418, 59.242138, 3034.294434>) used the Admin Hammer to build t2_metal_2
+18:56:00.726 [AdminTools] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<2221.253906, 59.242138, 3034.294922>) used the Admin Hammer to build t1_door
+18:56:14.859 [BaseRaiding] BBP_BDoor (<2219.854736, 59.162033, 3033.659668>) Code set by player "(ADMIN)BLUE" (ID = "OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=" at <2221.061035, 59.242138, 3034.234863>) and the code is 1442
+19:03:24.921 [Expansion Quests] - CompleteQuest - Player with UID OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= has completed quest 99
+19:03:24.953 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<4852.449707, 12.384011, 2316.665527>) Entered the safezone
+19:05:03.320 [Safezone] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= pos=<3978.861328, 107.646072, 1038.034180>) Left the safezone
+19:20:27.859 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) joinded the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+19:20:27.875 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=
+19:20:27.875 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:20:28.812 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+19:30:10.820 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4758.226074, 7.729414, 2268.299316>) Entered the safezone
+19:30:10.820 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) joinded the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+19:30:10.828 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=
+19:30:10.828 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 2
+19:30:11.773 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 2
+19:30:39.031 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Basebuilding
+19:30:55.718 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= for quest 33
+19:33:33.007 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+19:33:33.015 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+19:33:33.015 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+19:33:33.015 [Expansion Quests] - Create new quest instance for quest: 32 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+19:33:33.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:35:20.992 [Safezone] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= pos=<4728.174805, 2.404932, 2535.771240>) Left the safezone
+19:35:25.828 [Chat - Team]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): d
+19:35:47.648 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): we going out looting what are you wearing lets go brandon
+19:36:46.078 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): hunter gear, black helmet
+19:36:48.937 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): ok
+19:38:08.593 [Chat - Global]("Lets_G0_Brandon"(id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=)): lord this ruger is loud
+19:41:56.773 [Party] Player "Lets_G0_Brandon" (id=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs=) left the party "Hard Gits" (id=2 ownerUID=RjqUafmWjW9Q1BHza4n7WoZ_8uUWujoz2w-ciuQaZcs= ownerName=Lets_G0_Brandon)
+19:51:42.578 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+19:51:42.578 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:51:42.578 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+19:57:52.085 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<8016d7d0> at <6907.54, 62.15, 771.53> EXPLOSION range 12 dropoff 3
+19:57:52.085 [Killfeed] Hooligan-235 was killed by an explosion caused by EGD-5 Frag Grenade.
+19:58:22.289 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+19:58:23.281 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:58:26.546 [Chat - Global]("PipPapScallywap"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): gotta watch them grenades, they bite
+19:58:43.468 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): lol
+19:58:56.953 [Chat - Global]("Hooligan-235"(id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=)): nice 1
+20:04:17.460 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): THIS FUCKING RAIN I TELL YOU WHAT
+20:04:47.062 [Chat - Global]("PipPapScallywap"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): its wet and hard
+20:04:56.609 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): i like that tho
+20:05:17.351 [Chat - Global]("PipPapScallywap"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): yummy
+20:10:14.367 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<1f1180c0> at <2299, 70.32, 3228.83> EXPLOSION range 20 dropoff 5
+20:20:49.406 [AI Patrol] Spawning 2 Shamans bots at <2184.546143, 54.799999, 3226.286133>
+20:29:59.250 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from Expansion_M203_HE_Explosion<985dcff0> at <2181.29, 61.17, 3132.65> EXPLOSION range 12 dropoff 3
+20:32:43.015 [Chat - Global]("PipPapScallywap"(id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=)): My sight just saved my life. Ai shot it and not my head
+20:33:27.804 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+20:35:14.023 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+20:35:14.023 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:35:14.023 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+20:56:31.031 [MissionAirdrop] An airdrop is heading towards "Fort Yuma" (pos=<1729.079956, 0.000000, 6552.689941> type=Random_Fort-Yuma) with a ExpansionAirdropContainer_Military
+20:59:18.351 [AI Patrol] Spawning 2 Shamans bots at <6805.402344, 19.120001, 3664.134766>
+21:02:42.859 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+21:02:42.859 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+21:02:42.859 [Expansion Quests] - Create new quest instance for quest: 33 - Player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+21:06:46.312 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+21:06:46.312 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+21:06:46.312 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+21:16:46.054 [VehicleCover] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2403.306396, 56.452496, 3491.669434>) uncovered vehicle "NivaPickup_red" (GlobalID=800000008000000080000000800002E1 pos=<2400.125732, 56.493370, 3490.804199>)!
+21:16:52.976 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2403.156982, 56.452496, 3492.606689>) used the  ExpansionCarKey to unlock NivaPickup_red (id=4E0D82C6B84928298504C7B7191FCD7D pos=<2400.126953, 56.493385, 3490.802002>)
+21:20:42.734 [VehicleCarKey] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2402.701416, 56.452457, 3492.713623>) used the  ExpansionCarKey to lock NivaPickup_red (id=4E0D82C6B84928298504C7B7191FCD7D pos=<2400.126953, 56.493385, 3490.802002>)
+21:20:52.812 [VehicleDeleted] NivaPickup_red (id=4E0D82C6B84928298504C7B7191FCD7D pos=<2400.126953, 56.493385, 3490.802002>)
+21:20:52.820 [VehicleCover] Player "PipPapScallywap" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= pos=<2402.999268, 56.452496, 3492.944336>) covered vehicle "NivaPickup_red" (GlobalID=800000008000000080000000800002E1 pos=<2400.126953, 56.493385, 3490.802002>)!
+21:39:34.921 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<4815.354004, 11.062550, 2313.187012>) Entered the safezone
+21:39:40.304 [Safezone] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4799.351074, 6.322499, 2273.173096>) Entered the safezone
+21:42:39.085 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= for quest 10
+21:46:14.296 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= for quest 10
+21:47:03.328 [Safezone] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4626.553223, 2.473499, 2229.061279>) Left the safezone
+21:47:10.578 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<4614.565918, 2.473475, 2224.074951>) Left the safezone
+22:19:45.156 [Safezone] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4667.313477, 2.501126, 2242.906494>) Entered the safezone
+22:19:59.046 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<4668.823242, 2.501148, 2241.910156>) Entered the safezone
+22:20:30.804 [Expansion Quests] - CompleteQuest - Player with UID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= has completed quest 10
+22:20:44.710 [Expansion Quests] - CompleteQuest - Player with UID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= has completed quest 10
+22:20:45.250 [ATM] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has deposited 100 on his ATM account.
+22:21:21.039 [ATM] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has withdrawn 121 from his ATM account.
+22:21:48.093 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+22:21:48.195 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+22:21:51.062 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+22:21:51.140 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+22:21:52.664 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+22:21:52.765 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+22:22:03.156 [Market] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has send a requested to purchase ammobox_762x39_20rnd x3 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+22:22:03.281 [Market] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has bought ammobox_762x39_20rnd x3 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 96.
+22:22:07.890 [ATM] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has deposited 4 on his ATM account.
+22:22:14.046 [ATM] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has deposited 25 on his ATM account.
+22:23:59.070 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Military
+22:25:03.726 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= for quest 31
+22:26:05.046 [Safezone] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4992.994141, 3.843100, 2088.994629>) Left the safezone
+22:37:01.726 [Expansion Quests] - CreateQuestInstance - Created new quest instance for with instance key KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= for quest 31
+22:38:23.265 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<4991.539063, 3.843081, 2086.918945>) Left the safezone
+23:31:25.296 [Safezone] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4815.354004, 10.259772, 2296.958008>) Entered the safezone
+23:31:54.054 [Expansion Quests] - CompleteQuest - Player with UID eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= has completed quest 31
+23:32:20.484 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<4820.916016, 6.322500, 2253.107910>) Entered the safezone
+23:33:06.984 [Expansion Quests] - CompleteQuest - Player with UID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= has completed quest 31
+23:33:10.468 [ATM] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) has deposited 500 on his ATM account.
+23:33:43.132 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:43.265 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:33:44.070 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:44.179 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:33:44.859 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:44.953 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:33:45.765 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:45.898 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:33:46.656 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:46.765 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:33:49.281 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:49.367 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:33:50.171 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:50.312 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:33:51.156 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:51.242 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:33:51.937 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:52.046 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:33:52.781 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:52.921 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_762x39_20rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 32.
+23:33:56.132 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:56.242 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 40.
+23:33:56.796 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:56.914 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 40.
+23:33:57.500 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:57.625 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 40.
+23:33:58.296 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has send a requested to purchase ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>).
+23:33:58.421 [Market] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has bought ammobox_9x19_25rnd x1 from the trader "Magazines (Oliver [AMMO & MAGAZINES])" in market zone "The Holler" (pos=<4864.000000, 0.000000, 2314.000000>) for a price of 40.
+23:34:11.429 [ATM] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) has deposited 20 on his ATM account.
+23:38:45.007 [VehicleEnter] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] entered vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<4787.331055, 6.360810, 2289.736816>) as pilot
+23:38:49.046 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] started vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<4787.331055, 6.359896, 2289.736816>)
+23:39:28.226 [VehicleEnter] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] entered vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<4787.332520, 6.360965, 2289.738037>) as passenger
+23:40:06.898 [Safezone] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= pos=<4971.762695, 167.705338, 2696.556885>) Left the safezone
+23:40:06.921 [Safezone] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= pos=<4971.594238, 168.105255, 2696.195313>) Left the safezone
+23:45:57.562 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: wEX4z-fmSZYN7FUqd470h64gb-vV0NTESa4CkTAFHcQ=
+23:45:57.562 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:47:05.507 [VehicleEngine] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] stopped vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6477.103027, 98.463058, 6546.601563>)
+23:47:09.250 [VehicleLeave] Player Captain Chaos [uid=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=] left vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6477.137695, 97.583427, 6546.518066>)
+23:47:11.609 [VehicleLeave] Player DirtyDan [uid=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=] left vehicle Gyrocopter (id=0B81662452418FB35EFD43B511E0B80D pos=<6477.137695, 97.583420, 6546.518066>)
+23:48:03.070 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Basebuilding
+23:49:59.156 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: Rrl_fbFn_s42O_Aa6PvejfU-hx4KTbrqJ7a9ImvhM1Q=
+23:49:59.156 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:52:18.828 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): any one looking for something let me or my crew know.
+23:52:33.179 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): it will come at a price tho
+23:54:09.906 [Chat - Global]("DirtyDan"(id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=)): sitting at 22 plus guns 
+23:59:19.500 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)
+23:59:19.531 [Party] Player "DirtyDan" (id=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w=) left the party "Dirtydan" (id=0 ownerUID=eZvdqnhxQZeB4Wvp7ko5cFy79bCUMACrCdUKq6S9F3w= ownerName=DirtyDan)

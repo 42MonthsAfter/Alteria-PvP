@@ -1,0 +1,84 @@
+18:04:33.656 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+18:04:33.664 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:04:33.664 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 4
+18:04:33.664 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+18:04:34.621 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+18:08:43.234 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+18:09:34.781 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer_Military
+18:47:01.273 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: ND82aY1vOEWcJGuKFgR-KgmsAOM1o0OoAxTbmapNm2U=
+18:47:01.281 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+19:21:35.234 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) joinded the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+19:21:35.234 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+19:21:35.234 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:21:35.242 [Expansion Quests] - Create new quest instance for quest: 38 - Player UID: Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=
+19:21:36.195 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 4
+19:24:35.296 [AI Patrol] Spawning 2 Shamans bots at <4954.533203, 46.699108, 1350.174438>
+19:32:37.781 [MissionAirdrop] An airdrop is heading towards "Apple Orchard" (pos=<4814.680176, 0.000000, 1308.500000> type=Random_Apple-Orchard) with a ExpansionAirdropContainer_Medical
+19:34:13.375 [Party] Player "Hooligan-235" (id=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U=) left the party "AFL" (id=4 ownerUID=Lz9Kmumu1QnE7HX0I_hIz0vW-Eq-ERMw5EWCTjeKz4U= ownerName=Hooligan-235)
+21:24:02.671 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=
+21:24:02.671 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+21:24:03.484 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=
+21:24:03.484 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+21:24:11.046 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Medical
+21:44:18.726 [AI Patrol] Spawning 2 Shamans bots at <2586.809814, 43.790371, 5682.337402>
+21:53:07.078 [AI Patrol] Spawning 2 Shamans bots at <4884.558594, 29.770620, 7306.676758>
+22:15:46.281 [Party] Player "DADDYACE" (id=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=) joinded the party "DILFS" (id=11 ownerUID= ownerName=)
+22:15:46.281 [Party] Player "DADDYACE" (id=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=) created a party named DILFS (DILF)
+22:15:47.281 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 11
+22:15:53.710 [Party] Player "DADDYACE" (id=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=) invited the player "freedom.ghost " (id=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=)to the party named DILFS
+22:16:10.500 [Party] Player "freedom.ghost " (id=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=) joinded the party "DILFS" (id=11 ownerUID=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE= ownerName=DADDYACE)
+22:16:11.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+22:48:04.781 [VehicleAttachments] Player DADDYACE (uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=) detached Crossbow (type=Crossbow_Autumn) from vehicle Velociraptor6x6(id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1761.656006, 13.029811, 5090.371582>)
+22:48:10.375 [VehicleEnter] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1761.655884, 13.029835, 5090.370605>) as driver
+22:48:23.500 [VehicleLeave] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1761.655884, 13.029732, 5090.374512>)
+22:48:30.070 [VehicleEnter] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1761.655762, 13.029894, 5090.368164>) as driver
+22:48:33.125 [VehicleEnter] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1761.655884, 13.029896, 5090.368164>) as passenger
+22:48:33.265 [VehicleEngine] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] started vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1761.655762, 13.029882, 5090.368652>)
+22:50:32.460 [VehicleLeave] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1765.180298, 13.432070, 5021.619141>)
+22:52:09.046 [MissionAirdrop] An airdrop is heading towards "Deadman's Rock" (pos=<1541.849976, 0.000000, 6417.939941> type=Random_Deadmans-Rock) with a ExpansionAirdropContainer_Medical
+22:53:12.460 [VehicleEnter] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1731.855835, 17.656641, 4945.719238>) as passenger
+22:54:53.968 [VehicleLeave] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1797.175049, 33.062645, 4140.965332>)
+22:54:55.039 [VehicleLeave] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1797.175781, 33.062622, 4140.964355>)
+23:02:24.226 [ExplosionDamageSystem] About to explode FlashGrenade_Ammo from FlashGrenade<6252960> at <1758.92, 37.25, 4138.2> EXPLOSION range 20 dropoff 5
+23:02:41.335 [VehicleEnter] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1797.183594, 33.062664, 4140.976074>) as driver
+23:02:44.476 [VehicleEnter] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1797.181885, 33.062752, 4140.978027>) as passenger
+23:02:47.148 [VehicleEngine] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] started vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<1797.184082, 33.062645, 4140.975586>)
+23:03:27.742 [AI Patrol] Spawning 2 Shamans bots at <2104.318848, 54.799999, 3082.978760>
+23:07:24.078 [VehicleLeave] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<3793.485596, 43.773705, 1803.787598>)
+23:07:26.453 [VehicleLeave] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<3793.487793, 43.773731, 1803.790283>)
+23:07:32.109 [VehicleEnter] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<3793.485840, 43.773754, 1803.788574>) as driver
+23:07:37.531 [VehicleLeave] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<3793.488281, 43.773792, 1803.791504>)
+23:08:55.781 [VehicleEnter] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<3793.488281, 43.773796, 1803.791626>) as passenger
+23:09:04.539 [VehicleEnter] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<3793.487061, 43.773830, 1803.790771>) as driver
+23:09:06.921 [VehicleLeave] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<3793.488525, 43.773853, 1803.792603>)
+23:09:14.187 [VehicleEnter] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<3793.486572, 43.773781, 1803.789551>) as driver
+23:09:18.625 [VehicleEngine] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] started vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<3793.488281, 43.773808, 1803.791626>)
+23:12:40.195 [Safezone] Player "DADDYACE" (id=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE= pos=<4986.017578, 5.007604, 2143.555176>) Entered the safezone
+23:12:40.195 [Safezone] Player "freedom.ghost " (id=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw= pos=<4985.118652, 5.009059, 2143.468750>) Entered the safezone
+23:13:00.125 [VehicleLeave] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<4900.585449, 6.343170, 2255.923340>)
+23:13:03.039 [VehicleLeave] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<4900.583984, 6.343162, 2255.921387>)
+23:13:11.242 [Expansion Quests] - CompleteQuest - Player with UID P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE= has completed quest 99
+23:13:38.414 [Expansion Quests] - CompleteQuest - Player with UID FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw= has completed quest 99
+23:17:13.750 [Party] Player "DADDYACE" (id=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=) left the party "DILFS" (id=11 ownerUID=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE= ownerName=DADDYACE)
+23:17:26.070 [Safezone] Player "DADDYACE" (id=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE= pos=<4840.320313, 6.322449, 2238.634033>) Entered the safezone
+23:17:26.070 [Party] Player "DADDYACE" (id=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=) joinded the party "DILFS" (id=11 ownerUID=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE= ownerName=DADDYACE)
+23:17:26.078 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=
+23:17:26.078 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+23:17:27.031 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 11
+23:23:46.640 [VehicleEnter] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<4900.583496, 6.343162, 2255.920654>) as driver
+23:23:49.453 [VehicleLeave] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<4900.582520, 6.343160, 2255.920166>)
+23:24:11.578 [VehicleEnter] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<4900.584473, 6.343169, 2255.921631>) as driver
+23:24:13.664 [VehicleEngine] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] started vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<4900.583984, 6.343167, 2255.921143>)
+23:24:38.328 [VehicleLeave] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<4810.261230, 6.334128, 2259.349365>)
+23:27:35.554 [VehicleEnter] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<4810.262207, 6.334134, 2259.350586>) as driver
+23:27:38.531 [VehicleEngine] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] started vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<4810.261719, 6.334112, 2259.346924>)
+23:27:50.507 [VehicleEnter] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<4810.262207, 6.334134, 2259.350586>) as passenger
+23:28:36.445 [Safezone] Player "DADDYACE" (id=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE= pos=<4999.239258, 10.091947, 1997.766479>) Left the safezone
+23:28:36.570 [Safezone] Player "freedom.ghost " (id=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw= pos=<4999.166016, 10.148449, 1996.195679>) Left the safezone
+23:30:04.445 [VehicleLeave] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<5677.960938, 56.785793, 795.548645>)
+23:30:14.695 [VehicleLeave] Player DADDYACE [uid=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<5677.959961, 56.785770, 795.548157>)
+23:30:18.492 [VehicleEnter] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] entered vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<5677.959961, 56.785751, 795.548035>) as driver
+23:30:22.265 [VehicleEngine] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] started vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<5677.960938, 56.785816, 795.549622>)
+23:31:48.265 [VehicleLeave] Player freedom.ghost  [uid=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=] left vehicle Velociraptor6x6 (id=4C78CAAFF34DF33E6E910F9AE968B537 pos=<5829.906250, 21.543621, 611.330872>)
+23:32:22.750 [Party] Player "freedom.ghost " (id=FOseP9ETo2wG2v9R6SgrfcvWnelsx-UkMg_X961jabw=) left the party "DILFS" (id=11 ownerUID=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE= ownerName=DADDYACE)
+23:33:15.117 [Party] Player "DADDYACE" (id=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE=) left the party "DILFS" (id=11 ownerUID=P2Y4lSZY1AFgtKpXZj0R5qj5z8zLP3HwpgxHAUXFnNE= ownerName=DADDYACE)

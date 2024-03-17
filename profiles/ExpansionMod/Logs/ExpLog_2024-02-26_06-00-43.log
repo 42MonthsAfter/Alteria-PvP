@@ -1,0 +1,84 @@
+06:30:31.083 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+06:30:31.091 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+06:30:31.091 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 9
+06:30:31.091 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+06:30:32.052 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+06:35:34.193 [MissionAirdrop] An airdrop is heading towards "Mt Lapithas" (pos=<5540.580078, 0.000000, 4123.680176> type=Random_Mt-Lapithas) with a ExpansionAirdropContainer_Basebuilding
+06:35:51.355 [AI Patrol] Spawning 2 Shamans bots at <2551.281250, 43.939999, 5758.475098>
+06:49:06.785 [Killfeed] brailsford40 got killed by Survivor (Shamans) with KAS-74U from a distance of 5 m.
+06:49:30.382 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+06:49:31.376 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+07:14:40.802 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+07:49:55.738 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+07:49:55.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=
+07:49:55.750 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+07:49:55.751 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=
+07:49:56.716 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+07:55:06.558 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+07:55:07.552 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+07:58:14.191 [MissionAirdrop] An airdrop is heading towards "Robildo" (pos=<2597.330078, 0.000000, 5918.459961> type=Random_Robildo) with a ExpansionAirdropContainer_Basebuilding
+08:12:10.347 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) left the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+08:16:02.837 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+08:16:02.837 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+08:16:27.669 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) joinded the party "DIE HARD" (id=10 ownerUID= ownerName=)
+08:16:27.669 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) created a party named DIE HARD (DIE)
+08:16:28.669 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 10
+08:16:31.964 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) invited the player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=)to the party named DIE HARD
+08:16:37.406 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:16:38.404 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+08:35:37.441 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+08:35:38.884 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+09:42:34.937 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+09:42:34.945 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+09:42:34.945 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+09:42:34.945 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+09:42:35.921 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+09:42:37.191 [MissionAirdrop] An airdrop is heading towards "Kefka" (pos=<6764.890137, 0.000000, 3778.790039> type=Random_Kefka) with a ExpansionAirdropContainer
+09:43:36.296 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+09:43:36.304 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+09:43:36.304 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+09:43:36.304 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=
+09:43:37.285 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 9
+09:47:16.453 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "BLAA" (id=9 ownerUID=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= ownerName=brailsford40)
+09:48:11.507 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) invited the player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=)to the party named DIE HARD
+09:48:21.437 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+09:48:22.437 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+09:54:04.746 [Killfeed] brailsford40 died from Wound Infection.
+09:54:28.406 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+09:54:29.398 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+10:06:22.496 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:22:12.347 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:22:12.355 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=
+10:22:12.355 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+10:22:12.355 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=
+10:22:13.320 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+10:23:48.996 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+10:23:48.996 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+10:23:48.996 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+10:24:41.492 [AI Patrol] Spawning 2 Shamans bots at <5977.514160, 26.129999, 1932.158569>
+10:32:11.812 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:32:11.820 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+10:32:11.820 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+10:32:11.824 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=
+10:32:12.796 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+10:33:41.269 [AI Patrol] Spawning 2 Shamans bots at <7550.407715, 26.164423, 1832.248169>
+10:52:57.257 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+10:55:07.273 [Chat - Global]("Nick Leadbeatter"(id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=)): hello
+11:06:00.195 [MissionAirdrop] An airdrop is heading towards "the Mine" (pos=<3056.280029, 0.000000, 1123.099976> type=Random_Mine) with a ExpansionAirdropContainer_Basebuilding
+11:07:02.718 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) joinded the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:07:02.726 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=
+11:07:02.726 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+11:07:02.726 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=
+11:07:03.679 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 10
+11:08:48.195 [Party] Player "TomInTheNorth" (id=qD1dO4Xthw_yK-reAyR_a51VmE_30ATNiMf9gwL8oGM=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:18:51.054 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4668.660645, 2.501147, 2241.932129>) Entered the safezone
+11:19:19.839 [Safezone] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= pos=<4666.628418, 2.501123, 2242.612793>) Entered the safezone
+11:20:24.613 [AI Patrol] Spawning 2 Shamans bots at <4876.266113, 47.782570, 1250.190552>
+11:20:49.617 [Expansion Quests] - CompleteQuest - Player with UID JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= has completed quest 99
+11:26:25.882 [Expansion Quests] - CompleteQuest - Player with UID HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= has completed quest 99
+11:27:24.078 [Party] Player "Nick Leadbeatter" (id=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)
+11:37:13.609 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+11:37:13.609 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+11:37:13.609 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8V9vYMfyFvYfishMv_S8eZy-V1Zoaz2pW6SNVdAh6ck=
+11:43:35.718 [Safezone] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o= pos=<4994.950684, 3.843088, 2076.000244>) Left the safezone
+11:59:19.695 [Party] Player "brailsford40" (id=HQAtXFe6fZZL90M2CD_a22otF9NJ2s4t7n-ol5BAu6o=) left the party "DIE HARD" (id=10 ownerUID=JmVdSu0kzNbOpwjpFV-MDcMB-Equ3yPY-l-COMb6HgY= ownerName=Nick Leadbeatter)

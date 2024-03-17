@@ -1,0 +1,12 @@
+22:20:15.851 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+22:20:15.851 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+22:20:15.851 [Expansion Quests] - Create new quest instance for quest: 1 - Player UID: KRyMpbUrusxw3039QqIeik3znMfIL0peuzchFYzzOUI=
+22:24:37.187 [AI Patrol] Spawning 2 Shamans bots at <7582.542969, 26.129999, 2211.956787>
+22:25:17.406 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Basebuilding
+22:58:36.265 [AI Patrol] Spawning 2 Shamans bots at <6396.438477, 26.129999, 1894.175415>
+23:35:37.375 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: B11ZKNufTZgtsm9uy9qfodwmB-W8Dm-EeJnX_nmN-pE=
+23:35:37.375 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:50:14.265 [AI Patrol] Spawning 2 Shamans bots at <2502.808838, 43.939999, 5802.953613>
+23:51:21.109 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: ZawjbPkWak4HJ21ROnGuGMPNDy7NeAO3CfnGiWyUFIc=
+23:51:21.109 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:51:26.406 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Basebuilding

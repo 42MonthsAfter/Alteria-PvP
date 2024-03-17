@@ -1,0 +1,9 @@
+18:01:32.710 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: bfeJGIval6Uvun-_ippOaFEZ0dKZTTWr8n4xajk7fkM=
+18:01:32.714 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: bfeJGIval6Uvun-_ippOaFEZ0dKZTTWr8n4xajk7fkM=
+18:06:35.507 [MissionAirdrop] An airdrop is heading towards "Fort Yuma" (pos=<1729.079956, 0.000000, 6552.689941> type=Random_Fort-Yuma) with a ExpansionAirdropContainer_Military
+18:13:03.054 [AI Patrol] Spawning 2 Shamans bots at <2590.071533, 43.939999, 5708.070801>
+18:21:23.898 [Killfeed] PaiN died from Wound Infection.
+19:16:26.531 [Killfeed] PaiN died from Wound Infection.
+20:03:02.250 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+20:03:02.250 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: 8aHbwb5XZ9Gq0J-7qO1AVn3G8YD6-lBt4iCz53aUxso=
+20:03:05.523 [MissionAirdrop] An airdrop is heading towards "Military Transmitting Station" (pos=<6328.509766, 0.000000, 979.291016> type=Random_Military-Transmitting-Station) with a ExpansionAirdropContainer_Basebuilding

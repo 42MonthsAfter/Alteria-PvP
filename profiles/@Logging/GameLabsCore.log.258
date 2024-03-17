@@ -1,0 +1,8 @@
+************************** 2024-03-15T12:37:56+00:00 **************************
+2024-03-15T12:37:56+00:00 | [INFO	] GameLabs v1.932 start for server 78da06b5-bc0a-424b-9b66-a42c7f89719f
+2024-03-15T12:38:04+00:00 | [INFO	] Server up (GameLabs v1.932)
+2024-03-15T12:38:04+00:00 | [INFO	] RPC interface initiated and handler registered
+2024-03-15T12:38:04+00:00 | [INFO	] Experimental speed check is enabled
+2024-03-15T12:38:05+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2024-03-15T13:07:29+00:00 | [INFO	] (Reporter) Disabled
+2024-03-15T13:07:29+00:00 | [INFO	] (Core) Attempting graceful exit

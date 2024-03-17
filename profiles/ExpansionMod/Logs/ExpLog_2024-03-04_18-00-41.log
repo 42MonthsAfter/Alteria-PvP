@@ -1,0 +1,14 @@
+20:33:46.476 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: 54LAF05hoxfuQ6MiKrMlahqa7-4antpscJodvqv_q2I=
+20:34:13.078 [AI Patrol] Spawning 2 Shamans bots at <4438.594727, 15.755276, 7714.081543>
+20:38:53.484 [MissionAirdrop] An airdrop is heading towards "Cassandra" (pos=<4274.000000, 0.000000, 7597.299805> type=Random_Cassandra) with a ExpansionAirdropContainer_Basebuilding
+20:40:04.093 [AI Patrol] Spawning 2 Shamans bots at <2787.662354, 44.094467, 5920.933594>
+20:56:46.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ax7Tt8AKEfSEyy4-XVMEjmiM71IuF4dUHcqKEdRBHaE=
+20:56:46.750 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ax7Tt8AKEfSEyy4-XVMEjmiM71IuF4dUHcqKEdRBHaE=
+21:50:23.687 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: P1TKo95hbhzYgJPldounXWArU88kC-w7s_uHlA7ZewY=
+21:50:53.421 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: ND82aY1vOEWcJGuKFgR-KgmsAOM1o0OoAxTbmapNm2U=
+21:50:53.421 [Expansion Quests] - Create new quest instance for quest: 99 - Player UID: ND82aY1vOEWcJGuKFgR-KgmsAOM1o0OoAxTbmapNm2U=
+22:00:19.453 [Chat - Global]("Taco"(id=ax7Tt8AKEfSEyy4-XVMEjmiM71IuF4dUHcqKEdRBHaE=)): yo
+22:02:23.484 [MissionAirdrop] An airdrop is heading towards "Airfield" (pos=<6791.240234, 0.000000, 2116.860107> type=Random_Airfield) with a ExpansionAirdropContainer_Military
+22:04:18.835 [AI Patrol] Spawning 2 Shamans bots at <4735.098633, 38.613522, 7211.567871>
+22:16:55.476 [Chat - Global]("Taco"(id=ax7Tt8AKEfSEyy4-XVMEjmiM71IuF4dUHcqKEdRBHaE=)): you guys new to the server?
+23:26:28.492 [MissionAirdrop] An airdrop is heading towards "Ares" (pos=<2171.350098, 0.000000, 2934.139893> type=Random_Ares) with a ExpansionAirdropContainer
